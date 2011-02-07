@@ -1,4 +1,4 @@
-setlocal formatoptions+=1a
+setlocal formatoptions+=1
 setlocal noautoindent nosmartindent
 
 map <leader>fc  ggCFrom: Piotr Szotkowski <chastell@civicrm.org><esc>G?^— .<enter>C— Piotr Szotkowski<esc>
