@@ -31,11 +31,12 @@ set ttyfast
 filetype plugin indent on
 
 " mappings
-nnoremap <enter>    O<esc><down>
+let mapleader = ','
 nmap     <leader>n  :NERDTreeToggle<enter>
-nmap     <leader>r  gq}
+nmap     <leader>rr gq}
 nmap     <leader>s  :setlocal spell! spelllang=en_gb<enter>
 nnoremap /          /\v
+nnoremap <enter>    O<esc><down>
 vnoremap /          /\v
 
 " filetypes
