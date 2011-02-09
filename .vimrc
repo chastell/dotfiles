@@ -13,7 +13,7 @@ set formatprg=lovely-rufus nojoinspaces
 " GUI
 colorscheme torte
 let loaded_matchparen = 1
-set guifont=Terminus\ 9 guioptions-=T
+set guifont=Terminus\ 9 guioptions-=m guioptions-=T
 set list listchars=extends:→,precedes:←,nbsp:_,tab:»·,trail:·
 set showcmd
 set t_Co=256
