@@ -6714,3 +6714,39 @@
   tags:
   - en
   - literature
+- !ruby/struct:Signore::Signature
+  text: Patching the Scala Redis client using Git. I AM SO HIP RIGHT NOW.
+  author: William Morgan
+  tags:
+  - en
+  - tech
+  - programming
+  - Scala
+  - Redis
+  - Git
+- !ruby/struct:Signore::Signature
+  text: According to the couch repair guy, I’m the only person in 11 years that he’s
+    seen who sit in the center of the cushion.
+  author: Jon Yurek
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Trying to decide which nutbag-controlled domain I should trust my business
+    to: .ly, .co or facebook.com.'
+  author: Greg Knauss
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: <voice mode="rambo">Znałem wielu ludzi, którzy automatycznie generowali sygnaturki.
+    Żaden z nich nie żyje.</voice>
+  author: DrYoung
+  tags:
+  - pl
+  - signatures
+- !ruby/struct:Signore::Signature
+  text: For every action there is an equal and opposite government program.
+  author: Bob Wells
+  tags:
+  - en
+  - government
