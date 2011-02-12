@@ -32,11 +32,14 @@ filetype plugin indent on
 
 " mappings
 let mapleader = ','
-nmap     <leader>n  :NERDTreeToggle<enter>
-nmap     <leader>rr gq}
-nmap     <leader>s  :setlocal spell! spelllang=en_gb<enter>
+nnoremap n          nzz
+nnoremap N          Nzz
 nnoremap /          /\v
 nnoremap <enter>    O<esc><down>
+nnoremap <leader>h  :set hlsearch!<enter>
+nnoremap <leader>n  :NERDTreeToggle<enter>
+nnoremap <leader>rr gq}
+nnoremap <leader>s  :setlocal spell! spelllang=en_gb<enter>
 vnoremap /          /\v
 
 " filetypes
