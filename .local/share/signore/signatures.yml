@@ -6750,3 +6750,17 @@
   tags:
   - en
   - government
+- !ruby/struct:Signore::Signature
+  text: 90% of happiness is picking the right ethicist.
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '— Umiem już po prostu wszystko, nie jest w stanie zagiąć mnie żadne zadanie
+    na egzaminie, przerobiłem dosłownie wszystko. Wejdę jutro na salę, zobaczę pytania, po czym roześmieję się na głos i spytam prowadzącego czy tylko na tyle go stać.
+
+    — Egzamin był wczoraj.'
+  author: Orzech, Endrju
+  tags:
+  - pl
+  - university
