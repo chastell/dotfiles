@@ -25,13 +25,17 @@ set wildmode=list:longest
 set clipboard+=unnamed
 set directory=/tmp
 set hidden
+set history=1000
 set pastetoggle=<F11>
 set ttyfast
+let g:VCSCommandDeleteOnHide = 1
+let g:SuperTabCrMapping = 0
 
 filetype plugin indent on
 
 " mappings
 let mapleader = ','
+inoremap ((         ()<left>
 nnoremap n          nzz
 nnoremap N          Nzz
 nnoremap /          /\v
@@ -61,7 +65,9 @@ Bundle 'SuperTab-continued.'
 Bundle 'The-NERD-tree'
 Bundle 'bufexplorer.zip'
 Bundle 'endwise.vim'
+Bundle 'matchit.zip'
 Bundle 'repeat.vim'
+Bundle 'ruby-matchit'
 Bundle 'surround.vim'
 Bundle 'taglist.vim'
 Bundle 'vcscommand.vim'
