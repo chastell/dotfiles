@@ -11,10 +11,14 @@ set gdefault ignorecase incsearch nohlsearch smartcase
 set formatprg=lovely-rufus nojoinspaces
 
 " GUI
-colorscheme torte
+colorscheme neverland-darker
+"colorscheme torte
+"colorscheme xoria256
 let loaded_matchparen = 1
 set guifont=Terminus\ 9 guioptions-=m guioptions-=T
+set lazyredraw
 set list listchars=extends:→,precedes:←,nbsp:_,tab:»\ ,trail:·
+set scrolloff=7
 set showcmd
 set t_Co=256
 
