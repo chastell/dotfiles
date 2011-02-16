@@ -1202,7 +1202,7 @@
   - qmail
 - !ruby/struct:Signore::Signature
   text: Lads at work urge me to explain what does ‘kurwa jego w dupę zapierdolona
-    mać’ means.
+    mać’ mean.
   author: Stronger
   tags:
   - pl
@@ -6757,10 +6757,25 @@
   - religion
 - !ruby/struct:Signore::Signature
   text: ! '— Umiem już po prostu wszystko, nie jest w stanie zagiąć mnie żadne zadanie
-    na egzaminie, przerobiłem dosłownie wszystko. Wejdę jutro na salę, zobaczę pytania, po czym roześmieję się na głos i spytam prowadzącego czy tylko na tyle go stać.
+    na egzaminie, przerobiłem dosłownie wszystko. Wejdę jutro na salę, zobaczę pytania,
+    po czym roześmieję się na głos i spytam prowadzącego czy tylko na tyle go stać.
 
     — Egzamin był wczoraj.'
   author: Orzech, Endrju
   tags:
   - pl
   - university
+- !ruby/struct:Signore::Signature
+  text: Inbox 1000! …that’s a thing, right?
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - email
+- !ruby/struct:Signore::Signature
+  text: Bizarre nightmares. Killer weasels, thunder won’t strike you if you registered
+    domain in the proper TLD, rafting on litter box. I’m insane.
+  author: opi
+  tags:
+  - en
+  - dreams
