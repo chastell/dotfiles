@@ -6779,3 +6779,24 @@
   tags:
   - en
   - dreams
+- !ruby/struct:Signore::Signature
+  text: ! 'Open source error messages are awesome: Irssi: Window is immortal, if you
+    really want to close it, say /WINDOW IMMORTAL OFF'
+  author: Gregory Brown
+  tags:
+  - en
+  - tech
+  - Irssi
+- !ruby/struct:Signore::Signature
+  text: Someone’s complaining because we’ve hit their API 27,000 times in the last
+    48 hours. I’m not sure they understand computers.
+  author: Ben Bleything
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Z inboksa: „PS. Pana maile bez HTML-a wyglądają brzydko.” #mammp3wkatalogach'
+  author: DrYoung
+  tags:
+  - pl
+  - HTML
