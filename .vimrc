@@ -11,9 +11,7 @@ set gdefault ignorecase incsearch nohlsearch smartcase
 set formatprg=lovely-rufus nojoinspaces
 
 " GUI
-colorscheme neverland-darker
-"colorscheme torte
-"colorscheme xoria256
+colorscheme torte
 let loaded_matchparen = 1
 set guifont=Terminus\ 9 guioptions-=m guioptions-=T
 set lazyredraw
@@ -30,7 +28,9 @@ set clipboard+=unnamed
 set directory=/tmp
 set hidden
 set history=1000
+set nrformats=hex
 set pastetoggle=<F11>
+set splitbelow splitright
 set ttyfast
 let g:VCSCommandDeleteOnHide = 1
 let g:SuperTabCrMapping = 0
@@ -43,6 +43,7 @@ inoremap ((         ()<left>
 nnoremap n          nzz
 nnoremap N          Nzz
 nnoremap /          /\v
+nnoremap <c-l>      :nohls<enter><c-l>
 nnoremap <enter>    O<esc><down>
 nnoremap <leader>h  :set hlsearch!<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
