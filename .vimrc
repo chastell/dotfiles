@@ -40,6 +40,7 @@ filetype plugin indent on
 " mappings
 let mapleader = ','
 inoremap ((         ()<left>
+inoremap {{         {}<left>
 nnoremap n          nzz
 nnoremap N          Nzz
 nnoremap /          /\v
