@@ -4,4 +4,4 @@ let g:Tex_MultipleCompileFormats = 'dvi,pdf'
 let g:Tex_ViewRule_pdf           = 'evince'
 let g:Tex_CompileRule_pdf        = 'pdflatex -interaction=nonstopmode'
 
-setlocal formatoptions+=1a
+setlocal formatoptions+=1
