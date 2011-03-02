@@ -6841,3 +6841,59 @@
   - en
   - C
   - programming
+- !ruby/struct:Signore::Signature
+  text: Religion is something left over from the infancy of our intelligence, it will
+    fade away as we adopt reason and science as our guidelines.
+  author: Bertrand Russell
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Today I learned that 1337% of pi is 42.
+  author: Max Niederhofer
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Behind my cold dead eyes is a little boy who just wants to be loved. And behind
+    that boy is a creepy monkey wearing a giant foam cowboy hat.
+  author: Joshua Allen
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: There is a nasty rumor going around that Apple is a for-profit corporation
+    run by staunch capitalists.
+  author: John Gruber
+  tags:
+  - en
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: ! 'Apple’s Concerns (in order of importance): 1) Apple 2) Users 3) Developers
+    4) Publishers.
+
+    Stop pretending like you don’t already know this.'
+  author: Dave Wiskus
+  tags:
+  - en
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Last week I learned that developers will do absolutely anything to avoid letting
+    Unix help them. There’s got to be a profit margin there.
+  author: Ted Dziuba
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'New gmail feature: Inbox Zero. Being gradually rolled out to 160000 beta
+    testers today.'
+  author: Dezső Zoltán
+  tags:
+  - en
+  - tech
+  - Gmail
+- !ruby/struct:Signore::Signature
+  text: New reality show idea, put public service employees in comparable private
+    sector jobs and watch the shit hit the fan.
+  author: Aoife Ní Chionnaith
+  tags:
+  - en
