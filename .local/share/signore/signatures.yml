@@ -6897,3 +6897,23 @@
   author: Aoife Ní Chionnaith
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Son, have a seat and let me tell you the tragic tale of how condoms only work
+    if you put them on your penis.
+  author: Joshua Allen
+  tags:
+  - en
+  - sex
+- !ruby/struct:Signore::Signature
+  text: If there is a sin against life, it consists perhaps not so much in despairing
+    of life as in hoping for another life and in eluding the implacable grandeur of
+    this life.
+  author: Albert Camus
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Bank robi dreskod to by mógł fundować marynary bo w niedopasowanym, zmiętym
+    poliestrze państwo wyglądają na smutne roboty.
+  author: Lilarouge
+  tags:
+  - pl
