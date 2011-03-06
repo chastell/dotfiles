@@ -6916,3 +6916,119 @@
   author: Lilarouge
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Please remember that inevitably, some people will use this document and screw
+    up their systems. Don’t be one of them.
+  author: Kevin McKinley
+  source: Creating custom kernels with Debian’s kernel-package system
+  tags:
+  - en
+  - tech
+  - Debian
+  - kernel
+- !ruby/struct:Signore::Signature
+  text: ! 'reboot -n
+
+    Avoid the sync(1M) operation. This option can be used if a disk or the processor
+    is on fire.'
+  source: man reboot, Solaris 2.4
+  tags:
+  - en
+  - tech
+  - Solaris
+- !ruby/struct:Signore::Signature
+  text: The optimizer will notice this and optimize the post-increment into a pre-increment,
+    because that’s a little more efficient to execute. (You didn’t need to know that,
+    but we hoped it would cheer you up.)
+  author: Larry Wall, Tom Christiansen and Randall L. Schwartz
+  source: Programming Perl
+  tags:
+  - en
+  - tech
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: A typedef name was a complete surprise to me at this point in your program.
+  source: MPW C Compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: You can’t modify a constant, float upstream, win an argument with the IRS,
+    or satisfy this compiler.
+  source: MPW C Compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: This struct already has a perfectly good definition.
+  source: MPW C Compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: Type in (cast) must be scalar; ANSI 3.3.4; page 39, lines 10-11 (I know you
+    don’t care, I’m just trying to annoy you).
+  source: MPW C Compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: Can’t cast a void type to type void (because the ANSI spec. says so, that’s
+    why).
+  source: MPW C Compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: Call me paranoid but finding ‘/*’ inside this comment makes me suspicious.
+  source: MPW C Compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: This label is the target of a goto from outside of the block containing this
+    label AND this block has an automatic variable with an initializer AND your window
+    wasn’t wide enough to read this whole error message.
+  source: MPW C Compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: Of course, you know Ruby is a late bound language, every message sent could
+    conceivably fail to find a target, potentially resulting in an uncaught exception
+    and program termination. There’s shared state, wild orgies of mutation that disallow
+    any reasonable attempt at automated parallelization. Program proof is as oxymoronic
+    a concept as military intelligence. It’s a very messy affair of programming and
+    meta-programming and meta-meta-programming, which, for the love of Lisp, could
+    be done so simply with macros. There’s all this eager evaluation and complete
+    disregard for purity. Despite vast odds, somehow programs are written that actually
+    run.
+  author: Brian Ford
+  source: Why Use Rubinius
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Pies dostał odblaskową chustkę na szyję i się posikał, kot dostał tuńczyka
+    w galarecie i puścił pawia z wysokości parapetu. Koniec z prezentami dla zwierzątek.
+  author: Evva
+  tags:
+  - pl
+  - dogs
+  - cats
