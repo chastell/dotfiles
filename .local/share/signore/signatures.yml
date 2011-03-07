@@ -7032,3 +7032,14 @@
   - pl
   - dogs
   - cats
+- !ruby/struct:Signore::Signature
+  text: Looking for a god who won’t discriminate by creed.
+  source: Oglaf
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: It’s like Thermopylae divided by 300.
+  source: Oglaf
+  tags:
+  - en
