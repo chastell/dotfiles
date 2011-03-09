@@ -43,14 +43,12 @@ inoremap ((         ()<left>
 inoremap {{         {}<left>
 nnoremap n          nzz
 nnoremap N          Nzz
-nnoremap /          /\v
 nnoremap <c-l>      :nohls<enter><c-l>
 nnoremap <enter>    O<esc><down>
 nnoremap <leader>h  :set hlsearch!<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>rr gq}
 nnoremap <leader>s  :setlocal spell! spelllang=en_gb<enter>
-vnoremap /          /\v
 
 " filetypes
 autocmd BufRead,BufNewFile *.install set filetype=php
