@@ -7051,3 +7051,10 @@
   - en
   - tech
   - Git
+- !ruby/struct:Signore::Signature
+  text: ! 'Wernher Magnus Maximilian Freiherr von Braun: As if being a rocket scientist
+    weren’t bad ass enough.'
+  author: Marcel Molina
+  tags:
+  - en
+  - science
