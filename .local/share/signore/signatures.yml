@@ -7058,3 +7058,41 @@
   tags:
   - en
   - science
+- !ruby/struct:Signore::Signature
+  text: I don’t… I can’t… I… something… oh god. I gave my mom my iPhone and showed
+    her how to scroll down and she LICKED HER FINGER first.
+  author: Tracy King
+  tags:
+  - en
+  - iPhone
+- !ruby/struct:Signore::Signature
+  text: ! 'How to piss Tiffany off in two easy steps: ask her do something she finds
+    boring, and then don’t even give her enough time to do a good job.'
+  author: Tiffany Conroy
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Młodość jest potwornie ciężkim przypadkiem i chyba nie ma nikogo, kto by z
+    tego wyszedł bez powikłań.
+  author: Agnieszka Osiecka
+  source: Szpetni czterdziestoletni
+  tags:
+  - pl
+  - adolescence
+- !ruby/struct:Signore::Signature
+  text: The same people who cite lack of evidence for support of climate change’s
+    existence usually also believe in Noah’s fucking ark.
+  author: Eric Pope
+  tags:
+  - en
+  - climate
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Open the nearest book, go to page 47, and choose the 4th word of the 8th sentence.
+    Use this word to reflect on your time management skills.
+  author: John Martz
+  tags:
+  - en
+  - procrastination
+  - work
