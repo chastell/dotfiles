@@ -6883,7 +6883,7 @@
   - tech
   - Unix
 - !ruby/struct:Signore::Signature
-  text: ! 'New gmail feature: Inbox Zero. Being gradually rolled out to 160000 beta
+  text: ! 'New Gmail feature: Inbox Zero. Being gradually rolled out to 160000 beta
     testers today.'
   author: Dezső Zoltán
   tags:
