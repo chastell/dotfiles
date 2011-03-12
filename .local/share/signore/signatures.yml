@@ -7096,3 +7096,11 @@
   - en
   - procrastination
   - work
+- !ruby/struct:Signore::Signature
+  text: ! 'What Twitter’s doing makes perfect sense: they want to be the next Facebook.
+    But it’s disappointing: they could’ve been the next email.'
+  author: Tom Lee
+  subject: on Twitter’s new ToS
+  tags:
+  - en
+  - Twitter
