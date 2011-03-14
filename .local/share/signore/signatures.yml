@@ -7104,3 +7104,11 @@
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: My McDonald’s order was 28 and the next one was 29 and I thought, ‘Aha! Insecure
+    predictable sequence numbers.’
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - security
