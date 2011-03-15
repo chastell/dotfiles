@@ -33,7 +33,6 @@ set pastetoggle=<F11>
 set splitbelow splitright
 set ttyfast
 let g:VCSCommandDeleteOnHide = 1
-let g:SuperTabCrMapping = 0
 
 filetype plugin indent on
 
@@ -65,14 +64,16 @@ Bundle 'LaTeX-Suite-aka-Vim-LaTeX'
 Bundle 'LustyExplorer'
 Bundle 'LustyJuggler'
 Bundle 'Markdown'
-Bundle 'SuperTab-continued.'
+Bundle 'Parameter-Text-Objects'
 Bundle 'The-NERD-tree'
+Bundle 'ack.vim'
 Bundle 'bufexplorer.zip'
 Bundle 'endwise.vim'
 Bundle 'fugitive.vim'
 Bundle 'matchit.zip'
 Bundle 'repeat.vim'
 Bundle 'ruby-matchit'
+Bundle 'snipMate'
 Bundle 'surround.vim'
 Bundle 'taglist.vim'
 Bundle 'vcscommand.vim'
