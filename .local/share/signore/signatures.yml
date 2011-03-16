@@ -7112,3 +7112,16 @@
   - en
   - tech
   - security
+- !ruby/struct:Signore::Signature
+  text: ! 'A new motto for front-end web developers: We hate browsers so you won’t
+    have to.'
+  author: Martin Sutherland
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Mistyped find-awk-xargs-rm pipeline backfires killing Ted Dziuba.
+  source: Fake Hacker News
+  tags:
+  - en
+  - tech
