@@ -7125,3 +7125,14 @@
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: „Wtaj Ewa, można bez końca się spierać, czy lepszy jest żwirek zbrylający
+    się czy niezbrylający, naturalny czy syntetyczny.” Srsly?
+  author: Evva
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: orzeł zwisły
+  author: Lilarouge
+  tags:
+  - pl
