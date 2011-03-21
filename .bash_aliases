@@ -1,6 +1,6 @@
 alias alert='beep; notify-send -i /usr/share/icons/gnome/32x32/apps/gnome-terminal.png "$(alert_helper)"'
 alias alert_helper='history | tail -1 | sed -e "s/^\s*[0-9]\+\s*//" -e "s/; alert$//"'
-alias backup='offlineimap; reset; rm -fr ~/.cache ~/.local/share/Trash ~/.thumbnails; beep; rdiff-backup --print-statistics -v5 /home/chastell /media/Deep\ Thought/X301.rdiff; beep -r 3'
+alias backup='offlineimap; reset; rm -fr ~/.cache ~/.local/share/Trash ~/.thumbnails; rdiff-backup --print-statistics -v5 /home/chastell /media/Deep\ Thought/X301.rdiff; beep -r 3'
 alias clive='clive -cf best'
 alias crm-seed='mysqladmin drop -f civicrm; mysqladmin create civicrm; mysql civicrm < '
 alias diff='diff -u'
