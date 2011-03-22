@@ -7136,3 +7136,32 @@
   author: Lilarouge
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Jazz audiences applaud at the oddest moments. ‘That thing you just did where
+    you played an instrument, that was awesome!’
+  author: Avdi Grimm
+  tags:
+  - en
+  - music
+  - jazz
+- !ruby/struct:Signore::Signature
+  text: „Wyłudzał od innych użytkowników portalu numery telefonów” – no to chyba tak
+    10 lat więzienia powinien dostać.
+  author: reuptake
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: On my TV show, when I say ‘and where do we put policy?’ the audience will
+    yell ‘USERSPACE!’
+  author: Sean Q. Neakums
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Dziś znów napisał, że ma wszystko na oku. Był jedynym, który wysłał e-maila,
+    nawet w niedzielę. Crontab, przyjaciel prawdziwego schizofrenika. Odpiszę mu.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - cron
