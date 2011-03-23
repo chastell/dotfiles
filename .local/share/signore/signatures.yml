@@ -7165,3 +7165,40 @@
   - pl
   - tech
   - cron
+- !ruby/struct:Signore::Signature
+  text: It takes Google/Yahoo less time to search the web than it takes Acrobat to
+    search within a single PDF.
+  author: Philip Tellis
+  tags:
+  - en
+  - tech
+  - Adobe
+- !ruby/struct:Signore::Signature
+  text: 7 rabbits of highly defective people.
+  author: kodz
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Zostałem uznany przez ministerstwo za automat i odcięty od ich serwisu. Powód
+    = „człowiek nie jest w stanie tak szybko czytać”.
+  author: DrYoung
+  tags:
+  - pl
+  - science
+- !ruby/struct:Signore::Signature
+  text: Wired, discussing Ray Ozzie, is impressed at his ‘ability to scrawl out XML
+    code on the fly’. I remember when Wired writers were informed. As for Ray Ozzie,
+    he gave us Notes, which I’ve long thought was one of the worst pieces of software
+    ever inflicted on the world.
+  author: Tim Bray
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Mój kod popadł dziś w ciężki waddafakizm. Polewam go kawą, a rozmaryn nie
+    rozwija się.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - programming
