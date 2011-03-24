@@ -4725,15 +4725,6 @@
   - literature
   - newspapers
 - !ruby/struct:Signore::Signature
-  text: Michael Platt’s editorial on July 21, 2008 may have inadvertently left the
-    impression that General Motors in some way supported neo-Nazis. That was not the
-    intention of the line in question and the Sun greatly regrets not being more clear
-    in the story.
-  source: Calgary Sun
-  tags:
-  - en
-  - newspapers
-- !ruby/struct:Signore::Signature
   text: Our item about Slough in the last issue said the leader of the Tory group
     on the council was Cllr Diana Coad. In fact that honour currently falls to one
     Derek Cryer. ‘Lady’ Diana, who is also the party’s parliamentary candidate for
@@ -7202,3 +7193,37 @@
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘So did you brainwash him?’
+
+    ‘No, he was clean enough already.’'
+  source: Get Fuzzy
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Byłam przekonana, że Julio Iglesias to dwie osoby, Julio i Glesias, zawsze
+    się dziwiłam, czemu występuje sam.
+  author: Cashew
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: You can watch for your administrator to install the latest kernel with `watch
+    uname -r` (Just kidding.)
+  source: man 1 watch
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Teraz mały Connors dorósł i przyjdzie mu walczyć ze starymi modelami T. T
+    68030 – szybko biega, wolno myśli. T PPC – szybko myśli, ale nikt go nie kocha,
+    po kilku latach zapada na depresję i daje dupy obskurnym amigowcom. T OS4, znany
+    ze swojej niewidzialności.
+  author: opi
+  subject: o „Terminatorze 4”
+  tags:
+  - pl
+  - tech
+  - Amiga
+  - Terminator
