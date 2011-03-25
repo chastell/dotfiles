@@ -7227,3 +7227,58 @@
   - tech
   - Amiga
   - Terminator
+- !ruby/struct:Signore::Signature
+  text: ! '‘Did I understand this right? Python doesn’t allow empty sub definitions?’
+
+    ‘You can, if you like, consider “pass” to be the equivalent of the semicolon at
+    the end of the null statement. Except that you can’t have redundant null statements,
+    since that is also Wrong and Against Nature.’'
+  author: demerphq, Peter Corlett
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+- !ruby/struct:Signore::Signature
+  text: Python zealots are a funny bunch. Never trust a language where its users won’t
+    tell you that it sucks.
+  author: Peter Corlett
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+- !ruby/struct:Signore::Signature
+  text: This stare intentionally left blank.
+  author: elpanda
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: They see me codin’, they hatin’.
+  author: opi
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'kto by twierdził, że celnicy… przyjaciółmi są w potrzebie…
+
+    tego złapię na ulicy, przed kościołem go… uderzę…'
+  author: biki
+  tags:
+  - pl
+  - poetry
+  - moskaliki
+- !ruby/struct:Signore::Signature
+  text: ! '— „A little while ago, I discovered Emacs has D-Bus support now.”
+
+    — Wystarczy poczekać na D-Bus do Vima. Wtedy będziesz pisał w Emacsie i czytał
+    w Vimie.'
+  author: chastell, opi
+  tags:
+  - pl
+  - tech
+  - Vim
+  - Emacs
