@@ -7282,3 +7282,54 @@
   - tech
   - Vim
   - Emacs
+- !ruby/struct:Signore::Signature
+  text: San Francisco’s weather is like a mean, pretty, bipolar girl with a pickup
+    truck. Every time you’re ready to give up? Hey. Pickup truck.
+  author: Merlin Mann
+  tags:
+  - en
+  - San Francisco
+- !ruby/struct:Signore::Signature
+  text: When installing updates, instead of giving fuzzy, pseudo-technical messages,
+    like ‘optimizing the components for current installation’, they should quote poetry,
+    one verse per step. Good song lyrics would work, too.
+  author: Elise Huard
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Signs a web application project ‘gets it’: when you can start a dev instance
+    without requiring system configuration changes.'
+  author: MenTaLguY
+  subject: on rstat.us
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Sometimes I wonder if I’m in my right mind. Then it passes off and I’m as
+    intelligent as ever.
+  author: Samuel Beckett
+  source: Endgame
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: At this point, anyone proposing to run Windows on servers should be prepared
+    to explain what they know about servers that Google, Yahoo, and Amazon don’t.
+  author: Paul Graham
+  tags:
+  - en
+  - tech
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: Pieczone przez cztery godziny pierniki dżeopardyzują moję dietę.
+  author: kodz
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: Są rzeczy, które pasjonują mnie niczym wyższość K56Flex nad V.92.
+  author: kodz
+  tags:
+  - pl
+  - tech
+  - modems
