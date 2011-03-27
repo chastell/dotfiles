@@ -7333,3 +7333,46 @@
   - pl
   - tech
   - modems
+- !ruby/struct:Signore::Signature
+  text: Redis is becoming the new UNIX pipe between the pieces of my little web side
+    projects.
+  author: Steve Losh
+  tags:
+  - en
+  - tech
+  - programming
+  - Redis
+- !ruby/struct:Signore::Signature
+  text: There was a piece of cake in my fridge with a ‘Don’t eat me’ note on. Now
+    there’s an empty plate with a ‘I don’t take orders from cake’ note.
+  author: Myles
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: Sometimes I think British subtlety doesn’t scale.
+  author: Giles Bowkett
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You’ve got a syntax error somewhere in your code. It could be around line
+    15. Good luck finding it.
+  source: Atul’s Mini-C Compiler
+  tags:
+  - en
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: Kiedyś w Krakowie było tanio i czułem się pan warszawiak, a teraz jest drogo
+    i czuję się jak warszawiak, To zasadnicza różnica.
+  author: reuptake
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Ja zawsze z Vima wychodzę przez ctrl+alt+F5, init 1, init 4. I pamięci mam
+    więcej.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - Vim
