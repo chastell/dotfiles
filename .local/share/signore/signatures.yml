@@ -7376,3 +7376,37 @@
   - pl
   - tech
   - Vim
+- !ruby/struct:Signore::Signature
+  text: The mark of the immature man is that he wants to die nobly for a cause, while
+    the mark of a mature man is that he wants to live humbly for one.
+  author: Wilhelm Stekel
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Would it be less subtle if we replaced red, green and yellow with black,
+    white and a shade of grey?’
+
+    ‘“And this is what a necrotic port looks like”?’
+
+    ‘The arch qualification table, Halloween edition? “I heard a faint pinging, and
+    went to the firewall and what greeted my eyes? AN m68k ROSE FROM THE GRAVE!!!”’'
+  author: aj, vorlon
+  tags:
+  - en
+  - tech
+  - Amiga
+- !ruby/struct:Signore::Signature
+  text: Pelagiczny włok rozpornicowy i główne elementy jego konstrukcji. Zadudniły
+    bobiny, zagdakały pływaki, rufą biały kilwater wciąga sieć, kuźwa. Dzwońcie po
+    pomoc.
+  author: Evva
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: APL – język lepszy niż LSD pod napletek.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - APL
