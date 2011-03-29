@@ -7410,3 +7410,33 @@
   - pl
   - tech
   - APL
+- !ruby/struct:Signore::Signature
+  text: Sitting down to write 20 emails that wear down my soul. If you get one, know
+    that it’s the others that are soul wearing not the one to you.
+  author: Michael Feathers
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Backing from matz would be nice but hardly essential. “Community leaders”
+    is an illusion. Ruby has gone tribal.’
+
+    ‘Well then, bring in the British!’'
+  author: James Britt, Trans
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: „Niewielka chrzęstna wypukłość na krawędzi ucha to pozostałość po umiejętności
+    zwijania uszu przez naszych praprzodków”. YAY ME, I’d say. „W czasach prehistorycznych
+    mogła to być użyteczna umiejętność”. O, na pewno.
+  author: Cashew
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: kernel panicz
+  author: kodz
+  tags:
+  - pl
+  - tech
