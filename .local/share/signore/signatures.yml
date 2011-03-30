@@ -560,7 +560,7 @@
 - !ruby/struct:Signore::Signature
   text: Nobody came to my trombone recital. I wish there was some way to express how
     I feel right now.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
   - music
@@ -990,7 +990,7 @@
 - !ruby/struct:Signore::Signature
   text: OK don’t freak out, but someone broke into the house, ate all the ice cream,
     smashed that picture of your mother, and didn’t do the dishes.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
 - !ruby/struct:Signore::Signature
@@ -1036,7 +1036,7 @@
 - !ruby/struct:Signore::Signature
   text: My mistress came over and told my wife about us. Now they’re drinking hazelnut
     coffee and giggling. I think I can make the border by dawn.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
   - relationships
@@ -1985,7 +1985,7 @@
 - !ruby/struct:Signore::Signature
   text: Every single hooker in here better put on a seat belt or this Prius ain’t
     going to Epcot.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
   - sex
@@ -3153,7 +3153,7 @@
 - !ruby/struct:Signore::Signature
   text: Hey! What’d I say about playing in Daddy’s opium den? Yeah, I don’t remember,
     either.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
   - drugs
@@ -3538,7 +3538,7 @@
 - !ruby/struct:Signore::Signature
   text: My son said ‘I love you, sir’ for the first time. I slapped him and sent him
     away, then stood at my study window, mustache wet with tears.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
   - kids
@@ -4230,7 +4230,7 @@
 - !ruby/struct:Signore::Signature
   text: Like many Americans, I had to take a second job to put my mistress through
     high school.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
   - sex
@@ -4554,7 +4554,7 @@
 - !ruby/struct:Signore::Signature
   text: It’s so ironic you got mauled by a lion when you love cats! Did I use ‘ironic’
     wrong? Isn’t THAT ironic, ha ha! Gosh, that’s a lot of blood.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
 - !ruby/struct:Signore::Signature
@@ -4878,7 +4878,7 @@
 - !ruby/struct:Signore::Signature
   text: Hey honey, I finally found those strappy heels you lost. They were on my feet,
     at a club called Musk, giving me feelings you never could.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
   - sex
@@ -5308,7 +5308,7 @@
 - !ruby/struct:Signore::Signature
   text: It’s the little things that make life so beautiful, like when a baby steps
     on a cat and they both go fucking apeshit.
-  author: Joshua Green Allen
+  author: Joshua Allen
   tags:
   - en
 - !ruby/struct:Signore::Signature
