@@ -1114,13 +1114,6 @@
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Oh, you hate your job? Why didn’t you say so? There’s a support group for
-    that. It’s called EVERYBODY, and they meet at the bar.
-  author: George Carlin
-  tags:
-  - en
-  - work
-- !ruby/struct:Signore::Signature
   text: ! 'Przyszedł do mnie student i zapytał, cytuję: „czy na pana wykładzie nauczę
     się rzeczy, które pozwolą mi kontrolować świat z mojej piwnicy?”'
   author: DrYoung
@@ -7440,3 +7433,46 @@
   tags:
   - pl
   - tech
+- !ruby/struct:Signore::Signature
+  text: I always thought it wasn’t technically sexual harassment if you did it right,
+    but HR says I’m doing it wrong.
+  author: Joshua Allen
+  tags:
+  - en
+  - work
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! '‘+INT_MAX to LH for being pure awesome.’
+
+    ‘Back in my day, we did it the old fashioned way: LH += (unsigned int)(-1)’
+
+    ‘This reminds me of my old Fortran days, when you can overlap students coding
+    homework and look against the sun to see whether they got coding right, as everyone’s
+    work should be identical…’'
+  author: Arun Chaganty, B. Luchen, Gang Su
+  source: google-summer-of-code-students-list
+  tags:
+  - en
+  - tech
+  - programming
+  - GSoC
+  - Fortran
+- !ruby/struct:Signore::Signature
+  text: ! 'lepiej pić z butelki Kleina
+
+    niż głosować na McCaina'
+  author: szarex
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— Dlaczego nie odebrałeś telefonu jak dzwoniłam, co było ważniejszego ode
+    mnie?
+
+    — Zerg mi wchodził na maina.'
+  author: niteczka, suzuk
+  tags:
+  - pl
+  - tech
+  - WoW
+  - gaming
