@@ -7476,3 +7476,34 @@
   - tech
   - WoW
   - gaming
+- !ruby/struct:Signore::Signature
+  text: I don’t know if God exists, but it would be better for His reputation if he
+    didn’t.
+  author: Jules Renard
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I just don’t see the relative differences between most mail clients as being
+    particularly interesting, nor problematic, with the notable exception of Outlook,
+    which I fear, and Notes, which I pity.
+  author: Chris Devers
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - Outlook
+  - Notes
+- !ruby/struct:Signore::Signature
+  text: Pan z travelplanet.pl chce zaplanować ze mną moje najbliższe wakacje. Panie,
+    spieprzaj Pan!
+  author: dyziu
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'UNIX 101: „halt” zawsze wpiszesz na złej maszynie.'
+  author: opi
+  tags:
+  - pl
+  - tech
+  - Unix
