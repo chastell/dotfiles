@@ -7507,3 +7507,86 @@
   - pl
   - tech
   - Unix
+- !ruby/struct:Signore::Signature
+  text: Had a dream where Samuel L. Jackson was correcting people’s Ruby documentation.
+    I should get out more.
+  author: Steve Eley
+  tags:
+  - en
+  - tech
+  - Ruby
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Why use GitHub when you can simply publish your code like this? http://www.sanmayce.com/Fastest_Hash/
+  author: William Morgan
+  tags:
+  - en
+  - tech
+  - GitHub
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Would you believe there’s a horror film called ‘Sauna’ in Finland?
+  author: Michael Feathers
+  tags:
+  - en
+  - cinematography
+  - horror
+- !ruby/struct:Signore::Signature
+  text: Tomorrow when they ask people who they voted for it’ll probably STILL be ‘Obama’
+    51%, ‘McCain’ 42%, and ‘Don’t Know’ 7%.
+  author: Matthew Baldwin
+  subject: on November 4th, 2008
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: A lot of developers (and this is most prevalent in the Web 2.0 world) walk
+    balls-first into any given task, assuming that scalability is going to be issue
+    number one.
+  source: The Register
+  subject: on Hadoop
+  tags:
+  - en
+  - tech
+  - scalability
+  - Hadoop
+- !ruby/struct:Signore::Signature
+  text: Full-bore window-in-window MDI, coincidentally, is pretty much the worst UI
+    metaphor ever devised. It combines the worst of the overlapping and tiling window
+    metaphors but none of either’s benefits and then squares the result for good measure.
+    It is so mindbogglingly hateful that I am surprised no rift in spacetime opened
+    up to swallow the guy who came up with it along with his computer.
+  author: Aristotle Pagaltzis
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - UI
+- !ruby/struct:Signore::Signature
+  text: Są takie chwile w życiu żółwia, że ma ochotę wszystko rzucić i się oflagować.
+  author: Saddie
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Po spróbowaniu Nalewki Babuni człowiek ma wrażenie, że babunia była pancurką
+    i ostro garowała.
+  author: elpanda
+  tags:
+  - pl
+  - alcohol
+- !ruby/struct:Signore::Signature
+  text: Zobacz sobie parę rysunków Eschera. A potem wyobraź sobie, że on ci konfigurował
+    serwer.
+  author: arturcz
+  tags:
+  - pl
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Jak spotkam tego gościa, co użył 24 razy } elseif { w 7 KiB funkcji, to wydłubię
+    mu oczy i owinę w wydruk tego gówna.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - programming
