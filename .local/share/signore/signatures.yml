@@ -7590,3 +7590,58 @@
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Why should I be the one to take the kids to see their psychologist? I don’t
+    even love them!
+  author: Joshua Allen
+  tags:
+  - en
+  - children
+- !ruby/struct:Signore::Signature
+  text: I love how my Wikipedia page neglects to mention my love of skiing and focuses
+    almost exclusively on the whole kidnap/murder thing.
+  author: Joshua Allen
+  tags:
+  - en
+  - Wikipedia
+- !ruby/struct:Signore::Signature
+  text: The Linux philosophy is ‘Laugh in the face of danger’. Oops. Wrong one. ‘Do
+    it yourself’. Yes, that’s it.
+  author: Linus Torvalds
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Intelligence is the ability to avoid doing work, yet getting the work done.
+  author: Linus Torvalds
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: „Dalajlama porwał ludzi.”
+  author: Ania
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Sumienie to jest ten cichy głosik, który szepce, że ktoś patrzy.
+  author: Julian Tuwim
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! "  <gallez> uwaga uwaga, konkurs!\n  <gallez> pierwsza osoba, która wpisze
+    pięć razy „prison\n           break” dostaje w nagrodę OPA NA KANALE!\n  <gallez>
+    start!\n<mnemonic> prison break\n<mnemonic> prison break\n<mnemonic> prison break\n<mnemonic>
+    prison break\n<mnemonic> prison break\n* mnemonic was kicked by PoliceBot (flood)\n
+    \  <m4st4> owned\n  <gallez> co za debil\n  <gallez> przecież on już ma opa"
+  tags:
+  - pl
+  - tech
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: Wiesz, czasem zdaje mi się, że prócz klientów tylko crontab do mnie pisze.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - cron
