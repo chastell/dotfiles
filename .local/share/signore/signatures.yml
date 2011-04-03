@@ -7645,3 +7645,73 @@
   - pl
   - tech
   - cron
+- !ruby/struct:Signore::Signature
+  text: ! '‘Being paid to work is intuitive to the human condition; it represents
+    our most elemental sense of justice.’
+
+    The only correct thing in that sentence is his use of the semicolon.'
+  author: Karl Fogel
+  subject: on Andrew Keen’s ‘Economy to Give Open-Source a Good Thumping’
+  tags:
+  - en
+  - work
+  - open source
+- !ruby/struct:Signore::Signature
+  text: I tricked my son into eating a corn dog by calling it a lollipop. Parenting
+    is essentially just a series of lateral thinking puzzles.
+  author: Matthew Baldwin
+  tags:
+  - en
+  - children
+- !ruby/struct:Signore::Signature
+  text: ! 'The reason I don’t use GNOME: every single other window manager I know
+    of is very powerfully extensible, where you can switch actions to different mouse
+    buttons. Guess which one is not, because it might confuse the poor users? Here’s
+    a hint: it’s not the small and fast one.'
+  author: Linus Torvalds
+  tags:
+  - en
+  - tech
+  - GNOME
+- !ruby/struct:Signore::Signature
+  text: Unix-to-Unix Copy Program. You will never find a more wretched hive of bugs
+    and flamers. We must be cautious.
+  author: PDP-1 Kenobi
+  source: DEC Wars
+  tags:
+  - en
+  - tech
+  - Unix
+  - UUCP
+- !ruby/struct:Signore::Signature
+  text: Od godziny drzemię. Od godziny sąsiad nieśmiało, cichutko i powolutku bawi
+    się swoją wiertareczką.
+  author: kya
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Gdyby zobaczyły mnie teraz zombie, to uciekłyby zabijając się o własne, odpadające
+    im, nogi.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— A może Biały Flejm – panie proszą panów?
+
+    — Panie się nie nadają, bo zazwyczaj coś merytorycznie starają się dodać.'
+  author: Cezary G. Cerekwicki i Michał Gancarski
+  source: pl.pregierz
+  tags:
+  - pl
+  - gender
+- !ruby/struct:Signore::Signature
+  text: Ten klient pocztowy jest martwy! Nie, on tylko śpi! Dlaczego jest przybity
+    do taskbara? Żeby nie spadł! Halllllo! Halllllo! Evo! Wstawaj, ptaszku. *jeb*
+    *jeb* This, my good lad, is what I call a dead MUA.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - email
+  - Evolution
+  - Monty Python
