@@ -7715,3 +7715,63 @@
   - email
   - Evolution
   - Monty Python
+- !ruby/struct:Signore::Signature
+  text: These T-Shirts were tested on animals. They didn’t fit.
+  source: TopGear’s tab
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Gepard Depardieu.
+  author: Suler
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: In 1984 mainstream users were choosing VMS over UNIX. Ten years later they
+    are choosing Windows over UNIX. What part of that message aren’t you getting?
+  author: Tom Payne
+  tags:
+  - en
+  - tech
+  - Unix
+  - VMS
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: Most Non-Unix managers conclude that vi is either extraterrestrial in origin
+    or was devised by the original Unix developers as part of a secret communication
+    code to reach another dimension.
+  source: Communications Week
+  tags:
+  - en
+  - tech
+  - Vi
+- !ruby/struct:Signore::Signature
+  text: ! 'Trzeba się było trzymać pierwotnego planu: zostać w macicy.'
+  author: elpanda
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Dzień w pracy rozpocząłem od wyjebania laptopa na podłogę. Potem to już reszta
+    jakoś sama zleci.
+  author: elpanda
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'E492: Nie jest komendą edytora: cccccccccccccccccccfvvvv
+
+    no właśnie'
+  author: opi
+  tags:
+  - pl
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: PLD reklamuje się jako „największa dystrybucja zbudowana z RPM”; to tak, jakby
+    reklamować się „w naszej knajpie jest najwięcej rozbitych butelek”.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - Linux
+  - PLD
+  - RPM
