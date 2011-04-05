@@ -5734,13 +5734,6 @@
   - tech
   - CiviCRM
 - !ruby/struct:Signore::Signature
-  text: ! 'Protip: benchmarking the actual web request instead of the 404 page really
-    helps.'
-  author: Patrick Huesler
-  tags:
-  - en
-  - tech
-- !ruby/struct:Signore::Signature
   text: ! '‘I just discovered a brand new, tags-still-on jacket in my wardrobe. I
     like it. It fits me perfectly. I have no memory of it. Mystified.’
 
@@ -7775,3 +7768,117 @@
   - Linux
   - PLD
   - RPM
+- !ruby/struct:Signore::Signature
+  text: księżniczka na ziarnku fochu
+  author: karola
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: W pytaniu „czy odczuwa Pan przynależność także do innego narodu bądź grupy
+    etnicznej” niepokoi mnie nieco kategoryczność partykuły „także”.
+  author: czerski
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: The root of all superstition is that men observe when a thing hits, but not
+    when it misses.
+  author: Francis Bacon
+  tags:
+  - en
+  - philosophy
+  - religion
+- !ruby/struct:Signore::Signature
+  text: My boss asked where I was. ‘I’I'm boycotting Mondays.’ The idea spread. People
+    stayed home. Now we hated Tuesday.
+  source: Very Short Story
+  tags:
+  - en
+  - work
+  - Monday
+- !ruby/struct:Signore::Signature
+  text: It’s a bit like golf, but only a little bit.
+  source: Oglaf
+  tags:
+  - en
+  - golf
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Well actually the difference between Helvetica and Arial is pretty glaring
+    if you oh my god this is why I haven’t had sex in twenty months.
+  author: Joshua Allen
+  tags:
+  - en
+  - typography
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! '‘If this is a medical emergency, hang up and dial 911 (or, its Aussie equivalent).’
+
+    ‘That’d be 119.’
+
+    ‘611, actually. We’re upside down, not backwards.’
+
+    ‘For a rotating frame of reference, to say that it is “upside down” is to say
+    it is backwards.’
+
+    ‘I believe that’s actually ti.’'
+  author: Bob Bernstein, James Morris, Matthew Palmer, Peter Lowe
+  source: linux-elitists
+  tags:
+  - en
+  - geography
+  - Australia
+- !ruby/struct:Signore::Signature
+  text: It used to be said that AIX looks like one space alien discovered Unix, and
+    described it to another different space alien who then implemented AIX. But their
+    universal translators were broken and they’d had to gesture a lot.
+  author: Paul Tomblin
+  tags:
+  - en
+  - tech
+  - AIX
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: As in certain cults it is possible to kill a process if you know its true
+    name.
+  author: Ken Thompson, Dennis M. Ritchie
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! '— Zaraz odwiozą mnie do Tworek.
+
+    — Już szykuję imprezę powitalną i czekam aż dojedzie reszta.
+
+    — Powiedz Napoleonowi żeby nie otwierał butelki póki mnie nie dowiozą. A Jezus
+    ma zdjąć moje kapcie, wiem, że w nich chodzi.'
+  author: opi, Filip Tepper
+  tags:
+  - pl
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Mam taką zupkę japońską, że umiem odczytać jedynie ile wody dolać.
+  author: reuptake
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: Crontab pisze do mnie wiele razy dziennie. Zwykle wysyła mi długie i nudne
+    listy o tym co gdzie poukładał, kogo widział w porcie pod numerem 80, że kolega
+    Postgres nadal nie doszedł do siebie po awarii i nie można się z nim dogadać.
+    Crontab jest realistą, jest przewidywalny. Czasem myślę, że mam schizofrenię i
+    ja sam jestem Crontabem.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - cron
+- !ruby/struct:Signore::Signature
+  text: Jak byliśmy mali, to strugaliśmy klasy z badyli i byliśmy szczęśliwi. Nie
+    mieliśmy jedynek; tak długo napierdalaliśmy zera, aż się spłaszczyły.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - programming
