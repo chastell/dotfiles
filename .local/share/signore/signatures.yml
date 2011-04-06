@@ -7882,3 +7882,85 @@
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Another day of those who don’t know what the fuck they’re doing getting in
+    the way of those that fucking do.
+  author: Filip Tepper
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: You never hear in the news, ‘two hundred killed today when atheist rebels
+    took heavy shelling from the agnostic stronghold in the north’.
+  author: Doug Stanhope
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: You’re only as young as the last time you changed your mind.
+  author: Timothy Leary
+  tags:
+  - en
+  - philosophy
+- !ruby/struct:Signore::Signature
+  text: Sorry, sweetheart, but we can’t afford braces AND daddy’s girlfriend’s implants.
+    It’s a tough world your mother brought you into.
+  author: Joshua Allen
+  tags:
+  - en
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! 'beta test, v: To voluntarily entrust one’s data, one’s livelihood and one’s
+    sanity to hardware or software intended to destroy all three.'
+  author: Luna the Cat
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Praising companies for providing APIs to get your own data out is like praising
+    auto companies for not filling your airbags with gravel. I’m not saying data export
+    isn’t important, it’s just aiming kinda low. You mean when I give you data, you’ll…
+    give it back to me? People who think this is the pinnacle of freedom aren’t really
+    worth listening to.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - API
+- !ruby/struct:Signore::Signature
+  text: Nikt nie zwrócił mi uwagi, że przesłany miesiąc temu raport zawierał tylko
+    komunikat błędu z bazy danych. Czyżby nikt ich nie czytał? Nie może być…
+  author: Zuzanka
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Sformułowanie „do zadań zespołu należą wewnętrzne testy penetracyjne” budzi
+    mój niepokój.
+  author: Zuzanka
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '— Należy wyznaczyć maskę podsieci dla sieci w której istnieje komputer
+    o IP 156.17.42.99 – a adres rozgłaszania to 156.17.42.111. Ja twierdzę, że będzie
+    to 255.255.255.240, ale kolega twierdzi uparcie, że 255.255.255.240.
+
+    — Bukmacherzy powinni opatentować wasz pomysł na zakłady wzajemne.'
+  author: kf, Kajetan
+  source: pl.comp.sieci
+  tags:
+  - pl
+  - tech
+  - networking
+- !ruby/struct:Signore::Signature
+  text: ! '— Mamo, mamo! Co to jest upośledzenie umysłowe?
+
+    — To jest wtedy — odpowiada mama — kiedy siedem razy zaznaczasz jeden kawałek
+    kodu, odznaczasz, zastanawiasz się czemu odznaczyłeś, zaznaczasz, zastanawiasz
+    się po co zaznaczyłeś, więc odznaczasz.'
+  author: opi
+  tags:
+  - pl
+  - tech
+  - programming
