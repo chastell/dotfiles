@@ -7964,3 +7964,82 @@
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Today should’ve been a deleted scene. Self-indulgent, cliché, didn’t advance
+    the plot at all, and no nudity. For completists only.
+  author: Joshua Allen
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You ever feel kinda lazy and call in sick and not shower or shave or talk
+    to anyone or accomplish anything for like 6-8 years? High five.
+  author: Joshua Allen
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Boot XP under Parallels on the Mac and it says, ‘Your computer may be at risk’.
+    No shit.
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: It’s one of those rare ‘perfect’ kernels. So if it doesn’t happen to compile
+    with your config (or it does compile, but then does unspeakable acts of perversion
+    with your pet dachshund), you can rest easy knowing that it’s all your own damn
+    fault, and you should just fix your evil ways.
+  author: Linus Torvalds
+  subject: on Linux 2.6.19
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: I like colorized diffs, but let’s face it, those particular color choices
+    will make most people decide to pick out their eyes with a fondue fork. And that’s
+    not good. Digging in your eye-sockets with a fondue fork is strictly considered
+    to be bad for your health, and seven out of nine optometrists are dead set against
+    the practice. So in order to avoid a lot of blind Git users, please apply this
+    patch.
+  author: Linus Torvalds
+  source: Git list
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: Dobra, dałam szansę temu jazzu, niestety nadal się nie pokochaliśmy. To nie
+    do końca moja estetyka, kiedy każdy muzyk napierdala we własny instrument – napierdala
+    jest tutaj słowem kluczowym. A gdzie melodia, ja się pytam? Herbie Hancock fail.
+    Oraz dobra rada dla Areny – serio możecie wymienić już te trzydziestoletnie drewniane
+    krzesełka. Pamiętam je jeszcze z grudniowych spotkań Smoleń dzieciom – a było
+    to na początku lat osiemdziesiątych. Ubiegłego kurwa stulecia.
+  author: Cashew
+  tags:
+  - pl
+  - music
+  - jazz
+- !ruby/struct:Signore::Signature
+  text: — PiS jeszcze nie skończyło bojkotu TVN, ale jesteśmy tego bliscy — odpowiedziała
+    Kluzik-Rostkowska, pytana przez „ND” o bojkot tuż po zakończeniu przez nią rozmowy
+    z reporterem TVN 24.
+  source: Onet.pl
+  tags:
+  - pl
+  - politics
+  - PiS
+- !ruby/struct:Signore::Signature
+  text: Wsadziłem czincz do portu szeregowego i już wiem, skąd wzięło się techno.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - techno
+- !ruby/struct:Signore::Signature
+  text: Podobno w Perlu jedyną regułą jest to żeby literki nie zachodziły na siebie.
+  author: frag4
+  tags:
+  - pl
+  - programming
+  - Perl
