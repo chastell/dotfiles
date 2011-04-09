@@ -8043,3 +8043,64 @@
   - pl
   - programming
   - Perl
+- !ruby/struct:Signore::Signature
+  text: I’m eating McDonald’s yogurt in my basement and I’m not sure where to even
+    BEGIN putting the quotation marks in this sentence.
+  author: Joshua Allen
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: There are two things to aim at in life; first to get what you want, and after
+    that to enjoy it. Only the wisest of mankind achieve the second.
+  author: Logan Pearsall Smith
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A lot of people still like Solaris, but I’m in active competition with them,
+    and so I hope they die.
+  author: Linus Torvalds
+  tags:
+  - en
+  - tech
+  - Solaris
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: ‘Regression testing’? What’s that? If it compiles, it is good, if it boots
+    up it is perfect.
+  author: Linus Torvalds
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: ! 'Idę se dziś na uczelnię, jak zwykle skrótem wydeptanym w trawie przez studentów.
+    Patrzę, a tu za krzakami, przy chodniku radiowóz i na mój widok uchyla się szyba.
+    Policjant do mnie: „co jest do spacerowania po mieście?” No to ja, wiedząc że
+    źle zrobiłem, wiedziałem że chodzi o chodnik, ale chciałem zażartować i mówię:
+    „deptak?” Na to on zaczął sobie coś pisać i mówi do drugiego: „patrz, pasuje –
+    mówiłem ci że to nie chodnik!”'
+  author: piotrek
+  tags:
+  - pl
+  - police
+- !ruby/struct:Signore::Signature
+  text: Boska dała mi tak seksowną bluzkę, że nie mogę przebywać ze sobą w jednym
+    pomieszczeniu, taka między nami chemia.
+  author: kya
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Wymyśliłem nową stałą matematyczną. Nazywa się ęć i wynosi w przybliżeniu
+    1,8584073464102… I za cholerę nie wiem, do czego się może przydać, ale spełnia
+    przynajmniej równanie: pi + ęć = 5'
+  author: pietshaq
+  tags:
+  - pl
+  - math
+- !ruby/struct:Signore::Signature
+  text: Wiesz, krąży legenda, że po pewnym czasie dziewczynka z porem się męczy i
+    go odkłada na stół.
+  author: Mra
+  tags:
+  - pl
