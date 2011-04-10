@@ -8104,3 +8104,145 @@
   author: Mra
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I’ve been using the phrase ‘yak polishing’ lately. It’s for after you’ve been
+    yak shaving and it’s still not done, so they need polishing.
+  author: Zed Shaw
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: ‘US budget is like Oregon Trail. Spend all your $ on ammunition; wonder why
+    your wagon is falling apart and everyone is dying of dysentery.’
+  author: Fred Benenson
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Today has been admirably proactive in regards to sucking.
+  author: Matthew Baldwin
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s easy to come up with new product ideas if you start with the understanding
+    that everything sucks.
+  author: Steve Yegge
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Really, I’m not out to destroy Microsoft. That will just be a completely unintentional
+    side effect.
+  author: Linus Torvalds
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: ! 'In short: just say NO TO DRUGS, and maybe you won’t end up like the Hurd
+    people.'
+  author: Linus Torvalds
+  tags:
+  - en
+  - tech
+  - Hurd
+- !ruby/struct:Signore::Signature
+  text: — Nowa świadomość — wydukał Leopold starając się skoncentrować wzrok na nadzwyczaj
+    roztańczonym tego wieczoru ekranie telefonu. — Wyślij. Zapisz. Usuń. Dodaj odbiorcę.
+    Fiufiufiu…
+  source: siliprodżekt
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Z wykształcenia jestem socjopatą.
+  author: dyziu
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Microsoft nie będzie przygotowywać nowych poprawek, także tych zagrażających
+    bezpieczeństwu systemu.
+
+    — Ja tam się nie znam, ale to chyba dobra wiadomość dla użytkowników?'
+  author: sipth, Jarek Spirydowicz
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - Microsoft
+- !ruby/struct:Signore::Signature
+  text: ! '— mBank co prawda wcześniej w Operze działał, ale obecnie już też nie…
+
+    — A co nie działa? Bo teraz na szybko sprawdziłem i jest ok.
+
+    — No przelewy nie przychodzą…'
+  author: Jarek P., |<onrad, Tom N
+  source: pl.pregierz
+  tags:
+  - pl
+  - tech
+  - mBank
+  - Opera
+- !ruby/struct:Signore::Signature
+  text: We always used to joke about a product so simple that it only had one button,
+    which we pressed for you before it left the factory.
+  author: Steve Yegge
+  tags:
+  - en
+  - iPhone
+- !ruby/struct:Signore::Signature
+  text: I can’t understand why a person will take a year to write a novel when he
+    can easily buy one for a few dollars.
+  author: Fred Allen
+  tags:
+  - en
+  - literature
+- !ruby/struct:Signore::Signature
+  text: I’m doing a (free) operating system (just a hobby, won’t be big and professional
+    like GNU) for 386(486) AT clones.
+  author: Linus Torvalds
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: ruby1.8 -le '64.times{|y|print" "*(63-y),(0..y).map{|x|~y&x>0?" .":" A"}}'
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - math
+- !ruby/struct:Signore::Signature
+  text: Własny żołądek wbił mi nóż w plecy.
+  author: Saddie
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: Muzo, natchniuzo, więcej czadu, maleńka!
+  author: Lilarouge
+  tags:
+  - pl
+  - creativity
+- !ruby/struct:Signore::Signature
+  text: Ktoś mi kawał zrobił i pomieszał nr GG z innymi nazwami, żartowniś… Kapnąłem
+    się dopiero jak kolega ze statusem matki wszedł, ale zdążyłem się już umówić z
+    ojcem na jaranie…
+  author: szczuczyniak
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Za każdym razem jak słyszę systemowy dźwięk Windows XP, wyobrażam sobie,
+    jak go nagrywali. Najpierw: plakaty w całym mieście – „Podłączenie urządzenia
+    USB, dyrygent – Iksiński, Filharmonia Łódzka”. Potem schodzi się tłum ludzi. Pełna
+    widownia, przychodzi orkiestra.
+
+    ./'' du-ding ./''
+
+    Orkiestra się pakuje, widownia wychodzi.'
+  author: ikari
+  tags:
+  - pl
+  - tech
+  - music
+  - Windows
