@@ -8246,3 +8246,83 @@
   - tech
   - music
   - Windows
+- !ruby/struct:Signore::Signature
+  text: ! '‘You may be interested in this: http://www.programmingforums.org/thread15823.html
+    which shows Excel solving Dijkstra’s Algorithm.’
+
+    ‘You could also manage your home budgeting in Brainfuck, but that doesn’t make
+    Brainfuck a spreadsheet any more than it makes Excel a language.’'
+  author: Mike Stephens, Chad Perrin
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - programming
+  - Excel
+  - Brainfuck
+- !ruby/struct:Signore::Signature
+  text: ! '‘You thought “Green Eggs and Ham” was an article on the Chernobyl disaster…’
+
+    ‘It was written by a doctor, Robert!’'
+  author: Robert, Bucky
+  source: Get Fuzzy
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Start every day off with a smile and get it over with.
+  author: W. C. Fields
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: …the slave cannot out-live its parent and become a zombie, even if the parent
+    dies an early death.
+  source: Slave documentation
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'To find the best path ’tween two nodes,
+
+    which are linked by a network of roads
+
+    Dijkstra succeeds,
+
+    but if all that one needs
+
+    is Floyd-Warshall then that’s what one codes.'
+  tags:
+  - en
+  - tech
+  - programming
+  - algorithms
+- !ruby/struct:Signore::Signature
+  text: ! 'Jednak to prawda – wbiłem dziś miedzaną blaszkę i stalowy pręcik do cytryny:
+    0,4 V. Połączyłem 5 cytryn szeregowo i zasiliły mi LED-a.'
+  author: KaroleQ
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Stoję sobie dzisiaj z kolegą na przystanku i nagle podchodzi do nas dwóch
+    niewidomych kolesi i nas proszą o sprawdzenie kiedy odjeżdża najbliższy autobus.
+    No to my tam im ładnie mówimy itp. i oni nagle się nas pytają czy tutaj w Bydgoszczy
+    można palić na przystankach. No to my do nich no że raczej nie, a na to jeden
+    z nich do drugiego „a czy ty widzisz w ogóle jakiś przystanek?” i obaj w śmiech.
+  author: Nat
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Zrobiłem `chmod -x chmod` – wie ktoś, jak to naprawić?
+  author: pamelus
+  tags:
+  - pl
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: Jak ja tego nie lubię – puszczam kompilację kernela, wychodzę z pokoju, wracam
+    po kwadransie, patrzę, a babcia w pasjansa gra.
+  author: Plushy
+  tags:
+  - pl
+  - tech
+  - Linux
