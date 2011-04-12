@@ -8326,3 +8326,82 @@
   - pl
   - tech
   - Linux
+- !ruby/struct:Signore::Signature
+  text: ! 'A dozen, a gross, and a score
+
+    Plus three times the square root of four
+
+    divided by seven
+
+    plus five times eleven
+
+    is nine squared, and not a bit more'
+  tags:
+  - en
+  - poetry
+  - math
+- !ruby/struct:Signore::Signature
+  text: ! 'Man reciting gospel on a train: And you, sir, have you accepted Jesus into
+    your life?
+
+    Passenger: A long time ago, baby. Now fuck off.'
+  source: Overheard in New York
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: MVC applies to the Web about as well as RPC does.
+  author: Bill de hOra
+  tags:
+  - en
+  - tech
+  - webdevelopment
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Doing linear scans over an associative array is like trying to club someone
+    to death with a loaded Uzi.
+  author: Larry Wall
+  tags:
+  - en
+  - tech
+  - programming
+  - algorithms
+- !ruby/struct:Signore::Signature
+  text: ! '— BTW: nie masz w domu na zbyciu takich pudełeczek na CD/DVD typu „cake”
+    (z patykiem w środku, co sie na niego płytki nakłada)?
+
+    — Niech zgadnę, chcesz zrobić obiektyw typu tilt/shift?
+
+    — Nie, pudełka na płyty potrzebuję.'
+  author: Desmond, Thrackan
+  tags:
+  - pl
+  - photography
+- !ruby/struct:Signore::Signature
+  text: O kurwa. Będzie ciężko. Emil bierze się za wódkę. Przestał pić 10 lat temu,
+    gdy po wielogodzinnej utracie świadomości przeczytał w gazecie o masakrze piłą
+    spalinową 30 metrów od jego bloku. Piły do tej pory nie odnaleziono.
+  author: offtza
+  tags:
+  - pl
+  - alcohol
+- !ruby/struct:Signore::Signature
+  text: Mam takie lagi że jak wpisałem w Google "prezydent RP" to mi pokazało LECH
+    WAŁĘSA.
+  author: Tolek_Banan
+  tags:
+  - pl
+  - tech
+  - networks
+  - Google
+- !ruby/struct:Signore::Signature
+  text: ! '— A to w takim razie nie ma problemu, bo IBM już notebooków nie robi.
+
+    — Lenovo robi. Póki co to jeden pies.
+
+    — To musi szybko łapami przebierać.'
+  author: Bart Ogryczak, Tomek Jarzynka, Piotr Kucharski
+  source: pl.pregierz
+  tags:
+  - pl
+  - tech
