@@ -9861,3 +9861,72 @@
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Biorąc pod uwagę, jak zajebiste jest moje samozaparcie, postanowiłem zmienić
+    jedno słowo w swoim prywatnym słowniku: od dzisiaj nie będę mówił „zaplanowałem
+    sobie”, będę mówił „zażartowałem sobie”. Np. „zażartowałem sobie, że jutro posprzątam
+    mieszkanie”. Myślę, że będzie mi się żyło łatwiej i weselej.'
+  author: mizia
+  tags:
+  - pl
+  - procrastination
+- !ruby/struct:Signore::Signature
+  text: ! 'Want to fall in love with PostgreSQL by reading just one page of the documentation?
+    Easy: http://www.postgresql.org/docs/9.0/interactive/datatype.html'
+  author: James Edward Gray II
+  tags:
+  - en
+  - tech
+  - PostgreSQL
+- !ruby/struct:Signore::Signature
+  text: ☑ Saddam Hussein ☑ Osama Bin Laden ☐ Internet Explorer.
+  author: Filip Tepper
+  tags:
+  - en
+  - tech
+  - Internet Explorer
+- !ruby/struct:Signore::Signature
+  text: We used to think that if we knew one, we knew two, because one and one are
+    two. We are finding that we must learn a great deal more about ‘and’.
+  author: Sir Arthur Eddington
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The word morality, if we met it in the Bible, would surprise us as much as
+    the word telephone or motor car.
+  author: George Bernard Shaw
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: If Usenet is anarchy, IRC is a paranoid schizophrenic after six days on speed.
+  author: Chris Saunderson
+  tags:
+  - en
+  - tech
+  - IRC
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: The people inovlved in the crypto debate are all intelligent, honorable and
+    pro-escrow, but they never possess more than two of these qualities at once.
+  author: Neil Cukier
+  tags:
+  - en
+  - tech
+  - cryptography
+- !ruby/struct:Signore::Signature
+  text: Dobra, nadziewam waciak, serdak i siadam do tokarki. A, jeszcze onuce poprawię
+    w gumofilcach i ćwiarkę sieknę na rozruch.
+  author: kodz
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Muszę sobie chyba jakiś podręcznik do OS X sprawić, bo co chwila odkrywam
+    jakieś nowe ficzery dzięki przypadkowo klikniętym zestawom klawirów. Chopin ze
+    mnie.
+  author: Suler
+  tags:
+  - pl
+  - tech
+  - Mac OS X
