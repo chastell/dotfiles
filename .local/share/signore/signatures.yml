@@ -9061,3 +9061,80 @@
   tags:
   - pl
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! '7:04: Check-in from bathroom. 7:38: Check-in from café. 8:15: Check-in
+    from bus stop. (Mayor!) 8:35: Bitch about Apple tracking my location.'
+  author: Mike Monteiro
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: This is just a test. If this was an actual sig, you would have been mildly
+    amused.
+  tags:
+  - en
+  - signatures
+- !ruby/struct:Signore::Signature
+  text: This is not a sig. It may look like a sig, but trust me, it’s not.
+  tags:
+  - en
+  - signatures
+- !ruby/struct:Signore::Signature
+  text: And of course we’ve already been round and round on the exact same issue,
+    except with editors instead of operating systems. There are GUI lovers who like
+    blinking lights and widgets and that heady feeling of massive productivity that
+    you get when you realize that you have literally *hundreds* of tabs open, and
+    you can click on *any of them* whenever you feel like it. It’s a real rush.
+  author: Steve Yegge
+  source: Duck Season
+  tags:
+  - en
+  - tech
+  - GUI
+  - productivity
+- !ruby/struct:Signore::Signature
+  text: I’m not going to try to sell you on Lisp. It can’t be done. You have to find
+    it yourself, and when you do, many of your friends will become rather… distant,
+    as if you’d inexplicably stopped bathing.
+  author: Steve Yegge
+  source: Tin Foil Hats and Rubber Ducks
+  tags:
+  - en
+  - tech
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: Gdybym dziś wmieszał się w tłum zombie to wybraliby mnie na lidera.
+  author: opi
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: O, królicza bimbo na głównej stronie o2 ilustruje artykuł „jak nie wychować
+    córki na dziwkę”. Dobrze, że mam syna, bo gramy razem…
+  author: Lilarouge
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Nam wykładowca opowiadał o koledze ze studiów – rzecz miała miejsce gdy podstawowym
+    nośnikiem pamięci była taśma perforowana – studenci mieli dostęp do dziurkarki
+    taśm raz w tygodniu przez pół godziny. Koleś musiał „wydziurkować” jakiś program,
+    ponieważ nie mógł się do dziurkarki dopchać to dorwał skądś taśmę „wydziurkowaną”
+    na maxa, następnie pozaklejał niepotrzebne dziurki. Program działał.
+  author: Mariusz Wołek
+  source: pl.comp.os.unix
+  tags:
+  - pl
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '— Jak napsiac taki porgram ktory w tsekscie odcyta wyrzazy i zamianie w
+    nich srodkwe litry a zostwai te po bokach: na pzrykald: kura -> krua kotlet ->
+    ktoelt
+
+    — Nie potrzebujesz takiego programu.'
+  author: monikack14, Tomasz Minkiewicz
+  source: pl.comp.lang.pascal
+  tags:
+  - pl
+  - programming
