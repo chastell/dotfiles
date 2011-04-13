@@ -10097,3 +10097,52 @@
   author: Cashew
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: There are few things more disturbing than to find, in somebody we detest,
+    a moral quality which seems to us demonstrably superior to anything we ourselves
+    possess. It augurs not merely an unfairness on the part of creation, but a lack
+    of artistic judgment. Sainthood is acceptable only in saints.
+  author: Pamela Hansford Johnson
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I don’t have a drinking problem ’cept when I can’t get a drink.
+  author: Tom Waits
+  source: Bad Liver and a Broken Heart
+  tags:
+  - en
+  - alcohol
+  - lyrics
+- !ruby/struct:Signore::Signature
+  text: My hatred of C++ makes my dislike for Perl seem like a warm and friendly glow
+    by comparison.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: ! 'Enlightenment strikes. Englightenment misses.
+
+    Enlightenment strikes. Englightenment hits. --more--
+
+    Your system dies.'
+  author: Paul Tomblin
+  source: asr
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Mistrz świata w nieprzejmowaniu się. Srebrny medalista Olimpiady Cyników.
+    Kulturalny aż do wyrzygania.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Nie mam co na siebie włożyć, czuję się atrakcyjna jak Bożena Dykiel i generalne
+    wewnętrzne i zewnętrzne fuj.
+  author: Cashew
+  tags:
+  - pl
