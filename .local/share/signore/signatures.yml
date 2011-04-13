@@ -8829,3 +8829,74 @@
   tags:
   - pl
   - math
+- !ruby/struct:Signore::Signature
+  text: Skurwysyny z Poczty Polskiej dostarczyły mi pustą, rozerwaną kopertę. Na osłodę
+    zostaje mi fakt, że był w niej pendrive, którego autorun.inf kasuje dysk twardy.
+  author: DrYoung
+  tags:
+  - pl
+  - post
+- !ruby/struct:Signore::Signature
+  text: ! 'The Cat in the Hat is 61 excruciating pages long. #DaddyDrinksBecauseYouCry'
+  author: Ted Dziuba
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: He who says he will die for a cause will probably lie for it and may kill
+    for it.
+  author: John McCarthy
+  tags:
+  - en
+  - ideology
+- !ruby/struct:Signore::Signature
+  text: An atheist doesn’t have to be someone who thinks he has a proof that there
+    can’t be a god. He only has to be someone who believes that the evidence on the
+    God question is at a similar level to the evidence on the werewolf question.
+  author: John McCarthy
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Hell is other people’s code.
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'A monk once asked ruby-talk: Which programming language is faster – Ruby
+    or Java? ruby-talk said: MOV.'
+  author: I. P.
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Markiz de Sade wybrałby PKP.
+  author: opi
+  tags:
+  - pl
+  - PKP
+- !ruby/struct:Signore::Signature
+  text: Czerwone morale, czerwone niczym wino.
+  author: kodz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: O, jakiś chuj w bloku Linuksa ma. A nie, to ja.
+  author: LaNdScAp3
+  tags:
+  - pl
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Wiem, vi jest najlepszy, ale wymyślili już edytory w których żeby coś napisać
+    starczy po prostu to wstukać na klawiaturze.
+  author: Barszczu
+  tags:
+  - pl
+  - tech
+  - Vi
