@@ -9289,3 +9289,69 @@
   tags:
   - pl
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘When life throws you lemons…’
+
+    ‘…you throw it back?’
+
+    ‘You make a movie about the global warming and win the Nobel Prize.’'
+  author: Charles A. Lopez, Rajeev J Sebastian, Mark K. Kim
+  source: gsoc-discuss
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I’m altering the sombrero. Pray I don’t alter it further.
+  author: Giles Bowkett
+  tags:
+  - en
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: You can tell when you’re working with ‘Enterprise Software Solutions’ because
+    the vendor freebies are red T-shirts.
+  author: Anthony de Boer
+  tags:
+  - en
+  - tech
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: I spy with my little eye something beginning with ([a-zA-Z0-9].*)
+  author: asmodai
+  tags:
+  - en
+  - tech
+  - regexp
+- !ruby/struct:Signore::Signature
+  text: …natomiast we Wrocławiu na szpitalu psychiatrycznym ktoś napisał „jak szaleć
+    to szaleć”.
+  author: letiud
+  tags:
+  - pl
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: „Jestem dorosłą, świadomą swoich potrzeb Europejką i (wpisz tekst) nie jest
+    dla mnie problemem” – taka nowa mantra.
+  author: Lilarouge
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Kwintesencją makjuzerstwa jest zużywanie sześciu jajek do ciasta w którym
+    potrzeba trzech białek i trzech żółtek.
+  author: Marcin Maj
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: ! '— Piętnuję stawianie kropek w tytułach postingów.
+
+    — Czemu?
+
+    — Też nie wiem, ale jak znam życie to pewnie Outlook traktuje to jako załącznik.'
+  author: Wojciech Mula, Michal Koziara, Zbigniew Cofała
+  source: pl.pregierz
+  tags:
+  - pl
+  - tech
+  - Outlook
