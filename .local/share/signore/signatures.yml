@@ -9499,3 +9499,85 @@
   - pl
   - tech
   - Microsoft
+- !ruby/struct:Signore::Signature
+  text: ‘In science, giants stand on the shoulders of giants; in software engineering,
+    dwarves stand on the toes of dwarves.’
+  author: Greg Rubino
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'There is a young poet named Herman.
+
+    He’s not very good, but he’s learnin’,
+
+    Though he often offends
+
+    Because he so often ends
+
+    Alle sein Limericks auf Deutsch.'
+  tags:
+  - en
+  - linguistics
+  - poetry
+  - limericks
+- !ruby/struct:Signore::Signature
+  text: ! 'The integral of zee-squared dee zee,
+
+    From 1 to the cube root of 3,
+
+    Times the cosine,
+
+    Of 3 pi over 9,
+
+    Is the log of the cube root of e.'
+  tags:
+  - en
+  - math
+  - poetry
+  - limericks
+- !ruby/struct:Signore::Signature
+  text: I’m not even sure there _is_ any logic behind it. IYAM, Vi is better than
+    Emacs only because there’s less of it.
+  author: Richard Bos
+  tags:
+  - en
+  - tech
+  - Vi
+  - Emacs
+- !ruby/struct:Signore::Signature
+  text: Or, as they say, CP/M was a great improvement on its successors.
+  author: Charlie Gibbs
+  tags:
+  - en
+  - tech
+  - CP/M
+- !ruby/struct:Signore::Signature
+  text: Dziś na Łopuszańskiej Mojżesz ewidentnie nie podjął tematu.
+  author: kodz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: W ogóle skąd w ludziach tyle zła że używaja różowego koloru…?
+  author: TheSkip
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: GUI to rzecz dla inteligentnych. Reszcie zostaje tylko wklepywanie poleceń
+    z CLI.
+  author: Wojciech Orlinski
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - GUI
+  - CLI
+- !ruby/struct:Signore::Signature
+  text: Za darmo pisze się tylko programy nie warte pieniędzy.
+  author: Wojciech Orlinski
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - Open Source
