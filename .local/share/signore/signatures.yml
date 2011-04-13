@@ -8405,3 +8405,74 @@
   tags:
   - pl
   - tech
+- !ruby/struct:Signore::Signature
+  text: A single trip to the dentist dispels the notion that intelligence played any
+    factor in our design.
+  author: Matthew Baldwin
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Why I love Wikipedia: ‘When invigorated by spinach, Popeye can lift or
+    press about 36 tons. [citation needed]’'
+  author: Matthew Baldwin
+  tags:
+  - en
+  - Wikipedia
+- !ruby/struct:Signore::Signature
+  text: ! '‘I can see this descending into a Mercurial vs Git religious war.’
+
+    ‘Doubtful. The enlightened among us don’t have time to bother with mouthy users
+    of that inferior DVCS.’'
+  author: Dan North, Pat Maddox
+  source: rspec-users
+  tags:
+  - en
+  - tech
+  - Git
+  - Mercurial
+- !ruby/struct:Signore::Signature
+  text: Specifying private methods is, in my opinion, slightly less pleasant than
+    week-old trout in my pillow. It means one of two things. At a code level, your
+    method’s visibility could just be off. At a conceptual level, you may be missing
+    the point of BDD entirely.
+  author: Pat Maddox
+  source: rspec-users
+  tags:
+  - en
+  - tech
+  - programming
+  - BDD
+- !ruby/struct:Signore::Signature
+  text: ! 'Copywriting fail #1: „Plantatorom w brazylijskim regionie Matao nie w głowach
+    uroki Sao Paulo”.
+
+    Copywriting fail #2: „Całymi dniami ze znawstwem przyglądają się zwisającym wśród
+    gałęzi dorodnym pomarańczom”.'
+  author: reuptake
+  tags:
+  - pl
+  - advertising
+- !ruby/struct:Signore::Signature
+  text: Student napisał mi na projekt arkanoida. Wciąga cholera.
+  author: DrYoung
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Mina żelazowa: Ten solidny kawałek dowozu wydobycia jest mina żelazowa.
+    Wydobywa żelazo z podziemnych min i czyści je.'
+  source: X-Wars
+  tags:
+  - pl
+  - translations
+- !ruby/struct:Signore::Signature
+  text: ! '— O, właśnie ktoś próbuje ataku słownikowego na moje PLD.
+
+    — To zmień hasło na takie, którego już próbował.'
+  author: Robert74, OJO
+  tags:
+  - pl
+  - tech
+  - Linux
+  - security
