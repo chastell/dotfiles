@@ -9930,3 +9930,63 @@
   - pl
   - tech
   - Mac OS X
+- !ruby/struct:Signore::Signature
+  text: Tchotchke are gewgaws, knickknacks, baubles, lagniappes, trinkets, or kitsch.
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'Kolejny dzień kurczaków z trzema głowami: zapłaciłam za bilet w Ryanair
+    a bank uparcie twierdzi, że mam tyle samo kasy co przed zapłaceniem. A w Łodzi
+    snowing motherfucker.'
+  author: Thoughtscriber
+  subject: maj 2011
+  tags:
+  - pl
+  - Łódź
+- !ruby/struct:Signore::Signature
+  text: ! '‘I can’t believe he left me three cans of peas. Like that is going to fix
+    anything.’
+
+    ‘Were they your favorite peas?’
+
+    ‘I mean, I like LeSeur Peas and all, but not enough to make me forget my husband
+    was fucking another woman.’'
+  source: Overheard in New York
+  tags:
+  - en
+  - relationships
+- !ruby/struct:Signore::Signature
+  text: ! 'I’m funky like your grandpa’s drawers – don’t test me.
+
+    I’m in like that. You’re dead like Presley.'
+  author: Giles Bowkett
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’ve been to 127.0.0.1 before. That dude is into some sick shit.
+  author: Tracy Reed
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘You do not achieve immortality through /etc/system.’
+
+    ‘Of course not, you achieve it through /usr/share/games/fortunes.’'
+  author: Edmund Roche-Kelly, Paul Tomblin
+  source: asr
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Człowiek wytyka nos z bagna, budzi się do życia, potyka o grabie i wtedy właśnie
+    docenia procedury ISO.
+  author: Julia
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Chwile gdy kłamiesz, że właśnie czytasz Wyborczą a nie Cosmo.
+  author: Julia
+  tags:
+  - pl
