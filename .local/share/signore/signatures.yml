@@ -8699,3 +8699,71 @@
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'You write with ease to show your breeding,
+
+    But easy writing ’s curst hard reading.'
+  author: Richard Brinsley Sheridan
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: How many boards would the Mongols hoard if the Mongol hordes got bored?
+  author: Calvin
+  tags:
+  - en
+  - tonguetwisters
+- !ruby/struct:Signore::Signature
+  text: ! '‘Then again, if it''s all about fun, why not write a Ruby 1.9 interpreter
+    from scratch in PL/I?’
+
+    ‘My cardiologist tells me that I should try not to have too much fun at one time.’'
+  author: Ed Borasky, Jay Levitt
+  source: ruby-talk
+  subject: on porting Ruby to Stratus
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: OOP to me means only messaging, local retention and protection and hiding
+    of state-process, and extreme late-binding of all things. It can be done in Smalltalk
+    and in Lisp. There are possibly other systems in which this is possible, but I’m
+    not aware of them.
+  author: Alan Kay
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Stoję w busie jak zwykle, oglądam się, patrzę, a tu jakaś fajna laska siedzi
+    sama. No to wiadomo – dosiadłem się, cześć cześć, jestem Michał… a ona nagle dostaje
+    ataku śmiechu: okazało się, że to moja koleżanka, którą poznałem w ten sposób
+    już w czerwcu, tylko zmieniła fryza i kolor włosów.'
+  author: misza
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Organizacja pomagająca byłym więźniom dostosować się do rynku pracy mogłaby
+    się nazywać „Marynara w kratę”.
+  author: Ania
+  subject: w rozmowie o stowarzyszeniu Rozwój w biały dzień
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Szczyt złośliwości: włączyć komuś Dvoraka i kazać wyjść z Vima.'
+  author: Sad_
+  tags:
+  - pl
+  - tech
+  - Vim
+  - Dvorak
+- !ruby/struct:Signore::Signature
+  text: Kolega twierdzi, że próbując wyjść z Emacsa, jak zaczął czytać helpa to potrafił
+    już wysłać mejla a nadal nie potrafił tego zamknąć.
+  author: Agrajaga
+  tags:
+  - pl
+  - tech
+  - Emacs
