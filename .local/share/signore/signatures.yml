@@ -8988,3 +8988,76 @@
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: /* obligatory PERL joke (omitted for brevity) */
+  author: Tomasz Dubrownik
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: How can one better magnify the Almighty than by sniggering with him at his
+    little jokes, particularly the poorer ones.
+  author: Samuel Beckett
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Be not too hasty to trust or admire the teachers of morality; they discourse
+    like angels but they live like men.
+  author: Samuel Johnson
+  tags:
+  - en
+  - morality
+- !ruby/struct:Signore::Signature
+  text: WYSIWYG editors operate in WYSIWTF mode these days.
+  author: Mover
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ML and Haskell are both from Planet Weird. And the people of that planet evidently
+    do not believe in libraries.
+  author: Steve Yegge
+  source: Duck Season
+  tags:
+  - en
+  - tech
+  - programming
+  - ML
+  - Haskell
+- !ruby/struct:Signore::Signature
+  text: Idę zażyć życia pozapracowego. Ach ten niepokój, ach to nieznane.
+  author: kya
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Najpierw zmacała mnie seksi pani w poszukiwaniu, potem samolot nazywał się
+    fokker.
+  author: kya
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— E tam. Nie mam jak patrzeć bo się męczę z Thunderbirdem. Może się na
+    dniach przesiądę na Halime, jeśli rzeczywiście warto.
+
+    — Średnio. Ja jestem z kolei w trakcie przesiadania się na Unisona.
+
+    — …a ślimaki wokół tylko ziiiuuu…'
+  author: Piotr Farbiszewski, Wojciech Orlinski, Jarosław Sokołowski
+  source: pcoa
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '— Aha – jak myślicie, gdzie jest najczęściej najsłabsza strona sklepów
+    internetowych? Po stronie aplikacji, czy serwera?
+
+    — LUDZIE. LUDZIE SĄ GŁUPI.'
+  author: d+, Piotr Piatkowski
+  source: apcoh
+  tags:
+  - pl
+  - tech
