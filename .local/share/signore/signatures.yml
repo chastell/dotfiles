@@ -9138,3 +9138,107 @@
   tags:
   - pl
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘Driving myself slowly nuts with printing recursive S-expressions sanely
+    in Go.’
+
+    ‘Ford Prefect always said that going insane should be enjoyed, and is not something
+    to be rushed.’'
+  author: Eleanor McHugh, Phillip Gawlowski
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
+  - Douglas Adams
+- !ruby/struct:Signore::Signature
+  text: ! 'Zasada nieoznaczoności dokumentacji prac administracji resortowej: iloczyn
+    niepewności odnośnie do tego czym zajmował się urzędnik, informacji odnośnie do
+    tego kiedy się tym zajmował i wiedzy, o co w tym wszystkim chodzi nie może być
+    mniejszy niż rozdzielczość bitmapy umieszczonej w PDF-ie.'
+  author: Maciej Szmit
+  source: rejestr
+  tags:
+  - pl
+  - government
+- !ruby/struct:Signore::Signature
+  text: My favorite part of the Good Friday liturgy is when, during the mournful Lamentations,
+    someone with a bouncy Calypso ringtone gets a call.
+  author: Greg Knauss
+  tags:
+  - en
+  - religion
+  - Easter
+- !ruby/struct:Signore::Signature
+  text: Somewhere, there is a sig so funny that reading it will cause an aneurism.
+    This is not that sig.
+  tags:
+  - en
+  - signatures
+- !ruby/struct:Signore::Signature
+  text: When an engineer says that something can’t be done, it’s a code phrase that
+    means it’s not fun to do.
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Rule 1: Don’t do it.
+
+    Rule 2 (for experts only): Don’t do it yet.'
+  source: M. A. Jackson’s Rules of Optimization
+  tags:
+  - en
+  - tech
+  - optimisation
+- !ruby/struct:Signore::Signature
+  text: As the Slashdot distributed brain engine has observed, the ultimate test of
+    any piece of equipment is to build a Beowulf cluster of it.
+  author: Peter Seebach
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! "— Wyjdziesz dziś grać?\n— Nie.\n— Czemu?\n— Zgadnij.\n— Skąd mam wiedzieć?\n—
+    Teraz pytanie za dwa tysiące zlotych. A brzmi ono tak – ja, zwany olejem, nie
+    wyjdę dziś grać w piłkę, gdyż:\n  a) Islandia przeżywa kryzys gospodarczy,\n  b)
+    wojska rosyjskie nadal przebywają w Osetii Południowej,\n  c) jest sobota,\n  d)
+    mam złamaną nogę.\n— Fakt."
+  author: michal, olej
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: ! 'Po wykryciu nowego rodzaju dopingu Międzynarodowa Agencja Antydopingowa
+    postanowiła ponownie przebadać próbki z igrzysk w Pekinie. Może chodzić nawet
+    o 5000 testów, wśród nich wielu Polaków.
+
+    — Nasi sportowcy są czyści, na tak nowoczesny doping ich nie stać — mówi prof.
+    Jerzy Smorawiński.'
+  source: Onet
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: ! '— Jak działa Internet – chodzi mi o technologie!
+
+    — TCP/IP!! Różne media! miedź! światłowód! i inne!'
+  author: Marek Gabryś, DooMiniK
+  source: chip.internet
+  tags:
+  - pl
+  - tech
+  - Internet
+- !ruby/struct:Signore::Signature
+  text: ! '— Piętnuję gofisha za to, że po każdej zmianie repozytorium gophera trzeba
+    go przeindeksowywać. Tylko z tego powodu używam pygopherd.
+
+    — A często to robisz? gopherd siedzi u mnie ot for fan i dla ciekawskich.
+
+    — Ja na imprezach wyrywam laski na swoje serwisy gopherowe, gdyby się dowiedziały,
+    że po każdej zmianie w /var/gopher muszę odpalać jakąś dziwną komendę byłbym skończony.'
+  author: Rafal Jankowski, Zygmunt M. Zarzecki
+  source: pl.pregierz
+  tags:
+  - pl
+  - tech
+  - Gopher
