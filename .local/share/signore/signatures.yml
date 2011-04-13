@@ -5279,7 +5279,7 @@
   tags:
   - en
   - tech
-  - UNIX
+  - Unix
   - regular expressions
 - !ruby/struct:Signore::Signature
   text: It’s the little things that make life so beautiful, like when a baby steps
@@ -7772,7 +7772,7 @@
   - philosophy
   - religion
 - !ruby/struct:Signore::Signature
-  text: My boss asked where I was. ‘I’I'm boycotting Mondays.’ The idea spread. People
+  text: My boss asked where I was. ‘I’m boycotting Mondays.’ The idea spread. People
     stayed home. Now we hated Tuesday.
   source: Very Short Story
   tags:
@@ -10043,5 +10043,57 @@
 - !ruby/struct:Signore::Signature
   text: człowiek obity ze światem.
   author: czerski
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Socialism never took root in America because the poor see themselves not as
+    exploited proletariat but temporarily embarrassed millionaires.
+  author: Steve Klabnik
+  tags:
+  - en
+  - politics
+  - socialism
+- !ruby/struct:Signore::Signature
+  text: If I could have any super power, it would be lower expectations.
+  author: Ticklish Junk
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I was going to do some things tonight, but I am very tired, so I am going
+    to bed. The world is a conspiracy run by the morning people.
+  author: Marnanel
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Sunshine is delicious, rain is refreshing, wind braces us up, snow is exhilarating;
+    there is really no such thing as bad weather, only different kinds of good weather.
+  author: John Ruskin
+  tags:
+  - en
+  - weather
+- !ruby/struct:Signore::Signature
+  text: If the only tool in your toolbox is a pipe, everything looks like a filter.
+  author: Shmuel Metz
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: When all you have is a Swiss Army Knife, every problem looks like email.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Przez wiele lat nie mogłem pojąć, o co chodzi w piosence Kobranocki z tym
+    tekstem „lotem dębu przez Włocławek”.
+  author: Sławek Wójcik
+  tags:
+  - pl
+  - lyrics
+- !ruby/struct:Signore::Signature
+  text: „Na trybunach APLAUZ NIEZADOWOLENIA”. Czekam na pomruk radości.
+  author: Cashew
   tags:
   - pl
