@@ -1136,19 +1136,6 @@
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ! '  <Pawlak> Zna ktoś jakieś forum prawnicze albo studiuje prawo?
-
-               Mam proste (przynajmniej moim zdaniem) pytanie.
-
-    <Araggorn> Już kiedyś sprawdzali. Od 16 lat.
-
-      <Nalepa> Potwierdzam.'
-  tags:
-  - pl
-  - relationships
-  - sex
-  - IRC
-- !ruby/struct:Signore::Signature
   text: It wasn’t until 3 minutes into this guy’s description of the $1000 operation
     on his hamster that I realized he was saying hamstring.
   author: Matthew Baldwin
@@ -9110,7 +9097,7 @@
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: O, królicza bimbo na głównej stronie o2 ilustruje artykuł „jak nie wychować
+  text: O, królicza Bimbo na głównej stronie o2 ilustruje artykuł „jak nie wychować
     córki na dziwkę”. Dobrze, że mam syna, bo gramy razem…
   author: Lilarouge
   tags:
@@ -9242,3 +9229,63 @@
   - pl
   - tech
   - Gopher
+- !ruby/struct:Signore::Signature
+  text: Differences are good. If two people agree, one of them is redundant.
+  author: Brian White
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It would be helpful if people wouldn’t make sweeping generalizations all the
+    time.
+  author: Josip Rodin
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some people, when confronted with a problem, think ‘I know, I’ll use XML’.
+    Now they have two problems.
+  author: Jamie Zawinski
+  tags:
+  - en
+  - tech
+  - XML
+- !ruby/struct:Signore::Signature
+  text: Microsoft using .wtf as an extention struck me as disturbingly appropriate.
+  author: David Cameron Staples
+  tags:
+  - en
+  - tech
+  - Microsoft
+- !ruby/struct:Signore::Signature
+  text: ! '— No i gdzie ja znajdę takiego joba? „Szukam pracy w poważnej firmie, interesują
+    mnie tylko duże zarobki, służbowy samochód, najlepiej od razu stanowisko kierownicze,
+    acha no i tylko w weekendy” – tak zacznę CV. Chyba w Erze.
+
+    — Pytałeś w kościele?'
+  author: mireQ, mati
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '— Brak mi czegoś w życiu, sam nie wiem czego, może miłości, nie mam pojęcia.
+
+    — A może jesteś po prostu głodny?'
+  author: sevil, ida
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Qb bqplsebjnavn mnebgbjnartb grxfgh nxheng avr cbgemroal…
+
+    — Avr z przymiotnikami piszemy łącznie: avrcbgemroal'
+  author: Przemysław Ryk, Piotr Lipski
+  source: pl.pregierz
+  tags:
+  - pl
+  - tech
+  - ROT13
+- !ruby/struct:Signore::Signature
+  text: QUOTY. QUOTY SĄ MIŁE.
+  author: Zygmunt M. Zarzecki
+  source: pl.pregierz
+  tags:
+  - pl
+  - tech
