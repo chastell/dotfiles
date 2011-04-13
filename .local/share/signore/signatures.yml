@@ -9417,3 +9417,85 @@
   - pl
   - tech
   - Slackware
+- !ruby/struct:Signore::Signature
+  text: Finally, thanks to my sister Dolores for awakening my interest in reading.
+    I clearly remember the day she dragged me across the library, away from the trash
+    I had been browsing and over to a shelf of serious books. She pulled one down
+    and said, ‘this is the kind of thing you should be reading’. I can still picture
+    the book. It was ‘The Rise and Fall of the Third Reich’ by William L. Shirer,
+    all 1,264 pages of it. I think I was seven at the time.
+  author: Russ Olsen
+  source: Design Patterns in Ruby
+  tags:
+  - en
+  - reading
+- !ruby/struct:Signore::Signature
+  text: Ask a deeply religious Christian if he’d rather live next to a bearded Muslim
+    that may or may not be plotting a terror attack, or an atheist that may or may
+    not show him how to set up a wireless network in his house. On the scale of prejudice,
+    atheists don’t seem so bad lately.
+  author: Scott Adams
+  tags:
+  - en
+  - religion
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: ! 'Camels and llamas and hashes and scalars
+
+    Cute little modules talking to mailers
+
+    Regexes munging my humungous strings
+
+    These are a few of my favourite things.'
+  author: Malcolm Ray
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: When I do it, it’s development. When you do it, it’s coding. When he does
+    it, it’s mindless hacking.
+  author: Paul Tomblin
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Zgubiony syn odnalazł się w garażu, gdzie zabijał muchy widelcem. Praca z
+    domu to pierwszy krok do schizofrenii.
+  author: Lilarouge
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! '— You can’t be suspicious of a tree, or accuse a bird or a squirrel of
+    subversion or challenge the ideology of a violet. [Hal Borland] CO ON KURWA WIE.
+
+    — WIWIÓRKA ŻRE MOJE SUBWERSZYN. DEMONISZCZE.'
+  author: chastell, opi
+  tags:
+  - pl
+  - tech
+  - Subversion
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: Tak jak nie urządza się pikników w kościele, tak macuser nie jada przy swoim
+    Macu.
+  author: Piotr Chylinski
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: ! '— Druga rzecz, programiści Microsoftu muszą dbać o to, żeby na każdej nowej
+    wersji systemu stary soft działał.
+
+    — Ty tak poważnie?'
+  author: sq, Mariusz Kruk
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - Microsoft
