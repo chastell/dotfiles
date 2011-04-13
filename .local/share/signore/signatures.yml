@@ -9747,3 +9747,62 @@
   source: pl.listserv.chomor-l
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: The world is my lobster.
+  author: Henry J. Tillman
+  tags:
+  - en
+  - literature
+- !ruby/struct:Signore::Signature
+  text: If your morals make you dreary, depend on it, they are wrong.
+  author: Robert Louis Stevenson
+  tags:
+  - en
+  - morals
+- !ruby/struct:Signore::Signature
+  text: ! 'legacy, adj: an uncomplimentary computer-industry epithet that means ‘it
+    works’.'
+  author: Anthony de Boer
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Actually, HTML is very useful. As a flag to say ‘you don’t need to read this
+    email’.
+  author: Paul Tomblin
+  tags:
+  - en
+  - tech
+  - email
+  - HTML
+- !ruby/struct:Signore::Signature
+  text: Uczmy się kochać roboty, tak szybko nadchodzą.
+  author: Ania
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Jedziemy przez Wrześnię. Dzieci mówią plynnie po polsku. Machamy im!
+  author: opi
+  tags:
+  - pl
+  - patriotism
+- !ruby/struct:Signore::Signature
+  text: „Ludzie nie mają problemów, tylko sobie sami je stwarzają” – ale nie muszą
+    z nich od razu robić dystrybucji przecież.
+  author: Paweł Pluta
+  source: pcoa
+  subject: o sygnaturka Kłoczka
+  tags:
+  - pl
+  - tech
+  - Linux
+  - PLD
+- !ruby/struct:Signore::Signature
+  text: Mieć pretensje do Windows, że nie działa tak, jak trzeba, to tak, jak mieć
+    pretensje do prostytutki, że nie jest dziewicą. Panowie, dorośnijcie.
+  author: doc
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - Windows
