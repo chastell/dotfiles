@@ -8900,3 +8900,91 @@
   - pl
   - tech
   - Vi
+- !ruby/struct:Signore::Signature
+  text: I still find it sad that World of Warcraft has had RSA-style two-factor token
+    authentication for years, and my bank still doesn’t.
+  author: snipe
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Why is there so much outcry about the glamorization of sex and violence, but
+    none about the glamorization of ignorance?
+  author: Erika Hall
+  tags:
+  - en
+  - science
+  - religion
+- !ruby/struct:Signore::Signature
+  text: It’s lonely at the bottom.
+  author: Mathias Meyer
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Patriotism, n. Combustible rubbish ready to the torch of any one ambitious
+    to illuminate his name. In Dr Johnson’s famous dictionary patriotism is defined
+    as the last resort of a scoundrel. With all due respect to an enlightened but
+    inferior lexicographer I beg to submit it is the first.
+  author: Ambrose Bierce
+  tags:
+  - en
+  - ideology
+  - patriotism
+- !ruby/struct:Signore::Signature
+  text: Hotel lobby in Norway. Machine that gives you ice and water at the same time.
+    Civilization! Wake up England! Wake up France!
+  author: Michael Fethers
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I like Jonathan Schwartz a lot, but I think that unless some drastic changes
+    are made to Java, the move to JAVA as Sun’s ticker symbol is going to be as relevant
+    as changing it to COBOL.
+  author: Russell Beattie
+  tags:
+  - en
+  - tech
+  - Java
+  - Sun
+- !ruby/struct:Signore::Signature
+  text: ! 'One look at the From:
+
+    understanding has blossomed
+
+    .procmailrc grows'
+  author: Alexander Viro
+  source: linux-kernel
+  tags:
+  - en
+  - tech
+  - mail
+  - haiku
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: „Swistak.pl, drugi w Polsce serwis aukcyjny pod względem popularności” …a
+    Kennedy przybiegł przedostatni.
+  author: muczachan
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Zastanawiałam się dlaczego nie działa mi aparat. Okazało się, że zamiast jednej
+    baterii wsadziłam po ciemku tampona.
+  author: trini
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: gzip-1.3.5.tar.gz – inteligentne.
+  author: Kamil
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Mnie się czasem zdarza, że usiłuję coś wyguglać, czytam te archiwa jakiejś
+    grupy sprzed 10 lat i stwierdzam „no jak sensownie gość pisze, mógłbym się pod
+    tym podpisać!”, dochodzę do końca i… faktycznie, podpisałem się. Widać mi słabo
+    poglądy ewoluują.
+  author: Szymon Sokół
+  source: pl.rec.ksiazki
+  tags:
+  - pl
+  - Usenet
