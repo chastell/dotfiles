@@ -1937,11 +1937,6 @@
   - tech
   - Mutt
 - !ruby/struct:Signore::Signature
-  text: To, że się obudziłem jest wydarzeniem na skalę Gazety Wrocławskiej.
-  author: opi
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: ! 'Nie uwierzycie co zrobiłem przez zepsuty redial w telefonie: zadzwoniłem
     do Ministerstwa Nauki i Szkolnictwa Wyższego i zapytałem czy mają mój garnitur.
     Surprise — nie mieli, aczkolwiek chcieli pomóc! Patrząc z perspektywy czasu, mój
@@ -9806,3 +9801,63 @@
   - pl
   - tech
   - Windows
+- !ruby/struct:Signore::Signature
+  text: Pokazałem kłamstwo fukushimskie w kalamburach.
+  author: DrYoung
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! 'Every time I see ‘facebook.com/____’ on a company’s advertising, I mentally
+    translate it to ‘AOL Keyword: ____’.'
+  author: Greg Knauss
+  tags:
+  - en
+  - tech
+  - Facebook
+  - AOL
+- !ruby/struct:Signore::Signature
+  text: Did you know that the ‘B’ in Benoit B. Mandelbrot stands for ‘Benoit B. Mandelbrot’?
+  author: FMCAMPERS
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Art is a collaboration between God and the artist, and the less the artist
+    does the better.
+  author: Andre Gide
+  tags:
+  - en
+  - art
+- !ruby/struct:Signore::Signature
+  text: Journalism largely consists of saying ‘Lord Jones is Dead’ to people who never
+    knew that Lord Jones was alive.
+  author: G. K. Chesterton
+  tags:
+  - en
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Damn, I need to rant, not whimper. Someone bring me a user.
+  author: Wayne Pascoe
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: And if you really want to find out what someone's made of, have him work through
+    Loelliger’s ‘Threaded Interpreted Languages’.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Papież upiera się u Prady.
+  author: kodz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Afrontem do klienta.
+  author: Suler
+  tags:
+  - pl
+  - work
