@@ -10336,3 +10336,90 @@
   author: opi
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Fun fact: the exhaust from my idle laptop can keep coffee warm for hours.
+    #probablysterilenow'
+  author: Brian McFee
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Ludzie, którzy najpierw się stanowczo upierają, żeby im robić głupio i źle,
+    a po miesiącu się opamiętują i mają pretensje. Że głupio i źle. Ale nic to. Najpierw
+    skasowałam za głupio i źle, teraz skasuję za poprawianie.
+  author: Evva
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Talking of successful rackets
+
+    modesty deserves a mention.
+
+    Exclamation marks in brackets
+
+    never fail to draw attention.'
+  author: Piet Hein
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: To be able to destroy with good conscience, to be able to behave badly and
+    call your bad behavior ‘righteous indignation’ – this is the height of psychological
+    luxury, the most delicious of moral treats.
+  author: Aldous Huxley
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: There’s so much comedy on television. Does that cause comedy in the streets?
+  author: Dick Cavett
+  tags:
+  - en
+  - TV
+- !ruby/struct:Signore::Signature
+  text: ! 'Imagine Neuromancer written by a sysadmin: ‘Inside the NIS master of the
+    large sun cluster, Case looked around. It was an old, poorly administered SunOS
+    box. He checked the permissions on /usr/openwin/bin/loadmodule. Bingo, 4755.’'
+  author: Mark Haselden
+  tags:
+  - en
+  - tech
+  - Neuromancer
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: My name is sendmail.cf. You killed my process. Prepare to vi.
+  author: Paul Tomblin
+  tags:
+  - en
+  - tech
+  - Sendmail
+  - Princess Bride
+- !ruby/struct:Signore::Signature
+  text: The other definition of UNIX is ‘whatever Dennis Ritchie has on his desk’.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'Priceless: sąsiedzi wywiesili w oknie kielich, hostię oraz krzyż do góry
+    nogami.'
+  author: Cashew
+  source: Boże Ciało 2008
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '— Książek w domu nie masz?
+
+    — Mam, ale robią za podstawki gdy coś krzywo stoi.
+
+    — Tam są takie dwie klapki na wierzchu, je się rozchyla, a w środku jest dużo
+    takich błonek, zwykle białych lub kremowych, przymocowanych jedną krawędzią do
+    bocznej ścianki. Na obu stronach tych błonek są litery, które można czytać, tak
+    jak na ekranie monitora. Jak się jedna błonka skończy, można zacząć drugą.'
+  author: Kibek, fEnIo, Wiktor S.
+  source: pl.pregierz
+  tags:
+  - pl
+  - books
