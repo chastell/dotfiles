@@ -10146,3 +10146,141 @@
   author: Cashew
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Spare time is worth more than non-spare time.
+  author: Jason Fried
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: If you have a parrot and you don’t teach it to say, ‘help, they’ve turned
+    me into a parrot’, you are wasting everybody’s time.
+  author: Julia Segal
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Real programmers admit that crying is involved.
+  author: James Edward Gray II
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Don’t you know there ain’t no devil, there’s just God when he’s drunk.
+  author: Tom Waits
+  source: Heartattack and Vine
+  tags:
+  - en
+  - religion
+  - lyrics
+- !ruby/struct:Signore::Signature
+  text: In Japan, the distinction between craft and art is blurred at most, possibly
+    nonexistent. Japanese theories of art (and craft) often involve principles of
+    harmony and balance. We might debate in America whether programming is an art
+    or a craft, but if you’ve got one word for the same thing, you’re asking whether
+    programming is an artcraft or an artcraft, and the answer, obviously, is ‘yes,
+    you idiot’.
+  author: Giles Bowkett
+  tags:
+  - en
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If addiction is judged by how long a dumb animal will sit pressing a lever
+    to get a ‘fix’ of something, to its own detriment, then I would conclude that
+    netnews is far more addictive than cocaine.
+  author: Rob Stampfli
+  tags:
+  - en
+  - tech
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! 'A is for awk, which runs like a snail, and
+
+    B is for biff, which reads all your mail.
+
+    C is for cc, as hackers recall, while
+
+    D is for dd, the command that does all.'
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'E is for emacs, which rebinds your keys, and
+
+    F is for fsck, which rebuilds your trees.
+
+    G is for grep, a clever detective, while
+
+    H is for halt, which may seem defective.'
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'I is for indent, which rarely amuses, and
+
+    J is for join, which nobody uses.
+
+    K is for kill, which makes you the boss, while
+
+    L is for lex, which is missing from DOS.'
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'M is for more, from which less was begot, and
+
+    N is for nice, which it really is not.
+
+    O is for od, which prints out things nice, while
+
+    P is for passwd, which reads in strings twice.'
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'Q is for quota, a Berkeley-type fable, and
+
+    R is for ranlib, for sorting ar table.
+
+    S is for spell, which attempts to belittle, while
+
+    T is for true, which does very little.'
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'U is for uniq, which is used after sort, and
+
+    V is for vi, which is hard to abort.
+
+    W is for whoami, which tells you your name, while
+
+    X is, well, X, of dubious fame.
+
+    Y is for yes, which makes an impression, and
+
+    Z is for zcat, which handles compression.'
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: Badacze National Geographic odnaleźli plemię, które nigdy nie kontaktowało
+    się ze światem. Byli to urzędnicy z pokojów 16, 17 i 18 Ministerstwa Finansów,
+    sekcja VAT.
+  author: frost
+  tags:
+  - pl
+  - taxes
+- !ruby/struct:Signore::Signature
+  text: 14.30. Gdybym nadal chodził do przedszkola, właśnie miałbym leżakowanie. Wtedy
+    jakoś nie potrafiłem docenić tego wynalazku.
+  author: Klus
+  tags:
+  - pl
+  - work
