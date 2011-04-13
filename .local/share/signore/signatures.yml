@@ -8540,3 +8540,76 @@
   - pl
   - tech
   - chess
+- !ruby/struct:Signore::Signature
+  text: Also, fuck Mac OS X. Absolutely the most intrusive and annoying OS I’ve had
+    the displeasure of using. Window layering bugs? Check. Focus stealing, including
+    switching screens? Check. Aesthetics trumping usefulness? Check. Oh and don’t
+    get me started on its app/window/task/screen switching model. Absolutely fucking
+    bonkers. Because I want to run some long-running automated browser tests, my machine
+    is unusable for 30 minutes. Thanks, Apple!
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - Mac OS X
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: More gangland camp than neo-noir.
+  author: Nicholas Christopher
+  subject: on Pulp Fiction
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: I never wanted anything to happen to my parents, but a hero needs an origin
+    story.
+  source: A Softer World
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Fucking IMAP fucking sucks. What the FUCK kind of committee of dunces designed
+    this shit.
+  source: sup/imap.rb
+  tags:
+  - en
+  - tech
+  - IMAP
+- !ruby/struct:Signore::Signature
+  text: Fuck you, IMAP committee. You managed to design something nearly as shitty
+    as mbox but goddamn THIRTY YEARS LATER.
+  source: sup/imap.rb
+  tags:
+  - en
+  - tech
+  - IMAP
+- !ruby/struct:Signore::Signature
+  text: Na imprezie furrorę robi guma Turbo. Dziesięć osób wymienia się samochodami.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Przewaga wczorajszego dnia nad dzisiejszym jest taka, że wczoraj już nic nie
+    pierdolnie.
+  author: kya
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '— Czuję się niedowartościowana, komplement jakiś proszę.
+
+    — Joana, uroczo wyglądasz w tej bluzeczce.
+
+    — Masz fajny host.'
+  author: Joana, Damon, kemyd[r]
+  tags:
+  - pl
+  - tech
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: ! '*** Bokler is now known as Smutno_mi
+
+    *** raflik is now known as a_moze_budyn'
+  tags:
+  - pl
+  - tech
+  - IRC
