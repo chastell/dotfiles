@@ -3800,6 +3800,7 @@
   author: Spotter
   tags:
   - pl
+  - weather
 - !ruby/struct:Signore::Signature
   text: Nie no, to jest jednak jakiś ponury dowcip z tym wstawaniem, wychodzeniem
     do pracy itd. To po prostu nie może dziać się naprawdę.
@@ -8613,3 +8614,88 @@
   - pl
   - tech
   - IRC
+- !ruby/struct:Signore::Signature
+  text: Chaperoning a group of 12-year-olds to a museum filled with ancient Greek
+    statuary. Man, is there a lot of giggling. From the kids, too.
+  author: Greg Knauss
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Nobody seems to dislike Haskell. People either like it or fear it. It’s the
+    Slayer of programming languages.
+  author: Per Jacobsson
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
+- !ruby/struct:Signore::Signature
+  text: Just became mayor of ‘could not create Makefile due to some reason’.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - make
+- !ruby/struct:Signore::Signature
+  text: The primary source for funding in robot development comes from people who
+    want to use robots to harm humans. That’s the entire market.
+  author: Giles Bowkett
+  tags:
+  - en
+  - robotics
+- !ruby/struct:Signore::Signature
+  text: It has always seemed absurd to suppose that a god would choose for his companions,
+    during all eternity, the dear souls whose highest and only ambition is to obey.
+  author: Robert Green Ingersoll
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Program in Ruby because you like it. And if you don’t like it, don’t program
+    in it. Religious wars over programming languages are just silly. The messianic
+    zeal of Christianity’s shameful Crusades a thousand years ago still lingers on
+    in Western culture, and one glaring example is the ludicrous idea that there should
+    be one true language or one true editor, or one ring to rule them all.
+  author: Giles Bowkett
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I actually am proud of the stacking status bar. My contribution to the fast-paced
+    world of Curses-based interfaces, we’ll call it.
+  author: William Morgan
+  source: sup-talk
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Nie ma to jak wysłać do klienta SMS z zakończeniem „więcej informacji w maglu”.
+  author: Hanka
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Cudownie jest mieć dwóch przełożonych, z których jeden jest oficjalny, lokalny
+    i sensowny, a drugi jest w UK, jest nieoficjalny i jest debilem.
+  author: Saddie
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '— Coś ta Mandaryna_sopot nie teges; zjebany wmv.
+
+    — Nie, tak było naprawdę.'
+  author: K3, cyrial
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Czemu g++ nie chce kompilować programów w Perlu? Przecież to i to Linux.
+  author: hacker4
+  tags:
+  - pl
+  - tech
+  - programming
