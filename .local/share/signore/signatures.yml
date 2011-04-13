@@ -8767,3 +8767,65 @@
   - pl
   - tech
   - Emacs
+- !ruby/struct:Signore::Signature
+  text: My get up & go has got up & buggered off.
+  author: Tim Bray
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘What are letters?’
+
+    ‘Kinda like mediaglyphics except they’re all black, and they’re tiny, they don’t
+    move, they’re old and boring and really hard to read. But you can use ’em to make
+    short words for long words.’'
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Without requirements or design, programming is the art of adding bugs to an
+    empty text file.
+  author: Louis Srygley
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I’ve found an axe can do a lot for a paper-mangling printer. Especially if
+    you shout for one at the top of your voice, and then a cow orker brings you said
+    instrument. Suddenly, no more paper jams.
+  author: Kai Henningsen
+  source: asr
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jeżeli ktoś myśli, że czytam blogi dlatego, że autor jest wiarygodny, to znaczy
+    że stracił już wszystkie zębatki w wypustce na kapelusz.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Czterdziesta druga strona korekty i mi się odechciało. Ale jeśli wszechświat
+    chce mi coś powiedzieć, to niech kurwa mówi wyraźniej.
+  author: kya
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Właśnie w Wordzie, w okienku „wpisz pytanie do pomocy” wpisałam „jaki jest
+    sens życia?”, a on mi na to „tworzenie papierowych zabawek przy użyciu obiektów
+    clipart”. Długo nad tym myślał.
+  author: Firiel
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Może mi ktoś wyjaśnić, czemu suma dwóch przeciwległych boków w trójkącie
+    jest równa trzeciemu?
+
+    — Obawiam się, że nie ma najmniejszych szans… Przynajmniej dopóki nie zdefiniujesz,
+    KTÓRE boki w trójkącie są PRZECIWLEGŁE.
+
+    — Przeciwległe to a i b.'
+  author: Zybi, Maciek
+  source: alt.pl.matematyka
+  tags:
+  - pl
+  - math
