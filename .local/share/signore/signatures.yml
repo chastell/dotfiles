@@ -9663,3 +9663,87 @@
   - pl
   - tech
   - politics
+- !ruby/struct:Signore::Signature
+  text: ! '|nture. Currently playing: Portal, the Text Adve|'
+  author: Matthew Baldwin
+  tags:
+  - en
+  - games
+  - Portal
+- !ruby/struct:Signore::Signature
+  text: ! 'There once was a [person] from [place]
+
+    Whose [body part] was [special case].
+
+    When [event] would occur,
+
+    It would cause [him or her]
+
+    To violate [law of time/space].'
+  tags:
+  - en
+  - poetry
+  - limericks
+- !ruby/struct:Signore::Signature
+  text: ! 'There was an old man
+
+    From Peru, whose lim’ricks all
+
+    Look’d like haiku. He
+
+
+    Said with a laugh ‘I
+
+    Cut them in half, the pay is
+
+    Much better for two’.'
+  tags:
+  - en
+  - poetry
+  - limericks
+- !ruby/struct:Signore::Signature
+  text: Parsed as ‘those who the Gods wish to destroy, they first sendmail’. Works,
+    too.
+  author: Paul Tomblin
+  tags:
+  - en
+  - tech
+  - Sendmail
+- !ruby/struct:Signore::Signature
+  text: A database is a black hole into which you put your data. If you’re lucky,
+    you’ll get it back again. If you’re very lucky, you’ll get it back in a form you
+    can use.
+  author: Charlie Gibbs
+  tags:
+  - en
+  - tech
+  - databases
+- !ruby/struct:Signore::Signature
+  text: Ja nie mam nic przeciwko chodzeniu do pracy, ale to czekanie osiem godzin
+    na wyjście to jakiś absurd.
+  author: ecce
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Ja chcę być emu, nie emo. Zamiast się ciąć, będę zakopywać głowę w piasku.
+  author: shigella
+  tags:
+  - pl
+  - emo
+- !ruby/struct:Signore::Signature
+  text: Bardzo mnie interesuje hakerstwo i chciałbym się tego trochę nauczyć, więc
+    proszę o jakieś porady i jakieś artykuły z których mogę się tego nauczyć.
+  author: HAVK
+  source: pl.rec.harcerstwo
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '— Jestem na grupie od niedawna i mam pytanie: co to znaczy ROTFL, PLONK?
+
+    — ROTFL: dobrze. PLONK: źle.'
+  author: Erni, Jarek Dukat
+  source: pl.listserv.chomor-l
+  tags:
+  - pl
