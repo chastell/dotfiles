@@ -8476,3 +8476,67 @@
   - tech
   - Linux
   - security
+- !ruby/struct:Signore::Signature
+  text: It seems like once people grow up, they have no idea what’s cool.
+  author: Calvin
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Tact is the ability to describe others as they see themselves.
+  author: Abraham Lincoln
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Exchange actually reports two different INTERNALDATEs for the exact same message
+    when queried at different points in time. […] Of course no OTHER imap server I’ve
+    encountered returns DIFFERENT values for the SAME message. But it’s Microsoft;
+    what do you expect? If their programmers were any good they’d be working at Google.
+  source: sup/imap.rb
+  tags:
+  - en
+  - tech
+  - IMAP
+  - Google
+  - Microsoft
+- !ruby/struct:Signore::Signature
+  text: init.d is complete in the sense that brainfuck is Turing-complete.
+  author: SanityInAnarchy
+  source: /.
+  tags:
+  - en
+  - tech
+  - Linux
+  - brainfuck
+- !ruby/struct:Signore::Signature
+  text: Harmonogram siła pięć. Zostanie na tym polu aż ktoś go pokona. Czekasz trzysta
+    kolejek.
+  author: kodz
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Śniło mi się, że Benedykt XVI był u nas w domu na śniadaniu. Lubi koty i nie
+    kruszy.
+  author: Zuzanka
+  tags:
+  - pl
+  - cats
+- !ruby/struct:Signore::Signature
+  text: ! '— Tylko niech mi ktoś powie przed kim ten Markov ukrywał te cholerne modele.
+
+    — Twoja niewiedza jest żenująca. Jak to napisano kiedyś w sążnistym artykule w
+    CHIP-ie (i kilkakrotnie powtórzono, żeby nie było nieporozumień) są to po prostu
+    modele niejakiego Hiddena-Markova.'
+  author: Bart Ogryczak, Jacek Swiesciak
+  source: pl.pregierz
+  tags:
+  - pl
+  - math
+- !ruby/struct:Signore::Signature
+  text: Gram ostatnio w szachy na kurniku, ale strasznie w dupę dostaje zawsze – nie
+    cierpię jak oni tak kampią tymi lauframi…
+  author: literek
+  tags:
+  - pl
+  - tech
+  - chess
