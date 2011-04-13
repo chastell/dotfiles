@@ -9581,3 +9581,85 @@
   - pl
   - tech
   - Open Source
+- !ruby/struct:Signore::Signature
+  text: I think there's a smudge on.̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̨̨̨̨̨̨̨̨̨̨̨̨.̸̸̨̨your
+    screen.
+  author: TJ
+  tags:
+  - en
+  - Unicode
+- !ruby/struct:Signore::Signature
+  text: Today I went on thesaurus.com and searched ‘ninjas’. The computer told me
+    ‘ninjas cannot be found’. Well played, ninjas, well played.
+  author: Chantelle
+  tags:
+  - en
+  - ninjas
+- !ruby/struct:Signore::Signature
+  text: ! 'There once was a man from Japan
+
+    whose limericks just wouldn’t scan.
+
+    When asked why this was,
+
+    he answered, ‘Because
+
+    I always cram as many syllables into the last line as I possibly can’.'
+  tags:
+  - en
+  - poetry
+  - limericks
+- !ruby/struct:Signore::Signature
+  text: ! 'There once was a small juicy orange,
+
+    …fuck.'
+  tags:
+  - en
+  - poetry
+  - limericks
+- !ruby/struct:Signore::Signature
+  text: I don’t know about you, but learning that – metaphysically speaking – threw
+    a huge fscking rock into the calm pool of my Tao.
+  author: Adam Steed
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '//FT05001 DD DSN=TCEC.PTSD.DATA(F5),DISP=SHR
+
+    //FT06001 DD SYSOUT=A
+
+    Arggghhhh! WHY DO I STILL REMEMEBER THIS SHIT?'
+  author: Paul Tomblin
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Wespół zepsuł.
+  author: Suler
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Popkulturowy downer. Spam podsyła mi e-maile „zobacz nagą Imię Nazwisko”,
+    a ja nie klikam, bo nie wiem kto zacz.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: A wczoraj na przedmieściach Torunia widziałem hurtownię narzędzi „UNIX”. Aż
+    mnie kusiło, żeby wejść i poprosić o pół kilo grepów.
+  author: tarhim
+  tags:
+  - pl
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: Na co dzień taktuję procesor @2100 (175x12) i przy napięciu 1,65 V stabilny
+    jak prezes Kwiatkowski.
+  author: xajorkith
+  source: pl.rec.gry.komputerowe.sprzet
+  tags:
+  - pl
+  - tech
+  - politics
