@@ -9355,3 +9355,65 @@
   - pl
   - tech
   - Outlook
+- !ruby/struct:Signore::Signature
+  text: You’re worried criminals will continue to penetrate into cyberspace, and I’m
+    worried complexity, poor design and mismanagement will be there to meet them.
+  author: Marcus Ranum
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The really messed-up thing is that while the UK went Orwell, the US went fucking
+    Kafka.
+  author: Giles Bowkett
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Some people, when confronted with a web application, think ‘I know, I’ll use
+    a framework’. Now they have two problems.
+  author: Bill de hO’ra
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Finally, Lisp continues to be the Latin of computing.
+  author: Bill de hO’ra
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: Strategia organizacji przewiduje dokonanie wielkiego skoku metodą małych kroków.
+  author: reuptake
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '„spędziłem dzisiaj pierwszy dzień w nowej pracy” – mówi kolega mętniak,
+    spotkany przypadkiem w tramwaju linii 12. „i jak?” – pytam, a on odpowiada: „normalnie
+    – utrata motywacji, zmęczenie, frustracja, dojmujące poczucie wypalenia”.'
+  author: czerski
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Używać Vima to tak, jakby nie móc jednocześnie chodzić i mówić.
+  author: Zbigniew Okoń
+  tags:
+  - pl
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: ! '— Kurcze, tyle roboty żeby móc posłuchać U2? Slackware to jakaś distro
+    nastawiona na serwer czy co?
+
+    — O ile mnie starcza pamięć nie myli, to Slackware to dystrybucja nastawiona na
+    Patricka.'
+  author: Marcin Wieczorek, Mariusz Kruk
+  source: pcoa
+  tags:
+  - pl
+  - tech
+  - Slackware
