@@ -9990,3 +9990,58 @@
   author: Julia
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Adding memcached protocol to a problem is like drawing flames on the side
+    of your car.
+  author: dormando
+  tags:
+  - en
+  - tech
+  - memcached
+- !ruby/struct:Signore::Signature
+  text: This bit where the internet lets us all instantly peer around to make sure
+    everyone’s reactions suit us seems more bug than feature to me.
+  author: Erin Kissane
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Television is for appearing on – not for looking at.
+  author: Noel Coward
+  tags:
+  - en
+  - TV
+- !ruby/struct:Signore::Signature
+  text: ! 'Warning: this comic occasionally contains strong language (which may be
+    unsuitable for children), unusual humor (which may be unsuitable for adults),
+    and advanced mathematics (which may be unsuitable for liberal-arts majors).'
+  source: xkcd
+  tags:
+  - en
+  - xkcd
+- !ruby/struct:Signore::Signature
+  text: Of course since then I’ve had to deal with Solaris, which does know the dependencies
+    but doesn’t actually bother applying them. Bastards.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - Solaris
+- !ruby/struct:Signore::Signature
+  text: I build all my zone files from a modified host-format file. If god had intended
+    us to edit zone files directly he wouldn’t have written AWK.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - DNS
+  - AWK
+- !ruby/struct:Signore::Signature
+  text: A fryzurę mam dziś taką, że jedyne, co w niej mogę to odczuwać wstyd.
+  author: Lilarouge
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: człowiek obity ze światem.
+  author: czerski
+  tags:
+  - pl
