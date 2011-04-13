@@ -10284,3 +10284,55 @@
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: Dlaczego transmisji z Watykanu nie komentują Szaranowicz ze Szpakowskim? Jeden
+    by przytaczał statystyki papieży, a drugi płakał i wspominał JP2.
+  author: ofsajd
+  tags:
+  - pl
+  - religion
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Sometimes parenthood feels like an eighteen year Kobayashi Maru.
+  author: Greg Knauss
+  tags:
+  - en
+  - parenthood
+- !ruby/struct:Signore::Signature
+  text: A few years ago, the company I work for decided that I was such a good programmer
+    that I had to stop doing it immediately. I was now to tell other programmers what
+    to do, using all the social delicacy and interpersonal self-confidence I’d built
+    up over two decades sitting in a dark room and staring at a monitor. I was being
+    promoted into management.
+  author: Greg Knauss
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: What ‘Visual Programming’ really means is that you’re not allowed to keep
+    your hands on the keyboard.
+  author: Charlie Gibbs
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: So the Ether Bunny goes hippety hopity down the garden path, waylaying innocent
+    fieldmice and anesthetising them, so he can sell their teeth to the Tooth Fairy
+    to support his milk-and-cookies habit.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! "— As water spins in circles twice\n  Spiders, snakes and little mice\n
+    \ Get twisted ’round and tumble down\n  When nature calls we all shall drrrrrrrown\n—
+    Co to…?\n— Ewa Bem"
+  author: Tygrys, taoo
+  tags:
+  - pl
+  - lyrics
+- !ruby/struct:Signore::Signature
+  text: Mój dzień jest jak nieudany startup. Już o nim mikrobloguję, a jeszcze niczego
+    nie zrobiłem.
+  author: opi
+  tags:
+  - pl
