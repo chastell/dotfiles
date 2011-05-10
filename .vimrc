@@ -1,3 +1,32 @@
+" begin Vundle setup
+set nocompatible
+filetype off
+set runtimepath+=$HOME/coding/vundle
+call vundle#rc()
+
+Bundle 'Align'
+Bundle 'Command-T'
+Bundle 'LaTeX-Suite-aka-Vim-LaTeX'
+Bundle 'LustyExplorer'
+Bundle 'LustyJuggler'
+Bundle 'Markdown'
+Bundle 'Parameter-Text-Objects'
+Bundle 'The-NERD-tree'
+Bundle 'ack.vim'
+Bundle 'bufexplorer.zip'
+Bundle 'endwise.vim'
+Bundle 'fugitive.vim'
+"Bundle 'matchit.zip'
+Bundle 'repeat.vim'
+"Bundle 'ruby-matchit'
+Bundle 'snipMate'
+Bundle 'surround.vim'
+Bundle 'taglist.vim'
+Bundle 'vcscommand.vim'
+
+" end Vundle setup
+filetype plugin indent on
+
 " indenting
 set autoindent smartindent
 
@@ -34,8 +63,6 @@ set splitbelow splitright
 set ttyfast
 let g:VCSCommandDeleteOnHide = 1
 
-filetype plugin indent on
-
 " mappings
 let mapleader = ','
 inoremap ((         ()<left>
@@ -54,26 +81,3 @@ autocmd BufRead,BufNewFile *.install set filetype=php
 autocmd BufRead,BufNewFile *.md      set filetype=markdown
 autocmd BufRead,BufNewFile *.module  set filetype=php
 autocmd BufRead,BufNewFile *.ru      set filetype=ruby
-
-" plugins
-set runtimepath+=$HOME/coding/vundle
-call vundle#rc()
-Bundle 'Align'
-Bundle 'Command-T'
-Bundle 'LaTeX-Suite-aka-Vim-LaTeX'
-Bundle 'LustyExplorer'
-Bundle 'LustyJuggler'
-Bundle 'Markdown'
-Bundle 'Parameter-Text-Objects'
-Bundle 'The-NERD-tree'
-Bundle 'ack.vim'
-Bundle 'bufexplorer.zip'
-Bundle 'endwise.vim'
-Bundle 'fugitive.vim'
-Bundle 'matchit.zip'
-Bundle 'repeat.vim'
-Bundle 'ruby-matchit'
-Bundle 'snipMate'
-Bundle 'surround.vim'
-Bundle 'taglist.vim'
-Bundle 'vcscommand.vim'
