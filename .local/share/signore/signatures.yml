@@ -12444,3 +12444,51 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: The difference between pornography and erotica is lighting.
+  author: Gloria Leonard
+  tags:
+  - en
+  - porn
+  - erotica
+- !ruby/struct:Signore::Signature
+  text: ! 'Everyday we’re told we live in the greatest country on earth and it’s always
+    stated as an undeniable fact: Leos are born between July 23 and August 22, fitted
+    queen-size sheets measure 60x80 inches, and America is the greatest country on
+    earth. Having grown up with this in our ears, it’s startling to realize that other
+    countries have nationalistic slogans too, none of which are ‘We’re number two!’'
+  author: Dave Sedaris
+  source: Me Talk Pretty One Day
+  tags:
+  - en
+  - patriotism
+- !ruby/struct:Signore::Signature
+  text: It has the disadvantage that English character streams appear to be written
+    backwards; this is only an aesthetic problem but, admittedly, it looks funny,
+    especially to speakers of English.
+  author: Danny Cohen
+  subject: on little-endianness
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: It’s 5:50 a.m. Do you know where your stack pointer is? (No, and my program
+    doesn’t either!)
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Jest takie przysłowie, że trudniej znaleźć źdźbło w swoim oku niż belkę w
+    oku innej osoby, i to powiedzenie się sprawdza.
+  author: Przemysław Gosiewski
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Nie czuję się baronem, tylko osobą o najwyższej funkcji politycznej.
+  author: Przemysław Gosiewski
+  tags:
+  - pl
+  - politics
