@@ -11534,3 +11534,57 @@
   tags:
   - pl
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: I’d just like to state publically and for the record that I’m enough of an
+    egotist that anybody may quote me in any way they want. I’d prefer not too out
+    of context or mangled, but I take what I can get.
+  author: Paul Tomblin
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The power of accurate observation is commonly called cynicism by those who
+    have not got it.
+  author: George Bernard Shaw
+  tags:
+  - en
+  - cynicism
+- !ruby/struct:Signore::Signature
+  text: This is exactly what I hate about Perl. ‘There’s more than one way to do it’
+    invariably means that some dumbfucks out there will attempt to do it every single
+    way possible in the language. Perl apparently prides itself on this. I’m an engineer.
+    Not a poet.
+  author: Aaron J. Grier
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: ! '‘The problem with Perl is not that it doesn’t make sense, because it does…’
+
+    ‘Everything in Perl is there for a reason. Which is a bit scary, if you think
+    about it.’'
+  author: Peter da Silva, Phil!Gregory
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: ! 'A u was nuda i bieda
+
+    myszy, deszcz i Polska.'
+  author: Konstanty Ildefons Gałczyński
+  tags:
+  - pl
+  - poetry
+  - patriotism
+- !ruby/struct:Signore::Signature
+  text: Słuszniej by było, gdyby Gałczyński ukręcił łeb temu rozwydrzonemu kanarkowi,
+    który zagnieździł się w jego wierszach.
+  author: Adam Ważyk
+  tags:
+  - pl
+  - poetry
