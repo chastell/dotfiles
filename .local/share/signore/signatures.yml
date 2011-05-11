@@ -10679,3 +10679,52 @@
   author: opi
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Reality is something you rise above.
+  author: Liza Minelli
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Evil co-workers can be very, very amusing. Evil managers, not so much. I must
+    build an army of robotic cockroaches and destroy you all.
+  author: Luna the Cat
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '‘In Smalltalk, if-then-else is a message and messages are objects… If Ruby
+    is 100% OOP, then what is Smalltalk?’
+
+    ‘Probably more in the 120% area.’'
+  author: Gary Wright, Robert Klemme
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: Perl is more an attempt to prove strong AI by making a language so ambiguous
+    that humans can’t parse it, yet sufficiently unambiguous that computers *can*.
+    The day after they succeed, the human era will be ended.
+  author: Nix
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: Zrobiłem dziś w chuja PKP – kupiłem bilet i nie pojechałem
+  author: pilar
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Umrze ci dziecko, pan! Umrze! Cyganka prawde ci powie, umrze ci dziecko. Daj
+    tysiąca, to nie umrze! Daj tysiąca, pan, bo dziecko ci umrze. Stop pneumokokom.
+  author: JarekP
+  tags:
+  - pl
+  - children
+  - parenthood
