@@ -12052,3 +12052,92 @@
   source: pl.pregierz
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Pod moim oknem przejechał właśnie wielki, czerwony autobus z ogromnym napisem
+    „Polish National Team”. Był pusty.
+  author: Jarosław Lipszyc
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: If you’re OCD and you know it, WASH YOUR HANDS! *splish splash*
+  author: ! '@elliottcable'
+  tags:
+  - en
+  - OCD
+- !ruby/struct:Signore::Signature
+  text: Amazon US won’t let me buy MP3s because I have UK credit cards. Amazon UK
+    won’t let me buy MP3s because I’m in the US. P2P doesn’t care. Go copyright!
+  author: Cory Doctorow
+  tags:
+  - en
+  - copyright
+  - Amazon
+- !ruby/struct:Signore::Signature
+  text: I long for the days when FB meant ‘framebuffer’.
+  author: rysiek
+  tags:
+  - en
+  - tech
+  - Facebook
+  - framebuffer
+- !ruby/struct:Signore::Signature
+  text: In 50 years, a bunch of 80 year-olds will know all the words to ‘The Fresh
+    Prince of Bel-Air’ theme song.
+  author: Jonah Hill
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s just incredible that a trillion-synapse computer could actually spend
+    Saturday afternoon watching a football game.
+  author: Marvin Minsky
+  tags:
+  - en
+  - sports
+- !ruby/struct:Signore::Signature
+  text: The nice part about being a pessimist is that you are constantly being either
+    proven right or pleasantly surprised.
+  author: George F. Will
+  tags:
+  - en
+  - pessimism
+- !ruby/struct:Signore::Signature
+  text: I’ve just had an evil thought… a Catholic Ubuntu which provides a modified
+    ELIZA for confessional purposes.
+  author: Scott James Remnant
+  source: sounder
+  subject: in the Christian Ubuntu thread
+  tags:
+  - en
+  - tech
+  - Ubuntu
+- !ruby/struct:Signore::Signature
+  text: ! '‘“Real and Google share a common passion for innovation that has enhanced
+    the Web experience”, said Rob Glaser, chairman & CEO for Real.’
+
+    Holy shit – we put two installers in a self-extracting zip file!
+
+    ‘“Google and Real will continue to work together in innovative ways to further
+    improve the Web experience”, said Eric Schmidt, CEO of Google.’
+
+    No, seriously – we put two installers in a self-extracting zip file!'
+  author: jdub
+  source: eighty-eight miles per hour
+  tags:
+  - en
+  - tech
+  - Google
+  - Real
+- !ruby/struct:Signore::Signature
+  text: Dzisiaj po 15 minutach rozmawiania z panią z gazety wyszło mi, że w rubryce
+    zawód powinienem wpisywać Piotruś Pan.
+  author: Chlip
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Słuchałem ska i umysł mi się też wyłączył.
+  author: opi
+  tags:
+  - pl
+  - music
+  - ska
