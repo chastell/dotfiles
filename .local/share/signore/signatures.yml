@@ -11643,3 +11643,57 @@
   tags:
   - pl
   - geek
+- !ruby/struct:Signore::Signature
+  text: Words fail me. Thank goodness I can make gestures.
+  author: Mark Hughes
+  source: asr
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I was quite solidly indoctrinated in the idea that there was nothing special
+    about computers, they were just little boxes that obeyed you.
+  author: Peter Seebach
+  tags:
+  - en
+  - computers
+- !ruby/struct:Signore::Signature
+  text: ! '‘[In Ubuntu LTS] you don’t get as much sexy stuff to play with, but your
+    system is supposed to remain pretty much the same it is for the next few years…’
+
+    ‘Not even when this sexy stuff comes stable?’
+
+    ‘“Stuff” is either sexy or stable, never both. It’s the same as with relationships,
+    really.’'
+  author: Felix ‘buebo’ Kakrow, Guillermo Garron, Chanchao
+  source: ubuntu-users
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I need a word processor on my laptop like I need a Selectric typewriter in
+    my laptop bag.
+  author: Don Marti
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Gdybym teraz wyszedł na balkon i wykrzykiwał nagłówki z mojego czytnika RSS,
+    to z pewnością ktoś wreszcie zadzwoniłby po jakąś pomoc. To samo czynione elektronicznie
+    jest sensowne i słuszne. I sam to robię. Wysyłam kalendarze z kotkami w PDF-ie.
+    Obiecywałem sobie, że będę mądry i będę robił rzeczy słuszne.
+  author: opi
+  tags:
+  - pl
+  - RSS
+- !ruby/struct:Signore::Signature
+  text: Top-posting zaoszczędza piszącemu 30 sekund, a mi przyprawia pięć minut dochodzenia
+    o co biega. Uwielbiam top-posting. Pozwala mi po raz kolejny się przekonać, że
+    walka z pewnymi rzeczami jest bezcelowa. Bo siedzę twarzą w twarz z przeciwnikiem,
+    planuję mój ruch gońcem, po czym on przerwaca swoją królową do góry nogami i balansując
+    jej dość nieprzystosowanym do tej pozycji kształtem woła „DAMKA!”, po czym bije
+    mnie po skosie, cztery razy.
+  author: opi
+  tags:
+  - pl
+  - email
+  - top posting
