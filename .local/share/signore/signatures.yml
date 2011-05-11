@@ -11437,3 +11437,51 @@
   tags:
   - pl
   - cats
+- !ruby/struct:Signore::Signature
+  text: Mam z niemca takie oceny, że dziadek byłby ze mnie dumny, ale niestety mama
+    nie jest.
+  author: tk
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Pornography is by definition purely subjective, what you call pornographic,
+    I may consider boring.
+  author: Rob Adams
+  tags:
+  - en
+  - porn
+- !ruby/struct:Signore::Signature
+  text: It’s downright hilarious with my reading skills.
+  author: Jeff Vinocur
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Making the choice to roll your own always is a tough one, because it breaks
+    Programmer’s Rule Number 42, which clearly states, ‘Every problem has been solved.
+    It is Open Source. And it is the first link on Google.’
+  author: Ara T. Howard
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Can’t you feel the peace and contentment in this block of code? Ruby is the
+    language Buddha would have programmed in.
+  author: Sean Russell
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: „Transgeniczna mysz potrafi biec przez sześć godzin bez przerwy. Porusza się
+    z prędkością dwudziestu metrów na minutę.” Coś takiego zabiło nam Popiela.
+  author: reuptake
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Słownik T9 ma zawsze rację – wpisuję „gadu”, wychodzi „haft”.
+  author: halo
+  tags:
+  - pl
+  - Gadu-Gadu
