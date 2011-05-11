@@ -10716,7 +10716,7 @@
   - programming
   - Perl
 - !ruby/struct:Signore::Signature
-  text: Zrobiłem dziś w chuja PKP – kupiłem bilet i nie pojechałem
+  text: Zrobiłem dziś w chuja PKP – kupiłem bilet i nie pojechałem.
   author: pilar
   tags:
   - pl
@@ -10848,3 +10848,53 @@
   tags:
   - pl
   - journalism
+- !ruby/struct:Signore::Signature
+  text: Sin lies only in hurting others unnecessarily. All other ‘sins’ are invented
+    nonsense.
+  author: Robert A. Heinlein
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: In answer to the question of why it happened, I offer the modest proposal
+    that our Universe is simply one of those things which happen from time to time.
+  author: Edward P. Tryon
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ‘Bother’, said Pooh as he struggled with /etc/sendmail.cf, ‘it never does
+    quite what I want. I wish Christopher Robin was here.’
+  author: Peter da Silva
+  source: asr
+  tags:
+  - en
+  - tech
+  - Sendmail
+  - Winnie-the-Pooh
+- !ruby/struct:Signore::Signature
+  text: Perl is designed for people who like oblique voodoo. For people who have no
+    qualms about using rhaphyrographic and tmesis, or for that matter oblique, in
+    casual conversation.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: ! 'Sikorski: „dzisiaj rano czytałem w portalu internetowym Onet.pl, że ambasador
+    USA przekaże mi niezwykły dokument”. Kurde! Ja myślałem, że to my czytamy na Onecie
+    co oni robią – a to oni robią to co czytają na Onecie!'
+  author: kiechu
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Jak się nazywa taki sposób poruszania, którym poruszają się tylko [piłkarscy]
+    sędziowie i dzieci w wieku wczesnoszkolnym?
+  author: reuptake
+  tags:
+  - pl
+  - sport
+  - football
