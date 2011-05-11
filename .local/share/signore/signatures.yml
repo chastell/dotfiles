@@ -11121,3 +11121,49 @@
   tags:
   - pl
   - food
+- !ruby/struct:Signore::Signature
+  text: ! 'The #1 lesson I learned on my one and only trip to the Caribbean is that
+    society will not actually collapse if you walk down a public street with a beer
+    in your hand. Who woulda thunk?'
+  author: J. D. Baldwin
+  tags:
+  - en
+  - morals
+  - politics
+- !ruby/struct:Signore::Signature
+  text: The internet interprets censorship as damage and routes around it.
+  author: John Gilmour
+  tags:
+  - en
+  - Internet
+  - censorship
+- !ruby/struct:Signore::Signature
+  text: Here I am, brain the size of a planet, and they ask me ‘can I add this machine
+    to the DNS’. It gives me a headache just trying to think down to their level.
+  author: Gary Barnes
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Our chief weapons are who, ps -aux, kill -9, and a fanatical devotion to fastboot.
+  source: Sun User Group
+  tags:
+  - en
+  - tech
+  - admin
+  - Monty Python
+- !ruby/struct:Signore::Signature
+  text: ! 'Sentymenty to w ogóle jedna z najgłupszych rzeczy, jakie wymyśliła natura.
+    Ot, siedzi współpracownik, starszy o kilka lat i wzdycha z rozmarzeniem: „Ty to
+    pewnie nie pamiętasz smaku kawy Marago… mój Boże, jakie to było niedobre…”.'
+  author: Krystyna Chodorowska
+  source: pl.pregierz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Dzięki serwisowi Nasza Klasa okazuje się, że nie uczyli nas sfrustrowani sadyści
+    tylko „perfekcjoniści niecierpiący bezmyślności”.
+  author: reuptake
+  tags:
+  - pl
