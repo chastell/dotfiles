@@ -12141,3 +12141,53 @@
   - pl
   - music
   - ska
+- !ruby/struct:Signore::Signature
+  text: If dolphins are so smart, then how come they’re always winding up in tuna
+    nets? Personally, I think they just really like the attention. ‘Help me! Help
+    me! I’m a just poor dolphin.’ Manipulative little intelligent freaks.
+  author: Dakota Shepard
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'It could be worse: you could work in IT. I tell other parents I work as
+    a piano player in a brothel in order to avoid the embarrassment.'
+  author: eln
+  source: /.
+  tags:
+  - en
+  - work
+  - IT
+- !ruby/struct:Signore::Signature
+  text: No, no, no, such niceties are for weak minded, lily livered, frankly pinko,
+    leftie WIMP programmers. So gauche. So… recherche.
+  author: Simon Wistow
+  source: hates-software
+  subject: on one of tcsh’s misfeatures
+  tags:
+  - en
+  - tech
+  - tcsh
+- !ruby/struct:Signore::Signature
+  text: I can picture it now – you’d be on the floor cowering and I’d be standing
+    over you, repeatedly hitting you using a bat with a rusty nail through it, cackling
+    whilst your screams for forgiveness became slowly muffled by your own sobbing.
+  author: Simon Wistow
+  source: hates-software
+  subject: to tcsh
+  tags:
+  - en
+  - tech
+  - tcsh
+- !ruby/struct:Signore::Signature
+  text: Nasz proboszcz to ewenement – przegrał w karty dzwony kościelne z proboszczem
+    innej parafii…
+  author: Tyska
+  tags:
+  - pl
+  - religion
+  - gambling
+- !ruby/struct:Signore::Signature
+  text: Anioł miłosierdzia właśnie narobił mi na ramię.
+  author: opi
+  tags:
+  - pl
