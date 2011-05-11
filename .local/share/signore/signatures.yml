@@ -11485,3 +11485,52 @@
   tags:
   - pl
   - Gadu-Gadu
+- !ruby/struct:Signore::Signature
+  text: So, you’ll put down your suit, and I’ll put down my tie, and we’ll sell each
+    other hardware like civilised people.
+  author: Roger Burton West
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You know that my wilderness survival kit consists of a metre of fibre cable.
+    If I ever get stranded in the wilderness, I’ll bury the fibre then wait for the
+    backhoe to come to dig it up.
+  author: Paul Tomblin
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: The server understood the request, but is refusing to fulfill it because you’re
+    coming from digg.com and the proprieter of this system is frankly terrified by
+    you people.
+  author: Ryan Tomayko
+  tags:
+  - en
+  - tech
+  - Digg
+- !ruby/struct:Signore::Signature
+  text: If I wanted just one way of doing things, I would have joined the army, not
+    get involved in computers.
+  author: Abigail
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+  - Python
+- !ruby/struct:Signore::Signature
+  text: Oho, zaczynam się śmiać do ekranu – to znaczy, że umysł wrzuca wsteczny i
+    jedzie pod drive-in z narkotykami.
+  author: opi
+  tags:
+  - pl
+  - drugs
+- !ruby/struct:Signore::Signature
+  text: „Wyjątkowo głośno wyraził dezaprobatę dla stwierdzenia nauczyciela, że mieszkańcy
+    południowych krańców Polski w swojej gwarze używają głoski »f« zamiast »ch« poprzez
+    wypowiedź »a fuj«.”
+  author: G.Fid
+  tags:
+  - pl
+  - linguistics
