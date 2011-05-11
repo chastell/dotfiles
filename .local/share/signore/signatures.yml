@@ -6684,8 +6684,8 @@
   - Redis
   - Git
 - !ruby/struct:Signore::Signature
-  text: According to the couch repair guy, I’m the only person in 11 years that he’s
-    seen who sit in the center of the cushion.
+  text: According to the couch repair guy, I’m the only person in eleven years that
+    he’s seen who sit in the center of the cushion.
   author: Jon Yurek
   tags:
   - en
@@ -8971,7 +8971,7 @@
   - pl
   - Usenet
 - !ruby/struct:Signore::Signature
-  text: /* obligatory PERL joke (omitted for brevity) */
+  text: /* obligatory Perl joke (omitted for brevity) */
   author: Tomasz Dubrownik
   tags:
   - en
@@ -10728,3 +10728,68 @@
   - pl
   - children
   - parenthood
+- !ruby/struct:Signore::Signature
+  text: Na stronie tracikngu UPS moja paczka od dwóch godzin ma status „płonie”.
+  author: Murinio
+  tags:
+  - pl
+  - couriers
+- !ruby/struct:Signore::Signature
+  text: Dance like nobody’s watching. Love like you’ve never been hurt. Develop software
+    like the end user has your home address.
+  author: Robert Fischer
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: So many yaks, so little time.
+  author: Anthony Eden
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: They laughed when I said I was going to be a comedian. They’re not laughing
+    now.
+  author: Bob Monkhouse
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Today is what happened to yesterday.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: …and the lord said, ‘lo, there shall only be case or default labels inside
+    a switch statement’.
+  source: MPW C compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: String literal too long (I let you have 512 characters, that’s 3 more than
+    ANSI said I should).
+  source: MPW C compiler
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: Kocham GNU Screen, tylko on na mnie czeka.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - screen
+- !ruby/struct:Signore::Signature
+  text: Ostatnia kawa Hrabiego Barykenta, akcja! [Co powtórzyć? CO POWTÓRZYĆ?! PRZECIEŻ
+    TO JEST KOD, ZAWSZE CI WEJDZIE NA DRZEWO!!!]
+  author: opi
+  tags:
+  - pl
+  - tech
+  - programming
+  - coffee
