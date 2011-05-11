@@ -11994,3 +11994,61 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: Mam bluzkę z wbudowanym stanikiem. Tak patrzę i myślę, że do kompletu brakuje
+    mi tylko cycków.
+  author: Lilarouge
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: To be continued…
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Roses are reddish
+
+    Violets are bluish
+
+    If it wasn’t for Jesus
+
+    We''d all be Jewish'
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: There is a notepad on Linux called Vimacs. The front part is a notepad with
+    a menu called Xmac and the back part (for hard use with Konsole for us haxkcers!)
+    is called Vi which means five.
+  author: Rails Blob
+  tags:
+  - en
+  - tech
+  - Linux
+  - Vim
+  - Emacs
+- !ruby/struct:Signore::Signature
+  text: At least we rarely see, these days, upstream version numbers that are successive
+    negative powers of 10 (0.1, 0.01, 0.001, 0.0001… where 0.1 < 0.01), or successive
+    negative integers (-1, -2, -3, -4…). Or successive phone numbers in a certain
+    year’s edition of the Helsinki telephone book (don’t ask, I was young and silly).
+  author: Lars Wirzenius
+  source: debian-devel
+  tags:
+  - en
+  - tech
+  - versioning
+- !ruby/struct:Signore::Signature
+  text: Tylko befsztyk może mnie wydobyć z melancholii, w którą popadłam.
+  author: Ania
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: ! '— Jednostka centralna połączona jest z pamięcią masową za pośrednictwem
+    sprzęgu szeregowego o przepustowości 1200 bodów. Ktoś pamięta, co to są body?
+
+    — Takie majty obcisłe.'
+  author: Kuba, Piotr „Lestat” Puchowski
+  source: pl.pregierz
+  tags:
+  - pl
