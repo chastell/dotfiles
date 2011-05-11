@@ -12368,3 +12368,79 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: ! 'Bumper sticker: ‘Episode IV comes first: it’s just good parenting.’'
+  author: Brian Link
+  tags:
+  - en
+  - Star Wars
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! 'BREAKING: In the 80s, you could push someone in a pool and it was funny.
+    Now you push someone in a pool and it ruins $750 of electronics.'
+  author: Fake Dispatch
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Typing ‘bdsm unicorn restart’ is possibly the weirdest thing I’ve ever typed
+    into a commmand line. Thanks, Wayne E. Seguin.
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - BSDM
+- !ruby/struct:Signore::Signature
+  text: ‘Who played Luke Skywalker?’ is a simple question I use to decide whether
+    to sleep with you or your mother.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - sex
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: Suppose He doesn’t give a shit? Suppose there is a God but He just doesn’t
+    give a shit?
+  author: George Carlin
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Many people never stop to realize that a tree is a living thing, not that
+    different from a tall, leafy dog that has roots and is very quiet.
+  author: Jack Handey
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: (What the world needs (I think) is not (a Lisp (with fewer parentheses)) but
+    (an English (with more.)))
+  author: Brian Hayes
+  source: The Semicolon Wars
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: Consider the Java expression Date(2006,1,1); what calendar date do you suppose
+    that specifies? The answer is February 1, 3906. In Java we count months starting
+    with 0, days starting with 1, and years starting with 1,900.
+  author: Brian Hayes
+  source: The Semicolon Wars
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Udoskonalanie wolności mediów.
+  author: Przemysław Gosiewski
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Na drugie imię mam Edgar. Moja mama była zamiłowaną harcerką i nadała to imię
+    na cześć Edgara Poe, czyli twórcy skautingu.
+  author: Przemysław Gosiewski
+  tags:
+  - pl
+  - politics
