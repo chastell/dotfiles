@@ -12191,3 +12191,50 @@
   author: opi
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: One must think like a hero to behave like a merely decent human being.
+  author: May Sarton
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '<philcostin> a bad workman blames his fools
+
+    <philcostin> *tools
+
+    <philcostin> damn keyboard'
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Reading through Zope’s Virtual Host Monster documentation evokes that sort
+    of surrealist prose in which one recognizes all the words but can’t be sure whether
+    or not they’re actually intended to mean something when strung together.
+  author: Eli Naeher
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - documentation
+- !ruby/struct:Signore::Signature
+  text: I’ve been almost exclusively hand-coding my JavaScript these past 4 or 5 months,
+    and I’ve come to the conclusion that this experience has permanently altered my
+    neurochemistry in some strange, pseudo-Stockholm Syndrome kind of way.
+  author: Amy Hoy
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Polska jest jak dziecko z zespołem Downa – trzeba ją kochać, ale cudów się
+    spodziewać nie należy.
+  author: opi
+  tags:
+  - pl
+  - Poland
+- !ruby/struct:Signore::Signature
+  text: W rezultacie wytężonych wysiłków mogę ze spokojem patrzeć w przyszłość.
+  author: Kazimierz Marcinkiewicz
+  tags:
+  - pl
+  - politics
