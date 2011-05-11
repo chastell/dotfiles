@@ -11328,3 +11328,53 @@
   subject: w grudniu 2007
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: No matter how beautifully designed your site is, no matter how technically
+    robust, you will eventually let people in, and that will ruin it.
+  author: Greg Knauss
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Not tonight dear; I’m writing a footnote.
+  author: Richard E. Hawkins
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I mean, if I had a bookshop, I wouldn't let any *customers* in, that would
+    just spoil it.
+  author: David P. Murphy
+  tags:
+  - en
+  - books
+- !ruby/struct:Signore::Signature
+  text: 7.times{k=0;puts ($*.map!{|i|k+k=i}<<1)*" "}
+  tags:
+  - en
+  - tech
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I don’t run a command and get a traceback, because nobody ever lets the traceback
+    go through to the end user, because it looks ‘unprofessional’. End users complain.
+    They think the code ain’t finished, because they don’t know that’s one of the
+    hateful things about software.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'TVN24: „A teraz o zatrzymaniu żołnierzy USTAMI PROKURATORA”. Nie chcę wiedzieć.'
+  author: Cashew
+  tags:
+  - pl
+  - TV
+- !ruby/struct:Signore::Signature
+  text: W czwartek zostawił w pociągu nowy szalik. Spoko, kupiłam mu drugi, identyczny.
+    Dziś wszedł do pracy i zastał (siedzący przy biurku) szalik, który podobno zostawił
+    w czwartek w pociągu. Okazuje się, że nie trzeba mieć męża naukowca, by życie
+    było pasmem małych radości.
+  author: Cashew
+  tags:
+  - pl
+  - science
