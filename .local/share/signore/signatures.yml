@@ -10541,3 +10541,92 @@
   tags:
   - pl
   - cats
+- !ruby/struct:Signore::Signature
+  text: …a tak, Fedora, temat mojego doktoratu „Wpływ dystrybucji, które mnie nie
+    interesują na dalszy brak zainteresowania”. Wytrzymała trzy godziny jak ją testowałem
+    – wszystkie niedojebki dystrybucji niestabilnych i estetyka Windows 2000.
+  author: opi
+  tags:
+  - pl
+  - tech
+  - Linux
+  - Fedora
+- !ruby/struct:Signore::Signature
+  text: I face the amusing decision of whether to move some JRuby code into Ruby now
+    that it’s faster than the same in Java.
+  author: Charles Nutter
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Java
+  - JRuby
+  - performance
+- !ruby/struct:Signore::Signature
+  text: What bothers me most, I think, is that sometimes I get typeface jokes.
+  author: Greg Knauss
+  tags:
+  - en
+  - tech
+  - typography
+- !ruby/struct:Signore::Signature
+  text: Hahahaha! I found a CVSROOT in my .profile.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - CVS
+- !ruby/struct:Signore::Signature
+  text: A school in the UK is using RFID chips in school uniforms to track attendance.
+    So now it’s easy to cut class; just ask someone to carry your shirt around the
+    building while you’re elsewhere.
+  author: Bruce Schneier
+  tags:
+  - en
+  - security
+  - RFID
+- !ruby/struct:Signore::Signature
+  text: It’s weird how Beethoven’s good symphonies are the odd-numbered ones, but
+    the good Star Trek movies are two, four, and six.
+  tags:
+  - en
+  - Beethoven
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: ! '‘I wonder if Assembly programmers felt the same way about C programmers
+    as C programmers feel about Python programmers.’
+
+    ‘Jealousy?’
+
+    ‘Then there are the Perl programmers who don’t even feel…’'
+  author: Dtu3ZOhtln, eml, jsoftw
+  tags:
+  - en
+  - tech
+  - programming
+  - Assembly
+  - C
+  - Python
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: I got owned by Partition Magic 8 and a perfectly timed power surge.
+  author: ! '|if3|355'
+  tags:
+  - en
+  - tech
+  - Partition Magic
+- !ruby/struct:Signore::Signature
+  text: „Bez sensu zupełnie. Najpierw jakiś facet z kimś rozmawia w parku, a potem
+    wpada pod tramwaj a potem już w ogóle nie wiadomo o co chodzi. Małgorzaty żadnej
+    tam nie ma i mistrza też nie. No tego się nie da czytać, kurwa.”
+  tags:
+  - pl
+  - literature
+  - The Master and Margarita
+- !ruby/struct:Signore::Signature
+  text: ! 'Wyobraźmy sobie ruchliwą ulicę: to reprezentacja mózgu przeciętnego człowieka.
+    Mój dziś przypomina nieobsiane pole z na wpół martwą krową.'
+  author: opi
+  tags:
+  - pl
