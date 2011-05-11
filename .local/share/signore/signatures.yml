@@ -10793,3 +10793,58 @@
   - tech
   - programming
   - coffee
+- !ruby/struct:Signore::Signature
+  text: Cloud is to datacenter what Ruby is to assembler.
+  author: DevOps Borat
+  tags:
+  - en
+  - tech
+  - performance
+  - cloud
+  - Ruby
+  - Assembler
+- !ruby/struct:Signore::Signature
+  text: Nawet jeśli mam niezłe zadatki na hipstera, nie rozumiem tej mody na małe,
+    ochujałe tatuażyki rozpieprzone po człowieku gdzie bądź.
+  author: Lilarouge
+  tags:
+  - pl
+  - hipster
+- !ruby/struct:Signore::Signature
+  text: An intellectual snob is someone who can listen to the William Tell Overture
+    and not think of The Lone Ranger.
+  author: Dan Rather
+  tags:
+  - en
+  - intelectualism
+- !ruby/struct:Signore::Signature
+  text: I argue very well. Ask any of my remaining friends. I can win an argument
+    on any topic, against any opponent. People know this, and steer clear of me at
+    parties. Often, as a sign of their great respect, they don’t even invite me.
+  author: Dave Barry
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: READ TO COMPREHEND. WRITE TO STDOUT. DRINK TO FORGET.
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: With some people’s code, your best debugging tool is ‘rm’.
+  author: Jesper Lauridsen
+  tags:
+  - en
+  - tech
+  - programming
+  - debugging
+- !ruby/struct:Signore::Signature
+  text: Życie to taka śmierć na wysoko oprocentowane raty.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: „Dziennikarz magazynu Logo” brzmi jak „kapelan KC PZPR”.
+  author: reuptake
+  tags:
+  - pl
+  - journalism
