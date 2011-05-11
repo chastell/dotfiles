@@ -10898,3 +10898,74 @@
   - pl
   - sport
   - football
+- !ruby/struct:Signore::Signature
+  text: ! 'A glosariusz jak ten nauczyciel angielskiego panienek Kossakówien: polyline
+    – polilinia, spline – splajn, dummy – dummy. O, a quadrant = kwadrant. Aż dziwne,
+    że jest okrąg i prostokąt, a nie cyrkiel i rektangiel. Chyba przez niedopatrzenie.'
+  author: Evva
+  tags:
+  - pl
+  - translations
+- !ruby/struct:Signore::Signature
+  text: Any sufficiently advanced operating system is indistinguishable from Unix.
+  author: Alex R. Young
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: The only people who haven’t clicked ‘skip intro’ on your site are you, your
+    Flash developer and people on an iPhone that can’t see it at all.
+  author: Charlie Wollborg
+  tags:
+  - en
+  - webdevelopment
+- !ruby/struct:Signore::Signature
+  text: The key to being a good manager is keeping the people who hate me away from
+    those who are still undecided.
+  author: Casey Stengel
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: If I have not seen as far as others, it is because giants were standing on
+    my shoulders.
+  author: Hal Abelson
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: We’re dropping packets faster then a junkie going through customs.
+  author: enigma
+  tags:
+  - en
+  - tech
+  - networking
+- !ruby/struct:Signore::Signature
+  text: Just now W2K said ‘Excel has performed a forbidden action and Windows will
+    shut down’. This surprised me a little, as Excel wasn’t running.
+  author: Calle Dybedahl
+  tags:
+  - en
+  - tech
+  - Windows
+  - Excel
+- !ruby/struct:Signore::Signature
+  text: Naukowcy odkryli odległy o setki lat świetlnych układ słoneczny zadziwiająco
+    podobny do naszego; na miejscu jest nasz reporter.
+  source: TVN24
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: ! '— Nie wiadomo jak z pojemnością mózgu, może się zapełnić i kto wie co wtedy.
+
+    — No jak to co? Zacznie się swapowanie.
+
+    — Znaczy się, do wątroby?
+
+    — Może wyewoluują jakieś np. dodatkowe zwoje w okolicy lędźwiowej. Można będzie
+    wtedy z czystym sumieniem mówić „nie pamiętam, mam to w dupie”.'
+  author: Ghost, Grzegorz Staniak, Marcin Janczyk
+  source: prf.sf-f
+  tags:
+  - pl
