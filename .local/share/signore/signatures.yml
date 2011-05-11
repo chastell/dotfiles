@@ -11769,3 +11769,82 @@
   tags:
   - pl
   - porn
+- !ruby/struct:Signore::Signature
+  text: def turtles; turtles; end
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I pity the young people watching Microsoft embrace HTML5, and now extend HTML5,
+    who honestly don’t know what comes next.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - Windows
+  - HTML5
+  - Microsoft
+- !ruby/struct:Signore::Signature
+  text: ! 'Two easy steps to quickly get better at programming Ruby: 1) read about
+    enumerable.rb 2) read it again.'
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Log rotation code. It’s right behind cryptography in the list of software
+    you should never, ever write yourself.
+  author: Jeff Hodges
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If I sit here and stare at nothing long enough, people might think I’m an
+    engineer working on something.
+  author: S. R. McElroy
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: The strength to change what I can, the inability to accept what I can’t, and
+    the incapacity to tell the difference.
+  source: Calvin’s prayer
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: There is no God and Dirac is his prophet.
+  author: Wolfgang Pauli
+  tags:
+  - en
+  - tech
+  - religion
+  - maths
+- !ruby/struct:Signore::Signature
+  text: ! 'Amazon just recommended ‘Paradigms of Artificial Intelligence Programming’
+    and ‘Metallica: Kill ’em All’ to me.'
+  author: Defiler
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '— Znacie jakieś zwierzę z rogami?
+
+    — Ślimak.'
+  author: stachu, vandal
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Słuchajcie jaka sensacja na Onecie: „ekonomista kandydatem na ministra
+    finansów”.'
+  author: luk
+  tags:
+  - pl
+  - Onet
+  - politics
