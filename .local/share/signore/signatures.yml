@@ -11697,3 +11697,75 @@
   - pl
   - email
   - top posting
+- !ruby/struct:Signore::Signature
+  text: ! '— Z hajlajtów dzisiejszego dnia, przyszedł do mnie dzisiaj kolega i położył
+    przede mną projekt rachunku/umowy. Wziąłem zatem i poprawiłem składnię i interpunkcję.
+    Kolega wrócił z ubikacji, zbladł i powiedział, że to jedyny egzemplarz i że miałem
+    go PODPISAĆ a nie poprawić.
+
+    — …oraz że to nie miejsce na pieczątkę „WTF?”.
+
+    — Tak, potem się okazało, że bazgroł na dole to był podpis dyrektora jakiegoś
+    tam.'
+  author: DrYoung, Cube
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Uważam, że każdy powinien wykrzykiwać swoje niezwykle ciekawe rozmowy telefoniczne
+    w pokoju, żeby wszyscy mogli usłyszeć.
+  author: Filip Tepper
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: The reason that every major university maintains a department of mathematics
+    is that it is cheaper than institutionalizing all those people.
+  tags:
+  - en
+  - maths
+- !ruby/struct:Signore::Signature
+  text: ! 'design, n.: What you regret not doing later on.'
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: In the ‘I have used $app since 1980 and I ain’t changing’ category, Martin
+    Pitt uploaded Mutt 1.5.13 and Colin Watson uploaded Vim 7.0-122.
+  source: Ubuntu Weekly Newsletter
+  tags:
+  - en
+  - tech
+  - Mutt
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: I think developers should be forced to occasionally delete their dotfiles
+    and restricted from creating new ones for a while. That would probably beat the
+    blank slate experience of many apps into shape rather quickly.
+  author: A. Pagaltzis
+  source: hates-software
+  subject: on (in)sane defaults in Debian
+  tags:
+  - en
+  - tech
+  - Debian
+- !ruby/struct:Signore::Signature
+  text: Nie jestem specjalistą od zwyczajów i przesądów. Jedyny zwyczaj jaki znam
+    to wycieranie butów przed wejściem do domu. Kilka razy wlazłem do swojego domu
+    bez wycierania, a jestem człowiekiem, który uczy się na przykładach dostarczanych
+    przez życie. Z przesądów znam tylko ten, żeby nie atakować dwukrotnie większej
+    grupy ludzi. Jest jakiś fatalizm w tym, gdy jeden cię trzyma, a drugi bije.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Czy Wy macie też objaw, że od patrzenia w LCD na pivocie potem patrząc
+    na coś innego widzicie siatkę LCD?
+
+    — Stary, ja oglądam tyle pornoli, że w metrze widzę same znajome twarze…'
+  author: Osadnik, Kudłaty Na Klacie
+  source: pl.pregierz
+  tags:
+  - pl
+  - porn
