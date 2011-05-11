@@ -11286,3 +11286,45 @@
   tags:
   - pl
   - Amway
+- !ruby/struct:Signore::Signature
+  text: Change is good. You go first.
+  author: Scott Adams
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Only in the last resort should you inflict bodily harm on the project manager.
+    Like cats, they cannot be trained by negative reinforcement.
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '‘How do I find ChatZilla within Firefox?’
+
+    ‘You’re running it; what you’re using right now – that’s ChatZilla.’
+
+    ‘Ah, good point.’'
+  author: David, Hannibal
+  tags:
+  - en
+  - tech
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: If you go hit yourself with a plank, it would make a freely available Unix-like
+    operating system to everyone.
+  author: MegaHAL
+  subject: trained on RMS and the BOFH
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: W skali 1-10, jak bardzo mi nie idzie? 11, kurwa.
+  author: Cashew
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Gapię się bezmyślnie na tulipany w wazonie i mam dysonans sezonowy.
+  author: Cashew
+  subject: w grudniu 2007
+  tags:
+  - pl
