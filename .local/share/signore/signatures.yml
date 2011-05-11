@@ -11848,3 +11848,62 @@
   - pl
   - Onet
   - politics
+- !ruby/struct:Signore::Signature
+  text: Legalize sharing. Or stop teaching it in kindergarten.
+  author: Wade A. Inganamort
+  tags:
+  - en
+  - piracy
+- !ruby/struct:Signore::Signature
+  text: The great thing about TCP jokes is that you always get them.
+  author: Aza Raskin
+  tags:
+  - en
+  - tech
+  - TCP
+- !ruby/struct:Signore::Signature
+  text: If your knees aren’t green by the end of the day, you ought to seriously re-examine
+    your life.
+  author: Calvin
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Of all the luck, my parents had to be humans.
+  author: Calvin
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Remember the old style of Christmas lights where you had a big long string
+    and if one bulb burned out the whole thing burned out and you had to go through
+    each one and find out which single bulb failed? That’s Microsoft.
+  author: Darrin Shewchuk
+  tags:
+  - en
+  - tech
+  - Microsoft
+- !ruby/struct:Signore::Signature
+  text: ! '„Ja, Logik ist mein Fachgebiet; das liegt im Gen.“
+
+    „In welchem?“
+
+    „Im zweiten X.“'
+  author: snupidity, uepsie
+  tags:
+  - de
+  - logic
+  - gender
+- !ruby/struct:Signore::Signature
+  text: „Możliwe, że Gadu-Gadu cenzuruje w ten sposób także inne strony internetowe
+    stanowiące agitację polityczną.” Możliwe, że redaktorzy DI posuwają chomiki.
+  author: reuptake
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: ! 'Właśnie zajrzałem do Wikipedii pod hasło konkordat. Ostatnie cztery: Niemcy
+    za Hitlera, Portugalia za Salazara, Hiszpania za Franco, Polska za Kwaśniewskiego.'
+  author: reuptake
+  tags:
+  - pl
+  - religion
