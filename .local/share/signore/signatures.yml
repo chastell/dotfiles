@@ -10483,3 +10483,61 @@
   tags:
   - pl
   - cats
+- !ruby/struct:Signore::Signature
+  text: The next time the MAFIAA claims you’re breaking imaginary property laws, ask
+    what their kids did last recess. http://www.google.com/patents?vid=6368227
+  author: Jonatan Walck
+  tags:
+  - en
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: Tradition is what you resort to when you don’t have the time or the money
+    to do it right.
+  author: Kurt Herbert Alder
+  tags:
+  - en
+  - tradition
+- !ruby/struct:Signore::Signature
+  text: I used to follow the Hebrew religion, but at a later age I converted to narcism.
+  author: Woody Allen
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Aspect-Oriented Programming is a herculean attempt to bring advice to the
+    Java language, but due to fundamental limitations of Java, it has to be implemented
+    as a language extension with its own compiler and other language tools, which
+    has severely hampered adoption. Another impediment is that Java programmers prefer
+    to write dead systems, and any hint of a breath of life in the system bothers
+    them greatly.
+  author: Steve Yegge
+  tags:
+  - en
+  - tech
+  - programming
+  - AOP
+  - Java
+- !ruby/struct:Signore::Signature
+  text: When the going gets tough, the tough use print().
+  author: Tim Bray
+  subject: on debugging
+  tags:
+  - en
+  - tech
+  - programming
+  - debugging
+- !ruby/struct:Signore::Signature
+  text: ! 'Uroki dziennikarstwa obywatelskiego: „Nadesłał turbo_bekon”.'
+  author: reuptake
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Przed chwilą ktoś przez otwarte okno wrzucił mi do domu petardę, która
+    wybuchła blisko kota. Jak sprawdzić czy kot nie ogłuchł?
+
+    — Otwórz lodówkę.'
+  author: Spider.pl, Adam Płaszczyca
+  source: prz.koty
+  tags:
+  - pl
+  - cats
