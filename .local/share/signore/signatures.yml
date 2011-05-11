@@ -12284,3 +12284,87 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: If you watch NASA backwards, it’s about a space agency that has no spaceflight
+    capability, then does low-orbit flights, then lands on moon.
+  author: Thomas Fuchs
+  tags:
+  - en
+  - NASA
+- !ruby/struct:Signore::Signature
+  text: Once the last developer is locked up and the last idea patented you will realise
+    that lawyers can’t program.
+  author: Christian Heilmann
+  tags:
+  - en
+  - patents
+- !ruby/struct:Signore::Signature
+  text: The only way to keep your health is to eat what you don’t want, drink what
+    you don’t like, and do what you’d rather not.
+  author: Mark Twain
+  tags:
+  - en
+  - health
+- !ruby/struct:Signore::Signature
+  text: „rómby swoej”.
+  author: Filip Tepper
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Pan z Open Finance pomylił imię żony. Mojej. Bardzo źle trafił.
+  author: Filip Tepper
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Robienie sobie samemu korekty to jak masturbacja: można samemu, w pewnym
+    wieku nawet nie ma wyjścia, potem człowiek rozumie, że jednak większa satysfakcja
+    płynie ze współpracy.'
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '‘The Greek “hell” was cold, like the Norse.’
+
+    ‘The Christian hell is also pretty cold, compared to its heaven; it has liquid
+    sulfur in it, so it can’t be over 400 celsius… on the other hand, the Bible describes
+    the sun in heaven shining like 7 suns, each 7 times as bright, which gives an
+    estimate of 2000-3000 celsius.’'
+  author: Nukleon, @amz
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Did you know that helicopters are souls of fallen tanks?
+  author: Goof
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Drupal on IRC is like a group jerk, and I’m like, ‘dudes, get the code out,
+    you can always fix it later…’
+  author: overheard somewhere
+  tags:
+  - en
+  - tech
+  - Drupal
+- !ruby/struct:Signore::Signature
+  text: perl -Mre=debug -e "/just|another|perl|hacker/"
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: Gdyby było tak jak Pani redaktor mówi, to ja nie siedziałbym na tym miejscu
+    w poczuciu niespełnionej misji.
+  author: Kazimierz Marcinkiewicz
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Ja również bardzo dziękuję za szereg celnych pytań i uwag, szeroko się uśmiecham
+    i gwarantuję, że to się nie zmieni.
+  author: Kazimierz Marcinkiewicz
+  tags:
+  - pl
+  - politics
