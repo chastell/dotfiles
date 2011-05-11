@@ -11378,3 +11378,62 @@
   tags:
   - pl
   - science
+- !ruby/struct:Signore::Signature
+  text: Rescued a ThinkPad from a thrift store. Loaded Haiku OS on it. Using the Colemak
+    keymap. Once RVM is running this will be perfect.
+  author: Ruby Hipster
+  tags:
+  - en
+  - tech
+  - Ruby
+  - hipster
+- !ruby/struct:Signore::Signature
+  text: ! 'summer’s essence drowns
+
+    in gloomy eve of winter
+
+    wind blows bricktext in'
+  author: Alan J. Rosenthal
+  tags:
+  - en
+  - haiku
+  - poetry
+  - bricktext
+- !ruby/struct:Signore::Signature
+  text: If terror against terrorists would be enough, Israel wouldn’t be having problems
+    now.
+  author: Rebecca Ore
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Also, I think there is a typo in the opening. Where you say ‘Ruby is slow’,
+    I think what you mean is ‘Ruby is an extremely powerful and flexible language’.
+    It’s an understandable mistake, all of the keys are so close to each other.
+  author: GD
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Microsoft Paint is so fucking hateful in so many ways that you’re better off
+    waving a tiny magnet over the disk surface to make the image.
+  author: Peter da Silva
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - Paint
+- !ruby/struct:Signore::Signature
+  text: Sklep rybny „Delfin”. Raduje mnie od lat.
+  author: Cloudy
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Wyczesałam kota drucianą szczotką „dla dużych psów”. Rozmruczał się na całego.
+  author: Cloudy
+  tags:
+  - pl
+  - cats
