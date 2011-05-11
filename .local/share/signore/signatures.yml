@@ -10630,3 +10630,52 @@
   author: opi
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Dzisiejszy obiad był takim świadectwem wynarodowienia, że następnym razem
+    straż graniczna nie wpuści mnie bez wizy.
+  author: reuptake
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: There are very few people who look good in red lipstick, and those people
+    usually juggle for a living.
+  author: Maddox
+  subject: on fashion
+  tags:
+  - en
+  - fashion
+- !ruby/struct:Signore::Signature
+  text: When I’m smart enough to remember that I’m not as smart as I think I am, I
+    do okay. The problem is, I’m not always that smart.
+  author: Matthew Helmke
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’ll sit at bars and write Perl on my napkin until girls are so thick around
+    me I can’t move my body.
+  author: johnsmith
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: Never underestimate the power of a small tactical Lisp interpreter.
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: Jak się chce sprzedawać tulipana, to się go nazywa tulipan Carla Bruni, a
+    nie tulipan Maria Kaczyńska.
+  author: DrYoung
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Nie ma śledzi bez róży. I kolców.
+  author: opi
+  tags:
+  - pl
