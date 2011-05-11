@@ -11223,3 +11223,66 @@
   tags:
   - pl
   - cycling
+- !ruby/struct:Signore::Signature
+  text: Uruchomiłem pralkę w trybie debugowania.
+  author: DrYoung
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Homeopathy is ‘alternative medicine’ in roughly the same way that my pointed
+    finger is an ‘alternative gun’.
+  author: Chris MacDonald
+  tags:
+  - en
+  - homeopathy
+- !ruby/struct:Signore::Signature
+  text: Being able to read minds would be of limited value without the ability to
+    also write minds, considering all the blank media out there.
+  author: Anthony de Boer
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It is well to remember that the entire universe, with one trifling exception,
+    is composed of others.
+  author: John Andrew Holmes
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’ve seen Sun monitors on fire off the side of the multimedia lab. I’ve seen
+    NTU lights glitter in the dark near the Mail Gate. All these things will be lost
+    in time, like the root partition last week. Time to die…
+  author: Peter Gutmann
+  source: asr
+  tags:
+  - en
+  - tech
+  - Blade Runner
+- !ruby/struct:Signore::Signature
+  text: Exim is better at being younger, whereas Sendmail is better for Scrabble (50
+    point bonus for clearing your rack).
+  author: Dave Evans
+  tags:
+  - en
+  - tech
+  - email
+  - Exim
+  - Sendmail
+- !ruby/struct:Signore::Signature
+  text: ! 'Pojedynek na schodach to jest to: Nobel z rapierem, Mittag-Leffler takoż,
+    Alfred wyprowadza sztych, piękna riposta Gösty trafia go w ramię, Alfred upuszcza
+    broń, Gösta chwyta dzewczynę (omdlewającą), uciekają, odwozi ją do domu… i oczywiście
+    natychmiast zasuwa do biblioteki.'
+  author: Piotr W. Cholewa
+  source: prf.sf-f
+  subject: w wątku o braku Nagrody Nobla z matematyki
+  tags:
+  - pl
+  - maths
+- !ruby/struct:Signore::Signature
+  text: Jedyny kontakt z byłą klasą licealną miałem wtedy, gdy koleżanka zaprosiła
+    mnie na imprezę, podczas której demonstrowała, jak środki Amwaya czyszczą dwuzłotówkę.
+  author: reuptake
+  tags:
+  - pl
+  - Amway
