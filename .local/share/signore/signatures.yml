@@ -10423,3 +10423,63 @@
   tags:
   - pl
   - books
+- !ruby/struct:Signore::Signature
+  text: Milczę, bo jedyne co mi przychodzi do głowy to niecenzuralne WYRAZY pod adresem
+    tego złamanego chuja co mi zapierdolił rower.
+  author: DrYoung
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: życie. życie. chciałbym mieć ciche jak zbiegły esesman.
+  author: Roman Honet
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Not a shred of evidence exists in favor of the idea that life is serious.
+  author: Brendan Gill
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: An atheist is a man who has no invisible means of support.
+  author: John Buchan
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ‘Bother’, said Pooh, as he bounced off the Starfury.
+  author: Walt Mazur
+  tags:
+  - en
+  - Babylon 5
+  - Winnie-the-Pooh
+- !ruby/struct:Signore::Signature
+  text: The rules for the ASR Drinking Game, as hashed out over a period of several
+    decades ending on 27 January 2007, are quite simple. When something happens, drink.
+    As much as necessary.
+  source: asr FAQ
+  tags:
+  - en
+  - tech
+  - asr
+- !ruby/struct:Signore::Signature
+  text: ! '— Gdyby wszyscy byli inteligentni to JKM zdobyłby 100% głosów. Ponieważ
+    tyle nie zdobył to demokracja jest złym ustrojem. Co należało udowodnić.
+
+    — Pięknie. Teraz to samo ale z Linuksem.'
+  author: Jacek Popławski, Zbigniew Cofała
+  source: pl.pregierz
+  tags:
+  - pl
+  - tech
+  - politics
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: ! '— Kocur mi przestał żreć. Wodę tylko pije… i tak już parę ładnych godzin.
+    Co może być przyczyną?
+
+    — Nie jest głodny.'
+  author: Tomek, RoMan Mandziejewicz
+  source: prz.koty
+  tags:
+  - pl
+  - cats
