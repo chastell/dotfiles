@@ -2859,8 +2859,8 @@
   - war
   - cynicism
 - !ruby/struct:Signore::Signature
-  text: ‘The best thing for being sad,’ replied Merlyn, beginning to puff and blow,
-    ‘is to learn something.’
+  text: ‘The best thing for being sad’, replied Merlyn, beginning to puff and blow,
+    ‘is to learn something’.
   author: T. H. White
   source: The Once and Future King
   tags:
@@ -11029,3 +11029,50 @@
   tags:
   - pl
   - students
+- !ruby/struct:Signore::Signature
+  text: I find that principles have no real force except when one is well fed.
+  author: Mark Twain
+  tags:
+  - en
+  - morals
+- !ruby/struct:Signore::Signature
+  text: I do NOT ‘sit at my desk and mumble at the goldfish’. When I’m talking to
+    the goldfish, I always enunciate clearly, thank you.
+  author: Luna the Cat
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: I don’t want to call a destructor on my objects, I want to call a destroyer.
+    Gozer has come for your memory, little PersistentNode!
+  author: Joel Gluth
+  source: asr
+  tags:
+  - en
+  - tech
+  - programming
+  - Ghostbusters
+- !ruby/struct:Signore::Signature
+  text: ! '‘Yeah, I know. It was a long time ago and I was a lot more optimistic then.’
+
+    ‘And besides, the CNAME is dead.’'
+  author: Mike Sphar, Greg Andrews
+  source: asr
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Film pełnometrażowy „K for Victory” będzie kręcony w mojej kuchni za 40
+    sekund. Występują: Kawa Kawa, znana z takich filmów jak „Mam kaca” i „Pić”.'
+  author: opi
+  tags:
+  - pl
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: Zastanawiam się, z czego musiałabym mieć skonstruowany mózg, aby odczuwać
+    zwiększoną lojalność w zamian za disco bandżo z darmową kiełbasą. Chyba z podpałki
+    do grilla.
+  author: jasmina_tdi
+  tags:
+  - pl
+  - marketing
