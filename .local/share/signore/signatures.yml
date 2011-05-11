@@ -11167,3 +11167,59 @@
   author: reuptake
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: A tangled cable is a happy cable.
+  author: Roger Burton West
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Cats seem to go on the principle that it never does any harm to ask for what
+    you want.
+  author: Joseph Wood Krutch
+  tags:
+  - en
+  - cats
+- !ruby/struct:Signore::Signature
+  text: Being a sysadmin is like hitting yourself in the head with a brick. Eventually
+    it doesen’t hurt too bad and you actually look forward to it, because the more
+    it happens, the less it hurts.
+  author: Bill Bradford
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Interestingly, most Unix utilities have a command line option which will cause
+    the system to rip the user’s legs off and beat them to death with the soggy ends.
+    This is often the default behaviour.
+  author: Bruce Murphy
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! '— Kacza jest bardzo krótka i pocięta na dwa osobne kawałki. Gorzej! Jest
+    równoległa do Żytniej! Mało tego. Obok jest ulica Wolność. Ulica Wolność się w
+    pewnym momencie rozwidla – jedna odnoga dalej nazywa się Wolność i idzie w jedną
+    stronę, a druga odnoga nazywa się Kacza i idzie w drugą…
+
+    — Mapa pokazuje jeszcze, że Kacza to ślepa uliczka.'
+  author: Jacek Wesołowski, Marcin ‘Igor’ Wieczorek
+  source: pl.pregierz
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— Czy opony rowerowe (podobine jak samochodowe) mają jakieś indeksy prędkości?
+    Wczoraj udało mi się rozpędzić mój bolid do prędkości 71 km/h i po tym wyczynie
+    moja tylna oponka zaczęła wyglądać jak jakiś flak…
+
+    — Może złapałeś gumę?
+
+    — Guma przy tej prędkości to już prawie murowana gleba i taki szlif, że do końca
+    górki dojadą same oczy.'
+  author: OkO, stefe, Przemek Kuchta
+  source: pl.rec.rowery
+  tags:
+  - pl
+  - cycling
