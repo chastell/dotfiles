@@ -4463,6 +4463,7 @@
   author: opi
   tags:
   - pl
+  - tech
   - work
 - !ruby/struct:Signore::Signature
   text: I really don’t like programming. I built this tool to program less so that
@@ -10969,3 +10970,62 @@
   source: prf.sf-f
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I am getting frustrated by the number of people calling any HTTP-based interface
+    a REST API. Today’s example is the SocialSite REST API. That is RPC. It screams
+    RPC. There is so much coupling on display that it should be given an X rating.
+  author: Roy T. Fielding
+  source: REST APIs must be hypertext-driven
+  tags:
+  - en
+  - tech
+  - REST
+- !ruby/struct:Signore::Signature
+  text: Każdy z nas niesie swój krzyż, zbity z drewnianych mózgów znajomych na Fejsie.
+  author: Tomash
+  tags:
+  - pl
+  - social networks
+- !ruby/struct:Signore::Signature
+  text: Technology is the knack of so arranging the world that we do not experience
+    it.
+  author: Max Frisch
+  tags:
+  - en
+  - technology
+- !ruby/struct:Signore::Signature
+  text: A positive attitude may not solve all your problems, but it will annoy enough
+    people to make it worth the effort.
+  author: Herm Albright
+  tags:
+  - en
+  - ideals
+- !ruby/struct:Signore::Signature
+  text: I can see an opening for the Four Lusers of the Apocalypse… ‘I didn’t change
+    anything’, ‘My e-mail doesn’t work’, ‘I can’t print’ and ‘Is the network broken?’
+  author: Paul McAuley
+  tags:
+  - en
+  - tech
+  - support
+- !ruby/struct:Signore::Signature
+  text: ! 'Coding is easy: all you do is sit staring at a terminal until the drops
+    of blood form on your forehead.'
+  author: Simon Cozens
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Praca bez kawy jest jak taka rzecz, która nie ma sensu i jest ciężka do zrobienia.
+  author: opi
+  tags:
+  - pl
+  - coffee
+  - work
+- !ruby/struct:Signore::Signature
+  text: Jestem studentem, mam prawo nie wiedzieć jak się nazywa mój wykładowca…
+  author: std
+  tags:
+  - pl
+  - students
