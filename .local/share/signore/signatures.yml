@@ -11588,3 +11588,58 @@
   tags:
   - pl
   - poetry
+- !ruby/struct:Signore::Signature
+  text: I’m pretty sure standing on a human pyramid of intellectual dwarves is not
+    equivalent to standing on the shoulder of an intellectual giant.
+  author: Jared Quinert
+  tags:
+  - en
+  - tech
+  - programming
+  - open source
+- !ruby/struct:Signore::Signature
+  text: There is a Wikipedia article called ‘Evil laughter’ and ‘Mwahahaha’ redirects
+    there.
+  author: Konstantin Haase
+  tags:
+  - en
+  - Wikipedia
+- !ruby/struct:Signore::Signature
+  text: I’m trying to limit my extremism to every other day.
+  author: Chris ‘Saundo’ Saunderson
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The event horizon as a security hack.
+  author: Peter da Silva
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Your eyes are weary from staring at the CRT. You feel sleepy. Notice how restful
+    it is to watch the cursor blink. Close your eyes. The opinions stated above are
+    yours. You cannot imagine why you ever felt otherwise.
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I’m reminded of the day my daughter came in, looked over my shoulder at some
+    Perl 4 code, and said, ‘What is that, swearing?’
+  author: Larry Wall
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: ! 'Forbes jest nieoceniony: „dobra rada: najlepsze nazwy domen są krótkie,
+    atrakcyjne, treściwe i łatwe do zapamiętania”. Wpadłbyś na to?'
+  author: reuptake
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Czy czytanie basha i jabberowanie nie jest najlepszym objawem frajerstwa?
+    Znaczy w knajpie. Telefonem.
+  author: opi
+  tags:
+  - pl
+  - geek
