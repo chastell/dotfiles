@@ -11907,3 +11907,47 @@
   tags:
   - pl
   - religion
+- !ruby/struct:Signore::Signature
+  text: This sentence is the thought you are thinking right now.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'There once was a horse-riding chap
+
+    Who took a trip in a cold snap
+
+    He stopped in the snow
+
+    But he soon had to go:
+
+    He was miles away from a nap.'
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: echo Prpv a\'rfg cnf har cvcr | tr Pacfghnrvp Cnpstuaeic
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: You could wire up a dead rat to a DIMM socket and the PC BIOS memory test
+    would pass it just fine.
+  author: Ethan Benson
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Dzielić się ze mną melancholią to jak szmuglować trawkę na Jamajkę.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Czy to prawda, że migając długimi światłami samochodu wtedy, kiedy na
+    skrzyżowaniu świeci się czerwone, to zmiania się na zielone?
+
+    — A jak zatrąbisz to na niebieskie.'
+  author: TJE, Boombastic
+  source: pl.misc.samochody
+  tags:
+  - pl
