@@ -7582,14 +7582,6 @@
   - en
   - Wikipedia
 - !ruby/struct:Signore::Signature
-  text: The Linux philosophy is ‘Laugh in the face of danger’. Oops. Wrong one. ‘Do
-    it yourself’. Yes, that’s it.
-  author: Linus Torvalds
-  tags:
-  - en
-  - tech
-  - Linux
-- !ruby/struct:Signore::Signature
   text: Intelligence is the ability to avoid doing work, yet getting the work done.
   author: Linus Torvalds
   tags:
@@ -11951,3 +11943,54 @@
   source: pl.misc.samochody
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! '‘I already got the point: you have *very* thin skin.’
+
+    ‘And either no grasp of paragraphs or a broken enter key.’
+
+    ‘Actually that''s excellent news! If his enter key is broken, there might be hope
+    that the others will break too.’'
+  author: Chad Perrin, Sy Ali, Robert Dober
+  source: ruby-talk
+  subject: on Joe Wiltrout
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: First they ignore you, then they laugh at you, then they fight you, then you
+    bitchslap ’em.
+  author: opi
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Bruce Schneier’s tears can burn holes through an OpenBSD firewall. Lucky for
+    us, Bruce Schneier never cries.
+  source: Bruce Schneier Facts
+  tags:
+  - en
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: Bruce Schneier knows Alice and Bob’s shared secret.
+  author: Bruce Schneier Facts
+  tags:
+  - en
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: ! '— Wymagane jest trochę zdrowego rozsądku i pamięć o fakcie, że to zapis
+    matematyczny stara się opisać fizykę, a nie fizyka jest niewolnicą zapisu matematycznego.
+
+    — Różnie bywa. Taki Dirac np. ułożył równanie elektronu i wyszło mu, że rozwiązania
+    są dwa. Natura zrozumiała swój błąd i czym prędzej zrobiła anty-elektron.'
+  author: A. Grodecki, J.F.
+  source: pl.misc.elektronika
+  tags:
+  - pl
+  - science
+- !ruby/struct:Signore::Signature
+  text: Przy obecnej jakości kandydatów pójście na wybory to przyjemność, którą można
+    porównać jedynie z wizytą w burdelu celem wybrania sobie żony.
+  author: Kosior
+  tags:
+  - pl
+  - politics
