@@ -11076,3 +11076,48 @@
   tags:
   - pl
   - marketing
+- !ruby/struct:Signore::Signature
+  text: ! '‘…though I can’t really write much these days. But I am always up for a
+    chat, live, on IRC, via email, or on the phone.’
+
+    ‘No wonder you don’t have time to write much.’'
+  author: martin f krafft, Holger Levsen
+  source: debian-curiosa
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Reminds me of my safari in Africa. Somebody forgot the corkscrew and for several
+    days we had to live on nothing but food and water.
+  author: W. C. Fields
+  tags:
+  - en
+  - wine
+- !ruby/struct:Signore::Signature
+  text: I wanted to be a fascist dictator, but it’s hard getting an interview without
+    the experience. I thought network management would be a good stepping stone.
+  author: Robert Franklin
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Just think – blessed SCSI cables! Do a big enough sacrifice and create a +5,
+    blessed SCSI cable of connectivity.
+  author: Lionel Lauer
+  tags:
+  - en
+  - tech
+  - networks
+- !ruby/struct:Signore::Signature
+  text: „Jak prawidłowo złożyć spadochron”, instrukcja, wydanie drugie, poprawione.
+  author: dwukropek
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Chciałem napisać, że strasznie za mną chodzą małże, ale zorientowałem się,
+    że to głupio brzmi.
+  author: reuptake
+  tags:
+  - pl
+  - food
