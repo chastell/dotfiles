@@ -12238,3 +12238,49 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: ! '‘What I want to know is why Gandalf didn’t rescue Merry and Pippin from
+    the Ents.’
+
+    ‘Would you?’
+
+    ‘Good point.’'
+  author: Fat-Burrick, Tumbleweed
+  tags:
+  - en
+  - Lord of the Rings
+- !ruby/struct:Signore::Signature
+  text: The most secure computer in the world is one not connected to the Internet.
+    That’s why I recommend Telstra ADSL.
+  author: FreeFrag
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Happiness is going NIH on your own stuff.
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘The guy is a NetBSD bigot for the most part.’
+
+    ‘Is this one of those irregular adverbs? “I’m an advocate. You’re a fanatic. He’s
+    a bigot.”’'
+  author: Scott Dier, Michael T. Richter
+  tags:
+  - en
+  - tech
+  - advocacy
+- !ruby/struct:Signore::Signature
+  text: Nie obawiam się o przyszłość kraju, gdyż szeroko zakrojone prace wskazują
+    nam światło w tunelu.
+  author: Kazimierz Marcinkiewicz
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Jeśli wszystko pójdzie zgodnie z planem, zamierzone cele zostaną zrealizowane.
+  author: Kazimierz Marcinkiewicz
+  tags:
+  - pl
+  - politics
