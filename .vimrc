@@ -67,8 +67,6 @@ let g:VCSCommandDeleteOnHide = 1
 let mapleader = ','
 inoremap ((         ()<left>
 inoremap {{         {}<left>
-nnoremap n          nzz
-nnoremap N          Nzz
 nnoremap <c-l>      :nohls<enter><c-l>
 nnoremap <enter>    O<esc><down>
 nnoremap <leader>h  :set hlsearch!<enter>
