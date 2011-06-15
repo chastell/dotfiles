@@ -1,5 +1,3 @@
-colorscheme neverland2-darker
-
 setlocal formatoptions+=1
 setlocal noautoindent nosmartindent
 
