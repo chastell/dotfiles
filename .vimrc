@@ -69,7 +69,6 @@ inoremap ((         ()<left>
 inoremap {{         {}<left>
 nnoremap <c-l>      :nohls<enter><c-l>
 nnoremap <enter>    O<esc><down>
-nnoremap <leader>h  :set hlsearch!<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>rr gq}
 nnoremap <leader>s  :setlocal spell! spelllang=en_gb<enter>
