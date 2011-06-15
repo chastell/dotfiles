@@ -21,8 +21,6 @@ Bundle 'repeat.vim'
 "Bundle 'ruby-matchit'
 Bundle 'snipMate'
 Bundle 'surround.vim'
-Bundle 'taglist.vim'
-Bundle 'vcscommand.vim'
 
 " end Vundle setup
 filetype plugin indent on
