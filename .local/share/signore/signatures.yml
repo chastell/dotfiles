@@ -12633,3 +12633,72 @@
   tags:
   - pl
   - religion
+- !ruby/struct:Signore::Signature
+  text: I � Unicode
+  author: Johan Lind
+  tags:
+  - en
+  - tech
+  - Unicode
+- !ruby/struct:Signore::Signature
+  text: Quality means doing it right when no one is looking.
+  author: Henry Ford
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'I wrote three lines of Perl and it contained two bugs. PERL: NOT EVEN ONCE.'
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: The existential root of libertarianism is the experience of being very bad
+    at taking orders from morons.
+  author: Leopold Leider
+  tags:
+  - en
+  - politics
+  - libertarianism
+  - ideology
+- !ruby/struct:Signore::Signature
+  text: God seems to have a kind of laid-back management style I’m not crazy about.
+    I’m pretty much anti-death. God looks by all accounts to be pro-death. I’m not
+    seeing how we can get together on this issue, he and I.
+  author: Dave Foster Wallace
+  source: Infinite Jest
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I’m not writing shitty code; I’m creating refactoring opportunities.
+  author: Steven R. Baker
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Chemistry is applied theology.
+  author: Augustus Stanley Owsley III
+  tags:
+  - en
+  - religion
+  - science
+- !ruby/struct:Signore::Signature
+  text: '::: nick: klr >>> niesmialy_roman
+
+    <niesmialy_roman> romantyk miało być -,-'
+  tags:
+  - pl
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: Zmutowane chomiki debile, mieszkające w schronie, jedzące breję z automatu
+    (chyba to białko z królików), pilnowane przez odkurzacz i tajemnicze peryskopy,
+    doznające olśnienia na skutek promieniowania wiatraka, porozumiewające się monosylabami.
+  author: yamabushi
+  subject: o Teletubisiach
+  tags:
+  - pl
+  - TV
