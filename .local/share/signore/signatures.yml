@@ -12492,3 +12492,94 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: ! 'Powinnam mantrować: „nie mam wyjebane na uniwerek i pojadę zebrać wpisy”,
+    ale chwilowo mam wyjebane na uniwerek i mi się nie chce. Zresztą po chuj mi tyle
+    wpisów – najfajniejsze już mam.'
+  author: Lilarouge
+  tags:
+  - pl
+  - education
+- !ruby/struct:Signore::Signature
+  text: Trzy osoby prowadzą jeden projekt. Dwie są totalnie nieogarnięte a trzecia
+    totalnie nie ma czasu. Co za szczęście, że mam sorbet cytrynowy.
+  author: Evva
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Jedna godzina informatyki, dwie godziny religii.
+  author: DrYoung
+  tags:
+  - pl
+  - education
+  - religion
+- !ruby/struct:Signore::Signature
+  text: US coal power fleet kills 10,000 a year; Fukushima will kill under 100, total.
+    We are very bad at evaluating risks.
+  author: David Keith
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! 'Hard kitty, cold kitty,
+
+    Little ball of steel.
+
+    Evil kitty, angry kitty,
+
+    Kill, kill, kill.'
+  tags:
+  - en
+  - Big Bang Theory
+- !ruby/struct:Signore::Signature
+  text: Science is what we can tell a computer. Art is everything else.
+  author: Donald Knuth
+  tags:
+  - en
+  - science
+  - art
+- !ruby/struct:Signore::Signature
+  text: If I had wanted your website to make noise I would have licked my finger and
+    rubbed it across the monitor.
+  author: istartedi
+  subject: /.
+  tags:
+  - en
+  - web
+- !ruby/struct:Signore::Signature
+  text: I always thought Smalltalk would beat Java, I just didn’t know it would be
+    called ‘Ruby’ when it did.
+  author: Kent Beck
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+  - Smalltalk
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! '* Qwyxzl growls at his connection
+
+    * Furion sees his virus is working.
+
+    * Qwyxzl gets out his Furion voodoo doll
+
+    * Furion Quit (Ping timeout)
+
+    <Elessa> whoa!'
+  tags:
+  - en
+  - tech
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: Wiesz, że powinieneś posprzątać, gdy sięgając po kartę PCMCIA umazałeś się
+    majonezem.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Lubię czytać badania naukowe, które potwierdzają, że jestem fajny.
+  author: opi
+  tags:
+  - pl
