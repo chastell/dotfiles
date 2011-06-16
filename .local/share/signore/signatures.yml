@@ -12583,3 +12583,53 @@
   author: opi
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Klaty we włosach.
+  author: Filip Tepper
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: One man alone can be pretty dumb sometimes, but for real bona fide stupidity,
+    there ain’t nothin’ can beat teamwork.
+  author: Edward Abbey
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: The fundamental delusion of humanity is to suppose that I am here and you
+    are out there.
+  author: Yasutani Roshi
+  tags:
+  - en
+  - humanity
+- !ruby/struct:Signore::Signature
+  text: Oh, and women don’t fall for the ‘I hack kernel stuff’ line. I was lied to.
+  author: Mariusz Mazur
+  subject: gives up on linux-libc-headers
+  tags:
+  - en
+  - tech
+  - Linux
+  - kernel
+- !ruby/struct:Signore::Signature
+  text: Write documentation as if whoever reads it is a violent psychopath who knows
+    where you live.
+  author: Steve English
+  tags:
+  - en
+  - tech
+  - programming
+  - documentation
+- !ruby/struct:Signore::Signature
+  text: To jest niepojęte, że jednemu człowiekowi może aż tyle rzeczy się pieprzyć.
+  author: Norr
+  subject: o opim
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Oczywiście. 100% nauczycieli i uczniów w szkole im. JP2 to katolicy, tak samo
+    jak 100% przedszkolaków z przedszkola im. Kubusia Puchatka to niedźwiedzie.
+  author: da killa
+  tags:
+  - pl
+  - religion
