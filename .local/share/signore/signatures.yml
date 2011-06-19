@@ -12755,3 +12755,62 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: My microwave has no 3 key, but I can enter 2:60.
+  author: Tom Igoe
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: So far as I can remember, there is not one word in the Gospels in praise of
+    intelligence.
+  author: Bertrand Russell
+  tags:
+  - en
+  - religion
+  - intelligence
+- !ruby/struct:Signore::Signature
+  text: No, that’s ad hominem. You’re an idiot, so you can’t tell the difference.
+  author: Terry Austin
+  tags:
+  - en
+  - rhetorics
+- !ruby/struct:Signore::Signature
+  text: My favourite was some time ago, and involved a female customer thanking ‘Mr.
+    Daemon’ for his effort trying to deliver her mail, and offering him a ‘good time’
+    if he ever visited Sydney.
+  author: Matt McLeod
+  tags:
+  - en
+  - tech
+  - admin
+  - email
+- !ruby/struct:Signore::Signature
+  text: ! '‘Show me something /equally useful/ to Windows.’
+
+    ‘Rabies?’'
+  author: NRen2k5, Jim
+  source: alt.music.mp3
+  tags:
+  - en
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: ! '— Mojego kota nawet schabem trzeba karmić w ten sposób, że po kawałeczku
+    z miseczki do pyszczka wsadzać.
+
+    — Może nie żyje?'
+  author: DeJotPe, Kajko
+  source: pl.pregierz
+  tags:
+  - pl
+  - cats
+- !ruby/struct:Signore::Signature
+  text: Isaiah Berlin w swoim biograficznym eseju rzucił parę razy niefrasobliwe zdanie
+    typu „jak określił to w liście do Engelsa…”, bez żadnej daty czy pomocy w szukaniu.
+    Co żem się tych listów nawertował, to chyba nawet prezydent Kaczyński tak wnikliwie
+    Lenina nie badał.
+  author: Wojciech Orliński
+  source: prf.sf-f
+  tags:
+  - pl
+  - literature
+  - politics
