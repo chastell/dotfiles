@@ -12814,3 +12814,72 @@
   - pl
   - literature
   - politics
+- !ruby/struct:Signore::Signature
+  text: W Narodowym Korpusie Języka Polskiego połączenie „nieustannie zadowolony”
+    ma tylko dwa wystąpienia, oba odnoszące się do kotów.
+  author: Mirosław Bańko
+  source: Poradnia PWN
+  tags:
+  - pl
+  - cats
+- !ruby/struct:Signore::Signature
+  text: I will stand up, here and now, for that most important of rights – the right
+    to be intolerant. To dislike, to despise, abhor, abominate, hold in contempt,
+    look down upon, dismiss, reject, eject, and damn well piss on any group or individual
+    you should happen to feel offends your sense of what is right, including but not
+    necessarily limited to promiscuous people, people who don’t keep their word, criminals,
+    people who say "my bad" and mean it, drivers who jump queues, pedestrians who
+    push into queues, people who don’t look where they’re shoving their damned shopping
+    trolley, spammers, people who use one’s first name when they don’t know one, small
+    children who are seen and heard, people who run into your parked car and drive
+    off without leaving a note, people who tell tasteless personal jokes about other
+    people (and not to their face), office politicians, people who think void main()
+    is acceptable, people who don’t but don’t know why, people who think data and
+    agenda are singulars, and so on and so forth. Damn it, does no-one think anything’s
+    just plain wrong any more?
+  author: Alistair J. R. Young
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Graphic artists are attached to their Macs with the same fanaticism that a
+    pitbull terrier is attached to your leg.
+  author: Jamie Bowden
+  tags:
+  - en
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: It was mentioned on CNN that the new prime number discovered recently is four
+    times bigger then the previous record.
+  author: John Blasik
+  tags:
+  - en
+  - math
+  - BBC
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Unix is hard to learn. The process of learning it is one of multiple small
+    epiphanies.
+  author: Neal Stephenson
+  tags:
+  - en
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! '— Hey, we’re talking about two hours but I still don’t know where are you
+    from.
+
+    — Poland, what about you?
+
+    — Kurwa…'
+  author: riko, ogarevitsh
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Faktem jest, że linki na Onecie przyciągają, bo jak widzę „Premier zamordowany”
+    to zawsze kliknę, żeby się przekonać, że chodziło o Burkina-Faso, a na dodatek
+    premier był zamordowany 10 lat temu i dopiero teraz to wyszło na jaw.
+  author: reuptake
+  source: net_talk
+  tags:
+  - pl
+  - journalism
+  - Onet
