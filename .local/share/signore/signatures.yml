@@ -12702,3 +12702,56 @@
   tags:
   - pl
   - TV
+- !ruby/struct:Signore::Signature
+  text: You know, I’ve gone to a lot of psychics, and they’ve told me a lot of different
+    things, but not one of them has ever told me ‘you are an undercover policewoman
+    here to arrest me’.
+  author: New York City undercover policewoman
+  tags:
+  - en
+  - psychics
+- !ruby/struct:Signore::Signature
+  text: Ignorance of your profession is best concealed by solemnity and silence, which
+    pass for profound knowledge upon the generality of mankind.
+  source: Advice to Officers of the British Army, 1783
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Software developed by a loose confederation of drunken graduate students under
+    the mistaken belief that their work is actually worth something to someone.
+  author: Alex Rosenberg
+  subject: on open source
+  tags:
+  - en
+  - tech
+  - programming
+  - Open Source
+- !ruby/struct:Signore::Signature
+  text: If I ever saw an animated penguin with a speech bubble saying, ‘It looks like
+    you’re trying to edit fstab’, I’d switch to BSD faster than a speeding Gentoo
+    user.
+  author: Paul Hudson
+  tags:
+  - en
+  - tech
+  - Linux
+  - Gentoo
+  - BSD
+- !ruby/struct:Signore::Signature
+  text: …szczytem wyrafinowania są rozmaite deformatory twarzy, które chyba trochę
+    odchodzą w zapomnienie, gdy na wysokich stanowiskach w rządzie zasiadają osoby,
+    które już jakby przez te deformatory przeszły.
+  author: Marcin Jagodziński
+  source: net_talk
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Marcinkiewicz będzie startował w Konkursie Chopinowskim, prowadzi się poszukiwania
+    odpowiedniego jury.
+  author: Marek Dyjor
+  source: pl.pregierz
+  tags:
+  - pl
+  - politics
