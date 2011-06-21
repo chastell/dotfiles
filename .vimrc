@@ -4,23 +4,16 @@ filetype off
 set runtimepath+=$HOME/coding/vundle
 call vundle#rc()
 
-Bundle 'Align'
-Bundle 'Command-T'
-Bundle 'LaTeX-Suite-aka-Vim-LaTeX'
 Bundle 'LustyExplorer'
-Bundle 'LustyJuggler'
 Bundle 'Markdown'
 Bundle 'Parameter-Text-Objects'
+Bundle 'SuperTab-continued.'
+Bundle 'Tagbar'
 Bundle 'The-NERD-tree'
-Bundle 'ack.vim'
-Bundle 'bufexplorer.zip'
 Bundle 'endwise.vim'
 Bundle 'fugitive.vim'
-"Bundle 'matchit.zip'
-Bundle 'repeat.vim'
-"Bundle 'ruby-matchit'
-Bundle 'snipMate'
 Bundle 'surround.vim'
+Bundle 'unimpaired.vim'
 
 " end Vundle setup
 filetype plugin indent on
@@ -59,7 +52,6 @@ set nrformats=hex
 set pastetoggle=<F11>
 set splitbelow splitright
 set ttyfast
-let g:VCSCommandDeleteOnHide = 1
 
 " mappings
 let mapleader = ','
