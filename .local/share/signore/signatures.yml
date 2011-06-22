@@ -8362,7 +8362,7 @@
   - pl
   - alcohol
 - !ruby/struct:Signore::Signature
-  text: Mam takie lagi że jak wpisałem w Google "prezydent RP" to mi pokazało LECH
+  text: Mam takie lagi że jak wpisałem w Google „prezydent RP” to mi pokazało LECH
     WAŁĘSA.
   author: Tolek_Banan
   tags:
@@ -13000,5 +13000,69 @@
 - !ruby/struct:Signore::Signature
   text: Terroryści zajęli gorzelnię, od 5 dni nie mogą sformułować swoich żądań…
   author: MoD
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Nobody can be lucky all the time;
+
+    so when your luck deserts you in some fashion
+
+    don’t think you’ve been abandoned in your prime,
+
+    but rather that you’re saving up your ration.'
+  author: Piet Hein
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: ! '‘Or, put another way, we’d like to help people help themselves.’
+
+    ‘I think that might be stretching it a bit. I’d like people to help themselves
+    before I have to help them. When things reach that stage, it is frequently… messy.’'
+  author: Jeff Huo, Alistair Young
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Kill them all. God would know his own, but, frankly, I think his expectations
+    are so low that he wouldn’t even bother checking.
+  author: Tim Mefford
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Before dotProject, it was sex and drugs and rock ’n’ roll… Now it’s just the
+    drugs.
+  source: dotProject T-shirt
+  tags:
+  - en
+  - tech
+  - dotProject
+- !ruby/struct:Signore::Signature
+  text: Women are about as likely to cuss as men – don’t do a double-take if you cuss
+    in front of a woman. If she’s read any of the kernel code (notably arch/sparc/),
+    she’s heard of the word ‘fuck’ before.
+  source: HOWTO Encourage Women in Linux
+  tags:
+  - en
+  - tech
+  - gender
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: W Teletubbies jest taka kurew odkurzacz co im zeżera placki. Film jest w swojej
+    wymowie antywojenny, przesycony swoistym renikleryzmem z elementami niemego Czaplina,
+    dlatego odkurzacz jeszcze żyje. W WERSJI ZAKAZANEJ PRZEZ BRUKSELĘ odkurzacz nosi
+    arabską chustę i jest zarąbany siekieromłotem przez Ala Arnolda, gubernatora Kalifornii.
+  author: KiT
+  source: pl.rec.paranoja
+  tags:
+  - pl
+  - TV
+- !ruby/struct:Signore::Signature
+  text: Odkąd mam na drzwiach działkowych skobel przestałem po zimie zakładać nowe
+    zamki. Na wiosnę łóżka pościelone, podłoga zamieciona, sucho i dużo czyściej niż
+    na jesieni…
+  author: Sławek SWP
+  source: pl.rec.dom
   tags:
   - pl
