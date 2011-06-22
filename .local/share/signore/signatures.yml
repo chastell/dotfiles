@@ -12883,3 +12883,52 @@
   - pl
   - journalism
   - Onet
+- !ruby/struct:Signore::Signature
+  text: Most of those who believe in Heaven and believe that it is their final destination
+    are still in no hurry to get there…
+  author: Arthur Levesque
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I’ve actually, real-life, honest-to-god, solved a problem by reversing the
+    polarity of a neutron flow. OK, it was a neutron beam, and it was the spin polarization,
+    and it was for a neutron scattering experiment, but that’s not the point. I reversed
+    the polarity of the neutron flow.
+  author: Daniel Silevitch
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: Haha, I’m taking this ethics certificatino thing online… they have the answers
+    in the source code.
+  author: ronald_jeremy
+  tags:
+  - en
+  - ethics
+- !ruby/struct:Signore::Signature
+  text: ! '"Self-destruct in 5 seconds.  Have a nice day...\n"'
+  source: fs/super.c
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Dzisiaj zakupiłem zestaw rakiet sylwestrowych z niezwykle ciekawą instrukcją
+    obsługi. Otóż instrukcja jest napisana w różnych językach – polski, rumuński,
+    litewski, łotewski, estoński i rosyjski. Wynika z niej że Polak i Rumun powinni
+    oddalić się od odpalanej rakiety na 30 m, Estończyk i Łotysz na 20 m, Litwin na
+    18 m, a Rosjanin nie musi się oddalać, wystarczy jak nie będzie odpalając trzymał
+    rakiety w łapie.
+  author: Adam Moczulski
+  source: pl.pregierz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Pewną wadą pająków jest to, że nie mają mordek jak małe foczki.
+  author: Makawity
+  tags:
+  - pl
+  - animals
