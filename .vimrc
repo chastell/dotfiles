@@ -58,7 +58,7 @@ let mapleader = ','
 inoremap ((         ()<left>
 inoremap {{         {}<left>
 nnoremap <c-l>      :nohls<enter><c-l>
-nnoremap <s-enter>  O<esc><down>
+nnoremap <s-down>   O<esc><down>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>rr gq}
 nnoremap <leader>s  :setlocal spell! spelllang=en_gb<enter>
