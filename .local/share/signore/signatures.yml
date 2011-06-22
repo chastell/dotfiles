@@ -12932,3 +12932,73 @@
   tags:
   - pl
   - animals
+- !ruby/struct:Signore::Signature
+  text: ! '— Wtem: moja córka stała jedną z niewielu osób, które naprawdę rozumieją
+    „muszę teraz zrobić coś bardzo pilnego, nie przeszkadzaj mi przez godzinę”.
+
+    — To w sumie ta sama córka, która dzwoni do nas poskarżyć się, że babcia ją cały
+    czas zagaduje i nie daje spokoju.'
+  author: Evva, DrYoung
+  tags:
+  - pl
+  - work
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Pracuję z ludźmi, którzy nie znają Adama Słodowego. Osiwiałem.
+  author: Filip Tepper
+  tags:
+  - pl
+  - hacking
+- !ruby/struct:Signore::Signature
+  text: ! 'Wtem: lądujesz w cc: korespondencji kolegi z pracy z kochankiem.'
+  author: nbert
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'I see yet another irregular form: I am different. You are odd. They are
+    repugnant.'
+  author: Mark Atwood
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Then there’s the best rule for waging war we Americans ever came up with,
+    been following it for more than a century now: ‘don’t try this at home’.'
+  author: Walt Smith
+  tags:
+  - en
+  - war
+  - politics
+- !ruby/struct:Signore::Signature
+  text: print substr("Just another Perl hacker", 0, -2);
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: ! '‘Chrono Trigger was supervised by a group referred to as “The Dream Team”,
+    consisting of Hironobu Sakaguchi (producer of the Final Fantasy series), Yuji
+    Horii (director of the Dragon Quest games), character designer Akira Toriyama
+    (of Dragon Ball and Dragon Quest fame), venerable producer Kazuhiko Aoki, and
+    Nobuo Uematsu (of Final Fantasy fame).” Seriously, the only thing that could have
+    made that any better was having Jesus on that team.’
+
+    ‘Jesus was a carpenter, what the hell would he know about video games?’'
+  author: Newtype, Schwarz
+  tags:
+  - en
+  - religion
+  - games
+- !ruby/struct:Signore::Signature
+  text: W Polsce wielu jest pseudo-politycznych wariatów, nawiedzonych psychopatów,
+    różnych świrów i zwyczajnych debili.
+  author: Wojciech Wierzejski
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Terroryści zajęli gorzelnię, od 5 dni nie mogą sformułować swoich żądań…
+  author: MoD
+  tags:
+  - pl
