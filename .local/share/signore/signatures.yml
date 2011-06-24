@@ -13115,3 +13115,102 @@
   author: Mieszko
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: My wife and I, lying in bed, trying to hold hands and being thwarted by our
+    matching carpel tunnel wrist splints.
+  author: Greg Knauss
+  tags:
+  - en
+  - relationships
+  - health
+- !ruby/struct:Signore::Signature
+  text: ‘I’m not racist, but…’ I haven’t heard such a concise lie since ‘London Luton
+    Airport’.
+  author: Jonathan Rothwell
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Chętnie podzieliłbym się z Wami radością jakiej dostarcza mi odsłuchiwanie
+    „Zegarmistrza światła” nagranego wczoraj po północy w aranżacji na gitarę, djembe
+    i pięć pijanych głosów, ale istnieje wysokie prawdopodobieństwo, że nie jest to
+    sytuacja intersubiektywnie zabawna.
+  author: czerski
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: ! '— Czuję się dzisiaj jak osoba starsza, gorzej wykształcona i z mniejszej
+    miejscowości.
+
+    — Osoby starsze idą nie tam, gdzie bliżej, tylko tam, gdzie mniej schodów i ogólnie
+    pod górkę.
+
+    — Ja właśnie ogólnie mam dzisiaj pod górkę. Nawet jak schody są w dół to ja po
+    nich muszę wchodzić.'
+  author: czerski, Bartosz Jerzy Kaczkowski
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '„co sadzicie o tym trenie VIII bo mnie bardzo sie podoba. jest taki inny
+    niz wszystkie bo skirowany do jego córki ktora w wieku 2,5 latka zmarła. ciężko
+    to przerzył. proszę o komentarz” #cojaczytam'
+  author: Jacek Karaszewski
+  tags:
+  - pl
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: Mamy 100 metrów folii bąbelkowej – witamy w raju.
+  author: Aleksander Dąbrowski
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '‘What’s a cubicle?’
+
+    ‘Imagine the most beautiful place on Earth…’
+
+    ‘Okay, I’ve got it.’
+
+    ‘Now imagine you can never go there, because you work in a box.’'
+  source: Dilbert
+  tags:
+  - en
+  - work
+  - office
+- !ruby/struct:Signore::Signature
+  text: I used to find alcohol to bo a vital part of the tech-support lifestyle.
+  author: Lionel Lauer
+  tags:
+  - en
+  - work
+  - tech support
+- !ruby/struct:Signore::Signature
+  text: For a list of reasons why technology has failed to improve our lives, please
+    press 3.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Off the chain like a rebellious guanine nucleotide.
+  author: Erinn Clark
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! '— …a zresztą lekturę cyklu skończyłem na pierwszym tomie opowiadań (napocząłem
+    też drugi) bo mnie zdenerwowało seksualne rozpasanie Geralta.
+
+    — Kusi, żeby napisać coś w rodzaju: mnie podczas lektury pierwszego tomu też zdenerwowało,
+    ale potem sama spróbowałam tego całego seksu.'
+  author: Pan Dzikus, Krystyna Chodorowska
+  source: prf.sf-f
+  tags:
+  - pl
+  - literature
+  - sex
+  - Witcher
+- !ruby/struct:Signore::Signature
+  text: Moja dzisiejsza martyrologia na rzecz łódzkich kierowców powinna definitywnie
+    zostać uhonorowana… Rozwaliłem swoją hondą policyjną octavię z kamerą.
+  author: fire
+  tags:
+  - pl
+  - police
