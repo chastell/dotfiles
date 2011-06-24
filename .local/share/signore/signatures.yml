@@ -13282,3 +13282,50 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: It’s a shootout at the gene pool, and the folks in the shallow end have more
+    ammunition.
+  author: Bill Garrett
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: In case you don’t know, no one will think the less of you if you actually
+    put all the letters in the word ‘fuck’.
+  author: Nathan Lundblad
+  tags:
+  - en
+  - censorship
+- !ruby/struct:Signore::Signature
+  text: After three days without programming, life becomes meaningless.
+  author: Geoffrey James
+  source: The Tao of Programming
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Well, we don’t know everything they are up to, but we do know their slogan
+    and we disagree with that.
+  author: Bill Gates
+  subject: on Google’s ‘Don’t be evil’ slogan
+  tags:
+  - en
+  - Microsoft
+  - Google
+- !ruby/struct:Signore::Signature
+  text: ! '— Chodziliśmy dziś po parapecie i Darek mnie popchnął prosto na otwarte
+    okno.
+
+    — I co, spadłaś?
+
+    — Nie, kurwa, odleciałam.'
+  author: KASZalot, monIa
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Zagraniczny trener w piłkę nożną – zaczęliśmy jakoś grać, zagraniczny trener
+    w siatkówkę – jesteśmy wicemistrzami świata, może by tak zagraniczny premier?
+  author: Komornik
+  tags:
+  - pl
+  - politics
