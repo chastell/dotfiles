@@ -13066,3 +13066,52 @@
   source: pl.rec.dom
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: You do have to be mad to work here, but it doesn’t help.
+  author: Gary Barnes
+  source: asr
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: So in the end, maybe it’s a good thing that we’ve been broadcasting radio
+    signals like crazy, shouting ‘here we are, kill us!’ to the universe, and been
+    too stupid to set up offworld colonies.
+  author: Mark Hughes
+  source: asr
+  tags:
+  - en
+  - humanity
+- !ruby/struct:Signore::Signature
+  text: If SETI@home works, for example, we’ll need libraries for communicating with
+    aliens. Unless of course they are sufficiently advanced that they already communicate
+    in XML.
+  author: Paul Graham
+  tags:
+  - en
+  - tech
+  - XML
+- !ruby/struct:Signore::Signature
+  text: Debian is like borg lite. You will be assimilated. Well, you’ll be assimilated
+    as soon as we get around to it.
+  author: Don Armstrong
+  tags:
+  - en
+  - tech
+  - Debian
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: ! '— Może mi ktoś doradzić jakąś grę, która może się spodobać drugiej połowie?
+
+    — Wstępna.'
+  author: Śmigol, XMAX
+  source: pl.rec.gry.komputerowe
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Na serwisach muzycznych jak piszę, że jestem z Polski, to ludzie pytają, jak
+    mi wysłać jedzienie.
+  author: Mieszko
+  tags:
+  - pl
