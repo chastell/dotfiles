@@ -13387,3 +13387,123 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: Żarcik o programiście wysłanym przez żonę po zakupy ogłaszam od dziś nieśmiesznym.
+  author: Tomash
+  tags:
+  - pl
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Z cyklu „okrutne zabawy z e-wykluczonymi”: dajesz dotykowego HTC i mówisz
+    „masz, zadzwoń z mojego”.'
+  author: Siwa
+  tags:
+  - pl
+  - technology
+- !ruby/struct:Signore::Signature
+  text: Funny how you go from Developer → Senior → Architect → Developer once you’re
+    old enough to recognize and not care about the job title bullshit.
+  author: Mike Perham
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: In Smalltalk, everything happens somewhere else.
+  author: Adele Goldberg
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: I love how git rebase -i makes it easy for me to look like I know what I’m
+    doing when I share code.
+  author: Scott Sweeny
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
+- !ruby/struct:Signore::Signature
+  text: My therapist told me to take fewer naps, so I’m looking for a new therapist
+    and a place to dump a body.
+  author: Mark Pilgrim
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Writing some Java code today. Whoah, boilerplate, semicolons, return, Boilerplate<Boilerplate>
+    boilerplate = new Boilerplate<Boilerplate>()
+  author: Kris Nuttycombe
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: On July 3, 1979 the second posting to Usenet contained a correction to a spelling
+    error of the first, the succeeding flame war overloaded the 5MB disks on both
+    machines and brought them crashing down. Usenet has gone downhill since then.
+  author: Emma Pease
+  tags:
+  - en
+  - tech
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: The fact that I have no remedy for all the sorrows of the world is no reason
+    for my accepting yours. It simply supports the strong probability that yours is
+    a fake.
+  author: H. L. Mencken
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Dear child, you misunderstand: I do not mock you because it makes you feel
+    bad. I mock you because it makes me feel good. Your feelings are beside any point
+    that I would care to voice.'
+  author: John S. Novak, III
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘But this – this, this is like being nibbled to death by… what are those
+    Earth creatures called? Feathers, long bill, webbed feet… go *quack*…’
+
+    ‘Cats.’
+
+    ‘Cats. I’m being nibbled to death by cats.’'
+  author: Londo Mollari, Vir Cotto
+  source: Babylon 5
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Who wants to recommend a Usenet reader for little ol’ me?’
+
+    ‘I recommend Garrett Morris, particularly if you’re hard-of-hearing.’'
+  author: Jennifer Friedoff, Joseph Nebus
+  source: rec.arts.tv.mst3k.misc
+  tags:
+  - en
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! 'Eye halve a spelling chequer
+
+    It came with my pea sea
+
+    It plainly marques four my revue
+
+    Miss steaks eye kin knot sea'
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Już wkrótce prezes będzie premierem, a ja wicepremierem. Ale ponieważ premier
+    będzie zajmował się strategią i wielką polityką, tak naprawdę rządził będę ja.
+  author: Przemysław Gosiewski
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Jest jeszcze kwestia kolejnych zmian i te zmiany idą przede wszystkim tutaj
+    w aspekcie zmian.
+  author: Przemysław Gosiewski
+  tags:
+  - pl
+  - politics
