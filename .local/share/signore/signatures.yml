@@ -13329,3 +13329,61 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Incidentally keeping things as simple as possible often helps with the
+    robustness as well: the lesser nuts and bolts there are less things can break
+    and usually the lower the likeliness of things to break. :-)’
+
+    ‘Not to mention: the fastest code is the code that never gets executed, and it’s
+    easier to test code that doesn’t has to be written, too. ;)’'
+  author: Robert Klemme, Phillip Gawlowski
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘The usual comment is “Why are you tired? You just sit at a desk all day.”’
+
+    ‘My response is to stab the active probe from my spectrum analyzer through their
+    beady little eyeballs. Makes the discussion much simpler.’'
+  author: Janet Rolsma, John S. Novak, III
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: The main difference between a computer salesman and a used car salesman is
+    that the used car salesman can probably drive and knows when he’s lying.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: This is my rifle. This is my gnu. This is for killing. This is for $foo.
+  author: AJS
+  source: asr
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘Im going 2 the club 2night’
+
+    ‘im going 2 lern 2 tipe 2nite 2’
+
+    ‘what?’
+
+    ‘Exactly.’'
+  author: prettykittikat, Syric 2005
+  tags:
+  - en
+  - spelling
+- !ruby/struct:Signore::Signature
+  text: Mam dziś taki humor, że tylko wziąć zapałeczkę i puścić z dymem ten cały burdel.
+  author: Thoughtscriber
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Panie premierze, pokazałem, że można być politykiem niezależnym i jednocześnie
+    lojalnym. Za to serdecznie dziękuję, panie premierze.
+  author: Kazimierz Marcinkiewicz
+  tags:
+  - pl
+  - politics
