@@ -13214,3 +13214,71 @@
   tags:
   - pl
   - police
+- !ruby/struct:Signore::Signature
+  text: The Christian church, in its attitude toward science, shows the mind of a
+    more or less enlightened man of the Thirteenth Century. It no longer believes
+    that the earth is flat, but it is still convinced that prayer can cure after medicine
+    fails.
+  author: H. L. Mencken
+  tags:
+  - en
+  - religion
+  - science
+- !ruby/struct:Signore::Signature
+  text: The worst part about insanity is when the drugs wear off and I have to reload
+    my gun.
+  author: Kurt Montandon
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: ! '<DarthFoamy> Ah, unstable connections
+
+    <DarthFoamy> How do I despise thee?
+
+    <DarthFoamy> Let me count the ways!
+
+    <DarthFoamy> 1
+
+    <DarthFoamy> 2
+
+    * DarthFoamy has quit IRC (Quit: Ping timeout)'
+  tags:
+  - en
+  - tech
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: ! '‘Maybe we should name our releases for the characters found in a children
+    animation movie.’
+
+    ‘Maybe someone will make a children’s animated movie with characters based on
+    Ubuntu release code-names.’
+
+    ‘Seriously dude, that movie will *not* be appropriate for children. No way.’'
+  author: Daniel Robitaille, Steve Alexander, Jeff Waugh
+  source: sounder
+  tags:
+  - en
+  - tech
+  - Debian
+  - Ubuntu
+- !ruby/struct:Signore::Signature
+  text: Ciekawe czy wszystkie dzieci dostaną w święta prezenty od tej małpy w czerwonym?
+  author: mangold
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— Myślę, że każdy pomysł polegający na wyciągnięciu jakiejkolwiek kasy
+    z budżetu powinien być karany strzałem w kolano. Żeby pomysłodawca nie łaził z
+    tym nigdzie i nie pier… głupot, że to takie ważne i nie drenujące budżetu.
+
+    — Masz złe podejście. Strzełem w kolano powinni karać za wciąganie coraz większych
+    pieniędzu *do* budżetu, a nie *z* budżetu.
+
+    — Te pomysły nie są sprzeczne: w końcu zdecydowana większość ma dwa kolana…'
+  author: Adam, pejurek, Krzysiek Kielczewski
+  source: pl.pregierz
+  tags:
+  - pl
+  - politics
