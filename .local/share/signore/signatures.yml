@@ -14229,3 +14229,45 @@
   tags:
   - pl
   - animals
+- !ruby/struct:Signore::Signature
+  text: I always keep a supply of stimulant handy in case I see a snake – which I
+    also keep handy.
+  author: W. C. Fields
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: There comes a time in the history of any project when it becomes necessary
+    to shoot the engineers and begin production.
+  source: MacUser
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: No, what I actually meant was ‘I’m not aware of what they’re doing, could
+    you elaborate’, but I think I may have been interpreted instead as ‘they aren’t
+    doing anything wrong, you pinko zealot GNU commie’. The perils of email.
+  author: Shawn McMahon
+  source: debian-curiosa
+  tags:
+  - en
+  - tech
+  - GNU
+- !ruby/struct:Signore::Signature
+  text: ! '— W zeszłym(?) roku, jesienią tvn przeprowadzał ankietę nt. „gdzie pan/pani
+    spędził/a tegoroczne wakacje”. 1/3 badanych nie wiedziała.
+
+    — No to przynajmniej wiadomo, że mieli udane wakacje.'
+  author: Zofia Rakowska, aL
+  source: pl.pregierz
+  tags:
+  - pl
+  - alcohol
+- !ruby/struct:Signore::Signature
+  text: ! '— Ty, kupiłem sobie właśnie monitor, i na kartonie jest taki znaczek ze
+    szklanką, co on oznacza?
+
+    — Że zakup trzeba opić.'
+  author: gildo, duke
+  tags:
+  - pl
+  - alcohol
