@@ -14271,3 +14271,135 @@
   tags:
   - pl
   - alcohol
+- !ruby/struct:Signore::Signature
+  text: Łazienki to jednak total emeryten mają floł.
+  author: Lilarouge
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'If your bug tracking system has emoticon images, you’re doing it wrong.
+    See also: JIRA.'
+  author: Wojtek Ogrodowczyk
+  tags:
+  - en
+  - tech
+  - JIRA
+  - emoticons
+- !ruby/struct:Signore::Signature
+  text: Tak kaszlnąłem, że mi się jedna zakładka od Chrome’a oderwała.
+  author: reuptake
+  tags:
+  - pl
+  - health
+- !ruby/struct:Signore::Signature
+  text: ! '— Czemu maszt-bramka? Czemu ożaglowanie łacińskie? Nie lepiej krótki masz
+    w centrum i np. gaflowe? Albo od razu wysoki maszt i marconi? Rejka na górze (gafel
+    zresztą też) powoduje zwiększenie skomplikowania stawiania/zrzucania żagla, i
+    z tego co kojarzę marconi/bermudzkie jest najwydajniejsze.
+
+    — Już wiem jak się czują „mniej informatyczne” osoby gdy słuchają jak rozmawia
+    dwóch geeków.'
+  author: rysiek, Sergiusz Bazański
+  source: hs-waw
+  tags:
+  - pl
+  - sailing
+- !ruby/struct:Signore::Signature
+  text: Sufficiently advanced Java is indistinguishable from satire.
+  author: Eeppa
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Just seen Transformers 3; I sincerely hope the internet destroys the current
+    movie industry.
+  author: Martin Aumont
+  tags:
+  - en
+  - cinematography
+  - piracy
+- !ruby/struct:Signore::Signature
+  text: This is lame. Without a space program we’re basically just Canadians with
+    guns.
+  author: El Beard
+  tags:
+  - en
+  - space
+- !ruby/struct:Signore::Signature
+  text: ! 'Planned work for today: get site working in IE. Actual work today: find
+    a computer that can run IE.'
+  author: Tom Stuart
+  tags:
+  - en
+  - tech
+  - webdevelopment
+  - IE
+- !ruby/struct:Signore::Signature
+  text: NEVER write in yourself as ServerAdmin in an Apache config. That shit will
+    haunt you like a broken condom.
+  author: Ted Dziuba
+  tags:
+  - en
+  - tech
+  - Apache
+- !ruby/struct:Signore::Signature
+  text: The goal of all inanimate objects is to resist man and ultimately defeat him.
+  author: Russell Baker
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Those who flee temptation generally leave a forwarding address.
+  author: Lane Olinghouse
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! "       <Onizuka> ^captain_planet\n      * UB3R-B0T is now known as Kwame\n
+    \        <Kwame> EARTH\n         * Kwame is now known as Wheeler\n       <Wheeler>
+    FIRE\n       * Wheeler is now known as Linka\n         <Linka> WIND\n         *
+    Linka is now known as Gi\n            <Gi> WATER\n            * Gi is now known
+    as Ma-ti\n         <Ma-ti> HEART\n         * Ma-ti is now known as Everyone\n
+    \     <Everyone> GO PLANET\n      * Everyone is now known as anonymous\n     <anonymous>
+    BY YOUR POWERS COMBINED…\n     * anonymous is now known as Captain_Planet\n<Captain_Planet>
+    I AM CAPTAIN PLANET\n         <Moiph> YAAAAAY\n       <Xeiliex> Moiph, NEVER AGAIN"
+  tags:
+  - en
+  - IRC
+  - Captain Planet
+- !ruby/struct:Signore::Signature
+  text: ! '‘This being Usenet, other people promptly engaged in Usenet’s favorite
+    pastime of “contradict everything in sight”.’
+
+    ‘That’s not Usenet’s favorite pastime.’
+
+    ‘Sure it is. It comes in a clear 3.2% ahead of “post a totally bogus statistic”,
+    and 7.9% ahead of “gratuitously insult the previous poster”, as you’d know if
+    you weren’t such a fscking dimwit.'
+  author: David Bilek, Mike Schilling, Bill Snyder
+  source: rec.arts.sf.written
+  tags:
+  - en
+  - tech
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! 'Przerabiałem ten temat, znam wszystkie powody
+
+    Dla których Polaków mam kochać bardziej niż innych
+
+    Ale nie kocham, przykro mi, nie wiem dlaczego, ale nie.'
+  author: Stefan Themerson
+  source: Miłość do obywateli
+  tags:
+  - pl
+  - nationalism
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— A co za problem z dubbingiem jeśli jest on nie gorszy od oryginału?
+
+    — A prześpisz się z facetem, jeśli będzie ładniejszy od Twojej żony?'
+  author: Marcin E. Hamerla, Michał Radomił Wiśniewski
+  source: prf.sf-f
+  tags:
+  - pl
+  - cinematography
