@@ -14007,3 +14007,58 @@
   author: opi
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! " <marienz> 46\n <marienz> uhmm, that was a typo\n<fullermd> Oh, like we
+    couldn’t figure out that you\n           really meant 35. We’re not stupid, y’know."
+  tags:
+  - en
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: ! "***Mathilda fetches history from Einstein, Gandhi and Kant\n <Mathilda>
+    uh, Mathilda?\n            Mathilda is now known as uws\n      <uws> stupid freenode"
+  tags:
+  - en
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: Have you noticed that, when we were young, we were told that ‘everybody else
+    is doing it’ was a really stupid reason to do something, but now it’s the standard
+    reason for picking a particular software package?
+  author: Barry Gehm
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: If I was to use Bugzilla when I was a tester, I’d quit and become a gardener.
+  author: a Syllable OS developer
+  tags:
+  - en
+  - tech
+  - Bugzilla
+- !ruby/struct:Signore::Signature
+  text: Kumpel był zachwycony wokalistką Tokio Hotel, dopóki mu nie powiedziałam,
+    że to chłopiec jest.
+  author: Lilu
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: ! '— Jutro Zyta poda się do dymisji i ministrem finansów zostanie Łyżwiński;
+    zobaczymy czy znasz pojęcie „czarna środa”.
+
+    — To ja w takim razie kupuję akcje koncernów naftowych, bo jak rozumiem Łyżwiński
+    to jest ten co 300 000 potrafi wydać na paliwo nie posiadając auta?'
+  author: gasper, Budzik
+  source: pl.biznes.banki
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! 'No, chyba że to Tolkien w wersji buddyjskiej: siedzą sobie pod drzewem
+    i wszystko do nich przychodzi…'
+  author: Piotr W. Cholewa
+  source: prf.sf-f
+  subject: o Babylon 5
+  tags:
+  - pl
+  - Tolkien
+  - Babylon 5
