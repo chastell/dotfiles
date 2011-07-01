@@ -13876,3 +13876,42 @@
   - pl
   - Amiga
   - Nirvana
+- !ruby/struct:Signore::Signature
+  text: But even though they probably certainly know that you probably wouldn’t, they
+    don’t certainly know that although you probably wouldn’t there’s no probability
+    that you certainly would.
+  author: Humphrey Appleby
+  subject: on nuclear deterrence
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: …there was little damage because there are no computers in the building.
+  author: ICL spokesman
+  subject: after the bombing of their headquarters by the IRA
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Patches are like Free Software love letters.
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: XML is like violence, if it doesn’t solve your problem you’re not using enough
+    of it.
+  tags:
+  - en
+  - tech
+  - programming
+  - XML
+- !ruby/struct:Signore::Signature
+  text: A potem przez przypadek oblał się benzyną i oparł o kuchenkę.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Jakie to zajebiście smutne: działa. Nie zniosę tego na trzeźwo.'
+  author: opi
+  tags:
+  - pl
