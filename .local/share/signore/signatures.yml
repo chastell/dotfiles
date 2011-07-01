@@ -14181,3 +14181,51 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: I never met anybody who said when they were a kid, ‘I wanna grow up and be
+    a critic’.
+  author: Richard Pryor
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: When we remember we are all mad, the mysteries disappear and life stands explained.
+  author: Mark Twain
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Whoever decided to use the semicolon to end something should just be taken
+    out and have his colon semified.
+  author: Erik Naggum
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I may be biased, but I tend to find a much lower tendency among female programmers
+    to be dishonest about their skills, and thus do not say they know C++ when they
+    are smart enough to realize that that would be a lie for all but perhaps 5 people
+    on this planet.
+  author: Erik Naggum
+  tags:
+  - en
+  - tech
+  - programming
+  - gender
+  - C++
+- !ruby/struct:Signore::Signature
+  text: Dzisiaj w kościele do komunii szła dziewczyna z plecakiem, na którym naszyty
+    był pentagram, mało z ławki nie spadłem ze śmiechu.
+  author: Piecu
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '— Co się dzieje z muchami/komarami/itp. na zimę? Odlatują do ciepłych krajów,
+    tak jak kurczaki?
+
+    — Zapadają w sen zimowy, tak jak kangury.'
+  author: xircom, ebs Master
+  tags:
+  - pl
+  - animals
