@@ -13507,3 +13507,69 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: Documentation, efficient task tracking and a nice looking kanban board *is*
+    harder than cache invalidation and naming things.
+  author: Lourens Naudé
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: In the future, everyone will be a national security threat for 15 minutes.
+  tags:
+  - en
+  - security
+- !ruby/struct:Signore::Signature
+  text: I do hope that no-one protesting about reductions in public expenditure is
+    witless enough to call themselves an anarchist.
+  author: Tom Greeves
+  tags:
+  - en
+  - politics
+  - anarchism
+- !ruby/struct:Signore::Signature
+  text: I’m a great believer in luck, and I find the harder I work the more I have
+    of it.
+  author: Thomas Jefferson
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Transitiveness works a bit differently in love. ‘I love A, and A loves B,
+    which means I want to make a light snack out of B’s internal organs.’
+  author: Alistair Young
+  tags:
+  - en
+  - relationships
+- !ruby/struct:Signore::Signature
+  text: ! 'I worked on a project once where somebody named variables defined in various
+    places explicity so on one line of code, it showed up as:
+
+    function_name($all, $urBase, $rBelong, $toUs);
+
+    Closest I’ve ever come to manslaughter.'
+  author: atrus
+  tags:
+  - en
+  - tech
+  - programming
+  - memes
+- !ruby/struct:Signore::Signature
+  text: CAPS LOCK IS LIKE CRUISE CONTROL FOR COOL.
+  author: Antioch
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Ostatnio jak sprzątałem swój pokój to odkryłem, że po prawej jest wejście
+    na balkon.
+  author: gator
+  tags:
+  - pl
+  - chaos
+- !ruby/struct:Signore::Signature
+  text: Kiedy wyciągnąłem odkurzacz to roztocza poumierały ze zdziwienia.
+  author: adaś
+  tags:
+  - pl
+  - chaos
