@@ -14118,3 +14118,66 @@
   tags:
   - pl
   - music
+- !ruby/struct:Signore::Signature
+  text: Obawiam się, że sąsiadka z naprzeciwka widziała jak sikam do doniczki na balkonie.
+    Cholerne romantyczki palące papierosy w oknie o 3 rano.
+  author: dmr
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: TVP Historia FTW. Przed chwilą był Dziennik Telewizyjny z 1987, a teraz Szymon
+    Kobyliński rysuje rajtarów. Znów mam sześć lat.
+  author: czerski
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Here, sanity… niiiiiice sanity, come to daddy… okay, that’s a good sanity…
+    {*THWONK!*} _Got_ the bastard.
+  author: Anthony de Boer
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: An entire generation of Cinderellas and there’s no slipper coming.
+  source: Almost Famous
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Structure is *nothing* if it is all you got. Skeletons *spook* people if they
+    try to walk around on their own. I really wonder why XML does not.
+  author: Erik Naggum
+  tags:
+  - en
+  - tech
+  - XML
+- !ruby/struct:Signore::Signature
+  text: Rewarding incompetence and ignorance increases the number of incompetent programmers.
+    Designing programming languages and tools so incompetent programmers can feel
+    better about themselves is not the way to go.
+  author: Erik Naggum
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Tesco Skierniewickie wazelinuję. Za delikatną sugestię, coby klienci sceptycznie
+    spojrzeli na swoje możliwości i umiejętności kupując poradniki. Na półce z książkami
+    opatrzonej napisem „fantastyka” ułożyli całą serię książek „Sam naprawiam samochód”.
+  author: Wojciech Michalczuk
+  source: pl.pregierz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Ilu może być wicepremierów? dla mnie vice to zastępca, nagle mamy czterech
+    vice, czy to normalne?
+
+    — To w ramach programu oszczędne państwo. Zamiast wsadzać ich do więzienia (a
+    utrzymanie więźnia kosztuje) robi się ich wicepremierami. Ma to też walor rehabilitacyjno-resocjalizacyjny.
+    Takiemu przestępcy, jak zostanie wicepremierem, wydaje się, że jest wartościowym
+    członkiem społeczeństwa, choć tak naprawdę jest zwykłym członkiem.'
+  author: Wykrzynik, pluton_
+  source: pl.soc.prawo
+  tags:
+  - pl
+  - politics
