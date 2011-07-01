@@ -13824,3 +13824,55 @@
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: We must respect the other fellow’s religion, but only in the same sense and
+    to the extent that we respect his theory that his wife is beautiful and his children
+    smart.
+  author: H. L. Mencken
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Those who do not learn from Dilbert are doomed to repeat it.
+  author: Bob Dowling
+  tags:
+  - en
+  - work
+  - Dilbert
+- !ruby/struct:Signore::Signature
+  text: It would be nice to think that one day a language will come along which manages
+    to add powerful features without making the code look like it’s been rendered
+    with the wrong character encoding.
+  author: Sam Newman
+  subject: on Ruby’s overuse of different parenthesis types
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Django might have been around as long/longer than Rails, but if you throw
+    a rock at Google it’ll hit about 5 Rails tutorials and a made-for-tv-movie about
+    it staring someone who used to be in Dynasty.
+  author: Sam Newman
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+  - Python
+  - Django
+- !ruby/struct:Signore::Signature
+  text: Przecież wiesz, że jestem wulkanem optymizmu! Głównie – wygasłym.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Jak miałem 17 lat to słuchałem Nirvany, miałem długie włosy, Amigę i piłem
+    bełty.
+  author: opi
+  tags:
+  - pl
+  - Amiga
+  - Nirvana
