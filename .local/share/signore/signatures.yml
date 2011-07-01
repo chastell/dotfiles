@@ -12828,7 +12828,7 @@
     look down upon, dismiss, reject, eject, and damn well piss on any group or individual
     you should happen to feel offends your sense of what is right, including but not
     necessarily limited to promiscuous people, people who don’t keep their word, criminals,
-    people who say "my bad" and mean it, drivers who jump queues, pedestrians who
+    people who say ‘my bad’ and mean it, drivers who jump queues, pedestrians who
     push into queues, people who don’t look where they’re shoving their damned shopping
     trolley, spammers, people who use one’s first name when they don’t know one, small
     children who are seen and heard, people who run into your parked car and drive
@@ -13573,3 +13573,49 @@
   tags:
   - pl
   - chaos
+- !ruby/struct:Signore::Signature
+  text: Jesus loves you. And look what happened to him.
+  author: Marduk Kurios
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Yeah, well, your server wears army boots.
+  author: John Rowat
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I once keylogged this guy coding C – biggest fucking mess ever.
+  author: Vipsta
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: If debugging is the process of removing bugs, then programming must be the
+    process of putting them in.
+  author: Edsger Dijkstra
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '— Jak tam maturki?
+
+    — Nie mam pojęcia jak mi poszły; nie wiedziałem, że Werter się zabił, a to wiele
+    by zmieniło w mojej pracy.'
+  author: ania, Tadek
+  tags:
+  - pl
+  - education
+- !ruby/struct:Signore::Signature
+  text: ! '— Ty! Ale jazda! U mnie przed blokiem dzik chodzi na trawniku i jakiś facet
+    próbuje go przestraszyć!
+
+    — Może na policję zadzwoń…
+
+    — Pewnie że zadzwonię, co będzie jakiś głupek na dzika krzyczał!'
+  author: lysy, zuy
+  tags:
+  - pl
