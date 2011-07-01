@@ -13915,3 +13915,95 @@
   author: opi
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: A cult is a religion with no political power.
+  author: Tom Wolfe
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Czuję właśnie wielki przypływ samozadowolenia: w inżynierce jedną zmienną
+    oznaczyłam jako pi, a drugą jako sigma i używam ich obok siebie.'
+  author: Claygirl
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Wiecie jak Polska popełnia samobójstwo? Staje na swoim ego i skacze.
+  author: Lipszyc
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Dzisiaj obserwowałem trochę jak ludzie korzystają z komputerów i ogarnia mnie
+    podziw na myśl, że cały ten internet pomimo wszystko działa.
+  author: Lipszyc
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: It should be a sackable offence to insert spaces between parentheses and the
+    arguments.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Building a system that has more users than the population of my home country
+    (Switzerland) : ✔'
+  author: Patrick Hüsler
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I would like to offer a $500 reward for information leading to the identification
+    of the target audience of Zookeeper.
+  author: Steven D. Greydanus
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: At this point, if you support IE6, you’re part of the problem, and don’t get
+    to complain about it.
+  author: ! '@izs'
+  tags:
+  - en
+  - tech
+  - IE
+- !ruby/struct:Signore::Signature
+  text: Reality and I had a fundamental differing of opinions. We’re currently undergoing
+    a trial separation.
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: ! 'My loathings are simple: stupidity, oppression, crime, cruelty, soft music.'
+  author: Vladimir Nabokov
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'sunshine, noun: Nuclear radiation, meaning it will kill you. ‘Sunshine!
+    Noooooo!’'
+  source: The Devil’s Dictionary (2.0)
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'caffeine, noun: A contract, wherein a regular heartbeat is exchanged for
+    the ability to introduce subtle bugs, late at night, the day before a product
+    ships.'
+  source: The Devil’s Dictionary (2.0)
+  tags:
+  - en
+  - programming
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: Wiesz, czasem zdaje mi się, że prócz klientów tylko crontab do mnie pisze.
+  author: opi
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: 753 eksplozje to tylko dowód, że mi się uda.
+  author: opi
+  tags:
+  - pl
