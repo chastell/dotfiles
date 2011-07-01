@@ -13706,3 +13706,54 @@
   source: pl.misc.kolej
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Unfortunately, our Bright Young PFY will no longer be assisting with expeditions
+    downtown, as he has been dubbed the Telecom Destruction Bunny and banned from
+    taking his aura anywhere near anything major.
+  author: Anthony DeBoer
+  source: asr
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: The problem with defending the purity of the English language is that English
+    is about as pure as a cribhouse whore. We don’t just borrow words;on occasion,
+    English has pursued other languages down alleyways to beat them unconscious and
+    rifle their pockets for new vocabulary.
+  author: James D. Nicoll
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Consistently separating words by spaces became a general custom about the
+    tenth century A.D., and lasted until about 1957, when FORTRAN abandoned the practice.
+  source: Sun FORTRAN Reference Manual
+  tags:
+  - en
+  - tech
+  - programming
+  - Fotran
+- !ruby/struct:Signore::Signature
+  text: He who hasn’t hacked assembly language as a youth has no heart. He who does
+    as an adult has no brain.
+  author: John Moore
+  tags:
+  - en
+  - tech
+  - programming
+  - Assembler
+- !ruby/struct:Signore::Signature
+  text: Są rzeczy na niebie i ziemi, o których nie śniło się filozofom. Większość
+    z nich jest w Polsce.
+  author: Piotr Bałtroczyk
+  tags:
+  - pl
+  - Poland
+- !ruby/struct:Signore::Signature
+  text: Ludzie na początku są tacy ufni, jak małe różowe świnki, uśmiechają się nawet
+    kiedy jadą do rzeźni.
+  author: opi
+  subject: o związkach
+  tags:
+  - pl
+  - relationships
