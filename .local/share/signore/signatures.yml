@@ -14062,3 +14062,59 @@
   - pl
   - Tolkien
   - Babylon 5
+- !ruby/struct:Signore::Signature
+  text: The greatest tragedy in mankind’s entire history may be the hijacking of morality
+    by religion.
+  author: Arthur C. Clarke
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Sanity is like money; you should just have enough to get by. Any more and
+    you turn into a freak.
+  author: rone
+  source: asr
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: ! '‘How big is the source code file?’
+
+    ‘About this <--------------->* big
+
+    * Not to scale’
+
+    ‘To the original poster: your question is a little vague.’
+
+    ‘About this <----------------> vague.’'
+  author: N/A, Niall Sheridan, Paul O'Malley, Bastien Nocera
+  source: ubuntu-devel
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'rule of law, noun: That archaic triviality that keeps people from sharing
+    files, cheating on their taxes and killing each other; easier to ignore than change.'
+  source: The Devil’s Dictionary (2.0)
+  tags:
+  - en
+  - law
+- !ruby/struct:Signore::Signature
+  text: ! '— Gdzie we Wrocławiu dostanę niedrogo folię pęcherzykową?
+
+    — Uważaj, bo to bardzo wciąga i można wpaść w nałóg.'
+  author: scorpion, Jacek Popławski
+  source: pl.regionalne.wroclaw
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Może ktoś przypomnieć nazwę hitu rockowego, do którego tańczono w tym
+    programie? Coś starego, w refrenie pada „didołdidoł education”.
+
+    — Właśnie przebiłeś Jomahajomasol.'
+  author: Andrzej, Oiolosse
+  source: pl.rec.muzyka
+  tags:
+  - pl
+  - music
