@@ -14403,3 +14403,57 @@
   tags:
   - pl
   - cinematography
+- !ruby/struct:Signore::Signature
+  text: Jak jeszcze raz usłyszę „o boże, dziecko nie może spać na podłodze!” to komuś
+    zajebię. Moje może.
+  author: Lilarouge
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: There are only two kinds of scholars; those who love ideas and those who hate
+    them.
+  author: Emile Chartier
+  tags:
+  - en
+  - education
+- !ruby/struct:Signore::Signature
+  text: There is no nonsense so errant that it cannot be made the creed of the vast
+    majority by adequate governmental action.
+  author: Bertrand Russell
+  tags:
+  - en
+  - politics
+  - government
+- !ruby/struct:Signore::Signature
+  text: ! 'The general rule about people on IRC seems to be ‘attractive, single, mentally
+    stable: choose two’.'
+  author: malaclypse
+  tags:
+  - en
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: These people program the way Victorians dress. It takes two hours and three
+    assistants to put on your clothes, and you have to change before dinner. But everything
+    is modular.
+  author: Miles Nordin
+  subject: on PAM
+  tags:
+  - en
+  - tech
+  - PAM
+- !ruby/struct:Signore::Signature
+  text: Ale się wczoraj dobrze bawiłem, opowiadają mi właśnie…
+  author: BiQ
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: No, ja wiem, wygrzewanie kabla ma znaczenie, odkurzacz na takim kablu lepiej
+    oddaje środek z delikatnym podkreśleniem góry na częstotliwości stojanów silnika.
+    No i to dolne pasmo, nie do opisania jak bardzo wygrzany kabel sieciowy potrafi
+    podkreślić kontur częstotliwości rezonansowych wirnika.
+  author: Wojtek Piszczek
+  source: pl.pregierz
+  tags:
+  - pl
+  - audiophiles
