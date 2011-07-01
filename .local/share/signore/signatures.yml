@@ -13757,3 +13757,70 @@
   tags:
   - pl
   - relationships
+- !ruby/struct:Signore::Signature
+  text: ! 'Ostatnio rozkminiałem czy są kameleony daltoniści. Kładziesz go na zielonym
+    – a on jeb: czerwony.'
+  author: chudy
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Freelancer na pytanie „kiedy w końcu kurwa będzie zrobione?” odpowiada:
+    „nie wiem kiedy, w tygodniu nie ma opcji chyba, a w weekend zależy od pogody”.'
+  author: Jacek Karaszewski
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Naczelnik wzywa mnie do zgłoszenia się. Celem dokonania aktualizacji adresu.
+    Bo jak nie to grzywna. Oczyma duszy widzę siebie w mundurze: junta przejęła władzę;
+    ja po sutym śniadaniu (jajka na bekonie, kawa, papieros bez filtra) wyjmuję ulubioną
+    cienką trzcinę i jak co dzień przez dwie godziny metodycznie oprawiam urzędników
+    skarbowych. Trochę krwi, głównie wrzask. Nie ma we mnie gniewu. Wymierzam sprawiedliwość.'
+  author: czerski
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: No one ever heard of the truth being enforced by law. Whenever the secular
+    arm is called in to sustain an idea, whether new or old, it is always a bad idea,
+    and not infrequently it is downright idiotic.
+  author: H. L. Mencken
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Quote! Quote! Young man, the barbarians are hammering at the gates of civilisation,
+    and you stand there saying ‘quote’ when you mean ‘quotation’!
+  author: Charles Lloyd
+  source: circa 1968
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: You know you’re in trouble when the Russians are adding safety features to
+    your design.
+  author: Maciej Cegłowski
+  subject: on Buran, the Space Shuttle clone
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘What inspired you to become a bus driver?’
+
+    ‘Linus Torvalds.’'
+  tags:
+  - en
+  - tech
+  - programming
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: ! 'Prof. Religa powiedział dzisiaj: „moje wyobrażenie zmieniło się diametralnie
+    o 360 procent”.'
+  author: palio
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Ze względu na niską jakość mojej dzisiejszej pracy, staram się robić jak najmniej,
+    w ten sposób minimalizuję straty firmy.
+  author: Ania
+  tags:
+  - pl
+  - work
