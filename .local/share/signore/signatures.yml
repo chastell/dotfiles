@@ -13619,3 +13619,90 @@
   author: lysy, zuy
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Barnum predicted that most psychoanalysts would have a hard time making living
+    when he said, ‘there’s a sucker born every minute and two to take him’. One sucker
+    isn’t really enough to support two psychoanalysts.
+  author: John McCarthy
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Asking Terry Eagleton whether he liked a particular book is like asking an
+    entomologist whether he personally liked the beetle he has just finished dissecting.
+  author: John McCarthy
+  tags:
+  - en
+  - literature
+- !ruby/struct:Signore::Signature
+  text: „Zostańmy przyjaciółmi” brzmi jak „twój kot zdechł, ale możesz go zatrzymać”.
+  tags:
+  - pl
+  - relationships
+- !ruby/struct:Signore::Signature
+  text: ‘Among those interviewed were his two ex-wives, Kris Kristofferson and Robert
+    Duvall.’ That’s what you get with no Oxford comma.
+  author: Amanda French
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Saw a few teachers striking with ‘if you can read this, thank a teacher’ signs.
+    They were all in Comic Sans.
+  author: A. A. S. Holmes
+  tags:
+  - en
+  - education
+  - typography
+- !ruby/struct:Signore::Signature
+  text: He MUST have known I would treat the request with as much urgency as washing
+    the wall behind the bathroom mirror, yet he chose to call me instead of sending
+    an email?
+  author: Lars Balker Rasmussen
+  source: asr
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ‘Bother’, said Pooh, ‘Eeyore, ready two photon torpedoes and lock phasers
+    on the Heffalump, Piglet, meet me in transporter room three’.
+  author: Robert Billing
+  tags:
+  - en
+  - Winnie-the-Pooh
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: ! 'C++: an octopus made by nailing extra legs onto a dog.'
+  author: Steve Taylor
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: Fortran was the language of choice for the same reason that three-legged races
+    are popular.
+  author: Ken Thompson
+  tags:
+  - en
+  - tech
+  - programming
+  - Fortran
+- !ruby/struct:Signore::Signature
+  text: Dzisiaj sprzatnąłem półkę, której nie ruszałem od mojego przeniesienia się
+    do tego pokoju… Jak zacząłem wycierać kurze, to jakieś dzikie zwierzęta chciały
+    mi podpierdolić ścierkę.
+  author: aAAa
+  tags:
+  - pl
+  - chaos
+- !ruby/struct:Signore::Signature
+  text: ! '— Według ekspertów przyczyną wykolejenia były robaki. Insekty zniszczyły
+    podkłady kolejowe, które nie utrzymały ciężaru elektrowozu.
+
+    — Zniszczyły tak nagle, w kilka minut?
+
+    — Ale musiały być głodne.'
+  author: OLF, jaQbek, Tomasz Wójtowicz
+  source: pl.misc.kolej
+  tags:
+  - pl
