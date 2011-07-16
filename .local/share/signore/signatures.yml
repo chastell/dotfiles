@@ -11333,7 +11333,7 @@
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: I mean, if I had a bookshop, I wouldn't let any *customers* in, that would
+  text: I mean, if I had a bookshop, I wouldn’t let any *customers* in, that would
     just spoil it.
   author: David P. Murphy
   tags:
@@ -14457,3 +14457,121 @@
   tags:
   - pl
   - audiophiles
+- !ruby/struct:Signore::Signature
+  text: When the space shuttle gets back from its last mission, it would be hilarious
+    if we were all dressed as apes.
+  author: ! '@blankslate'
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'There are two types of people in the world: those who get lazy evaluation,
+    and there is one type of people in the world.'
+  author: Carlos Villela
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I hate it when I’m making a milkshake and boys just turn up in my yard.
+  author: ! '@codenamejac'
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ
+  author: Corban Brook
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’ve memorized the 6502 instruction set in case any of you geek girls want
+    to have a torrid love affair or whatever.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - assembler
+- !ruby/struct:Signore::Signature
+  text: Let me open your skull so I can show you the stupid part.
+  author: Al Swearengen
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Whether I’m for or against the Oxford comma really depends on how many characters
+    I’ve got left.
+  author: Teri Berry
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Wiara w zarządzanie projektem przez zmianę osoby przypisanej do ticketu bezustannie
+    zadziwia.
+  author: Filip Tepper
+  tags:
+  - pl
+  - tech
+  - programming
+  - work
+- !ruby/struct:Signore::Signature
+  text: I do not have a psychiatrist and I do not want one, for the simple reason
+    that if he listened to me long enough, he might become disturbed.
+  author: James Thurber
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: My goal is to replace my soul with coffee and become immortal.
+  author: Wally
+  source: Dilbert
+  tags:
+  - en
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: It’s a face-saving way to adopt Linux without looking foolish for not having
+    gone Linux in 1998-2000 when the rest of the industry did. ‘Linux wasn’t ready
+    for the super-demanding needs of the wall-mounted singing rubber fish industry
+    until the OSDL Wall-Mounted Singing Rubber Fish Working Group issued a Very Important
+    White Paper.’
+  author: Don Marti
+  source: linux-elitists
+  subject: on OSDL’s uses
+  tags:
+  - en
+  - tech
+  - Linux
+  - OSDL
+- !ruby/struct:Signore::Signature
+  text: ! 'Hardware: The part you kick. Software: The part you boot.'
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: A poza tym „podobno” ta liczba to wcale nie 666 tylko inna jakaś. Komuś się
+    w tłumaczeniu pokiełbasiło. Tak jak ze słynnymi 72 dziewicami, czekającymi na
+    bojowników dżihadu w islamskim niebie. Wg. najnowszego tłumaczenia Koranu to są
+    rodzynki.
+  author: Paulus
+  source: pl.misc.paranauki
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '— Wyciągam Athlona z pudełka, patrzę na ten malutki, srebrny kwadracik
+    z wypustkami i nie mogę się nadziwić ile ludzkiej pomysłowości i zgromadzonej
+    wiedy siedzi w takim małym kawałku elektroniki.
+
+    — Albo taka sprężyna. Uginasz, uginasz, a ona się prostuje. Sama.'
+  author: Michał Gancarski, |<onrad
+  source: pl.pregierz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Wolność człowieka w Polsce jest jak jazda na rowerze, w którego jednym
+    kole nie ma powietrza. Gdy mówi się o tym władzy, bo przecież poziom ciśnienia
+    powietrza w kole od niej zależy, władza odpowiada: „Tak, rzeczywiście nie ma,
+    ale tylko na samym spodzie.”'
+  author: Stanisław Tym
+  source: Polityka
+  tags:
+  - pl
+  - politics
+  - Poland
