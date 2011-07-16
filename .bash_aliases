@@ -1,5 +1,3 @@
-alias alert='beep; notify-send -i /usr/share/icons/gnome/32x32/apps/gnome-terminal.png "$(alert_helper)"'
-alias alert_helper='history | tail -1 | sed -e "s/^\s*[0-9]\+\s*//" -e "s/; alert$//"'
 alias backup='offlineimap; reset; rm -fr ~/.cache ~/.local/share/Trash ~/.thumbnails; fusermount -u ~/.gvfs; rdiff-backup --print-statistics -v5 ~ /media/Arthur/X301.rdiff; beep -r 3'
 alias clive='clive -cf best'
 alias diff='diff -u'
