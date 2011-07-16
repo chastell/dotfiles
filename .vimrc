@@ -68,3 +68,4 @@ autocmd BufRead,BufNewFile *.install set filetype=php
 autocmd BufRead,BufNewFile *.md      set filetype=markdown
 autocmd BufRead,BufNewFile *.module  set filetype=php
 autocmd BufRead,BufNewFile *.ru      set filetype=ruby
+autocmd BufRead,BufNewFile Gemfile   set filetype=ruby
