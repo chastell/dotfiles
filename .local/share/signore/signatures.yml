@@ -14575,3 +14575,62 @@
   - pl
   - politics
   - Poland
+- !ruby/struct:Signore::Signature
+  text: ‘Do you have your presentation on CD?’ No… no, I do not.
+  author: Scott Chacon
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: It is better to have loafed and lost than never to have loafed at all.
+  author: James Thurber
+  tags:
+  - en
+  - procrastination
+- !ruby/struct:Signore::Signature
+  text: If God had meant for carrots to be eaten cooked, he would have given rabbits
+    fire.
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: Basically my philosophy on release management is that it should be like police
+    brutality.
+  author: Maciej Stachowiak
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'A ‘lame’ server is a server that is SUPPOSED to be authoritative, but,
+    when asked, says: ‘Me? I know nothing, I’m from Madrid!’'
+  author: Ralf Hildebrandt
+  tags:
+  - en
+  - tech
+  - Fawlty Towers
+- !ruby/struct:Signore::Signature
+  text: ! 'Czasem każdy z osobna, a czasem robią konsylium eksperckie. Z uwagą siedzą
+    w tych samych pozach wpatrzone w odpływ wanny, następnie patrzą na siebie w tym
+    samym momencie:
+
+    — Czy kolega szanowny również to samo zaobserwował?
+
+    — Ależ oczywiście drogi kolego, empiria potwierdza nasze przypuszczenia, ale przyjrzyjmy
+    się temu dokładniej, o tu, proszę kolegi, kapie woda, kolega podłoży kończynę
+    jak ja i sprawdzi.'
+  author: Kinga „Słowotok”
+  source: prz.koty
+  tags:
+  - pl
+  - cats
+- !ruby/struct:Signore::Signature
+  text: ! '— Przy całym moim zwichrowaniu na punkcie architektury miast niemieckich,
+    Wilno jest naprawdę dużo piękniejsze od Szczecina.
+
+    — Wiesz, jakby nie patrzeć w Wilnie USAAF nie wdrażała z wysokości 30 000 stóp
+    zasad feng shui.'
+  author: Brat Fedoryński (Alojzy), Greg
+  source: prf.sf-f
+  tags:
+  - pl
+  - architecture
