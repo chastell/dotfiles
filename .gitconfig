@@ -1,0 +1,15 @@
+[alias]
+  br = branch
+  ci = commit
+  st = status -bs
+
+[color]
+  ui = auto
+
+[user]
+  name = Piotr Szotkowski
+  email = chastell@chastell.net
+
+[github]
+  user = chastell
+  token = …
