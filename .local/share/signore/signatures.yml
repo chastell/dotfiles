@@ -6511,7 +6511,7 @@
   text: ! 'nie chodzę do kościoła, więc wyprawa do ikei jest dla mnie jedyną dostępną
     formy drogi krzyżowej. st. 1: jezus bierze wózek wkładając 2 srebrniki, st. 2:
     jezus klinuje się między kanapami ektorp, st. 3: jezusowi upada stolik lack. st.
-    4 młody stażysta szymon cyrenejczyk pomaga jezusowi nieść regał expedit po schodach.'
+    4: młody stażysta szymon cyrenejczyk pomaga jezusowi nieść regał expedit po schodach.'
   author: reuptake
   tags:
   - pl
@@ -14634,3 +14634,75 @@
   tags:
   - pl
   - architecture
+- !ruby/struct:Signore::Signature
+  text: Today I built a clock that I can read at night (sans-contact lenses) – it
+    just glows. Blue=Sleep more, Green=Get up, Yellow=Now!, Red=Late.
+  author: Joe Walnes
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Most of the lines spoken in this movie make me think they’ve confused ‘hacker’
+    with ‘vampire’.
+  author: Aaron Diaz
+  tags:
+  - en
+  - cinematography
+  - hackers
+- !ruby/struct:Signore::Signature
+  text: ‘Why would you go skiing when you can sit in your own kitchen and break your
+    knees with a hammer?’
+  author: James Coglan
+  tags:
+  - en
+  - skiing
+- !ruby/struct:Signore::Signature
+  text: ‘Meat may be murder but tofu is fucking fraud.’
+  author: James Coglan
+  tags:
+  - en
+  - food
+  - tofu
+- !ruby/struct:Signore::Signature
+  text: Thousands of years ago the Egyptians worshipped cats as gods. Cats have never
+    forgotten this.
+  tags:
+  - en
+  - cats
+- !ruby/struct:Signore::Signature
+  text: There is no nonsense so gross that society will not, at some time, make a
+    doctrine of it and defend it with every weapon of communal stupidity.
+  author: Robertson Davies
+  tags:
+  - en
+  - ideology
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Of course I can see ISO-8859-1 characters, I’m French.
+  author: Christian Marillat
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: From my observation, when it comes to porting Linux to a particular device,
+    a point doesn’t appear to be necessary.
+  author: mpt
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: ! '— Dokąd jest kierunkowy 69?
+
+    — Do Francji.'
+  author: shog, eloy
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! " <Elch> ej bo jest taki teleturniej w TV i trzeba z liter\n        „Z E
+    R C W Z E I A” ułożyć słowo… ma ktoś pomysł?\n <qBBa> wieczerza\n <Marq> wieczerza\n
+    <mIrO> wieczerza\n<Merry> zwieracze\n<KiNol> wieczerza\n <Elch> Merry: cool"
+  tags:
+  - pl
+  - IRC
