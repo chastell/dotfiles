@@ -14706,3 +14706,42 @@
   tags:
   - pl
   - IRC
+- !ruby/struct:Signore::Signature
+  text: How can I believe in God when just last week I got my tongue caught in the
+    roller of an electric typewriter?
+  author: Woody Allen
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: It is a common delusion that you make things better by talking about them.
+  author: Rose Macaulay
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'As video game adaptations go, even ‘Pong: The Movie’ would have been better.'
+  author: Michael Rechtshaffen
+  subject: on ‘Alone in the Dark’
+  tags:
+  - en
+  - tech
+  - games
+- !ruby/struct:Signore::Signature
+  text: You can’t spell evil without vi.
+  tags:
+  - en
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: ! '— A gdzie chcecie być pochowani?
+
+    — Spalcie mnie i rozsypcie w serwerowni.'
+  author: Jarek_Z, c00lfon
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Są ludzie, którzy za pierwszym razem zdają sesję. Oczywiście szanujemy ich.
+  author: Szyderczy
+  tags:
+  - pl
+  - students
