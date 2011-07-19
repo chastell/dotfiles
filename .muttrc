@@ -1,5 +1,5 @@
 #alternates ^chastell@(chastell\.net|gmail\.com|orange\.pl|poczta\.neostrada\.pl)$ ^(chastell|shot)@civicrm\.org$ ^shot@(batory\.org\.pl|caltha\.pl|devielle|durance\.shot\.pl|hot\.pl|localhost|shot\.pl)$ ^p\.szotkowski@((elka|tele)\.pw\.edu\.pl|fundacja\.czasopism\.pl)$
-alternates ^chastell@chastell\.net$ ^p\.szotkowski@tele\.pw\.edu\.pl$ ^chastell@civicrm\.org$
+alternates ^chastell@chastell\.net$ ^chastell@civicrm\.org$ ^chastell@gmail\.com$ ^p\.szotkowski@tele\.pw\.edu\.pl$ ^piotr\.szotkowski@rebased\.pl$
 
 #alternative_order text/enriched text/plain text/html
 
