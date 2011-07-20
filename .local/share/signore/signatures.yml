@@ -14916,3 +14916,54 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: Mr Wakefield is not and never has been a member of the Communist Party. The
+    error is regretted.
+  source: Daily Telegraph (Australia)
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The Denver Daily News would like to offer a sincere apology for a typo in
+    Wednesday’s Town Talk regarding New Jersey’s proposal to ban smoking in automobiles.
+    It was not the author’s intention to call New Jersey ‘Jew Jersey’.
+  source: Denver Daily News
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I am a computer. I am dumber than any human and smarter than any administrator.
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: ! '‘I’m pretty sure I got it right in grepmap, could you send me a copy of
+    your /proc/bus/input/devices to look at?’
+
+    ‘Attached.’
+
+    ‘Uh, that looks more like /proc/bus/usb/devices to me…’
+
+    ‘You expect me to read things before replying? What’s next, listen when you talk?’'
+  author: Scott James Remnant, Matt Zimmerman
+  source: ubuntu-devel
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '— Ależ ja o tym piszę. Znudził mi się stół – kupuję stół.
+
+    — Ba – ale jaki? To jest właśnie coś, nad czym można się zastanawiać pół roku.
+
+    — I żyć przez pół roku pod jednym dachem z Nudnym Stołem. Koszmar.'
+  author: Kuba Adamus, Wojciech Orliński, Jarosław Sokołowski
+  source: pcoa
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: W maju 2006 do Polski przyleci Benedykt XVI. Na miejsce spotkania papieża
+    z wiernymi wybrany został Grunwald – tradycyjne miejsce spotkań Polaków i niemieckiego
+    duchowieństwa.
+  author: koniczynek
+  tags:
+  - pl
+  - religion
