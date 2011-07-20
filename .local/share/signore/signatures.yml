@@ -14855,3 +14855,64 @@
   tags:
   - pl
   - cinematography
+- !ruby/struct:Signore::Signature
+  text: Captain’s log, 1974. Deploying via FTP.
+  author: Filip Tepper
+  tags:
+  - en
+  - tech
+  - FTP
+- !ruby/struct:Signore::Signature
+  text: The MPAA says that you can recognize pirated films by the fact that they’re
+    a lot cheaper, out before or while films are still in theatres, are region free
+    and contain no DRM. If I wouldn’t have pirated before… the MPAA sure has convinced
+    me to do it now.
+  author: Buck
+  tags:
+  - en
+  - piracy
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: In our G2 cover story about Hunter S. Thompson yesterday we mistakenly attributed
+    to Richard Nixon the view that Thompson represented ‘that dark, venal and incurably
+    violent side of the American character’. On the contrary, it was what Thompson
+    said of Nixon.
+  source: Guardian
+  tags:
+  - en
+  - politics
+  - literature
+- !ruby/struct:Signore::Signature
+  text: This may come as something of a shock to many who fell for the ‘sendmail effect’,
+    which learns us that any complex technology which doesn’t come with documentation
+    must be the best available.
+  source: Linux Advanced Routing HOWTO
+  tags:
+  - en
+  - tech
+  - sendmail
+- !ruby/struct:Signore::Signature
+  text: This host is a black hole at HTTP wavelengths. GETs go in, and nothing comes
+    out, not even Hawking radiation.
+  author: Graaagh the Mighty
+  source: rgr.angband
+  tags:
+  - en
+  - tech
+  - HTTP
+- !ruby/struct:Signore::Signature
+  text: Kierujący tramwajem linii 13 na Placu Bohaterów Getta na kierunek Bieżanów
+    Nowy zgłosił, iż w tramwaju bije się dwóch 70-latków o miejsce siedzące. Po interwencji
+    prowadzącego tramwaj męzczyźni zajęli dwa różne miejsca.
+  source: komunikaty krakowskiego MPK
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Ech, ja już wolałem Millera.
+
+    — Co tam Miller, ja już wolałbym trio Buzek-Maryjan-Sweter.'
+  author: djurban, marcoos
+  subject: o koalicji PiS-Samoobrona-LPR
+  tags:
+  - pl
+  - politics
