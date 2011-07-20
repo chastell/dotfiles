@@ -10536,7 +10536,7 @@
   - cats
 - !ruby/struct:Signore::Signature
   text: …a tak, Fedora, temat mojego doktoratu „Wpływ dystrybucji, które mnie nie
-    interesują na dalszy brak zainteresowania”. Wytrzymała trzy godziny jak ją testowałem
+    interesują, na dalszy brak zainteresowania”. Wytrzymała trzy godziny gdy ją testowałem
     – wszystkie niedojebki dystrybucji niestabilnych i estetyka Windows 2000.
   author: opi
   tags:
@@ -14798,3 +14798,60 @@
   author: Arez
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Hell hath no fury like a bureaucrat scorned.
+  author: Milton Friedman
+  tags:
+  - en
+  - bureaucracy
+- !ruby/struct:Signore::Signature
+  text: ! '‘No, it sucks, there’s all these little kids, and they always try to talk
+    to me.’
+
+    ‘I like kids.’
+
+    ‘I like kids when they’re being quiet and not moving.’
+
+    ‘Those are dead kids. That doesn’t really count.’'
+  author: Yoggit, leeberace
+  tags:
+  - en
+  - children
+- !ruby/struct:Signore::Signature
+  text: Life begins when you can spend your spare time programming instead of watching
+    television.
+  author: Cal Keegan
+  tags:
+  - en
+  - programming
+- !ruby/struct:Signore::Signature
+  text: A couple of months in the laboratory can frequently save a couple of hours
+    in the library.
+  source: Westheimer’s Discovery
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! '— Kiedy wreszcie rządzący zrozumieją, że wolność gospodarcza prowadzi do
+    rozkwitu, a nie pomoce, programy, projekty, komisje i urzędy…
+
+    — Rządzący zrozumieją to na drugi dzień po tym, jak ta informacja dotrze do wyborców.'
+  author: Paweł O’Pająk, vertret
+  subject: pl.pregierz
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— W całym „King Kongu” jest spora dawka humoru — mimo wyraźnego zaangażownia
+    Jacksona w projekt, zachowuje on zdrowy dystans; na seansie można się wiele razy
+    dobrze uśmiać.
+
+    — Czy ten humor to jest taki kiczowaty-durnowaty amerykański?
+
+    — Nie, to cierpki humor przez łzy w stylu kina irańskiego, z elementami satyry
+    ludowej Azerbejdżanu.'
+  author: Krzysztof Kudłacik, mariposa doux, Tazor
+  source: ph.x-muza
+  tags:
+  - pl
+  - cinematography
