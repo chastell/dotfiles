@@ -14745,3 +14745,56 @@
   tags:
   - pl
   - students
+- !ruby/struct:Signore::Signature
+  text: Never go out to meet trouble. If you will just sit still, nine cases out of
+    ten someone will intercept it before it reaches you.
+  author: Calvin Coolidge
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Kindness is loving people more than they deserve.
+  author: Joseph Joubert
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'The last good thing written in C was Franz Schubert’s Symphony #9.'
+  author: Erwin Dietrich
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: \C gives you enough rope to hang yourself. C++ also gives you the tree object
+    to tie it to.
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+  - C++
+- !ruby/struct:Signore::Signature
+  text: Różnica jak między ornitologiem a wróblem – wróbel jest o wiele bliżej ostatecznej
+    prawdy o ptakach, ale nie jest tego świadomy.
+  author: Dudla
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'moja korespondencja z Crowleyem:
+
+    Crowley: poinformujemy jak będzie zrobione wykonane
+
+    ja: dziękuję za dodanie dopisanie
+
+    Crowley: proszę o wypełnienie wniosku formularza
+
+    ja: wniosek został wypełniony uzupełniony
+
+    Crowley: proszę czekać na odpowiedź potwierdzenie
+
+    ja: będę czekał oczekiwał
+
+    Crowley: damy znak sygnał'
+  author: Arez
+  tags:
+  - pl
