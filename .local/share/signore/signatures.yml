@@ -14967,3 +14967,83 @@
   tags:
   - pl
   - religion
+- !ruby/struct:Signore::Signature
+  text: All the GTD techniques seem like homeopathy to me.
+  author: Filip Tepper
+  tags:
+  - en
+  - GTD
+- !ruby/struct:Signore::Signature
+  text: For a good time, go through US Passport Control with someone that isn’t a
+    US Citizen.
+  author: Aaron Patterson
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Bitcoin casino is pretty fucking meta.
+  author: Giles Bowkett
+  tags:
+  - en
+  - tech
+  - Bitcoin
+- !ruby/struct:Signore::Signature
+  text: Mr Jobs, there is no such thing as ‘American English’. There is English and
+    there are mistakes.
+  author: ! '@Queen_UK'
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Saying you’re a ‘ninja’ when you have a job at a desk being a nerd is about
+    as cool as holding out your arms and making airplane sounds.
+  author: Sebastiaan de With
+  tags:
+  - en
+  - programming
+  - work
+- !ruby/struct:Signore::Signature
+  text: Life being what it is, one dreams of revenge.
+  author: Paul Gauguin
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The radical of one century is the conservative of the next. The radical invents
+    the views. When he has worn them out the conservative adopts them.
+  author: Mark Twain
+  tags:
+  - en
+  - ideas
+- !ruby/struct:Signore::Signature
+  text: Asking ‘Why should I program?’ is similar to picking up a shovel and saying
+    ‘Why should I dig?’. Unless you have a need, there is no point, and you will never
+    understand why all those ditch-diggers keep debating the finer points of different
+    shovels. You are out of context. For you, the answer is ‘You shouldn’t’.
+  author: claytongulick
+  source: /.
+  tags:
+  - en
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Scientists are a friendly, atheistic, hard-working, beer-drinking lot whose
+    minds are preoccupied with sex, chess and baseball when they are not preoccupied
+    with science.
+  author: Yann Martel
+  source: Life of Pi
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: Śmiech jest z samej natury rewolucyjny i dlatego żaden rząd nie lubi, żeby
+    obywatele zanadto chichotali.
+  author: Zygmunt Kałużyński
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Pewnego razu Radio Maryja zwiększy moc nadajników na całą Europę i Holendrom
+    jointy z ust powypadają na myśl, że można coś takiego tolerować.
+  author: wizjoner
+  tags:
+  - pl
+  - politics
