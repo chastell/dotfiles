@@ -15047,3 +15047,61 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Do you think Death could possibly be a boat?’
+
+    ‘No, no, no… Death is not. Death isn’t. Take my meaning? Death is the ultimate
+    negative. Not-being. You can’t not be on a boat.’
+
+    ‘I’ve frequently not been on boats.’
+
+    ‘No, no… What you’ve been is not on boats.’'
+  source: Rosencrantz and Guildenstern Are Dead
+  tags:
+  - en
+  - death
+- !ruby/struct:Signore::Signature
+  text: ! '‘A man talking sense to himself is no madder than a man talking nonsense
+    not to himself.’
+
+    ‘Or just as mad.’'
+  source: Rosencrantz and Guildenstern Are Dead
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: ! 'Me: ‘Could you send that to me as plain text?’
+
+    User: ‘OK!’ (attachment: plain%20text.doc)'
+  author: Peter da Silva
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - email
+- !ruby/struct:Signore::Signature
+  text: Smalltalk itself generates its own refactoring browser, test rig, IDE, and
+    3D graphics subsystems as you write your program with it. So as you structure
+    your program, Smalltalk uses that structure to generate the refactoring browser
+    needed to refactor its structure. This is why some advanced Smalltalk Gurus know
+    the best way to program Smalltalk is to simply pick up the CPU and shake it.
+  author: Phlip
+  source: comp.programming
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: Jak będziesz niegrzeczny to przyjdzie Wojtek Orliński i coś napisze.
+  author: Krzysztof Krzyżaniak
+  source: pcoa
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Rozum mówi nie pij, ale silna wola zwycięża.
+  author: Muczachan
+  tags:
+  - pl
+  - alcohol
