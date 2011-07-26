@@ -15105,3 +15105,61 @@
   tags:
   - pl
   - alcohol
+- !ruby/struct:Signore::Signature
+  text: The tax which will be paid for the purpose of education is not more than the
+    thousandth part of what will be paid to kings, priests, and nobles who will rise
+    up among us if we leave the people in ignorance.
+  author: Thomas Jefferson
+  tags:
+  - en
+  - politics
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ‘Generally speaking, things have gone about as far as they can possibly go,
+    when things have gotten about as bad as they can reasonably get.’
+  source: Rosencrantz and Guildenstern Are Dead
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Try to have as good a life as you can under the circumstances.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Smalltalk programmers do not type, they lean their heads towards their monitors,
+    and meditate. The more advanced programmers do not even need monitors.
+  author: Phlip
+  source: comp.programming
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: A mathematician is a person who can find analogies between theorems; a better
+    mathematician is one who can see analogies between proofs and the best mathematician
+    can notice analogies between theories. One can imagine that the ultimate mathematician
+    is one who can see analogies between analogies.
+  author: Stefan Banach
+  tags:
+  - en
+  - science
+  - math
+- !ruby/struct:Signore::Signature
+  text: ! '— Te studia to mogłyby wyglądać jakoś inaczej! Bez sesji, każdy by sobie
+    studiował to, co by chciał, kiedy by chciał…
+
+    — I żeby wojen nie było…'
+  author: manowce, rondel
+  tags:
+  - pl
+  - students
+- !ruby/struct:Signore::Signature
+  text: Nowy handlowiec w firmie Zigzag stoi z kartką papieru przed ekspresem do kawy
+    (ekspres z wyświetlaczem i masą guzików) i pyta się mnie gdzie włożyć kartkę żeby
+    zrobić z niej ksero; początkowo myślałem, że „nowy” ma poczucie humoru, ale okazało
+    się, że niestety on poważnie pytał.
+  author: Artur Mikuła
+  source: pl.pregierz
+  tags:
+  - pl
+  - work
