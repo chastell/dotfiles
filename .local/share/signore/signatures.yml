@@ -15163,3 +15163,69 @@
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: The only thing that sustains one through life is the consciousness of the
+    immense inferiority of everybody else, and this is a feeling that I have always
+    cultivated.
+  author: Oscar Wilde
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: One day I realized that sadness is just another word for not enough coffee.
+  author: Wally
+  source: Dilbert
+  tags:
+  - en
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: ! 'So I’m waiting around after hours here at BFC, because we’ve got a bad
+    4mm DAT drive attached to the file server in our lab, and the daily and weekly
+    backups are therefore suspect. Also the disk drives are making that sound which
+    says, ‘I’m a happy drive. I’m a cheerful drive. I’m smiling at you because I’m
+    grinding my spindles into microscopic dust and there’s not a single thing you
+    can do about it. I’m going to fail. I’m going to do it soon. Or later. I’m not
+    telling. Probably soon, because I’ve been chatting with the DAT drive two hops
+    up the SCSI chain, and he tells me that he’s been ill, so if I fail *now*, you’ll
+    have no recent backups. That’s why I’m happy. I’m in control. I want a goat. And
+    candles. Black ones. Pray, human. Pray that I’m in a good mood. PRAY, DAMMIT,
+    ON YOUR KNEES, YOU LIMACEOUS BIT OF MEATWARE!’
+
+    I digress.'
+  author: Carl Jacobs
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: …the Windows NT machines at work work much like the reannual wine of the Discworld.
+    They reboot as a reaction to the crash they will have later that day.
+  author: Art
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: ! '— A bo CMYK i RGB i ten… no… FOCOLTONE tak fachowo i technicznie brzmi.
+
+    — No mówię ci Zdzichu, ona do mnie, ja ją CMYK, CMYK, robim normalnie eRBeGa a
+    potem bez krępacji ją gaszę „FOCOLTONE stąd, mała, tam sa drzwi!”'
+  author: Małgorzata.M, Doktor
+  source: alt.pl.tvn.bigbrother
+  tags:
+  - pl
+  - graphics
+- !ruby/struct:Signore::Signature
+  text: ! '— Wszędzie zapodają jakiś klasyki wojenne. „Midway”, „Pearl Harbour” i
+    inne. Dlaczego nie „Tora! Tora! Tora!”?
+
+    — „Tora! Tora! Tora!”, a co to?
+
+    — To taki film o trzech rabinach.'
+  author: Zygmunt M. Zarzecki, Noel, Bart Ogryczak
+  source: pl.pregierz
+  tags:
+  - pl
+  - cinematography
