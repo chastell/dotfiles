@@ -15229,3 +15229,109 @@
   tags:
   - pl
   - cinematography
+- !ruby/struct:Signore::Signature
+  text: szopenfeldziarze kontentu
+  author: czerski
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Na koniec tego projektu zrobię release party w Tworkach.
+  author: Filip Tepper
+  tags:
+  - pl
+  - work
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Sądząc po orędziu Palikota – razem z kamerzystą zaczęli zaraz po śniadaniu.
+  author: czerski
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: My stubbing framework is ‘def’.
+  author: Phil Hagelberg
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: As a kid, I realized my teachers were not gods, later I realized my parents
+    were not gods and then, I realized gods were not gods.
+  author: Srivatsan Chari
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I think a Red Dawn remake would be cooler if they were defending their middle-American
+    town from the US military.
+  author: Anthony Eden
+  tags:
+  - en
+  - politics
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Something I’ve learned on Twitter is that apparently every airline ever is
+    the worst airline of all time, always.
+  author: Marcel Molina
+  tags:
+  - en
+  - airlines
+- !ruby/struct:Signore::Signature
+  text: Why isn’t the media calling the mass murderer in Norway a Christian extremist?
+  author: Raybon Kan
+  tags:
+  - en
+  - media
+  - religion
+- !ruby/struct:Signore::Signature
+  text: When you think of the long and gloomy history of man, you will find more hideous
+    crimes have been committed in the name of obedience than have ever been committed
+    in the name of rebellion.
+  author: C. P. Snow
+  tags:
+  - en
+  - ideology
+- !ruby/struct:Signore::Signature
+  text: In all the millions of years dinosaurs roamed this planet, did any of them
+    feel the need to invent, say, nuclear weapons?
+  author: Mickeyz
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’ve found that nurturing one’s Zen nature is vital to dealing with technology.
+    Violence is pretty damn useful too.
+  author: Lionel Lauer
+  source: asr
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It looks like the machines have figured out that I’m enjoying myself a little
+    too much, though, as one is now having daily freakouts where it basically just
+    starts shrieking ‘The network connections! All the network connections! AAAAAGH!’
+    and curls up on the floor whimpering and catatonic for up to an hour about every
+    day.
+  author: Steve VanDevender
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Zawsze się pocieszałam, że daleko mi do mojej babci i dziadka, którzy kiedyś
+    założyli się (o obieranie ziemniaków na obiad) o to, czy ANTYKWARIUM jest na rybki,
+    czy na stare książki.
+  author: Carol
+  source: pl.soc.dzieci
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: PR3 zrobił kiedyś ankietę pt. „Co by państwo zrobili gdyby się okazało, że
+    w państwa rodzinie jest homo sapiens?”. Większość odpowiedzi było w stylu „ja
+    to bym ręki nie podał” albo „no jakoś trzeba byłoby z tym żyć”.
+  author: Bart Ogryczak
+  source: pl.pregierz
+  tags:
+  - pl
