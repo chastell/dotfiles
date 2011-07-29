@@ -15335,3 +15335,62 @@
   source: pl.pregierz
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Most people are bothered by those passages of Scripture they do not understand,
+    but the passages that bother me are those I do understand.
+  author: Mark Twain
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: There are at least three distinct theories about why holy symbols repel vampires.
+    The Catholic theory is that the repelling force is the faith of the holder, and
+    the symbol merely focuses that faith – so a symbol on its own, or in the hands
+    of a non-believer, is useless. (This has produced some interesting interpretations
+    of what a ‘holy symbol’ could be – one film shows a yuppie repelling a vampire
+    with his wallet.) The Orthodox theory is that faith is irrelevant – it’s God who
+    is performing the miracle, not the wielder. The psychological theory, which Terry
+    seems to be subscribing to here, is that the effect is entirely in the mind of
+    the vampire.
+  author: APF
+  subject: on Carpe Jugulum
+  tags:
+  - en
+  - Discworld
+  - vampires
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '‘Alan Connell (alan.connell@ces-cdr.beer) wrote on 1590 September 1993’
+
+    ‘Nice, but may I ask, why do you start counting since September 1993?’
+
+    ‘September 1990 ended on the 30th. September 1991 ended on the 30th. September
+    1992 ended on the 30th. September 1993 didn’t…’'
+  author: Abigail, Vadim Vygonets, Peter B. Juul
+  source: asr
+  subject: on September that never ended
+  tags:
+  - en
+  - tech
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: An Emacs reference mug is what I want. It would hold ten gallons of coffee.
+  author: Steve VanDevender
+  source: asr
+  tags:
+  - en
+  - tech
+  - Emacs
+- !ruby/struct:Signore::Signature
+  text: Budzi się we mnie zwierzę, ale to niestety prawdopodobnie leniwiec.
+  author: aisi^
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Zabawne jak mało ważna jest twoja praca, gdy prosisz o podwyżkę, a jak niesamowicie
+    niezbędna dla ludzkości gdy prosisz o urlop…
+  author: NiTa
+  tags:
+  - pl
+  - work
