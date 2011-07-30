@@ -15394,3 +15394,72 @@
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: I’d like to widen people’s awareness of the tremendous timespan lying ahead
+    – for our planet, and for life itself. Most educated people are aware that we’re
+    the outcome of nearly four billion years of Darwinian selection, but many tend
+    to think that humans are somehow the culmination. Our sun, however, is less than
+    halfway through its lifespan. Six billion years from now, it will not be humans
+    who watch the sun’s demise. Any creatures that then exist will be as different
+    from us as we are from bacteria or amoebae.
+  author: Martin Rees
+  tags:
+  - en
+  - science
+  - evolution
+- !ruby/struct:Signore::Signature
+  text: In Ghat they believe in vampire watermelons, although folklore is silent about
+    what they believe about vampire watermelons. Possibly they suck back.
+  author: Terry Pratchett
+  source: Carpe Jugulum
+  tags:
+  - en
+  - Discworld
+  - vampires
+- !ruby/struct:Signore::Signature
+  text: Ridcully was to management what King Herod was to the Bethlehem Playgroup
+    Association.
+  author: Terry Pratchett
+  source: The Last Continent
+  tags:
+  - en
+  - Discworld
+  - management
+- !ruby/struct:Signore::Signature
+  text: ! '‘*sigh* Oh, how I wish lusers could read documentation more than they read
+    porn…’
+
+    ‘That’s IT! PORNOGRAPHIC DOCUMENTATION! “…and as she finally reached orgasm, she
+    screamed ‘the mail server will be down for three hours tonight! Yes! Oh, yes!’”’'
+  author: Pete Krawczyk, J.D. Falk
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: The old ‘give ’em a Linux box and they think they’re Jean-Luc Picard’ syndrome.
+  author: Pete Bentley
+  source: asr
+  tags:
+  - en
+  - tech
+  - Linux
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: ! '— Przypomniał on, że Jan Paweł II był jedynym papieżem, który obserwował
+    jako kibic mecz piłkarski w 2000 roku Włochy – Reszta Świata w Rzymie.
+
+    — Nic dziwnego, wziąwszy pod uwagę, że inni papieże już wtedy nie żyli.'
+  author: Adam Polak, ms
+  source: pl.rec.sport.pilka-nozna
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: ! '- - - - - - - - - - - -- - - - - - - - - - - - - -- --- - -- - - - - -
+
+    To są dżdżownice szczęścia. Jeśli nie roześlesz ich 10 osobom to zmienisz płeć.'
+  author: Awruk
+  tags:
+  - pl
