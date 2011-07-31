@@ -15463,3 +15463,56 @@
   author: Awruk
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: In the fetid fleapit of Rincewind’s brain the projectionist of memory put
+    on reel two. Recollection began to flicker.
+  author: Terry Pratchett
+  source: The Last Continent
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: Getting an education was a bit like a communicable sexual disease. It made
+    you unsuitable for a lot of jobs and then you had the urge to pass it on.
+  author: Terry Pratchett
+  source: Hogfather
+  tags:
+  - en
+  - Discworld
+  - education
+- !ruby/struct:Signore::Signature
+  text: Here in Alabama, USA we’ve just acquired the new area code ‘256’ which means
+    that some lucky (and probably unappreciative) bastard will get +1-256-512-1024
+    Which has simply got to be the coolest damn phone number I can imagine.
+  author: David McNett
+  source: asr
+  tags:
+  - en
+  - tech
+  - telephony
+- !ruby/struct:Signore::Signature
+  text: I managed to out-cool even the disgustingly cool people normally found at
+    the cafe I went to, without trying. I’m assuming it was the IETF draft I was reading,
+    because nothing else really accounts for it.
+  author: Kirrily ‘Skud’ Robert
+  source: asr
+  tags:
+  - en
+  - tech
+  - IETF
+- !ruby/struct:Signore::Signature
+  text: Chłopaku, ja mam na nazwisko Piłat, przez całe przedszkole słyszałem, że zabiłem
+    Jezusa.
+  author: Poncki
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Był jeszcze tischnert. Niestety fakt ten nie jest znany guglowi. Taka koszulka
+    w stalowoszarym kolorze. Z krótkimi rękawami i doczepioną koloratką. Do chodzenia
+    po górach.
+  author: Jarosław Sokołowski
+  source: pl.hum.polszczyzna
+  tags:
+  - pl
+  - religion
