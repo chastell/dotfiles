@@ -6661,14 +6661,6 @@
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: ! '— Ta wasza męska prostolinijność.
-
-    — Ta wasza babska skręto-wiadukto-skrzyżowanio-objazdowość.'
-  author: Jagoda, Mataj
-  tags:
-  - pl
-  - gender
-- !ruby/struct:Signore::Signature
   text: Great. My book ran out of batteries. Stupid future.
   author: Andy Daly
   tags:
@@ -15516,3 +15508,75 @@
   tags:
   - pl
   - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'OCD: obsessive-compulsive development.'
+  author: Filip Tepper
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: 127.0.0.1 *.pl
+  author: Filip Tepper
+  tags:
+  - en
+  - tech
+  - /etc/hosts
+- !ruby/struct:Signore::Signature
+  text: Kolega nie lubi Pratchetta. Szukamy nowego kolegi.
+  author: Spotter
+  tags:
+  - pl
+  - Pratchett
+- !ruby/struct:Signore::Signature
+  text: Whenever morality is based on theology, whenever right is made dependent on
+    divine authority, the most immoral, unjust, infamous things can be justified and
+    established.
+  author: Ludwig Feuerbach
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: The only normal people are the ones you don’t know very well.
+  author: Joe Ancis
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Actually, we have scientifically determined that Heisenberg did indeed sleep
+    exactly here. However, we have no idea whatsoever just how fast asleep he was.
+  author: Dave Aronson
+  source: asr
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! '‘<example type=luser thinking>’
+
+    ‘Huh? That doesn’t make sense.’
+
+    ‘Picture a hamster in an exercise wheel. Running, running, running, running, and
+    getting nowhere at all.’
+
+    ‘Then, picture another hanster in another such wheel. Standing, standing, standing,
+    standing, and getting nowhere at all. That’s luser thinking.’'
+  author: James Lin, Michael Brown, Greg Andrews, Vadik
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Ja chodzę zarośnięty, goląc codziennie wąsy tylko, ale od czasu do czasu trzeba,
+    jak osiągnie się pewien punkt krytyczny. Ja swój osiągnąłem dzisiaj, jak na informie
+    wpadł jakiś nauczyciel, podał mi rękę i powiedział „cześć Andrzej”.
+  author: ! '[liu]'
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Dzisiaj w nocy miałem halucynacje.
+
+    — To się „sen” nazywa.'
+  author: mikken, fus
+  tags:
+  - pl
