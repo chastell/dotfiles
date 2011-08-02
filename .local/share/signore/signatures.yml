@@ -15580,3 +15580,102 @@
   author: mikken, fus
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: What do we want? TIME TRAVEL! When do we want it? THAT’S IRRELEVANT!
+  author: ! '@sickipediabot'
+  tags:
+  - en
+  - time travel
+- !ruby/struct:Signore::Signature
+  text: The joy of deleting code is not unlike the joy of canceling a meeting. Have
+    nothing that is not essential.
+  author: Jon Crosby
+  tags:
+  - en
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I don’t always violate the GPL, but when I do, I leave out Bison grammar files.
+  author: Emacs
+  tags:
+  - en
+  - tech
+  - GPL
+- !ruby/struct:Signore::Signature
+  text: The enjoyment of one’s tools is an essential ingredient of successful work.
+  author: Donald E. Knuth
+  tags:
+  - en
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'New idea for broken build music: Lady in Red. That’ll make the buggers
+    run the tests before checking in.'
+  author: Simon Brunning
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I just threw my back out sitting on the toilet in case any of you were in
+    a hurry to grow up.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - age
+- !ruby/struct:Signore::Signature
+  text: Get good by being bad and getting better. I keep getting into trouble when
+    I try to skip that first step.
+  author: Kent Beck
+  tags:
+  - en
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: The average pencil is seven inches long, with just a half-inch eraser – in
+    case you thought optimism was dead.
+  author: Robert Brault
+  tags:
+  - en
+  - optimism
+- !ruby/struct:Signore::Signature
+  text: ‘Gun-wielding recluse gunned down by local police’ isn’t the epitaph I want.
+    I am hoping for ‘Witnesses reported the sound up to two hundred kilometers away’
+    or ‘Last body part finally located’.
+  author: James Nicoll
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘The difference between math and physics is the difference between masturbation
+    and sex.’
+
+    ‘They’re both messy, but physics can get you in much more trouble.’'
+  author: Paul Tomblin, Malcom Ray
+  source: asr
+  tags:
+  - en
+  - science
+  - math
+  - physics
+- !ruby/struct:Signore::Signature
+  text: Me and the caller ID window have a very positive working relationship.
+  author: Mike Sphar
+  source: asr
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Ja to rozumisz raz byłem na zadymie ale akurat jak się lać zaczęli to obiad
+    miałem i musiałem wracać.
+  author: akhbar
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Ale za przeproszeniem *** innym do tego czy ktoś jest nierobem czy nie.
+
+    — ****, nie ***.'
+  author: Rafal „Raf256” Maj, Michal Koziara
+  source: pl.pregierz
+  tags:
+  - pl
+  - work
+  - censorship
