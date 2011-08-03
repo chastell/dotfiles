@@ -15679,3 +15679,90 @@
   - pl
   - work
   - censorship
+- !ruby/struct:Signore::Signature
+  text: ! 'Mogę napisać stronę, która „wygląda” jak kiedyś i nadal łapie się na rozlazłą
+    definicję „klaud ap”.
+
+    Uwaga, nakurwiam klaudap: ssh 10.200.0.10 vi
+
+    Ani „klaud” nie jest niczym nowym (od IMAP-a po big iron w latach 70-tych), ani
+    nie jest niczym odkrywczym. Bardzo mnie irytuje takie wyciąganie definicji z dupy
+    żeby pościskać siusiaka nad nimi.
+
+    Sprzedawca: „Nie proszę Pani, nasza firma nie sprzedaje książek. Sprzedajemy mobilne
+    statyczne nośniki treści.”
+
+    Bloger: „OMG, mobilne statyczne nośniki treści są dużo lepsze od książek!”
+
+    Twój kolega z ironicznym zarostem: „Teraz czytam książki ironicznie.”'
+  author: opi
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Wszedłem w dzień nie w tempo; moglibyśmy zrobić restart?
+  author: czerski
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Please stop fucking calling people ‘resources’.
+  author: Noah Kagan
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Democrats: you are spineless fucks and I hate you. Republicans: you are
+    evil, greedy fuckers and I hate you more.'
+  author: Chris Eppstein
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: If the world were merely seductive, that would be easy. It it were merely
+    challenging, that would be no problem. But I arise in the morning torn between
+    a desire to improve the world and a desire to enjoy the world. This makes it hard
+    to plan the day.
+  author: E. B. White
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: The key to happiness is self-delusion. Don’t think of yourself as an organic
+    pain collector racing toward oblivion.
+  author: Dogbert
+  source: Dilbert
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: This UI has been brought to you by the letters ‘S’ and ‘K’, and the runlevel
+    3.
+  source: asr
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: The wise man does not tell a person with a gun to go check his filesystems
+    for consistency.
+  author: Anthony DeBoer
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Moje zdanie o Chyrze jest takie, że mógłby zagrać jogurt z dużymi kawałkami
+    owoców i zrobić z tego scenę, która przeszłaby do legendy kinematografii.
+  author: Yola
+  source: prk
+  tags:
+  - pl
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: ! '— Działają w Waszych miastach jakieś firmy „udzielające” pożyczek w systemie
+    tzw. argentyńskim?
+
+    — ZUS.'
+  author: Neko, Mithos
+  source: pl.biznes.banki
+  tags:
+  - pl
