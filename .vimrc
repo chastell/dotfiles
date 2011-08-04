@@ -48,8 +48,8 @@ set clipboard+=unnamed
 set directory=/tmp
 set hidden
 set history=1000
+set mouse=
 set nrformats=hex
-set pastetoggle=<F11>
 set splitbelow splitright
 set ttyfast
 
