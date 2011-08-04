@@ -15766,3 +15766,55 @@
   source: pl.biznes.banki
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I think I remember someone metioning this before, and it turned out to be
+    caused by something that seemed completely unrelated. Unfortuanately I cannot
+    remember what. Helpful, eh?
+  author: James Westby
+  source: debian-devel
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: For most of history, Anonymous was a woman.
+  author: Virginia Woolf
+  tags:
+  - en
+  - gender
+- !ruby/struct:Signore::Signature
+  text: I’m locked in a maze of little projects, all of which suck.
+  author: Chris ‘Saundo’ Saunderson
+  source: asr
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Yes, Virginia, there is a Santa Claus. He wears red to hide the bloodstains,
+    and he brings fscked disks to bad sysadmins. That means all of us, according to
+    Santa Claus.
+  author: Mike Andrews
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: ! '— Eee, te wszystkie nowomodne przekłady… Jak _ja_ czytałem Hamleta, to
+    tłumaczenie Słomczyńskiego nie istniało jeszcze.
+
+    — Ale druk już był?'
+  author: Michal Jankowski, Tomasz Brzeziński
+  source: prk
+  tags:
+  - pl
+  - literature
+- !ruby/struct:Signore::Signature
+  text: ! 'Studenci oddali prace semestralne, jeden z nich przytoczył w swoim tekście
+    pewną opinię znanego naukowca, który – według mojego studenta – cytuje często
+    innego naukowca, pana Ibid.
+
+    Dr Ibid: najczęściej cytowany autor na świecie.'
+  author: Kuba Kazecki
+  tags:
+  - pl
+  - science
