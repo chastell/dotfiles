@@ -15818,3 +15818,71 @@
   tags:
   - pl
   - science
+- !ruby/struct:Signore::Signature
+  text: The religion of one age is the literary entertainment of the next.
+  author: Ralph Waldo Emerson
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Psychiatryk24 zaproponował następujący eksperyment mający wyjaśnić Smoleńsk:
+    „proszę uderzyć oba jajka brzuszkiem z dużą prędkością”.'
+  author: reuptake
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: A nation is a society united by delusions about its ancestry and by common
+    hatred of its neighbors.
+  author: William Ralph Inge
+  tags:
+  - en
+  - patriotism
+- !ruby/struct:Signore::Signature
+  text: This is part of the essence of motherhood, watching your kid grow into her
+    own person and not being able to do anything about it.
+  author: Dooce
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: You are trapped in a maze of screens and ssh sessions all alike. It is dark,
+    and you are likely to log off the wrong account.
+  author: Nep.
+  source: asr
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: ! '‘They kept dying but there were always more of them. It was like there
+    was an Elven prince making machine whose “Name” setting was stuck on F*.’
+
+    ‘Look at the bright side: this machine was glob-driven. If it were regexp-driven,
+    it would make Elven princes with names like “FFF”, “FFFFF”, and “FFFFFFFFF”, and
+    “”. OTOH, it would be easier to compress these names efficiently.’
+
+    ‘Some call me “^F[a-z\''-]+$”, but I have many names.’'
+  author: John Burnham, Vadim Vygonets, Malcolm Ray
+  source: asr
+  tags:
+  - en
+  - tech
+  - fantasy
+- !ruby/struct:Signore::Signature
+  text: Ludzie są zawsze gotowi umrzeć za jakąś sprawę, pod warunkiem, że niezupełnie
+    dobrze wiedzą o co chodzi.
+  author: Paul Eldridge
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— Jaki kupiłbyś samochód mając: a) 0-100 tys. zł b) 100-200 tys. zł c)
+    200-500 tys. zł d) niegraniczoną ilość pieniędzy?
+
+    — a) 4 polonezy b) od 4 do 8 polonezów c) od 8 do 20 polonezów d) nieskończoną
+    liczbę polonezów!'
+  author: Andrzej, interkas
+  source: pl.misc.samochody
+  tags:
+  - pl
