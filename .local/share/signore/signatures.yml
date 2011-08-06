@@ -15886,3 +15886,64 @@
   source: pl.misc.samochody
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Want to make a Git repository behave strangely every now and then? Have a
+    coworker that creates a remote branch called HEAD.
+  author: Patrick Hüsler
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: ‘It’s an irregular verb. I have an independent mind, you are a little eccentric,
+    he is round the twist.’
+  author: James Coglan
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Sometimes I feel that if aliens visited us, they would not survive the knowledge
+    exchange.
+  author: Scott Adams
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s sobering to think that the people who forward chain email can also vote.
+  author: Scott Adams
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: C makes it easy to shoot yourself in the foot. C++ makes it harder, but when
+    you do, it blows away your whole leg.
+  author: Bjarne Stroustrup
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+  - C++
+- !ruby/struct:Signore::Signature
+  text: More good code has been written in languages denounced as ‘bad’ than in languages
+    proclaimed ‘wonderful’ – much more.
+  author: Bjarne Stroustrup
+  source: The Design and Evolution of C++
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '— Co oznacza odwrócony znaczek pocztowy na kopercie?
+
+    — To znaczy, że nadawca jest szatanowcem.'
+  author: Marek, Ramonoth
+  source: pl.soc.savoir-vivre
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Kalafiory to w ogóle powinny być zakazane. I brokuły. I w ogóle: nie powinno
+    się jeść fraktali.'
+  author: Tomasz Brzeziński
+  source: prf.sf-f
+  tags:
+  - pl
+  - food
