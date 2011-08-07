@@ -15947,3 +15947,72 @@
   tags:
   - pl
   - food
+- !ruby/struct:Signore::Signature
+  text: Emacs is based on the fear that the operating system may not be there someday.
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - Emacs
+- !ruby/struct:Signore::Signature
+  text: Nostalgia is a symptom of amnesia.
+  author: Fletch
+  source: Oh Word
+  tags:
+  - en
+  - nostalgia
+- !ruby/struct:Signore::Signature
+  text: Rage is the only quality which has kept me, or anybody I have ever studied,
+    writing columns for newspapers.
+  author: Jimmy Breslin
+  tags:
+  - en
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: This is not to say C++ = bad, Lisp = good. It’s to say C++ = bad irrespective
+    of everything else.
+  author: Alain Picard
+  source: comp.lang.lisp
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: First time I’ve gotten a programming job that required a drug test. I was
+    worried they were going to say ‘you don’t have enough LSD in your system to do
+    Unix programming’.
+  author: Paul Tomblin
+  source: asr
+  tags:
+  - en
+  - tech
+  - programming
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! '— Mówić o złu.
+
+    — Też mi to zupełnie nie gra. Powiedziałbym raczej „mówić o źle”, ale to z kolei
+    brzmi dziwnie.
+
+    — A zamawiałbyś kotlet mielony, bo „mełty” źle brzmi, prawda?
+
+    — Kotlet mełty brzmi złu.'
+  author: Michał Radomił Wiśniewski, Marcin E. Hamerla, Tomasz Radko, Tomasz Pacyński
+  source: prf.sf-f
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '— „Z jakiego dokumentu nauczyciel korzysta najczęściej podczas swojej pracy?”
+
+    — Świadectwa zdrowia psychicznego. Powinien je badać często i regularnie i codziennie
+    sprawdzać czy ma przy sobie aktualne świadectwo.
+
+    — Ja od zawsze twierdzę, że nauczyciel to nie zawód, tylko diagnoza.'
+  author: Karina, Tristan Alder, Roman Stachowiak
+  source: pl.soc.edukacja
+  tags:
+  - pl
+  - education
