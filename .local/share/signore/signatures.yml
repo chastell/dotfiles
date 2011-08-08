@@ -16016,3 +16016,64 @@
   tags:
   - pl
   - education
+- !ruby/struct:Signore::Signature
+  text: Only on XKCD can you start a topic involving Hitler and people spend the better
+    part of half a dozen pages arguing about the quality of operating systems.
+  author: cephalopod9
+  source: XKCD forums
+  tags:
+  - en
+  - XKCD
+- !ruby/struct:Signore::Signature
+  text: Music is essentially useless, as life is.
+  author: George Santayana
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: Ink is handicapped, in a way, because you can blow up a man with gunpowder
+    in half a second, while it may take twenty years to blow him up with a book. But
+    the gunpowder destroys itself along with its victim, while a book can keep on
+    exploding for centuries.
+  author: Christopher Morley
+  tags:
+  - en
+  - literature
+- !ruby/struct:Signore::Signature
+  text: There’s a difference between random people with stripy jumpers and a respected
+    scientist with a reputation.
+  author: Steve Kitson
+  source: ucam.chat
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: As it seems to me, in Perl you have to be an expert to correctly make a nested
+    data structure like, say, a list of hashes of instances. In Python, you have to
+    be an idiot not to be able to do it, because you just write it down.
+  author: Peter Norvig
+  source: comp.lang.functional
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+  - Python
+- !ruby/struct:Signore::Signature
+  text: w jakich godzianch neaejepiej wracaxc z swylwestrea? chodiz mi o TO zeby nei
+    bylo juz poelicji? z alkomatami i jczy jak sie nie przekaracza za bardzo szybkoesci
+    to czy lapia?
+  author: White warrior
+  source: 1.01.2005 00:14, pl.rec.uroda
+  tags:
+  - pl
+  - alcohol
+- !ruby/struct:Signore::Signature
+  text: Nie tak dawno film o Hitlerze (nie, nie TEN film o Hitlerze, jakiś telewizyjny)
+    został opisany przez jakiegoś układacza programu „filmem o jednej z najbardziej
+    kontrowersyjnych postaci XX wieku” or compatible.
+  author: Maciej Bojko
+  source: prf.sf-f
+  tags:
+  - pl
+  - politics
