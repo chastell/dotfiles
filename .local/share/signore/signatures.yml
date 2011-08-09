@@ -16077,3 +16077,72 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: ! 'When I was young my father said to me: ‘knowledge is power… Francis Bacon’.
+
+    I understood it as ‘knowledge is power, France is bacon’.
+
+    For more than a decade I wondered over the meaning of the second part and what
+    was the surreal linkage between the two. If I said the quote to someone, ‘knowledge
+    is power, France is bacon’ they nodded knowingly. Or someone might say, ‘knowledge
+    is power’ and I’d finish the quote ‘France is bacon’ and they wouldn’t look at
+    me like I’d said something very odd but thoughtfully agree. I did ask a teacher
+    what did ‘knowledge is power, France is bacon’ mean and got a full 10 minute explanation
+    of the ‘knowledge is power’ bit but nothing on ‘France is bacon’. When I prompted
+    further explanation by saying ‘France is bacon?’ in a questioning tone I just
+    got a ‘yes’. at 12 I didn’t have the confidence to press it further. I just accepted
+    it as something I’d never understand.
+
+    It wasn’t until years later I saw it written down that the penny dropped.'
+  author: Lard_Baron
+  source: Reddit
+  tags:
+  - en
+  - politics
+  - France
+- !ruby/struct:Signore::Signature
+  text: My ambition in life is to someday be the person my dog thinks I am.
+  author: Emily Maughan
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If God had wanted us to vote, he would have given us candidates.
+  author: Jay Leno
+  tags:
+  - en
+  - politics
+  - voting
+- !ruby/struct:Signore::Signature
+  text: Java is a WORA language! (Write Once, Run Away)
+  author: James Vandenberg
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: ! 'Hmmm… it’s Sunday afternoon: I could do my work, or I could do a Fourier
+    analysis of my computer’s fan noise.'
+  author: Amit Muthu
+  source: ucam.chat
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! '— Szukam nietuzinkowej osoby z szalonymi pomysłami!
+
+    — Idź do sejmu.'
+  author: heniek, Marek Grochocki
+  source: prw
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— Trochę nie rozumiem, jak ludzie żyjący razem od iluś lat mają pieniądze
+    „moje”, „twoje” i „wspólne”.
+
+    — To mniej więcej tak jak ze skarpetkami.'
+  author: Grzegorz Janoszka, Hanka Skwarczyńska
+  source: pl.soc.rodzina
+  tags:
+  - pl
