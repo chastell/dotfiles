@@ -16146,3 +16146,85 @@
   source: pl.soc.rodzina
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: There is hopeful symbolism in the fact that flags do not wave in a vacuum.
+  author: Arthur C. Clarke
+  tags:
+  - en
+  - partiotism
+- !ruby/struct:Signore::Signature
+  text: The word ‘vegetarian’ makes the word ‘humanitarian’ a little weird.
+  author: luckyshirt
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Internet trolling is one of the worst expressions of human behavior to be
+    observed since the Holocaust was faked.
+  author: luckyshirt
+  tags:
+  - en
+  - trolling
+- !ruby/struct:Signore::Signature
+  text: „Uczestnik zdobędzie wiedzę i umiejętności z zakresu poszczególnych faz cyklu
+    życia reklamodawcy.”
+  author: Urszula Dobrzańska
+  tags:
+  - pl
+  - advertising
+- !ruby/struct:Signore::Signature
+  text: There is a great deal of difference between an eager man who wants to read
+    a book and the tired man who wants a book to read.
+  author: G. K. Chesterton
+  tags:
+  - en
+  - reading
+- !ruby/struct:Signore::Signature
+  text: Being in the army is like being in the Boy Scouts, except that the Boy Scouts
+    have adult supervision.
+  author: Blake Clark
+  tags:
+  - en
+  - military
+- !ruby/struct:Signore::Signature
+  text: I hate leaving Windows 95 boxes publically accessible, so shifting even to
+    NT is a blessing in some ways. At least I can reboot them remotely in a sane manner,
+    rather than having to send them malformed packets.
+  source: BOFHJournal
+  tags:
+  - en
+  - tech
+  - admin
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: I never realized it before, but having looked that over I’m certain I’d rather
+    have my eyes burned out by zombies with flaming dung sticks than work on a conscientious
+    Unicode regex engine.
+  author: Tim Peters
+  tags:
+  - en
+  - tech
+  - programming
+  - Unicode
+- !ruby/struct:Signore::Signature
+  text: ! '— Może polecicie mi jakiś dobry romans, niekoniecznie banalny?
+
+    — Może… hmm… ze mną…?'
+  author: claudia, woy
+  source: prk
+  tags:
+  - pl
+  - relationships
+- !ruby/struct:Signore::Signature
+  text: ! '— Onegdaj na studiach jeszcze, wraz z akademikowymi współspaczami […]
+
+    — Ale jesteś bynajmniej pewien, że to było onegdaj?
+
+    — Bynajmniej co?
+
+    — Pytałem czy nie ulega dla Ciebie frekwencji że używasz właściwych słów?'
+  author: Jarek P., Zbigniew Cofała
+  source: pl.pregierz
+  tags:
+  - pl
+  - linguistics
