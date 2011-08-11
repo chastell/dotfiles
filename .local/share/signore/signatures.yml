@@ -16228,3 +16228,129 @@
   tags:
   - pl
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'W dziejów pomroce,
+
+    W ciszy klozetu,
+
+    Potężne moce
+
+    Ultramagnetów
+
+    Tesla Nikola
+
+    Kiełzna na munsztuk
+
+    Łyknie jabola
+
+    A potem Frühstück.
+
+
+    W klozetu ciszy,
+
+    W Serbii dalekiej,
+
+    Któż to wysłyszy,
+
+    Pod słoja wiekiem?
+
+    Któż magnes zegnie,
+
+    Jak jego wola?
+
+    W nocy i we dnie –
+
+    Tesla Nikola.
+
+
+    Wyrwać się nie da
+
+    Z magnet imadła
+
+    Nawet okrutna
+
+    Plazma zajadła.
+
+    Wrą tokamaki
+
+    I cyklotrony,
+
+    Nikola Tesla –
+
+    Geniusz szalony.'
+  author: Bruno
+  source: Wierszyk o Nikoli Tesli
+  tags:
+  - pl
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: ! '‘I find I frequently need to get only the second element of an array, or
+    perhaps the seventh. So perhaps if we have choice/pick/sample then we should implement
+    “second” through “tenth” as well. Maybe also powers of ten beyond that… “tenth”,
+    “twentieth”, “thirtieth”. Maybe also every_other, every_third, every_fourth so
+    I can dice my arrays without wearing _why’s flip-flops.’
+
+    ‘Indeed. It would also be useful to implement state machine semantics on array
+    fetches, where I could feed an event into an index and it returns the next index
+    in the sequence. This would make arrays Turing Complete, and we could then dispense
+    with the rest of Ruby, considerably reducing the size of the API.’'
+  author: Charles Oliver Nutter, Dave Thomas
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: As an adolescent I aspired to lasting fame, I craved factual certainty, and
+    I thirsted for a meaningful vision of human life – so I became a scientist. This
+    is like becoming an archbishop so you can meet girls.
+  author: Matt Cartmill
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: I am a werehuman.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: We did requirements and task analysis, iterative design, and user testing.
+    You’d almost think programming languages were an interface between people and
+    computers.
+  author: Steven Pemberton
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Indeed, when I design my killer language, the identifiers ‘foo’ and ‘bar’
+    will be reserved words, never used, and not even mentioned in the reference manual.
+    Any program using one will simply dump core without comment. Multitudes will rejoice.
+  author: Tim Peters
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '— Może ktoś mi w prosty sposób wyjaśni jak jest z VAT-em od umowy o dzieło.
+
+    — Nie ma VAT-u od umowy o dzieło. Prościej nie umiem.'
+  author: JB, Artur R. Czechowski
+  source: pl.praca.dyskusje
+  tags:
+  - pl
+  - taxes
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '— A czytał pan cykl o wiedźminie?
+
+    — [z oburzeniem] Nie, skądże!
+
+    — To skąd pan wie, że Sapkowski jest niedobry?
+
+    — A często używa pan skakanki? No więc ja też jej nie używam.'
+  author: Stanisław Bereś, Stanisław Lem
+  source: Nowa Fantastyka
+  tags:
+  - pl
+  - literature
