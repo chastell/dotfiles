@@ -16354,3 +16354,109 @@
   tags:
   - pl
   - literature
+- !ruby/struct:Signore::Signature
+  text: ! 'Powinien być jakiś nagłówek w HTTP, albo MIME choć: Content-Type: text/moron'
+  author: opi
+  tags:
+  - pl
+  - tech
+  - HTTP
+  - MIME
+- !ruby/struct:Signore::Signature
+  text: „Nowy logotyp i wzory biletów projektował grafik zatrudniony w ZTM, który
+    wygrał mini-konkurs wśród pracowników.”
+  author: Agata Urbanik
+  tags:
+  - pl
+  - ZTM
+- !ruby/struct:Signore::Signature
+  text: Have a problem, Google it, find answer in your own blog post. Priceless.
+  author: Filip Tepper
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: It has come to my attention that some of you are still putting things on the
+    internet that I do not need. This is inefficient. Please stop.
+  author: David Brady
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: This weekend, I adapted some code from ‘Beneath Apple DOS’ in 6502 assembly
+    language. But you all enjoy your hangovers; that’s cool too.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Dear everyone reinventing SQL-the-query-language on top of NoSQL databases:
+    just what in the fuck is wrong with you?'
+  author: Ian Eure
+  tags:
+  - en
+  - tech
+  - programming
+  - SQL
+  - NoSQL
+- !ruby/struct:Signore::Signature
+  text: I love removing code because I found a better way to do it. I hate removing
+    code because client can’t make his mind (so called agile).
+  author: Filip Tepper
+  tags:
+  - en
+  - tech
+  - programming
+  - agile
+  - work
+- !ruby/struct:Signore::Signature
+  text: If my decomposing carcass helps nourish the roots of a juniper tree or the
+    wings of a vulture – that is immortality enough for we.
+  author: Edward Abbey
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘It’s like a rainbow. Without an observer at a twenty-three-degree angle to
+    the light reflecting off a cloud of spherical droplets, there is no rainbow. The
+    whole universe is like that. Our spirits stand at a twenty-three-degree angle
+    to the universe.’
+  author: Kim Stanley Robinson
+  source: Mars trilogy
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: /* I'd just like to take this moment to point out that C has all the expressive
+    power of two dixie cups and a string. */
+  author: Jamie Zawinski
+  source: xkeycaps source
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: I also fondly recall Paris because that’s where I learned to debug Zetalisp
+    while drunk.
+  author: Olin Shivers
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: Wie pan, nie lubię autorów, którzy w krótkim czasie publikują kilkanaście
+    książek, bo w ciągu pięćdziesięciu lat wydałem około czterdziestu pozycji i uważam,
+    że to jest maksimum tego, co można uczciwie w takim czasie zrobić.
+  author: Stanisław Lem
+  source: Nowa Fantastyka
+  subject: o Andrzeju Sapkowskim
+  tags:
+  - pl
+  - literature
+- !ruby/struct:Signore::Signature
+  text: Poglądy polityczne mają takie znaczenie w sejmie jak upierzenie u krokodyla.
+  author: Tomasz Olbratowski
+  tags:
+  - pl
+  - politics
