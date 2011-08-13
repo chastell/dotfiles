@@ -12,7 +12,11 @@ Bundle 'Tagbar'
 Bundle 'The-NERD-tree'
 Bundle 'endwise.vim'
 Bundle 'fugitive.vim'
+Bundle 'matchit.zip'
 Bundle 'surround.vim'
+Bundle 'tComment'
+Bundle 'textobj-rubyblock'
+Bundle 'textobj-user'
 Bundle 'unimpaired.vim'
 
 " end Vundle setup
