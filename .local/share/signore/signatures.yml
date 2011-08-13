@@ -16460,3 +16460,77 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: By a free country, I mean a country where people are allowed, so long as they
+    do not hurt their neighbours, to do as they like. I do not mean a country where
+    six men may make five men do exactly as they like.
+  author: Robert Cecil
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I think we agnostics need a term for a holy war too. I feel all left out.
+  author: George Lebl
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Were we to choose our leaders on the basis of their reading experience and
+    not their political programs, there would be much less grief on earth. I believe
+    that for someone who has read a lot of Dickens to shoot his like in the name of
+    an idea is harder than for someone who has read no Dickens.
+  author: Joseph Brodsky
+  tags:
+  - en
+  - politics
+  - literature
+- !ruby/struct:Signore::Signature
+  text: I really hope there’s a catastrophic bug in some future e-mail program where
+    if you try and send an attachment it cancels your ISP account, deletes your harddrive,
+    and pisses in your coffee.
+  author: Adam Rixey
+  tags:
+  - en
+  - tech
+  - email
+- !ruby/struct:Signore::Signature
+  text: (Of course SML does have its weaknesses, but by comparison, a discussion of
+    C++’s strengths and flaws always sounds like an argument about whether one should
+    face north or east when one is sacrificing one’s goat to the rain god.)
+  author: Thant Tessman
+  tags:
+  - en
+  - tech
+  - programming
+  - SML
+  - C++
+- !ruby/struct:Signore::Signature
+  text: ! '— Może samo założenie, że ktoś ma płacić za kogoś jest błędne. Ja cały
+    czas piszę: chcę płacić SAM ZA SIEBIE! Jakież to by było proste!
+
+    — Odkop resztki Bismarcka, a potem tym resztkom nakop.'
+  author: ! '|Y|S, Jakub Slocki'
+  source: pl.soc.prawo.podatki
+  subject: o ZUS-ie
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— Przed chwilą w „Faktach” podali, że ilość śmiertelnych zawałów w woj.
+    mazowieckim spadła o 300%…
+
+    — Wczoraj w Gazecie Pomorskiej podali, że nastąpiło włamanie do parkomatu i ukradziono
+    387 zł w monetach dwuzłotowych.'
+  author: Dooh, Jarosław Dziubek
+  source: pl.pregierz
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Ja przed panem chodzić na kolanach nie będę. Przed panem, panie premierze,
+    może chodzić na kolanach jedynie pan Giertych, a i tak będzie wyższy niż pan.
+  author: Andrzej Lepper
+  subject: do Jarosława Kaczyńskiego
+  tags:
+  - pl
+  - politics
