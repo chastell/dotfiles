@@ -16534,3 +16534,82 @@
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: Over the past 24 hours I’ve been reflecting on my life & I’ve realized only
+    one thing. I need a medieval battle axe.
+  author: Allan Branch
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘A series of regular expressions’? Like, ‘I have a series of problems so I
+    will use a series of regexps’? Now you have O(n^2) problems.
+  author: Rein Henrichs
+  tags:
+  - en
+  - tech
+  - programming
+  - regular expressions
+- !ruby/struct:Signore::Signature
+  text: Best. Troll. Ever. http://www.apmg-international.com/APMG-UK/Agile/AgileHome.asp
+  author: Paul Battley
+  tags:
+  - en
+  - tech
+  - work
+  - agile
+- !ruby/struct:Signore::Signature
+  text: The difference between a democracy and a dictatorship is that in a democracy
+    you vote first and take orders later; in a dictatorship you don’t have to waste
+    your time voting.
+  author: Charles Bukowski
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: My resolution to stop worrying about the world and quit drinking turned out
+    to be an either-or proposition.
+  source: Non Sequitur
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It is a book about a Spanish guy called Manual. You should read it.
+  source: Dilbert
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: There are no recorded instances of Debian meeting a deadline.
+  author: Andrew Suffield
+  source: debian-devel
+  tags:
+  - en
+  - tech
+  - Debian
+- !ruby/struct:Signore::Signature
+  text: ! '— Mój znajomy, starszy ode mnie twierdzi (nie jest w tym odosobniony),
+    że uczono go rozróżnienia [ziemi/ziemii] w szkole. Jedna końcówka (nie pamiętam
+    która!) miała dotyczyć ziemi w rozumieniu gruntu, planety, druga miała dotyczyć
+    ojczyzny, regionu, itp.
+
+    — Pewien profesor, samodzielny pracownik naukowy instytutu pedagogiki nienajgorszego
+    polskiego uniwersytetu, na zajęciach dokształcających z pedagogiki dla młodej
+    kadry naukowo-pedagogicznej twierdził, że słowo „nauka” ma w języku polskim inne
+    znaczenie, gdy jest akcentowane na pierwszą sylabę, a inne gdy na drugą od końca.
+    Tenże wybitny humanista zawędrował kiedyś przypadkiem do Oksfordu, skąd wróciwszy
+    opowiadał, że „college” to połączenie akademika ze stołówką.'
+  author: Nemo, Władysław Los
+  source: pl.hum.polszczyzna
+  tags:
+  - pl
+  - science
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '— Co do braku przedstawiania się: może ktoś uzywający pseudonimu ma na
+    tyle znane nazwisko, woli być anonimowy, niż być kojarzony ze swoją działalnością
+    w świecie realnym? Pisując tutaj pod pseudonimem taka osoba czułaby się swobodniej.
+
+    — Och, o tym nie pomyśleliśmy, ale nam wszystkim głupio, Wasza Świątobliwość!'
+  author: Chris Redfield, Michał Mierzwa
+  source: prf.sf-f
+  tags:
+  - pl
