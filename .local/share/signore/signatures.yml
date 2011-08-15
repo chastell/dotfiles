@@ -16613,3 +16613,65 @@
   source: prf.sf-f
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Experts are walking bags of anecdotal evidence.
+  author: Avdi Grimm
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: If all atheists left the USA, it would lose 93% of the National Academy of
+    Sciences, but less than 1% of the prison population.
+  author: Joe Rogan
+  tags:
+  - en
+  - religion
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: Never trust a man who left alone in a room with a tea-cosy does not try it
+    on his head.
+  author: Billy Conolly
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A language is a dialect that has an army and a navy.
+  author: Max Weinreich
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: It’s clear that whoever set up the font colorings for most programming modes
+    has seen too many Peter Max posters, or did more acid than I did in the 60s.
+  author: Charles R. Martin
+  source: gnu.emacs.help
+  tags:
+  - en
+  - tech
+  - programming
+  - drugs
+- !ruby/struct:Signore::Signature
+  text: May the --force be with you.
+  author: <[tafkam]>
+  tags:
+  - en
+  - tech
+  - CLI
+- !ruby/struct:Signore::Signature
+  text: ! '— „Zaliczone mamy 19 zawodniczek”.
+
+    — Kto to powiedział? Babiarz?'
+  author: Gajowy Marucha, Leszy
+  source: pl.pregierz
+  subject: o komentatorach
+  tags:
+  - pl
+  - sport
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Między nami – powiedzieć o polskim żurnaliście, że to niedouczony dyletant,
+    to jak powiedzieć, że planeta Jowisz większa jest od arbuza. Stwierdzenie prawdziwe,
+    słabo jednak oddaje skalę problemu.
+  author: Andrzej Sapkowski
+  tags:
+  - pl
+  - journalism
