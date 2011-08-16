@@ -16675,3 +16675,55 @@
   tags:
   - pl
   - journalism
+- !ruby/struct:Signore::Signature
+  text: Holy crap I almost used the wrong ‘your’ in an email to my favourite high
+    school English teacher. NEVER HAS THERE BEEN A CLOSER CALL
+  author: Ryan North
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: I’m thirty years old, but I read at the thirty-four-year-old level.
+  author: Dana Carvey
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It is the test of a good religion whether you can joke about it.
+  author: G. K. Chesterton
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'CHANGES since 0.99 patchlevel 14:
+
+    - too many to count, really. Besides, I''ve lost my notes.'
+  source: Linux changelog
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: My other computer is your Windows box.
+  tags:
+  - en
+  - tech
+  - Windows
+  - security
+- !ruby/struct:Signore::Signature
+  text: Jesteś jak małe dziecko piaskownicy.
+  author: Immer Unzufrieden
+  source: pcoa
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Jest na Allegro pewien miły pan, który sprzedaje za grosze książki. Trochę
+    szwankuje przy przepisywaniu tytułów z okładki, ale cena to rekompensuje. Z kwiatków:
+    „Anegdoty i pastwisze”, „Gomo Faber”, „Przygody Telewizji Mleczarza” czy Wiecha
+    „Zero do kułka”.'
+  author: Małgorzata Krzyżaniak
+  source: pl.pregierz
+  tags:
+  - pl
+  - literature
+  - Allegro
+  - books
