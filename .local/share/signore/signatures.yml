@@ -16727,3 +16727,56 @@
   - literature
   - Allegro
   - books
+- !ruby/struct:Signore::Signature
+  text: Drugs have taught an entire generation of Americans the metric system.
+  author: P. J. O’Rourke
+  tags:
+  - en
+  - drugs
+- !ruby/struct:Signore::Signature
+  text: I grew up in Europe, where the history comes from.
+  author: Eddie Izzard
+  tags:
+  - en
+  - Europe
+  - history
+- !ruby/struct:Signore::Signature
+  text: Regret for the things we did can be tempered by time; it is regret for the
+    things we did not do that is inconsolable.
+  author: Sidney J. Harris
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The idea with Open Source is that it only takes one sucker to write the driver
+    and the rest can benefit from the novelty of it.
+  author: OrangeTide
+  source: /.
+  tags:
+  - en
+  - tech
+  - programming
+  - open source
+- !ruby/struct:Signore::Signature
+  text: These are the voyages of a Polpak-T packet. Its mission? To explore strange,
+    new routes. To seek out new subnets and new organizations. To boldly go where
+    no ping has gone before.
+  tags:
+  - en
+  - tech
+  - networking
+  - Polpak-T
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: Koleżanka z pracy ma bluzkę, która posiada niewyraźny napis z przodu. Aż mi
+    głupio!
+  author: puchaty
+  source: pl.pregierz
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Nie znał niuansow języka i mówił wprost: „och, chciałbym panią zobaczyć
+    nago”.'
+  author: Ilja Ilf
+  tags:
+  - pl
+  - relationships
