@@ -16780,3 +16780,57 @@
   tags:
   - pl
   - relationships
+- !ruby/struct:Signore::Signature
+  text: Democracy is the recurrent suspicion that more than half of the people are
+    right more than half the time.
+  author: E. B. White
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Where’s the most dangerous place to punch someone? You know, if you want
+    to kill someone with your fists.’
+
+    ‘Compton.’'
+  author: amishbob, drbrent
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It is not yet possible to change operating system by writing to /proc/sys/kernel/ostype.
+  source: man 2 sysctl
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: /* I can C clearly now */
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: ! '— Forma słowa „Wietnamczyk” sugeruje, że jest to zdrobnienie, „mały Wietnamiec”,
+    tak jak „krawczyk” to „mały krawiec”.
+
+    — A Chińczyk to mały kto?
+
+    — Wróg żółwia. To z łaciny. Chiń: wróg, czyk: żółwia.'
+  author: Szymon Sokół, Michał Jankowski, Leszek Karlik
+  source: prf.sf-f
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '— Bo zaraz ktoś napisze, że jeszcze „Pasji” nie widział i łeb ukręci jak
+    ktoś powie jak się kończy.
+
+    — Ja nie widziałem, i książki też nie czytałem – to jak się kończy?
+
+    — Zabili go i uciekł. Serio.'
+  author: Sowa, Jakub Słocki
+  source: pl.soc.dzieci.starsze
+  tags:
+  - pl
+  - cinematography
+  - religion
