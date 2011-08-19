@@ -16834,3 +16834,74 @@
   - pl
   - cinematography
   - religion
+- !ruby/struct:Signore::Signature
+  text: You don’t tell developers to be excellent. You allow them to be excellent.
+    And then you thank them for it. And bake them cakes.
+  author: Jason Gorman
+  tags:
+  - en
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ‘Gee, thanks, <app>, I wanted to copy that text with its original formatting!’
+    – Nobody. Ever.
+  author: Ryan Bigg
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The 11 in C++11 refers to the number of legs that have now been nailed onto
+    the dog whilst attempting to build a better octopus.
+  author: Dylan Beattie
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: You can safely assume that you’ve created God in your own image when it turns
+    out that God hates all the same people you do.
+  author: Anne Lamott
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: A writer is a person for whom writing is more difficult than it is for other
+    people.
+  author: Thomas Mann
+  tags:
+  - en
+  - writing
+- !ruby/struct:Signore::Signature
+  text: Linux continues to have almost as much soul as James Brown.
+  author: Forrest Cook
+  source: LWN
+  tags:
+  - en
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: I was expecting to see '<', '=', or '>'. Didn't.
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: ! '— O ile pamiętam malucha też dawało się odpalić pchając go do tyłu na biegu.
+
+    — Tak, podobno zaczynał wtedy produkować paliwo.'
+  author: gobo, Kroket
+  source: pl.misc.samochody
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Z tego co wiem, to podstawą obrony w krav maga są szybkie nogi.
+
+    — Podstawą obrony we wszystkich stylach walk są szybkie nogi.
+
+    — A nie ma takiego, w którym udaje się zwłoki?
+
+    — Joga.'
+  author: Piotr Sieniawski, Kubek Władca poMroku, Dusiołek, ArtJa
+  source: pl.pregierz
+  tags:
+  - pl
