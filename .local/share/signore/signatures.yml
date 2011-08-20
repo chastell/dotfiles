@@ -16905,3 +16905,80 @@
   source: pl.pregierz
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Sekularyzacji Polski dokonamy najpotężniejszą bronią, jaką jest parsknięcie
+    śmiechem.
+  author: Wojciech Orliński
+  tags:
+  - pl
+  - religion
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: ! '— Jakiś czas temu założyłam stronę do testów przeróżnych aplikacji. Nazwałam
+    ją hiszpańskim tytułem pewnej polskiej książki (Malowany ptak). Dzisiaj wchodzę,
+    żeby coś sprawdzić i widzę, że ma 315 fanów, bez żadnego wpisu, zdjęcia czy czegokolwiek
+    innego.
+
+    — Astromarian ma trzystu jeden. Hm.
+
+    — TAK dla elektrowni atomowej im. Jana Pawła II miało 1400.'
+  author: Paulina Wardęga, Bartek Kuzia, Eli Wurman
+  tags:
+  - pl
+  - Facebook
+- !ruby/struct:Signore::Signature
+  text: ! 'Wydarzenie takie jak zamieszki w Londynie to okazja, żeby każdy publicysta
+    i felietonista po raz kolejny wrócił do jakiegoś swojego obsesyjnego tematu i
+    zawołał: „A nie mówiłem, to kolejny dowód na prawdziwość moich tez, które powtarzam
+    od dawna!”'
+  author: Wojciech Orliński
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: When all you have is a nailgun, every problem looks like a messiah.
+  author: Iain Chalmers
+  source: asr
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '* Sinbad changes topic to ‘15000 atheists in London rioted after a blank
+    sheet of paper was found on a cartoonist’s desk’'
+  tags:
+  - en
+  - religion
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: ! 'Pretend that you''re Hercule Poirot: Examine all clues, and deduce the
+    truth by order and method.'
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: I'll pretend you didn't say \long or \outer or \global.
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: ! 'Uważaj. W Wyborczej pracuje WO. Z nim się nie da „in koguto”. Jak WO wychodzi
+    z Michnikiem na Czerską, to tłum szemrze: „ej, co to za jąkała, co się szwenda
+    z WO?!”.'
+  author: Jarek Zgoda
+  source: pl.news.mordplik
+  subject: o Wojciechu Orlińskim
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Funkcjonariusza milicji, w biały dzień, na służbie, na wódkę? Z największą
+    przyjemnością.
+  author: porucznik Borewicz
+  source: 07 zgłoś się
+  tags:
+  - pl
+  - work
