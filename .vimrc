@@ -81,5 +81,8 @@ autocmd BufRead,BufNewFile *.module  set filetype=php
 autocmd BufRead,BufNewFile *.ru      set filetype=ruby
 autocmd BufRead,BufNewFile Gemfile   set filetype=ruby
 
+" help in vertical split
+autocmd FileType help wincmd L
+
 " autosave
 autocmd FocusLost * :wa
