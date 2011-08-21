@@ -62,7 +62,10 @@ set undofile
 
 " mappings
 let mapleader = ','
-nnoremap <c-l>      :nohls<enter><c-l>
+nnoremap <c-h>      <c-w>h
+nnoremap <c-j>      <c-w>j
+nnoremap <c-k>      <c-w>k
+nnoremap <c-l>      <c-w>l
 nnoremap <s-down>   O<esc><down>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>rr gq}
