@@ -50,13 +50,15 @@ set wildmode=list:longest
 
 " misc
 set clipboard+=unnamed
-set directory=/tmp
+set directory=/tmp//
 set hidden
 set history=1000
 set mouse=
 set nrformats=hex
 set splitbelow splitright
 set ttyfast
+set undodir=/tmp//
+set undofile
 
 " mappings
 let mapleader = ','
@@ -72,3 +74,6 @@ autocmd BufRead,BufNewFile *.md      set filetype=markdown
 autocmd BufRead,BufNewFile *.module  set filetype=php
 autocmd BufRead,BufNewFile *.ru      set filetype=ruby
 autocmd BufRead,BufNewFile Gemfile   set filetype=ruby
+
+" autosave
+autocmd FocusLost * :wa
