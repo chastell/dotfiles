@@ -67,9 +67,12 @@ nnoremap <c-j>      <c-w>j
 nnoremap <c-k>      <c-w>k
 nnoremap <c-l>      <c-w>l
 nnoremap <s-down>   O<esc><down>
+nnoremap <leader>b  :LustyBufferExplorer<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>rr gq}
-nnoremap <leader>s  :setlocal spell! spelllang=en_gb<enter>
+nnoremap <leader>t  :TagbarToggle<enter>
+nnoremap j          gj
+nnoremap k          gk
 
 " filetypes
 autocmd BufRead,BufNewFile *.install set filetype=php
