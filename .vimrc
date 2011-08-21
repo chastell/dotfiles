@@ -10,6 +10,7 @@ Bundle 'Parameter-Text-Objects'
 Bundle 'SuperTab-continued.'
 Bundle 'Tagbar'
 Bundle 'The-NERD-tree'
+Bundle 'delimitMate.vim'
 Bundle 'endwise.vim'
 Bundle 'fugitive.vim'
 Bundle 'matchit.zip'
@@ -59,8 +60,6 @@ set ttyfast
 
 " mappings
 let mapleader = ','
-inoremap ((         ()<left>
-inoremap {{         {}<left>
 nnoremap <c-l>      :nohls<enter><c-l>
 nnoremap <s-down>   O<esc><down>
 nnoremap <leader>n  :NERDTreeToggle<enter>
