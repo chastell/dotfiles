@@ -16982,3 +16982,52 @@
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: What we really need is a schism with nobody actually in it. Then we can have
+    all the unifying effect of hating the splitters without actually having to divide
+    our resources.
+  author: Cardinal Tagliatelle
+  source: alt.religion.pastafarianism
+  tags:
+  - en
+  - religion
+  - pastafarianism
+- !ruby/struct:Signore::Signature
+  text: Ashcroft went on to say that our way of life is being threatened by a group
+    of radical religious fanatics who are armed and dangerous. And then he called
+    for prayers in the schools and an end to gun control.
+  author: Jay Leno
+  tags:
+  - en
+  - religion
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Try to go on, since this might almost work.
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: Incompatible list can't be unboxed. Sorry, Pandora. (You sneaky devil.)
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: Rodzina Kossaków to taka rodzina, której członków zawsze wyobrażałem sobie
+    łącznie z końmi.
+  author: Tadeusz Kantor
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Tak a nie inaczej się tu zachowujesz i tak a nie inaczej jesteś oceniana.
+
+    — A powiedz mi kto daje Tobie i innym prawo do oceniania kogokolwiek tutaj?
+
+    — Swarożyc.'
+  author: Agnieszka Krysiak, Akilegna
+  source: pl.soc.dzieci
+  tags:
+  - pl
