@@ -17031,3 +17031,63 @@
   source: pl.soc.dzieci
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'jest we mnie coś, co nie do końca odpowiada ogólnie przyjętym normom, zasadzie
+    „w zdrowym ciele zdrowy duch”. pociągają mnie nie te rzeczy, co trzeba: lubię
+    pić, jestem leniwy, nie mam boga, polityki, idei ani zasad. jestem mocno osadzony
+    w nicości, w swego rodzaju niebycie, i akceptuję to w pełni. nie czyni to ze mnie
+    osoby zbyt interesującej. nie chcę być interesujący, to zbyt trudne. pragnę jedynie
+    miękkiej, mglistej przestrzeni, w której mogę żyć.
+
+    i jeszcze żeby zostawiono mnie w spokoju.'
+  author: Charles Bukowski
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Traditions are group efforts to keep the unexpected from happening.
+  author: Barbara Tober
+  tags:
+  - en
+  - tradition
+- !ruby/struct:Signore::Signature
+  text: ! '‘Eh, some Muslims just burned the Swiss flag as a Danish flag.’
+
+    ‘It’s the thought that counts.’'
+  author: defekt, naama-
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: With luck, this will get me unwedged. But if you really didn't forget anything,
+    try typing '2' now; then my insertion and my current dilemma will both disappear.
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: I suspect you've forgotten a '}', causing me to apply this control sequence
+    to too much text. How can we recover? My plan is to forget the whole thing and
+    hope for the best.
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: ! 'A propos skali to może trochę OT, ale jakiś czas temu moja koleżanka wchodzi
+    do sklepu firmowego Skali (firmy Skala – producenta sprzętu kreślarskiego) i mówi:
+    „Agentko Skali, poproszę papier milimertowy”.'
+  author: mt
+  source: pl.rec.modelarstwo
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— A zresztą, kto by poszedł do kina zobaczyć orangutana walczącego z systemem…
+
+    — Był kiedyś film o nietoperzu walczącym z pingwinem i ludzie poszli do kin.'
+  author: Robert Pyzel, Stanisław W. Czarnecki
+  source: prf.sf-f
+  tags:
+  - pl
+  - cinematography
