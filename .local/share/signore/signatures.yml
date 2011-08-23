@@ -17091,3 +17091,60 @@
   tags:
   - pl
   - cinematography
+- !ruby/struct:Signore::Signature
+  text: Mam nadzieję, że parka, która dostała nasze zamówienie udusiła się z szoku,
+    że jedzenie na wynos może być dobre, bo my odwrotnie.
+  author: Marta Szczęch
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: Ciekawy projekt, zmieniło się w nim wszystko, łącznie z klientem i branżą.
+  author: Filip Tepper
+  tags:
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '‘Did you know that some people say “niche” instead of “niche”?’
+
+    ‘No way!’'
+  author: Geese, ChupaChups
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Maybe this world is another planet’s hell.
+  author: Aldous Huxley
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A funny symbol that I can't read has just been input. Continue, and I'll forget
+    that it ever happened.
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: I can't go on meeting you like this.
+  source: TeX
+  tags:
+  - en
+  - tech
+  - TeX
+- !ruby/struct:Signore::Signature
+  text: Daleko nie szukając kilka lat temu sfałszowano mój podpis na liście popierającej
+    kandydata do wyborów korzystając z danych PESEL-u. Nie wydałoby się, gdyby ci
+    idioci nie przysłali mi listu z podziękowaniem za poparcie.
+  author: Pawel Komos
+  source: prf.sf-f
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '[Pręgierz złodziejom,] którzy dzisiaj w nocy ukradli mi spod bloku samochód.
+    Jeżeli ktoś z was zobaczy w DC granatowego Fiata Tipo WGB 1427, to ten łysy gnój,
+    który prawdopodobnie będzie siedział za kierownicą, to niestety nie ja.'
+  author: Karolina
+  source: pl.pregierz
+  tags:
+  - pl
