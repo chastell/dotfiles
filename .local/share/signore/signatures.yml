@@ -17148,3 +17148,128 @@
   source: pl.pregierz
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: My wife and I have made up elaborate stories about why the tooth fairy takes
+    several nights to show up because we suck.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Something I really love about the Ruby community is the importance that is
+    placed on craftsmanship and quality.
+  author: Ashe Dryden
+  tags:
+  - en
+  - tech
+  - work
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Never ever forget that software is used by human beings. It must be emotional
+    and opinionated and beautiful to work well.
+  author: Thomas Fuchs
+  tags:
+  - en
+  - tech
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Domain renewal email notifications are like little reminders of something
+    you thought was really really funny about a year ago.
+  author: Val Head
+  tags:
+  - en
+  - tech
+  - DNS
+- !ruby/struct:Signore::Signature
+  text: My coworker was showing off his facial recognition login for win. Went to
+    my desk and printed a pic that had him in it and used it to login.
+  author: Mike O’Brien
+  tags:
+  - en
+  - security
+- !ruby/struct:Signore::Signature
+  text: git checkout -b noʎ_ʞɔnɟ
+  author: William Morgan
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
+  - Unicode
+- !ruby/struct:Signore::Signature
+  text: All self-proclaimed ‘social media gurus’ were encyclopedia salesmen in a previous
+    life.
+  author: ! '@studiomondeo'
+  tags:
+  - en
+  - social media
+  - work
+- !ruby/struct:Signore::Signature
+  text: A true gentleman is one who can play the bagpipes – and doesn’t.
+  author: R. Acket
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: ! '‘I hate everyone.’
+
+    ‘Hate can’t change the past.’
+
+    ‘No, but it fuels the future.’'
+  author: monstro, Erika Hall, Mike Monteiro
+  source: flickr
+  tags:
+  - en
+  - feelings
+- !ruby/struct:Signore::Signature
+  text: ! '‘How many Apple Newton users does it take to change a lightbulb?’
+
+    ‘Foux! There to eat lemons, axe gravy soup.’'
+  tags:
+  - en
+  - tech
+  - Apple Newton
+- !ruby/struct:Signore::Signature
+  text: Get me drunk one evening and get me to talk about Oracle and charsets…
+  author: John Sinteur
+  source: hates-software
+  tags:
+  - en
+  - tech
+  - Oracle
+  - localisation
+- !ruby/struct:Signore::Signature
+  text: Kiedy pracowałem w PAN, odbieraliśmy czasem telefony od psychopatów i całkowitym
+    rekordem był dla mnie facet, który odkrył, że gwiazdy na niebie można połączyć
+    w zupełnie inne gwiazdozbiory, niż to się powszechnie przyjęło, ale musiał mówić
+    szybko i niewyraźnie, bo spisek zodiakalny był na jego tropie.
+  author: Wojciech Orliński
+  source: prf.sf-f
+  tags:
+  - pl
+  - astronomy
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Humanistą był Humboldt, był Goethe. Student kierunków „humanistycznych”, który
+    żałośnie definiuje humanizm jako negację umiejętności całkowania, humanistą nie
+    jest.
+  author: January Weiner
+  source: prf.sf-f
+  tags:
+  - pl
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! '— …a wokalista śpiewał po hiszpańsku.
+
+    — Po portugalsku.
+
+    — Jak to jest, że wszyscy myślą, że to hiszpański?
+
+    — Tak jak w Kanadzie. Wszyscy myślą, że to angielski, a to francuski.'
+  author: Ernesto, tomek., B-i, Dulek
+  source: pl.rec.muzyka.rock
+  tags:
+  - pl
+  - linguistics
