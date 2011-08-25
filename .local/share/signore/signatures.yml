@@ -17273,3 +17273,76 @@
   tags:
   - pl
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Writing compact regular expressions is like using short variable names to
+    speed up a program. It only helps if your compiler is brain-dead.
+  author: Chris K
+  source: Stack Overflow
+  tags:
+  - en
+  - tech
+  - regular expressions
+  - programming
+- !ruby/struct:Signore::Signature
+  text: a alphabetically be in organised sentence should words
+  author: Atob
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Mozart tells us what it’s like to be human, Beethoven tells us what it’s like
+    to be Beethoven and Bach tells us what it’s like to be the universe.
+  author: Douglas Adams
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: Technology is a word that describes something that doesn’t work yet.
+  author: Douglas Adams
+  tags:
+  - en
+  - technology
+- !ruby/struct:Signore::Signature
+  text: ! '‘My girlfriend broke up with me and sent me pix of her and her new boyfriend
+    in bed.’
+
+    ‘Ouch!’
+
+    ‘Yeah. I sent them to her dad.’'
+  author: death09, ktp753
+  tags:
+  - en
+  - relationships
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Debugging is twice as hard as writing the code in the first place. Therefore,
+    if you write the code as cleverly as possible, you are, by definition, not smart
+    enough to debug it.
+  author: Brian W. Kernighan
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Like most computer techie people, I’ll happily spend 6 hours trying to figure
+    out how to do a 3 hour job in 10 minutes.
+  author: James Cort
+  source: asr
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: But seriously, I’ve got root, so it’s his problem.
+  author: Nick Manka
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: If I have pinged farther than others, it is because I routed upon the T3s
+    of giants.
+  author: Greg Andrews
+  tags:
+  - en
+  - tech
+  - networking
