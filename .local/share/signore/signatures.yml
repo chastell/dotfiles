@@ -17346,3 +17346,78 @@
   - en
   - tech
   - networking
+- !ruby/struct:Signore::Signature
+  text: ‘It looks like you’re creating a database. Most likely you’d like it in Latin1
+    encoding with Swedish collation.’ No, MySQL, no, I wouldn’t.
+  author: James Higgs
+  tags:
+  - en
+  - tech
+  - MySQL
+- !ruby/struct:Signore::Signature
+  text: ! '‘Tut, tut, a 30-year-old who still leaves the bathroom light on.’
+
+    ‘What has age got to do with forgetting a light on?’
+
+    ‘It relates to the age at which you start paying the electricity bill. Suddenly
+    the lightbulb goes on in the head and off in the bathroom.’'
+  author: Nick Wagg, fluffy bunny, Gropius Riftwynde
+  source: cam.misc
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘I salute those whose opinions differ from my own.’
+
+    ‘So do I. Sometimes with the whole hand, sometimes with just a finger.’'
+  author: John Hatpin, xhoster
+  source: afca
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It is not unusual for those at the wrong end of the club to have a clearer
+    picture of reality than those who wield it.
+  author: Noam Chomsky
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Christian Biblical literalists are trusting themselves to an archaic English
+    translation of a Latin translation of (help me here) Greek? Aramaic? source. I
+    wouldn’t even trust a VCR manual to make it through that intact.
+  author: Dr. Dee
+  tags:
+  - en
+  - religion
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: With so many ‘textbook cases’ of single points of failure, you’d think that
+    we’d stop building systems to demonstrate the concept.
+  author: Matt Curtin
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: And the Prime Directive would be a valid excuse to do absolutely nothing all
+    day. ‘I can’t fix $LUSER’s problem, because to do so would interfere with their
+    development/evolution. Sorry.’
+  author: James Turinsky
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Remember, you’re dealing with developers. If they knew what they were doing,
+    they wouldn’t be doing it.
+  author: Mike A
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I’ve long believed that a large amount of our current technology was invented
+    by science fiction writers, and remained fiction until some geek read it and thought ‘I know
+    how to build that’.
+  author: Andrew Dalgleish
+  tags:
+  - en
