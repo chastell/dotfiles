@@ -17416,8 +17416,72 @@
   - programming
 - !ruby/struct:Signore::Signature
   text: I’ve long believed that a large amount of our current technology was invented
-    by science fiction writers, and remained fiction until some geek read it and thought ‘I know
-    how to build that’.
+    by science fiction writers, and remained fiction until some geek read it and thought
+    ‘I know how to build that’.
   author: Andrew Dalgleish
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: The scientists of today think deeply instead of clearly. One must be sane
+    to think clearly, but one can think deeply and be quite insane.
+  author: Nikola Tesla
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: We love flattery, even though we are not deceived by it, because it shows
+    that we are of importance enough to be courted.
+  author: Ralph Waldo Emerson
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I love mankind. It’s the people I can’t stand.
+  author: Charles Schulz
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The problem with being sure that God is on your side is that you can’t change
+    your mind, because God sure isn’t going to change His.
+  author: Roger Ebert
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: In college, I wrote a TECO-like progamming language as a joke – one-letter
+    statements, totally unreadable. Then I discovered sendmail, and stopped, because
+    the joke had been done so much better than I ever could.
+  author: Mark Hughes
+  tags:
+  - en
+  - tech
+  - programming
+  - sendmail
+- !ruby/struct:Signore::Signature
+  text: I just overheard someone referring to Solaris 2.6 as a ‘virgin operating system’.
+    With a straight face, no less. In one sense, I can see it. The one whereby it
+    knows what it wants to do, it’s just not entirely sure how…
+  author: Carl Jacobs
+  tags:
+  - en
+  - tech
+  - Solaris
+- !ruby/struct:Signore::Signature
+  text: The difference is that Unix has had thirty years of technical types demanding
+    basic functionality of it. And the Macintosh has had fifteen years of interface
+    fascist users shaping its progress. Windows has the hairpin turns of the Microsoft
+    marketing machine and that’s all.
+  author: Red Drag Diva
+  tags:
+  - en
+  - tech
+  - Unix
+  - Windows
+  - Mac OS X
+- !ruby/struct:Signore::Signature
+  text: Graffiti has merely machine-gunned the surviving handwriting ability clinging
+    to the upturned lifeboats of the good ship ‘Cursive’.
+  author: Saundo
+  subject: on Palm Pilots
+  tags:
+  - en
+  - typography
