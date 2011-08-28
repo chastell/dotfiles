@@ -1,7 +1,3 @@
 rvm_gemset_create_on_use_flag=1
 rvm_make_flags="-j 2"
-rvm_path="/home/chastell/.rvm"
 rvm_pretty_print_flag=1
-rvm_project_rvmrc=1
-rvm_project_rvmrc_default=1
-rvm_trust_rvmrcs_flag=1
