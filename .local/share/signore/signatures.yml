@@ -17568,3 +17568,65 @@
   - tech
   - Microsoft
   - Intel
+- !ruby/struct:Signore::Signature
+  text: Truth does not demand belief. Scientists do not join hands every Sunday, singing,
+    ‘Yes, gravity is real! I will have faith! I will be strong! I believe in my heart
+    that what goes up, up, up must come down, down, down. Amen!’ If they did, we would
+    think they were pretty insecure about it.
+  author: Dan Barker
+  tags:
+  - en
+  - religion
+  - science
+- !ruby/struct:Signore::Signature
+  text: Captain Logic is not steering this tugboat.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘I got to expereince this a few years back at the big celtic fest/highland
+    games in Phoenix. They were doing a demonstration of various heavy weapons fielded
+    by various scots regiments and even when the gatling gun was on steady fire you
+    could hear a pipe band performing.’
+
+    ‘Those guys on the gatling gun must have been bad shots.’'
+  author: Dhubghall, Les Albert
+  source: afca
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: Foogoo, what makes you think what I say is any less of a surprise to me than
+    you?
+  author: Yodo
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: We’re the technical experts. We were hired so that management could ignore
+    our recommendations and tell us how to do our jobs.
+  author: Mike Andrews
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Compared to system administration, being cursed forever is a step up.
+  author: Paul Tomko
+  tags:
+  - en
+  - work
+  - admin
+- !ruby/struct:Signore::Signature
+  text: The pluses in my current job include laughing in the face of Nobel laureates
+    who have just lost the only copy of their data. (Hey, I’m still a BOFH.)
+  author: Bob Dowling
+  tags:
+  - en
+  - work
+  - admin
+- !ruby/struct:Signore::Signature
+  text: The Write Many, Read Never drive. For those people that don’t know their system
+    has a /dev/null already.
+  author: Rik Steenwinkel
+  subject: on 8mm Exabytes
+  tags:
+  - en
+  - tech
