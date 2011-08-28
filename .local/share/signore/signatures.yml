@@ -17485,3 +17485,86 @@
   tags:
   - en
   - typography
+- !ruby/struct:Signore::Signature
+  text: Kołorkerka za plecami zamamrotała „mój tata zaznaczył na Fejsbuku, że jest
+    moją matką”.
+  author: kya
+  tags:
+  - pl
+  - Facebook
+  - work
+- !ruby/struct:Signore::Signature
+  text: Udało mi się napisać „best retards” zamiast „best regards” w służbowej korespondencji.
+  author: DrYoung
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: My officemates found Planet of the Apes unrealistic because the scientists
+    in it got funding too easily.
+  author: Emma Jackson
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: When you’re great, people often mistake candor for bragging.
+  author: Calvin
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Philosophers say a great deal about what is absolutely necessary for science,
+    and it is always, so far as one can see, rather naïve, and probably wrong.
+  author: Richard Feynman
+  tags:
+  - en
+  - philisophy
+  - science
+- !ruby/struct:Signore::Signature
+  text: Whoever, in the pursuit of science, seeks after immediate practical utility,
+    may generally rest assured that he will seek in vain.
+  author: H. L. F. von Helmholtz
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: Before his destiny was further clarified, Robin Hood spent several years stealing
+    from the rich and giving to the porcupines.
+  author: Gary Larson
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I must admit that Micro$oft does seem to bear an awful resemblence to the
+    Sirius Cybernetic Corporation. Considering that my attempts at using Word always
+    resulted in something almost, but not quite, entirely unlike a document.
+  author: Rich Kaszeta
+  tags:
+  - en
+  - tech
+  - Microsoft
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: I find that anthropomorphism really doesn’t help me deal with hardware all
+    that much, because it lends a certain attitude of disdain to what would otherwise
+    be a mere malfunction.
+  author: Carl Jacobs
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I never really understood how there could be things that would drive you insane
+    just because you knew them until I ran into Windows.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: IMHO WinTelnet is one of those situations in which both fish and firearm are
+    firmly bracketed to the barrel itself, in perfect alignment, and actually walking
+    up and pulling the trigger starts to fall into the ‘why bother?’ category.
+  author: Anthony deBoer
+  tags:
+  - en
+  - tech
+  - Microsoft
+  - Intel
