@@ -68,6 +68,7 @@ nnoremap <c-k>      <c-w>k
 nnoremap <c-l>      <c-w>l
 nnoremap <s-down>   O<esc><down>
 nnoremap <leader>b  :LustyBufferExplorer<enter>
+nnoremap <leader>f  :LustyFilesystemExplorer<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>rr gq}
 nnoremap <leader>t  :TagbarToggle<enter>
