@@ -17630,3 +17630,74 @@
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Salon24 powołał blogerską sekcję inteligentów. W odpowiedzi flota Czech ostrzelała
+    Narnię.
+  author: opi
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: One way to describe a manhole cover is a sewer lid. However, manhole covers
+    are employed to cover a variety of holes that men (and women) explore for a variety
+    of purposes. I prefer to think of a manhole cover as exactly what an obelisk isn’t.
+  author: Benjamin Mako Hill
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m seventeen and I’m crazy. My uncle says the two always go together. When
+    people ask your age, he said, always say seventeen and insane.
+  author: Ray Bradbury
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I wanted to be Superman, but all I got were these special powers of self-deprecation.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A conservative is a man with two perfectly good legs who has never learned
+    to walk.
+  author: Franklin D. Roosevelt
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I don’t see what C++ has to do with keeping people from shooting themselves
+    in the foot. C++ will happily load the gun, offer you a drink to steady your nerves,
+    and help you aim.
+  author: Peter da Silva
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: The above comment may be extremely inflamatory. For your protection, it has
+    been ROT-13’d twice.
+  author: JWhitlock
+  source: /.
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: The PROPER way to handle HTML postings is to cancel the article, then hire
+    a hitman to kill the poster, his wife and kids, and fuck his dog and smash his
+    computer into little bits. Anything more is just extremism.
+  author: Paul Tomblin
+  source: asr
+  tags:
+  - en
+  - tech
+  - email
+  - HTML
+- !ruby/struct:Signore::Signature
+  text: That being done, all you have to do next is call free() slightly less often
+    than malloc(). You may want to examine the Solaris system libraries for a particularly
+    ambitious implementation of this technique.
+  author: Eric O’Dell
+  source: comp.lang.dylan
+  tags:
+  - en
+  - tech
+  - programming
+  - Solaris
