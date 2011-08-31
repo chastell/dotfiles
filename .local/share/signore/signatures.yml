@@ -17701,3 +17701,122 @@
   - tech
   - programming
   - Solaris
+- !ruby/struct:Signore::Signature
+  text: Do not be too moral. You may cheat yourself out of much of life. So aim above
+    morality. Be not simply good; be good for something.
+  author: Henry David Thoreau
+  tags:
+  - morality
+- !ruby/struct:Signore::Signature
+  text: GitHub needs to add an emoji character for ‘I will merged your pull requests
+    as soon as you write some tests’.
+  author: Erik Michaels-Ober
+  tags:
+  - en
+  - tech
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: There are exceptions, like GitHub, but selling programs to programmers is
+    rowing upstream. A waterfall.
+  author: Kent Beck
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Possible rule of thumb: if I can’t tell from looking at my source code
+    that I’m using your tool, I might be willing to pay for it.'
+  author: Avi Bryant
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: You fell for a phishing scheme. That is not the same as ‘being hacked’.
+  author: Aaron Hockley
+  tags:
+  - en
+  - security
+- !ruby/struct:Signore::Signature
+  text: You know when your code works but your tests don’t? That.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: It’s probably not fully professional to set the user-agent on a wget to ‘Jason/Scott/1.0
+    Bitch, I’m a Bus’ to get around a ban. Oh well.
+  author: Jason Scott
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: ‘I have a huge WSDL.’'
+  author: Tom Preston-Werner
+  tags:
+  - en
+  - tech
+  - WSDL
+- !ruby/struct:Signore::Signature
+  text: Science is a wonderful thing if one does not have to earn one’s living at
+    it.
+  author: Albert Einstein
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: It is lamentable, that to be a good patriot one must become the enemy of the
+    rest of mankind.
+  author: Voltaire
+  tags:
+  - en
+  - patriotism
+- !ruby/struct:Signore::Signature
+  text: Originality is the fine art of remembering what you hear but forgetting where
+    you heard it.
+  author: Laurence J. Peter
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'To do: Start up a a magazine dedicated to picky grammar. Call it ‘Whom
+    Weekly’.'
+  author: WzDD
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Arrrrgh, the braindamage! It’s not unlike the massively non-brilliant decision
+    to use the period in abbreviations as well as a sentence terminator. Had these
+    people no imagination at _all_?
+  author: Erik Naggum
+  source: comp.lang.lisp
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Surely, somewhere, somehow, in the history of computing, at least one manual
+    has been written that you could at least remotely attempt to consider possibly
+    glancing at.
+  author: Adam Rixey
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some people say that a monkey would bang out the complete works of Shakespeare
+    on a typewriter give an unlimited amount of time. In the meantime, what they would
+    probably produce is a valid sendmail configuration file.
+  author: Nicholas Petreley
+  tags:
+  - en
+  - tech
+  - sendmail
+- !ruby/struct:Signore::Signature
+  text: In general, I’d recommend injecting LSD directly into your temples, Syd-Barret-style,
+    before mucking with Motif’s resource framework. The former has far lower odds
+    of  leading directly to terminal insanity.
+  author: Dan Martinez
+  tags:
+  - en
+  - tech
+  - Motif
+  - drugs
