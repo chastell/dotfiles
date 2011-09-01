@@ -17820,3 +17820,73 @@
   - tech
   - Motif
   - drugs
+- !ruby/struct:Signore::Signature
+  text: I feel calm. I feel ready. I can only conclude that’s because I don’t have
+    a full grasp of the situation.
+  author: Mark Adler
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘<sonorous voice>don’t drink and code</sonorous voice>’
+
+    ‘Seriously, drinking and coding is a great combination. It made a lot of my programming
+    assignments in college worth doing.’'
+  author: Robert Klemme, Devin Mullins
+  source: ruby-talk
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘“Growing Up Brady” is actually a first-rate book.’
+
+    ‘Every time I think of a sentence that I never expect to read, suddenly there
+    it is.’'
+  author: AndrewJ, James Neibaur
+  source: alt.obituaries
+  tags:
+  - en
+  - literature
+- !ruby/struct:Signore::Signature
+  text: Few things are more satisfying than seeing your own children have teenagers
+    of their own.
+  author: Doug Larson
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: In case you’re not a computer person, I should probably point out that ‘Real
+    Soon Now’ is a technical term meaning ‘sometime before the heat-death of the universe,
+    maybe’.
+  author: Scott Fahlman
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: I saw ‘cout’ being shifted ‘Hello world’ times to the left and stopped right
+    there.
+  author: Steve Gonedes
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: The only reason it would be easier to program in C is that you can’t easily
+    express complex problems in C, so you don’t.
+  author: Erik Naggum
+  source: comp.lang.lisp
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: In the Unix world, people tend to interpret ‘non-technical user’ as meaning
+    someone who’s only ever written one device driver.
+  author: Daniel Pead
+  tags:
+  - en
+  - tech
+  - programming
+  - Unix
