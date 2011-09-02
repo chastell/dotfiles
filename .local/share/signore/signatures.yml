@@ -17890,3 +17890,72 @@
   - tech
   - programming
   - Unix
+- !ruby/struct:Signore::Signature
+  text: ! '— Mój kret do rur otrzymał w 2009 roku Laur Konsumenta.
+
+    — Kiedyś sfotografowany przez mnie mops został Psem Tygodnia w Estonii.'
+  author: kya, Piotr Czerniawski
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Sometimes I click on ads I don’t like just to charge the advertiser $.
+  author: Cyan Banister
+  tags:
+  - en
+  - advertising
+- !ruby/struct:Signore::Signature
+  text: ! '‘I get upset with myself if I see a word I don’t know the meaning of. Which
+    is starting to happen more and more.’
+
+    ‘Theoretically it should be happening in a mitigate and subjacent idiosyncrasy.’
+
+    ‘Fuck you.’'
+  author: Gonads, Apocalypse
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: I feel about airplanes the way I feel about diets. It seems to me they are
+    wonderful things for other people to go on.
+  author: Jean Kerr
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: There is no cure for birth and death save to enjoy the interval.
+  author: George Santayana
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: My definition of an expert in any field is a person who knows enough about
+    what’s really going on to be scared.
+  author: P. J. Plauger
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Somewhere inside GNOME, there’s a small, fast and efficient GUI struggling
+    to get out.
+  tags:
+  - en
+  - tech
+  - GNOME
+- !ruby/struct:Signore::Signature
+  text: Version control is the art of managing changes to information. It has long
+    been a critical tool for programmers, who typically spend their time making small
+    changes to software and then undoing those changes the next day.
+  source: Version Control with Subversion
+  tags:
+  - en
+  - tech
+  - Subversion
+- !ruby/struct:Signore::Signature
+  text: I do not fear computers. I fear the lack of them.
+  author: Isaac Asimov
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: We’ve heard that a million monkeys at a million keyboards could produce the
+    complete works of Shakespeare; now, thanks to the Internet, we know that is not
+    true.
+  author: Robert Wilensky
+  tags:
+  - en
