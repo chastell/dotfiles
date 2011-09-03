@@ -17959,3 +17959,73 @@
   author: Robert Wilensky
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: People who want to share their religious views with you almost never want
+    you to share yours with them.
+  author: Dave Barry
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'If, as they say, God spanked the town
+
+    for being over frisky,
+
+    why did He burn the churches down
+
+    and save Hotaling’s whisky?'
+  source: 1906 SF Earthquake rhyme
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Skill without imagination is craftsmanship and gives us many useful objects
+    such as wickerwork picnic baskets. Imagination without skill gives us modern art.
+  author: Tom Stoppard
+  tags:
+  - en
+  - art
+- !ruby/struct:Signore::Signature
+  text: When the news reporter said ‘shopkeepers are opening their doors bringing
+    out blankets and cups of tea’ I just smiled. It’s like yes. That’s Britain for
+    you. Tea solves everything. You’re a bit cold? Tea. Your boyfriend has just left
+    you? Tea. You’ve just been told you’ve got cancer? Tea. Coordinated terrorist
+    attack on the transport network bringing the city to a grinding halt? TEA DAMMIT!
+    And if it’s really serious, they may bring out the coffee. The Americans have
+    their alert raised to red, we break out the coffee. That’s for situations more
+    serious than this of course. Like another England penalty shoot-out.
+  source: a comment on the July 7th bombings
+  tags:
+  - en
+  - Britain
+- !ruby/struct:Signore::Signature
+  text: And with that remarks folks, the case of the Crown vs yourself was proven.
+  source: sudo
+  tags:
+  - en
+  - tech
+  - sudo
+- !ruby/struct:Signore::Signature
+  text: Real programmers don’t read manuals. Reliance on a reference is a hallmark
+    of the novice and the coward.
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Debian is old-school Linux, from a time when ‘user-friendly’ was an insult.
+  author: troutgirl
+  tags:
+  - en
+  - tech
+  - Debian
+- !ruby/struct:Signore::Signature
+  text: Back in 1994 our network cable ran over some flourescent lights, and down
+    the wall near our little boombox. You could hear network packets travelling on
+    the wire by the pattern of static in the radio.
+  author: Nano Nano
+  source: debian-user
+  tags:
+  - en
+  - tech
+  - networking
