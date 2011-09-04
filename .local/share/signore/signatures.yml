@@ -18096,3 +18096,71 @@
   author: Nathaniel Borenstein
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If you elect me dictator, I will make it legal to loot & wreck a car or house
+    whose alarm has been going unattended for ten minutes.
+  author: Paul Battley
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Nature is trying very hard to make us succeed, but nature does not depend
+    on us. We are not the only experiment.
+  author: Buckminster Fuller
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I went to the park and saw this kid flying a kite. The kid was really excited.
+    I don’t know why, that’s what they’re supposed to do. Now if he had had a chair
+    on the other end of that string, I would have been impressed. Imagine trying to
+    fly a chair. You’d have to run like a motherfucker.
+  author: Mitch Hedberg
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The depressing thing about tennis is that no matter how much you play, You’ll
+    never be as good as a wall. I played a wall once. They’re fucking relentless.
+  author: Mitch Hedberg
+  tags:
+  - en
+  - tennis
+- !ruby/struct:Signore::Signature
+  text: Norway did not even have a revolution at the time the rest of Europe was busy
+    figuring out human rights and stuff, because we were busy fighting over how to
+    spell it.
+  author: Erik Naggum
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: If computers get too powerful, we can organize them into a committee.
+  author: Bradley’s Bromide
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Programming is 10% science, 25% ingenuity and 65% getting the ingenuity to
+    work with the science.
+  tags:
+  - en
+  - tech
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: SCO is the thief who puts a gun to his own head and says, ‘give me your money
+    or I’ll shoot’.
+  author: Bruce Perens
+  source: /.
+  tags:
+  - en
+  - tech
+  - SCO
+- !ruby/struct:Signore::Signature
+  text: Yes, Java is so bulletproofed that to a C programmer it feels like being in
+    a straightjacket, but it’s a really comfy and warm straightjacket, and the world
+    would be a safer place if everyone was straightjacketedA most of the time.
+  author: Mark ‘Kamikaze’ Hughes
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+  - C
