@@ -18029,3 +18029,70 @@
   - en
   - tech
   - networking
+- !ruby/struct:Signore::Signature
+  text: It was just announced that the queen is deeply shocked and that it has been
+    decided that the Congestion charge (a toll to use a car in London) will not be
+    in place today – how I love the British.
+  author: a comment on the July 7th bombings
+  tags:
+  - en
+  - Britain
+- !ruby/struct:Signore::Signature
+  text: ! '‘The other day I skipped church and went to get something to eat at 7-11.
+    I paid with a $10 and recieved $6.66 in change. Am I going to hell?’
+
+    ‘Almost certainly.’
+
+    ‘Fuck!’'
+  author: monarch, qbert
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: A conservative is one who admires radicals centuries after they’re dead.
+  author: Leo Rosten
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Why does the Air Force need expensive new bombers? Have the people we’ve been
+    bombing over the years been complaining?
+  author: George Wallace
+  tags:
+  - en
+  - military
+- !ruby/struct:Signore::Signature
+  text: I shudder at the thought of a broken tar. I am perfectly capable of creating
+    confusion and delay with my own inventions.
+  author: Mike M
+  source: debian-user
+  subject: on the infamous tar 1.13.92-1
+  tags:
+  - en
+  - tech
+  - tar
+  - Debian
+- !ruby/struct:Signore::Signature
+  text: ! 'Roses are #FF0000
+
+    Violets are #0000FF
+
+    chown -R you ~/base'
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: It’s da bomb. It’s phat. It rulez. Everything else sucks. Basically, any affirming
+    superlative describes Mutt accurately and well.
+  author: David T-G
+  source: debian-user
+  tags:
+  - en
+  - tech
+  - Mutt
+- !ruby/struct:Signore::Signature
+  text: The most likely way for the world to be destroyed, most experts agree, is
+    by accident. That's where we come in; we’re computer professionals. We cause accidents.
+  author: Nathaniel Borenstein
+  tags:
+  - en
