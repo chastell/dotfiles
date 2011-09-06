@@ -24,7 +24,7 @@ Bundle 'unimpaired.vim'
 filetype plugin indent on
 
 " indenting
-set autoindent smartindent
+set autoindent shiftround smartindent
 
 " tabs
 set expandtab shiftwidth=2 tabstop=2
