@@ -18164,3 +18164,63 @@
   - programming
   - Java
   - C
+- !ruby/struct:Signore::Signature
+  text: Act from reason, and failure makes you rethink and study harder. Act from
+    faith, and failure makes you blame someone and push harder.
+  author: Erik Naggum
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: For every subject you can think of there are at least three web sites. The
+    owners of these web sites know each other and at least one of them hates at least
+    one of the others.
+  author: mnlooney
+  subject: on Skif’s Internet Theorem
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Yeah, the only reason I have a TV is ’cause I won it in a book reading contest.
+  author: stargazr
+  tags:
+  - en
+  - reading
+- !ruby/struct:Signore::Signature
+  text: ! 'At least two-thirds of our miseries spring from human stupidity, human
+    malice and those great motivators and justifiers of malice and stupidity: idealism,
+    dogmatism and proselytising zeal on behalf of religous or political ideas.'
+  author: Aldous Huxley
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I don’t mean to irritate the die hard Opera fans, but in my eyes the fat lady
+    has sung.
+  author: Alan Home
+  source: css-discuss
+  tags:
+  - en
+  - tech
+  - Opera
+- !ruby/struct:Signore::Signature
+  text: Unix is not an ‘a-ha’ experience, it is more of a ‘holy-shit’ experience.
+  author: Colin McFadyen
+  source: alt.folklore.computers
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: A distributed system is one in which I cannot get something done because a
+    machine I’ve never heard of is down.
+  author: Leslie Lamport
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: There are two types of programming languages; the ones that people bitch about
+    and the ones that no one uses.
+  author: Bjarne Stroustrup
+  tags:
+  - en
+  - tech
+  - programming
