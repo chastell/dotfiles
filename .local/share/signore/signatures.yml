@@ -18224,3 +18224,95 @@
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Zrobię sobie koszulkę „słuchałem Queen aż Freddie umarł”.
+  author: DrYoung
+  tags:
+  - pl
+  - music
+  - Queen
+- !ruby/struct:Signore::Signature
+  text: „Koziorożce w ten poniedziałek będą miały kłopoty z koncentracją.” NO SERIO?
+  author: Evva
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'fraza dnia: rozparpić unijne środki'
+  author: reuptake
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'siedzieliśmy sobie wczoraj w Regeneracji, najpierw srały na nas nietoperze,
+    potem padał deszcz #kłapouchy'
+  author: reuptake
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Some developers are quite keen about IDE support for new languages. What was
+    the Java IDE we used in 1996?
+  author: Venkat Subramaniam
+  tags:
+  - en
+  - tech
+  - programming
+  - IDE
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Human beings are the only creatures that allow their children to come back
+    home.
+  author: Bill Cosby
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: The shepherd always tries to persuade the sheep that their interests and his
+    own are the same.
+  author: Stendal
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I can see clearly now, the brain is gone.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Birds, flowers, sun… Hawaii does not exist. It’s a myth… like tough liberals,
+    or the Canadian Army.
+  author: Bucky
+  source: Get Fuzzy
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Never test for an error condition you don’t know how to handle.
+  source: Steinbach’s Guideline for Systems Programming
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: The great thing about mod_rewrite is it gives you all the configurability
+    and flexibility of Sendmail. The downside to mod_rewrite is that it gives you
+    all the configurability and flexibility of Sendmail.
+  author: Brian Behlendorf
+  tags:
+  - en
+  - tech
+  - Apache
+  - mod_rewrite
+- !ruby/struct:Signore::Signature
+  text: Despite the tons of examples and docs, mod_rewrite is voodoo. Damned cool
+    voodoo, but still voodoo.
+  author: Brian Moore
+  tags:
+  - en
+  - tech
+  - Apache
+  - mod_rewrite
+- !ruby/struct:Signore::Signature
+  text: A real engineer only resorts to documentation when the keyboard dents on the
+    forehead get too noticeable.
+  tags:
+  - en
+  - tech
+  - programming
+  - work
