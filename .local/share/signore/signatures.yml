@@ -7326,7 +7326,7 @@
   - C
 - !ruby/struct:Signore::Signature
   text: Kiedyś w Krakowie było tanio i czułem się pan warszawiak, a teraz jest drogo
-    i czuję się jak warszawiak, To zasadnicza różnica.
+    i czuję się jak warszawiak, to zasadnicza różnica.
   author: reuptake
   tags:
   - pl
@@ -18316,3 +18316,49 @@
   - tech
   - programming
   - work
+- !ruby/struct:Signore::Signature
+  text: I just implemented ‘tail -f’ in the browser with 60 lines of Ruby + Faye.
+    Mind is currently blown THE FUCK away.
+  author: ! '@ldmosquera'
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Faye
+- !ruby/struct:Signore::Signature
+  text: I was so naïve as a kid I used to sneak behind the barn and do nothing.
+  author: Johnny Carson
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The only thing that saves us from the bureaucracy is inefficiency. An efficient
+    bureaucracy is the greatest threat to liberty.
+  author: Eugene McCarthy
+  tags:
+  - en
+  - bureaucracy
+- !ruby/struct:Signore::Signature
+  text: Progress just means bad things happen faster.
+  author: Terry Pratchett
+  source: Witches Abroad
+  tags:
+  - en
+  - progress
+- !ruby/struct:Signore::Signature
+  text: The opposite of the religious fanatic is not the fanatical atheist but the
+    gentle cynic who cares not whether there is a god or not.
+  author: Eric Hoffer
+  tags:
+  - en
+  - religion
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: static char *usblp_messages[] = {"ok","out of paper","off-line","on fire"};
+  source: drivers/usb/printer.c
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+  - Linux
