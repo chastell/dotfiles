@@ -18362,3 +18362,98 @@
   - programming
   - C
   - Linux
+- !ruby/struct:Signore::Signature
+  text: ! 'Świetnie się wystawia faktury dla eksportera, który co kwartał domaga się
+    zwrotu VAT-u. Co kilka miesięcy Urząd Skarbowy dzwoni i domaga się potwierdzenia,
+    że się wykonało pracę.
+
+    NIE, OCZYWIŚCIE PRZELEWAJĄ PIENIĄDZE LOSOWYM OSOBOM I AKURAT TRAFIŁO NA MNIE.
+
+    To tyle jak chodzi o mój bezpośredni wkład w PKB, działalność już nie jest mi
+    potrzebna.'
+  author: Filip Tepper
+  tags:
+  - pl
+  - taxes
+  - work
+- !ruby/struct:Signore::Signature
+  text: I hate when people on youtube compare Freddie Mercury to God. He is good,
+    but – for fuck’s sake – he is not Freddie Mercury.
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: The good thing about having Alitalia connecting flights is that the second
+    one is also late.
+  author: Paolo Perrotta
+  tags:
+  - en
+  - airlines
+- !ruby/struct:Signore::Signature
+  text: Maybe the best programmers aren’t those who spectacularly solve crazy problems,
+    but those who don’t create them, which is much more silent.
+  author: Lena Herrmann
+  tags:
+  - en
+  - tech
+  - programming
+  - work
+- !ruby/struct:Signore::Signature
+  text: Being called a poetess brings out the terroristress in me.
+  author: Audre Lorde
+  tags:
+  - en
+  - linguistics
+  - gender
+- !ruby/struct:Signore::Signature
+  text: If life was fair, Elvis would be alive and all the impersonators would be
+    dead.
+  author: Johnny Carson
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A conservative is a man who believes that nothing should be done for the first
+    time.
+  author: Alfred E. Wiggam
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I want to learn to speak and understand Greek fluently so I can say, ‘that’s
+    Greek to me’, to mean that I know something extremely well.
+  author: Benjamin Mako Hill
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'To express oneself
+
+    In seventeen syllables
+
+    Is very diffic'
+  author: John Cooper Clark
+  tags:
+  - en
+  - poetry
+  - haiku
+- !ruby/struct:Signore::Signature
+  text: Si hoc legere scis nimium eruditionis habes.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I am a kind of paranoiac in reverse. I suspect people of plotting to make
+    me happy.
+  author: J. D. Salinger
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘A happy, healthy and prosperous New Year to all. May all your dreams come
+    true except for the nightmares.’
+
+    ‘But I don’t _want_ to dress like a carrot and then suddenly find myself flying
+    above Mexico City!’'
+  author: Robin Bignall, Sara Lorimer
+  source: alt.english.usage
+  tags:
+  - en
+  - dreams
