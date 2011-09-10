@@ -18526,3 +18526,121 @@
   tags:
   - en
   - gender
+- !ruby/struct:Signore::Signature
+  text: ! 'And now, a little song about Git: Die die die die die die die die die die
+    die die in a fire. Sung to the tune of whatever the hell you want.'
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: ! 'WARNING: if you see tweets offering free clip of the new Nickelback album
+    DO NOT CLICK. It links to a free clip of the new Nickelback album.'
+  author: Michael O’CC
+  tags:
+  - en
+  - music
+  - Nickelback
+- !ruby/struct:Signore::Signature
+  text: Comparing your programming language to Java is kind of a low bar.
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Really, fuck improving Java. Just… no. You have tons of good JVM languages
+    without the baggage, and they can all access your legacy stuff.
+  author: Eeppa
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Every time I use Ruby’s Enumerable#partition I want to give matz a high five.
+  author: Chris Wanstrath
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: In my version of ‘Back to the Future’, I go back to 1999 and nobody believes
+    there are programming languages that ‘compile to JavaScript’.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Men never do evil so completely and cheerfully as when they do it from a religious
+    conviction.
+  author: Blaise Pascal
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: The idea is to die young as late as possible.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: We are here on Earth to do good to others. What the others are here for, I
+    don’t know.
+  author: W. H. Auden
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'collaboration, n.: a literary partnership based on the false assumption
+    that the other fellow can spell.'
+  tags:
+  - en
+  - literature
+- !ruby/struct:Signore::Signature
+  text: The ability to procrastinate is what separates us from the machines.
+  author: Chris Gregory
+  tags:
+  - en
+  - work
+  - procrastination
+- !ruby/struct:Signore::Signature
+  text: ! 'The quality of haiku
+
+    deteriorates.
+
+    Winter will last long this year.'
+  author: groo
+  source: afca
+  tags:
+  - en
+  - haiku
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: ! '‘The Guardian also had a pre-election column, in which an allegedly “ironic
+    joke” was open to other interpretations: “John Wilkes Booth, Lee Harvey Oswald,
+    John Hinckley Jr., where are you now that we need you?” They removed
+
+    the column from on-line access and apologized.’
+
+    ‘They should have. Hinckley missed the vital spot, so who needs him?’
+
+    ‘As everybody knows, Reagan was killed in that attack and a lookalike was substituted.’
+
+    ‘You mean we were governed all those years by an ACTOR!’'
+  author: Spehro Pefhany, CyberCypher, Jess Askin, don groves
+  source: alt.usage.english
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Indeed, I know many people who believe that the universe is the offspring
+    of the sexual union of the God and the Goddess.’
+
+    ‘You mean the “big bang” theory?’'
+  author: Dana Carpender, Charles Wm. Dimmick
+  source: afca
+  tags:
+  - en
