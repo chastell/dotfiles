@@ -10,6 +10,7 @@ Bundle 'Parameter-Text-Objects'
 Bundle 'SuperTab-continued.'
 Bundle 'Tagbar'
 Bundle 'The-NERD-tree'
+Bundle 'ctrlp.vim'
 Bundle 'delimitMate.vim'
 Bundle 'endwise.vim'
 Bundle 'fugitive.vim'
@@ -49,6 +50,7 @@ set t_Co=256
 set wildmode=list:longest
 
 " misc
+let g:ctrlp_working_path_mode = 0
 set clipboard+=unnamed
 set directory=/tmp//
 set hidden
