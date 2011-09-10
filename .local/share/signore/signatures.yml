@@ -18457,3 +18457,72 @@
   tags:
   - en
   - dreams
+- !ruby/struct:Signore::Signature
+  text: ! '‘What’s the definition of a creationist, anyway?’
+
+    ‘People who think anything complicated must have been created by an alpha male.’'
+  author: Gene Ward Smith, Wayne Throop
+  source: rec.arts.sf.written
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: A faith that cannot survive collision with the truth is not worth many regrets.
+  author: Arthur C. Clarke
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '‘Recently “fall” has begun to creep in to BrE, and to me it’s welcome as
+    a more poetic word than “autumn” and a better match for “spring”.’
+
+    ‘Hmmm. How do you remember which way to adjust your clocks when the change to/from
+    Daylight Savings Time comes around? In the US we “*spring* forward and *fall*
+    back”. Do you have a different mnemonic?’
+
+    ‘It tells us in the Radio Times.’'
+  author: Alan Jones, peter, the Omrud
+  source: alt.english.usage
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Not only isn’t life in Europe as simple as I hoped, it’s more complicated
+    than I could have guessed.’
+
+    ‘Any sufficiently advanced continent is indistinguishable from Discworld.’'
+  author: Helge Moulding, John Dean
+  source: afca
+  tags:
+  - en
+  - Europe
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: It is no coincidence that in no known language does the phrase ‘as pretty
+    as an airport’ appear.
+  author: Douglas Adams
+  tags:
+  - en
+  - linguistics
+  - airports
+- !ruby/struct:Signore::Signature
+  text: You’re basically killing each other to see who’s got the better imaginary
+    friend.
+  author: Richard Jeni
+  subject: on religious wars
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: The desire to take medicine is perhaps the greatest feature which distinguishes
+    man from animals.
+  author: William Osler
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Like all women, she believed that rest and pleasure were bad for men.
+  author: Fritz Leiber
+  source: Swords and Ice Magic
+  tags:
+  - en
+  - gender
