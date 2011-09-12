@@ -18644,3 +18644,130 @@
   source: afca
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: pan w sklepie mówił, że ma jedno z najlepszych w polsce białych win. że nie
+    będzie najlepsze to się spodziewałem, ale że nie jest białe, to zaskoczenie.
+  author: reuptake
+  tags:
+  - pl
+  - wine
+- !ruby/struct:Signore::Signature
+  text: There are a whole _bunch_ of people here dancing like nobody is watching.
+    If only, if only.
+  author: Greg Knauss
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Dzięki uprzejmości panów murarzy za oknem, przerobiłam hity tego lata. Większość
+    znam już na pamięć, a co więcej i gorzej niektóre podśpiewuję.
+  author: Karolina Grodecka
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: Feeling lazier than the guy who made the Polish flag.
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Kiedy będziemy mieli dom, przez rok nie będziemy wpuszczali nikogo. Wywiesimy
+    kartkę na drzwiach: „Nie ma nikogo. Wyjechaliśmy na rok.”'
+  author: Marek Hłasko
+  source: Ósmy dzień tygodnia
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Vienna Airport, I ♥ you. In these flagrantly capitalist times it is nice to
+    find somewhere with free WiFi and many places to plug-in. Though our time together
+    may have been brief (thankfully, come on, you are an airport), I would be happy
+    to grace your linoleum again someday.
+  author: Chris Worman
+  tags:
+  - en
+  - airports
+- !ruby/struct:Signore::Signature
+  text: ! '‘Where is it written that good doctors must conform to some narrow minded,
+    conservative stereotype? My favorite surgeon not only has tattoos, but also has
+    a beard and hair half-way down his back. He has saved my life twice.’
+
+    ‘Twice? Well there you go. A real doctor would have gotten it right the first
+    time.’'
+  author: Bbnuke, Captain Infinity
+  source: rec.arts.tv
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It is a sobering thought that when Mozart was my age, he had been dead for
+    two years.
+  author: Tom Lehrer
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: As democracy is perfected, the office of president represents, more and more
+    closely, the inner soul of the people. On some great and glorious day the plain
+    folks of the land will reach their heart’s desire at last and the White House
+    will be adorned by a downright moron.
+  author: H. L. Mencken
+  tags:
+  - en
+  - politics
+  - democracy
+- !ruby/struct:Signore::Signature
+  text: Too bad the only people who know how to run the country are busy driving cabs
+    and cutting hair.
+  author: George Burns
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: The vast majority of Iraqis want to live in a peaceful, free world. And we
+    will find these people and we will bring them to justice.
+  author: George W. Bush
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I have long been of the opinion that if work were such a splendid thing the
+    rich would have kept more of it for themselves.
+  author: Bruce Grocott
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: I’d rather have a president who does it to a woman than one who does it to
+    his country.
+  author: Shirley MacLaine
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I have noticed that the people who are late are often so much jollier than
+    the people who have to wait for them.
+  author: E. V. Lucas
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘After I stood in line for 5 minutes or so to receive a hot dog, they _then_
+    gave me a slip of paper that said: “Jesus wants you to have this hot dog”.’
+
+    ‘Next time, have ready a slip of paper you can hand back that says, “Jesus wants
+    you to have this slip of paper”. Or even better, “Jesus doesn’t want you to read
+    this slip of paper”. Maybe that will make them short out like the evil robots
+    in old science-fiction movies.’'
+  author: Julie Lavoie, Prabhakar Ragde
+  source: uw.general
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I detest life-insurance agents; they always argue that I shall some day die,
+    which is not so.
+  author: Stephen Leacock
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: For a moment, nothing happened. Then, after a second or so, nothing continued
+    to happen.
+  author: Douglas Adams
+  tags:
+  - en
