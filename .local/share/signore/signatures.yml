@@ -18771,3 +18771,24 @@
   author: Douglas Adams
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Mister Worf, show these children the airlock.
+  tags:
+  - en
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: Very funny, Scotty. Now beam down my clothes.
+  tags:
+  - en
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: ! 'Bumper sticker: Honk if you like obscene gestures.'
+  tags:
+  - en
+  - bumper
+- !ruby/struct:Signore::Signature
+  text: ! 'Bumper sticker: All the parts falling off this car are of the very finest
+    British manufacture.'
+  tags:
+  - en
+  - bumper
