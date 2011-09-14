@@ -18792,3 +18792,29 @@
   tags:
   - en
   - bumper
+- !ruby/struct:Signore::Signature
+  text: Relatively few Bothan spies died to bring you this information.
+  tags:
+  - en
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: There was once a man named George Lucas who cared about his fans, opposed
+    the Hollywood establishment, and believed that deep plots with rich characters
+    were 100 times more important than special effects and cheap gimmicks. Unfortunately,
+    this man disappeared sometime in 1982.
+  author: Brian Cieszynski
+  source: SWCCG Discussion List
+  tags:
+  - en
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: „Ma być elegancko, panie Piotrze, poprostu ze smakiem, lekko, zwiewnie. To
+    jest dobre, ale proszę jeszcze popracować nad tym. Możemy się spotkać jutro? Ok,
+    jesteśmy umówieni.” Chyba powinienem ubrać smoking, bo jakoś nie mogę wyczuć w
+    jaki sposób odsiarczanie i trawienie kotłów może być jeszcze bardziej eleganckie.
+  author: LaBRIE
+  source: czasopismo.pl
+  tags:
+  - pl
+  - work
+  - webdevelopment
