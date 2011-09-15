@@ -18818,3 +18818,24 @@
   - pl
   - work
   - webdevelopment
+- !ruby/struct:Signore::Signature
+  text: ! '— Dzień dobry, czy rozmawiam z panem Michałem Rusinek?
+
+    — Tak, ale ja się deklinuję!
+
+    — To ja zadzwonię później.'
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Prąd mi wyłączyli na 30 minut, bałem się, że już na zawsze.
+  author: Michał Wochna
+  source: czasopismo.pl
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: If high heels were so wonderful, men would still be wearing them.
+  author: Sue Grafton
+  tags:
+  - en
+  - patriarchy
