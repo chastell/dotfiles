@@ -8,6 +8,7 @@ Bundle 'AutoTag'
 Bundle 'LustyExplorer'
 Bundle 'Markdown'
 Bundle 'Parameter-Text-Objects'
+Bundle 'Rubytest.vim'
 Bundle 'SuperTab-continued.'
 Bundle 'Tagbar'
 Bundle 'The-NERD-tree'
@@ -52,6 +53,8 @@ set wildmode=list:longest
 
 " misc
 let g:ctrlp_working_path_mode = 0
+let g:rubytest_cmd_test = "testdrb %p"
+let g:rubytest_cmd_testcase = "testdrb %p -n '/%c/'"
 set clipboard+=unnamed
 set directory=/tmp//
 set hidden
