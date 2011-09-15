@@ -72,9 +72,10 @@ nnoremap <c-l>      <c-w>l
 nnoremap <s-down>   O<esc><down>
 nnoremap <leader>b  :LustyBufferExplorer<enter>
 nnoremap <leader>f  :LustyFilesystemExplorer<enter>
+nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
-nnoremap <leader>rr gq}
-nnoremap <leader>t  :TagbarToggle<enter>
+nnoremap <leader>p  gqip
+nnoremap <leader>r  gq}
 nnoremap j          gj
 nnoremap k          gk
 
