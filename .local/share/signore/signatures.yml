@@ -18839,3 +18839,108 @@
   tags:
   - en
   - patriarchy
+- !ruby/struct:Signore::Signature
+  text: Krakowski zjazd muzealników bardzo się udał. Zakończyliśmy spotkaniem integracyjnym,
+    zarządzając wspólną drzemkę w sali obrad.
+  author: ! '@Muzealnicy'
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: IPN, PKP i Poczta Polska – te trzy instytucje psuja wizerunek polskiego muzealnictwa.
+  author: ! '@Muzealnicy'
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: Hipsterjugend.
+  author: Filip Tepper
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I want to know why I am called a working mother, but my husband is not called
+    a working father?
+  author: Lynn Russell
+  tags:
+  - en
+  - gender
+- !ruby/struct:Signore::Signature
+  text: Well look at that, I can remember that quadratic solving equation. Ladies.
+  author: James Coglan
+  tags:
+  - en
+  - math
+- !ruby/struct:Signore::Signature
+  text: There is great need for a sarcasm font.
+  author: Judi Cogen
+  tags:
+  - en
+  - typography
+- !ruby/struct:Signore::Signature
+  text: ! '— Ty masz tylko jedzenie w głowie! Te trybiki w środku…
+
+    — …są wycięte z sera?'
+  author: chastell, Ania
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: ! '— A wiesz, że w Dunkin Donuts jak się pokaże legitymację studencką, to
+    jest 15% zniżki?
+
+    — No to musimy sprawdzić, czy to prawda…
+
+    — To prawda.'
+  author: Ania, chastell
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: Nie lepię bałwanków z kanapeczek od ładnych paru lat.
+  author: Ania
+  tags:
+  - pl
+  - food
+- !ruby/struct:Signore::Signature
+  text: ! '— Schowaj sobie, bo zapomnisz.
+
+    — Nie zapomnę.
+
+    — Kurna, komu ty takie kity wciskasz?
+
+    — Tobie.'
+  author: chastell, Ania
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Grał w „Trzech siostrach” Czechowa. Ciekawe którą.
+  author: Ania
+  subject: o Orlando Bloomie
+  tags:
+  - pl
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Zawsze, gdy mówię słowo „megalomania”, to mam ten dreszczyk emocji, czy nie
+    nazwę kogoś wielbicielem muzyki…
+  author: Ania
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'Smith & Wesson: The original point and click interface.'
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'clone, n.: 1. an exact duplicate, as in ‘our product is a clone of their
+    product’; 2. a shoddy, spurious copy, as in ‘their product is a clone of our product’.'
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'egotist, n.: a person of low taste, more interested in himself than in
+    me.'
+  author: Ambrose Bierce
+  source: The Devil’s Dictionary
+  tags:
+  - en
+  - linguistics
