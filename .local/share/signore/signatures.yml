@@ -18944,3 +18944,60 @@
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Na tym właśnie polega znajomość tematu, że ty wiesz, o co mi chodzi.
+  source: XIV LO w Warszawie
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zaraz dostaniecie na dwie mierny do podziału.
+  source: XIV LO w Warszawie
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Traktujesz mnie jak kogoś, kto chce z tobą poflirtować i zadaje ci zupełnie
+    absurdalne pytania, żeby tylko usłyszeć twój głos.
+  source: XIV LO w Warszawie
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja uważam, że lepiej się dobrze napić wódeczki niż zapalić papieroska.
+  source: XIV LO w Warszawie
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: How many seconds are there in a year? If I tell you there are 3.155 × 10^7,
+    you won’t even try to remember it. On the other hand, who could forget that –
+    to within half a percent – π seconds is a nanocentury.
+  author: Tom Duff
+  tags:
+  - en
+  - science
+  - math
+- !ruby/struct:Signore::Signature
+  text: 355/113 – not π, but an incredible simulation.
+  tags:
+  - en
+  - science
+  - math
+- !ruby/struct:Signore::Signature
+  text: 31.69 nHz = once a year.
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: As an adolescent I aspired to lasting fame, I craved factual certainty, and
+    I thirsted for a meaningful vision of human life – so I became a scientist. This
+    is like becoming an archbishop so you can meet girls.
+  author: Matt Cartmill
+  tags:
+  - en
+  - science
