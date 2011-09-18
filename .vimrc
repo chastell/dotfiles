@@ -86,8 +86,9 @@ nnoremap k          gk
 autocmd BufRead,BufNewFile *.install set filetype=php
 autocmd BufRead,BufNewFile *.md      set filetype=markdown
 autocmd BufRead,BufNewFile *.module  set filetype=php
+autocmd BufRead,BufNewFile *.rsb     set filetype=ruby
 autocmd BufRead,BufNewFile *.ru      set filetype=ruby
-autocmd BufRead,BufNewFile Gemfile   set filetype=ruby
+autocmd BufRead,BufNewFile Gemfile*  set filetype=ruby
 
 " help in vertical split
 autocmd FileType help wincmd L
