@@ -19001,3 +19001,33 @@
   tags:
   - en
   - science
+- !ruby/struct:Signore::Signature
+  text: Strasznie dziś klasa jakby wczoraj popiła sobie zupełnie.
+  author: XIV LO w Warszawie
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Student jest jak wierny, poczciwy pies – siedzi, dobrze mu z oczu patrzy,
+    kiwa głową i… nic nie rozumie.
+  author: Witold Brylski
+  tags:
+  - pl
+  - education
+  - students
+- !ruby/struct:Signore::Signature
+  text: ! 'University of Wisconsin statistics department: where mean is normal and
+    deviation – standard.'
+  tags:
+  - pl
+  - education
+  - math
+  - statistics
+- !ruby/struct:Signore::Signature
+  text: The concept is interesting and well-formed, but in order to earn better than
+    a ‘C’ the idea must be feasible.
+  author: a Yale University professor
+  subject: on Fred Smith’s paper on reliable overnight delivery service
+  tags:
+  - en
