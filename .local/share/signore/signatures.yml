@@ -19031,3 +19031,33 @@
   subject: on Fred Smith’s paper on reliable overnight delivery service
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Heavier-than-air flying machines are impossible.
+  author: Lord Kelvin, president of The Royal Society, 1895
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: Professor Goddard does not know the relation between action and reaction and
+    the need to have something better than a vacuum against which to react. He seems
+    to lack the basic knowledge ladled out daily in high schools.
+  source: 1921 New York Times editorial on Robert Goddard’s rocket work
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! 'Quantum Mechanics: The dreams stuff is made of.'
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: I think that BBC’s attitude towards the show while it was in production was
+    very similar to that which Macbeth had towards murdering people – initial doubts,
+    followed by cautious enthusiasm and then greater and greater alarm at the sheer
+    scale of the undertaking and still no end in sight.
+  author: Douglas Adams
+  subject: about BBC’s version of HHGG
+  tags:
+  - en
+  - HHGG
+  - BBC
