@@ -19061,3 +19061,162 @@
   - en
   - HHGG
   - BBC
+- !ruby/struct:Signore::Signature
+  text: ! 'Mentoring: best pyramid scheme, ever!'
+  author: Wesley Beary
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: There are so many things in Rails that make people go ‘AWESOME’ and then two
+    years later, make them go ‘I should not have used that’.
+  author: Brian P. Hogan
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: If the zombie apocalypse ever happens, I’m just going to surround my house
+    with outward facing treadmills. I should be fine.
+  author: ! '@benmarvin'
+  tags:
+  - en
+  - zombies
+- !ruby/struct:Signore::Signature
+  text: When I’m named Ruby Pope I’ll make Rubinius standard, rename 1.9.2 to CRI,
+    and make sure everyone knows JRuby isn’t Java.
+  author: Kurtis Rainbolt-Greene
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rubinius
+  - JRuby
+- !ruby/struct:Signore::Signature
+  text: „Władca Pierścieni” to w istocie piękna przypowieść o trudach muzealników,
+    obronie i pozyskiwaniu skarbów dziedzictwa.
+  author: ! '@Muzealnicy'
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: 4chan would cure cancer if they thought it would annoy someone.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - 4chan
+  - cancer
+- !ruby/struct:Signore::Signature
+  text: Warsztaty muzealne dla dzieci były dobrym pomysłem do momentu, gdy zorientowaliśmy
+    się, że dobrze bawią się na nich tylko starsi kustosze.
+  author: ! '@Muzealnicy'
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: My seven-year-old announced, ‘God is in the sky and in our bodies’, and I
+    replied, ‘…and in the toilet’ in case anybody needs a step-dad.
+  author: Mark Pilgrim
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I bet the Germans have a word for ‘concepts best expressed in German’.
+  author: Indefensible
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: In design we design REST API by crowdsource. Most popular as far is GET /dropdb
+    which has of slight side effect but is idempotent.
+  author: DevOps Borat
+  tags:
+  - en
+  - tech
+  - programming
+  - REST
+- !ruby/struct:Signore::Signature
+  text: Ludzie, którzy dzwonią, żeby zapytać, jak mi idzie. Otóż kiepsko mi idzie,
+    bo ciągle jacyś ludzie dzwonią.
+  author: Evva
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: He felt that his whole life was some kind of dream and he sometimes wondered
+    whose it was and whether they were enjoying it.
+  author: Douglas Adams
+  source: HHGG
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: One of the things Ford Prefect had always found hardest to understand about
+    human beings was their habit of continually stating and repeating the obvious,
+    as in ‘It’s a nice day’, or ‘You’re very tall’, or ‘Oh dear you seem to have fallen
+    down a thirty-foot well, are you alright?’ At first Ford had formed a theory to
+    account for this strange behaviour. If human beings don’t keep exercising their
+    lips, he thought, their mouths probably seize up. After a few months’ consideration
+    and observation he abandoned this theory in favour of a new one. If they don’t
+    keep on exercising their lips, he thought, their brains start working.
+  author: Douglas Adams
+  subject: HHGG
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: ! '‘So this is it, said Arthur, ‘we’re going to die’.
+
+    ‘Yes’, said Ford, ‘except… no! Wait a minute!’ he suddenly lunged across the chamber
+    at something behind Arthur''s line of vision. ‘What’s this switch?’ he cried.
+
+    ‘What? Where?’ cried Arthur twisting round.
+
+    ‘No, I was only fooling’, said Ford, ‘we are going to die after all’.'
+  author: Douglas Adams
+  source: HHGG
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: The way it functioned was very interesting. When the Drink button was pressed
+    it made an instant but highly detailed examination of the subject’s taste buds,
+    a spectroscopic analysis of the subject’s metabolism and then sent tiny experimental
+    signals down the neural pathways to the taste centres of the subject’s brain to
+    see what was likely to go down well. However, no one knew quite why it did this
+    because it invariably delivered a cupful of liquid that was almost, but not quite,
+    entirely unlike tea.
+  author: Douglas Adams
+  source: HHGG
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: Niemcy opierają swoje szanse na iluzorycznych argumentach, że piłka jest okrągła,
+    a bramki są dwie.
+  author: Andrzej Zydorowicz
+  tags:
+  - pl
+  - sport
+  - football
+- !ruby/struct:Signore::Signature
+  text: Po przerwie mróz nie zelżał, a wręcz przeciwnie, wiatr nie osłabł.
+  author: Dariusz Szpakowski
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Zawodniczka nawiązała łączność z koniem.
+  author: Wojciech Mickunas
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: To ciekawe, że Chińczyk nie ma nawet skośnych oczu. Może pochodzi z innego
+    regionu? Ale on nie ma nawet imienia.
+  author: Lucjan Olszewski
+  tags:
+  - pl
+  - sport
