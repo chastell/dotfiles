@@ -19220,3 +19220,161 @@
   tags:
   - pl
   - sport
+- !ruby/struct:Signore::Signature
+  text: Prostowanie nieprawdy w felietonach Ziemkiewicza jest jak fotografowanie piasku
+    na Saharze. Mało odkrywcze, ale trudno się oprzeć pokusie.
+  author: Wojciech Orliński
+  tags:
+  - pl
+  - politics
+  - Ziemkiewicz
+- !ruby/struct:Signore::Signature
+  text: For beginner Java devops I recommend documenting of code in class name. Example
+    ThisClassImplementFactoryPatternOrMaybeVisitorIAmNewAtThis.
+  author: DevOps Borat
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: You might have ADD if
+  author: David Brady
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Recent college grads who have office jobs and spend your days forwarding
+    urban legends: ignore the haters, you are CHANGING THE WORLD.'
+  author: Mark Pilgrim
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I refuse to believe corporations are people until Texas executes one.
+  author: Ara Rubyan
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: It’s Talk Like a Pirate Day! ‘I want to read my purchased ebook in the application
+    of my choice.’
+  author: Peter Richardson
+  tags:
+  - en
+  - piracy
+- !ruby/struct:Signore::Signature
+  text: „Wychodzi na to, że musimy wystartować dzisiaj, bo klient już wykupił reklamę
+    w prasie.” Dobry wieczór.
+  author: Filip Tepper
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Wódka u kumpli z Muzeum Techniki. Ścigamy się przez sale muzealne Polonezem
+    Borewicza. Cieć, stary UB-ek, ma łzy w oczach.
+  author: ! '@Muzealnicy'
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: I am amzedf at how mcuh easier it is to use Vim when I jhave had a few beers.
+    The modal commands just seem to flow from my fgingertips.
+  author: Bill Odom
+  tags:
+  - en
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: ! '‘They’ve been experimenting on you I’m afraid.’
+
+    Arthur thought about this for a second, and then his face cleared.
+
+    ‘Ah no’, he said, ‘I see the source of the misunderstanding now. No, look, you
+    see, what happened was that we used to do experiments on *them*. They were often
+    used in behavioural research, Pavlov and all that sort of stuff.
+
+    So what happened was that the mice would be set all sorts of tests, learning to
+    ring bells, run around mazes and things so that the whole nature of the learning
+    process could be examined. From our observations of their behavi
+
+    our we were able to learn all sorts of things about our own…’
+
+    Arthur’s voice tailed off.
+
+    ‘Such subtlety…’ said Slartibartfast, ‘one has to admire it’.'
+  author: Douglas Adams
+  source: HHGG
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: ! 'There is a theory which states that if ever anyone discovers exactly what
+    the Universe is for and why it is here, it will instantly disappear and be replaced
+    by something even more bizarre and inexplicable.
+
+    There is another theory which states that this has already happened.'
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: In fact to see anything much uglier than a Vogon ship you would have to go
+    inside and look at a Vogon. If you are wise, however, this is precisely what you
+    will avoid doing because the average Vogon will not think twice before doing something
+    so pointlessly hideous to you that you will wish you had never been born – or
+    (if you are a clearer minded thinker) that the Vogon had never been born.
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: ! '‘Concentrate’, hissed Zaphod, ‘on his name’.
+
+    ‘What is it?’ asked Arthur.
+
+    ‘Zaphod Beeblebrox the Fourth.’
+
+    ‘What?’
+
+    ‘Zaphod Beeblebrox the Fourth. Concentrate!’
+
+    ‘The Fourth?’
+
+    ‘Yeah. Listen, I’m Zaphod Beeblebrox, my father was Zaphod Beeblebrox the Second,
+    my grandfather Zaphod Beeblebrox the Third…’
+
+    ‘What?’
+
+    ‘There was an accident with a contraceptive and a time machine. Now concentrate!’'
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: Jego czerwone kask, koszulka i spodenki to efekt tego, że sędziowie maja dwa
+    przyciski.
+  author: Marek Rudziński
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Grecy przy piłce, a konkretnie Warzycha.
+  author: Dariusz Szpakowski
+  tags:
+  - pl
+  - sport
+  - football
+- !ruby/struct:Signore::Signature
+  text: Chociaż jest obrońcą, podrywa swych kolegów.
+  author: Tomasz Zimoch
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Nagłym zwodem zmylił swoich kolegów nie chcąc być stratowanym.
+  author: Dariusz Szpakowski
+  tags:
+  - pl
+  - sport
