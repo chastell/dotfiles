@@ -19378,3 +19378,91 @@
   tags:
   - pl
   - sport
+- !ruby/struct:Signore::Signature
+  text: So glad you asked! The best ghc bug ever involved a dev version of the compiler
+    deleting your source file if it contained a type error.
+  author: Bryan O’Sullivan
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I dream things that never were and say, ‘Why not?’ A little later, I say,
+    ‘Oh. That’s why not.’
+  author: Tom Kreitzberg
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Arthur and Trillian had the fixed expressions of rabbits on a night road who
+    think that the best way of dealing with approaching headlights is to stare them
+    out.
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: ! 'Zaphod span round, wild-eyed.
+
+    ‘Ford’, he said, ‘how many escape capsules are there?’
+
+    ‘None’, said Ford.
+
+    Zaphod gibbered.
+
+    ‘Did you *count* them?’ he yelled.
+
+    ‘Twice’, said Ford.'
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: Number Two’s eyes narrowed and became what are known in the Shouting and Killing
+    People trade as cold slits, the idea presumably being to give your opponent the
+    impression that you have lost your glasses or are having difficulty keeping awake.
+    Why this is frightening is an, as yet, unresolved problem.
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: He wondered if it was safe to grin. Very slowly and carefully, he grinned.
+    It was safe.
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: \Piłka z jakimś takim poznańskim smutkiem zatrzepotała w koszu Olimpii.
+  author: Krzysztof Ratajczak
+  tags:
+  - pl
+  - sport
+  - basketball
+- !ruby/struct:Signore::Signature
+  text: Gdyby nie skłonność do zapisania bramki na swoje konto, Milan mógł prowadzić
+    już 3:1.
+  author: Dariusz Szpakowski
+  tags:
+  - pl
+  - sport
+  - football
+- !ruby/struct:Signore::Signature
+  text: Mówię państwu, to jest naprawdę niezwykła dziewczyna. Dwie ostatnie noce spędziła
+    poza wioską.
+  author: Włodzimierz Szaranowicz
+  subject: o Otylii Jędrzejczak
+  tags:
+  - pl
+  - sport
+  - swimming
+- !ruby/struct:Signore::Signature
+  text: Brawa, bo uderzenie było w miejsce, które dla mężczyzny nigdy nie jest przyjemne.
+  author: Waldemar Cyranek
+  tags:
+  - pl
+  - sport
