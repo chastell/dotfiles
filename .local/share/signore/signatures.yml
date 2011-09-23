@@ -19466,3 +19466,76 @@
   tags:
   - pl
   - sport
+- !ruby/struct:Signore::Signature
+  text: Looking over his shoulder Arthur saw that he was twiddling with knobs on a
+    small box. Ford had already introduced this box as a Sub-Etha Sens-O-Matic, but
+    Arthur had merely nodded absently and not pursued the matter. In his mind the
+    Universe still divided into two parts – the Earth, and everything else. The Earth
+    having been demolished to make way for a new hyperspace bypass meant that this
+    view of things was a little lopsided, but Arthur tended to cling to that lopsidedness
+    as being his last remaining contact with his home. Sub-Etha Sens-O-Matics belonged
+    firmly in the ‘everything else’ category.
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: ! 'To summarize: it is a well known fact, that those people who most *want*
+    to rule people are, ipso facto, those least suited to do it. To summarize the
+    summary: anyone who is capable of getting themselves made President should on
+    no account be allowed to do the job.'
+  author: Douglas Adams
+  source: The Restaurant at the End of the Universe
+  tags:
+  - en
+  - HHGG
+  - politics
+- !ruby/struct:Signore::Signature
+  text: In the end, it was the Sunday afternoons he couldn’t cope with, and that terrible
+    listlessness which starts to set in at about 2.55, when you know that you’ve had
+    all the baths you can usefully have that day, that however hard you stare at any
+    given paragraph in the papers you will never actually read it, or use the revolutionary
+    new pruning technique it describes, and that as you stare at the clock the hands
+    will move relentlessly on to four o’clock, and you will enter the long dark teatime
+    of the soul.
+  author: Douglas Adams
+  source: Life, the Universe and Everything
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: He hoped and prayed that there wasn’t an afterlife. Then he realized there
+    was a contradiction involved here and merely hoped that there wasn’t an afterlife.
+  author: Douglas Adams
+  source: Life, the Universe and Everything
+  tags:
+  - en
+  - HHGG
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Henryk Wardach to stary wyjadacz parkietów.
+  author: Maciej Henszel
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Ta akcja była piękna - drybling przez całe boisko, piwot, to zawieszenie przeciwnika
+    w koszu – fantastyczne!
+  author: Włodzimierz Szaranowicz
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Czasem jest tak, że spotka się dwóch zawodników i łódka zaczyna płynąć.
+  author: Ryszard Stadniuk
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Włodek Smolarek krąży jak elektron koło jądra Zbyszka Bońka.
+  author: Dariusz Szpakowski
+  tags:
+  - pl
+  - sport
+  - football
