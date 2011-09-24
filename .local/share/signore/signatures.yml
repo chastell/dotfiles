@@ -19539,3 +19539,118 @@
   - pl
   - sport
   - football
+- !ruby/struct:Signore::Signature
+  text: ! 'Jakoś rozbawiła mnie ta informacja: „Habemus Papam – mamy papieża” rewelacyjnie
+    zadebiutował we francuskich kinach. Film znalazł się na trzecim miejscu w box
+    office, zaraz za „To tylko seks” i „Oszukać przeznaczenie 5”.'
+  author: Adam Suprynowicz
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'I once explained refactoring to prof. Wirth. His response: ‘I suppose that’s
+    all very well if you can’t design software’.'
+  author: Kent Beck
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Have given the same 30 min interview coding test to c. 60 engineers. Never
+    seen two solutions the same. That surprises non-programmers.
+  author: Ben Griffiths
+  tags:
+  - en
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I feel sorry for the yuppie I see using an iPad for a laptop. It’s like he
+    lost 8 good typing fingers in a self-inflicted accident.
+  author: ! '@danchoi'
+  tags:
+  - en
+  - iPad
+- !ruby/struct:Signore::Signature
+  text: The Inuit have over 50 words for ‘visiting ethnolinguist’.
+  author: ! '@TheTweetOfGod'
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'There is a feeling which persists in England that making a sandwich interesting,
+    attractive, or in any way pleasant to eat is something sinful that only foreigners
+    do.
+
+    ‘Make ’em dry’, is the instruction buried somewhere in the collective national
+    consciousness, ‘make ’em rubbery. If you have to keep the buggers fresh, do it
+    by washing ‘em once a week.’'
+  author: Douglas Adams
+  source: Life, the Universe and Everything
+  tags:
+  - en
+  - HHGG
+  - food
+- !ruby/struct:Signore::Signature
+  text: Those who are regular followers of the doings of Arthur Dent may have received
+    an impression of his character and habits which, while it includes the truth and,
+    of course, nothing but the truth, falls somewhat short, in its composition, of
+    the whole truth in all its glorious aspects.
+  author: Douglas Adams
+  source: Life, the Universe and Everything
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: If you took a couple of David Bowies and stuck one of the David Bowies on
+    the top of the other David Bowie, then attached another David Bowie to the end
+    of each of the arms of the upper of the first two David Bowies and wrapped the
+    whole business up in a dirty beach robe you would then have something which didn’t
+    exactly look like John Watson, but which those who knew him would find hauntingly
+    familiar.
+  author: Douglas Adams
+  source: Life, the Universe and Everything
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: ! '‘Yes. They are the words that finally turned me into the hermit I have
+    now become. It was quite sudden. I saw them, and I knew what I had to do.’
+
+    The sign said:
+
+    ‘Hold stick near centre of its length. Moisten pointed end in mouth. insert in
+    tooth space, blunt end next to gum. Use gentle in-out motion.’
+
+    ‘It seemed to me’, said Wonko the Sane, ‘that any civilization that had so far
+    lost its head as to need to include a set of detailed instructions for use in
+    a packet of toothpicks, was no longer a civilization in which I could live and
+    stay sane’.'
+  author: Douglas Adams
+  source: Life, the Universe and Everything
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: Francuz ratuje resztki twarzy.
+  author: Andrzej Person
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Mogliśmy spokojnie prowadzić już cztery do dwóch, nie mówiąc o pięciu.
+  author: Andrzej Zydorowicz
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Widzimy tylko to, co dzieje się w kamerze.
+  author: Jacek Banasikowski
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Jest! Niemka traci głowę!
+  author: Jarosław Idzi
+  subject: o pojedynku szpadzistek
+  tags:
+  - pl
+  - sport
