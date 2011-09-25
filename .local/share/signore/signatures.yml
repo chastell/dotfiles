@@ -19707,3 +19707,10 @@
   tags:
   - pl
   - sport
+- !ruby/struct:Signore::Signature
+  text: The kids look like someone told them that Santa Claus ran his sled into the
+    Easter Bunny and they both died.
+  author: Steven Turner
+  tags:
+  - en
+  - children
