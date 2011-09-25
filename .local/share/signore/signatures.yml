@@ -19654,3 +19654,56 @@
   tags:
   - pl
   - sport
+- !ruby/struct:Signore::Signature
+  text: My soul was removed to make room for all this sarcasm.
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I love deadlines. I love the whooshing sound they make as they fly by.
+  author: Douglas Adams
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Human beings, who are almost unique in having the ability to learn from the
+    experience of others, are also remarkable for their apparent disinclination to
+    do so.
+  author: Douglas Adams
+  source: Last Chance to See
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The major difference between a thing that might go wrong and a thing that
+    cannot possibly go wrong is that when a thing that cannot possibly go wrong goes
+    wrong it usually turns out to be impossible to get at or repair.
+  author: Douglas Adams
+  source: Mostly Harmless
+  tags:
+  - en
+  - HHGG
+- !ruby/struct:Signore::Signature
+  text: Nasz narciarz wypadł dobrze, ale wcześnie – już na pierwszych bramkach.
+  author: Witold Domański
+  tags:
+  - pl
+  - sport
+  - skiing
+- !ruby/struct:Signore::Signature
+  text: Przed tym meczem Gaze trafił 32 z 30 rzutów wolnych. To doskonały wynik.
+  author: Piotr Sobczyński
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Można to wyczytać z wyrazu twarzy konia, gdy jest zbliżenie.
+  author: Wojciech Mickunas
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: W 56. minucie goście na wszelki wypadek podwyższają na 3:1.
+  author: Dariusz Szpakowski
+  tags:
+  - pl
+  - sport
