@@ -19714,3 +19714,74 @@
   tags:
   - en
   - children
+- !ruby/struct:Signore::Signature
+  text: I don’t understand how USB plugs are always upside-down the first time you
+    try to plug them in and ALSO THE SECOND TIME.
+  author: Steven Frank
+  tags:
+  - en
+  - USB
+- !ruby/struct:Signore::Signature
+  text: Proszę Proszę państwa, prosimy zapiąć papierosy i zgasić pasy. Za kwadrans
+    podchodzimy do lądowania w Poniedziałku. Pogoda jest i ciśnienie też. Za wspólny
+    lot dziękuje państwu kapitan Weekend i drugi kapitan Kurwa Ale Kac Więcej Nie
+    Piję (stare, szacowne nazwisko).
+  author: opi
+  tags:
+  - pl
+  - Monday
+- !ruby/struct:Signore::Signature
+  text: Verbosity leads to unclear, inarticulate things.
+  author: Dan Quayle
+  tags:
+  - en
+  - politics
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: People that are really very weird can get into sensitive positions and have
+    a tremendous impact on history.
+  author: Dan Quayle
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: It’s time for the human race to enter the Solar System.
+  author: Dan Quayle
+  tags:
+  - en
+  - politics
+  - science
+- !ruby/struct:Signore::Signature
+  text: A group of politicians deciding to dump a president because his morals are
+    bad is like the Mafia getting together to bump off the Godfather for not going
+    to church on Sunday.
+  author: Russell Baker
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: To jest zawodniczka, która z karabinem potrafi zrobić wszystko.
+  author: Jacek Kosmatko
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: A Karolak ma na imię Piotr, za co przepraszamy.
+  author: Krzysztof Hołyński
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Nie będę komentował tego zagrania, ale zdarza się najlepszym.
+  author: Andrzej Zydorowicz
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Wchłonięty przez telefon.
+  author: Zdzisław Zakrzewski
+  subject: któremu peleton pomylił się z telefonem
+  tags:
+  - pl
+  - sport
+  - cycling
