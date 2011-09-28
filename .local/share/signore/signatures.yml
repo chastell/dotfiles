@@ -19800,3 +19800,72 @@
   tags:
   - en
   - politics
+- !ruby/struct:Signore::Signature
+  text: I sometimes think that God in creating man somewhat overestimated his ability.
+  author: Oscar Wilde
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: The truth is that Christian theology, like every other theology, is not only
+    opposed to the scientific spirit; it is also opposed to all other attempts at
+    rational thinking. Not by accident does Genesis 3 make the father of knowledge
+    a serpent – slimy, sneaking and abominable. Since the earliest days the church
+    as an organization has thrown itself violently against every effort to liberate
+    the body and mind of man. It has been, at all times and everywhere, the habitual
+    and incorrigible defender of bad governments, bad laws, bad social theories, bad
+    institutions. It was, for centuries, an apologist for slavery, as it was the apologist
+    for the divine right of kings.
+  author: H. L. Mencken
+  tags:
+  - en
+  - religion
+  - science
+- !ruby/struct:Signore::Signature
+  text: To you, I’m an atheist; to God, I am the Loyal Opposition.
+  author: Woody Allen
+  tags:
+  - en
+  - religion
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: I’m very old-fashioned. I believe that people should marry for life, like
+    pigeons and Catholics.
+  author: Woody Allen
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Ten rok był pełen wyrzeczeń dla Renaty Mauer… W kwietniu wyszła za mąż.
+  author: Janusz Uznański
+  tags:
+  - pl
+  - sport
+- !ruby/struct:Signore::Signature
+  text: Cudowne dziecko dwóch pedałów.
+  author: Bohdan Tomaszewski
+  tags:
+  - pl
+  - sport
+  - cycling
+- !ruby/struct:Signore::Signature
+  text: Jadą. Cały peleton, kierownica koło kierownicy, pedał koło pedała.
+  author: Bohdan Tomaszewski
+  tags:
+  - pl
+  - sport
+  - cycling
+- !ruby/struct:Signore::Signature
+  text: Wiatr porozrywał zawodników, ale peleton ciągle jedzie.
+  tags:
+  - pl
+  - sport
+  - cycling
+- !ruby/struct:Signore::Signature
+  text: Bramka nam bardzo pomogła; uspokoiła nasze szeregi i pozwoliła realizować
+    to, co trener założył w szatni.
+  author: Michał Żewłakow
+  tags:
+  - pl
+  - sport
+  - football
