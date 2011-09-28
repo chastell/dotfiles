@@ -19785,3 +19785,18 @@
   - pl
   - sport
   - cycling
+- !ruby/struct:Signore::Signature
+  text: They want the federal government controlling Social Security like it’s some
+    kind of federal program.
+  author: George W. Bush
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Actually, I, this may sound a little West Texan to you, but I like it. When
+    I’m talking about myself, and when he’s talking about myself, all of us are talking
+    about me.
+  author: George W. Bush
+  tags:
+  - en
+  - politics
