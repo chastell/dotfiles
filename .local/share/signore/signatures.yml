@@ -19869,3 +19869,73 @@
   - pl
   - sport
   - football
+- !ruby/struct:Signore::Signature
+  text: Virtual machines are the air travel of programming. I’m currently in the up-at-stupid-o’clock,
+    bus/tube/train/sit around time-suck stage.
+  author: Paul Battley
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I was asked to optimize a profiler, so I profiled it with another profiler.
+    This may be a slippery slope.
+  author: Paolo Perrotta
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: No, here’s how this is going to go. FIRST we have intercourse THEN we play
+    Twister THEN we have a candlelight dinner if there’s still time.
+  author: Joshua Allen
+  tags:
+  - en
+  - sex
+- !ruby/struct:Signore::Signature
+  text: London is beautiful today. Everyone looks happy in the sun. Apart from the
+    people in suits, who look pissed.
+  author: Anna Charlesworth
+  tags:
+  - en
+  - work
+  - weather
+- !ruby/struct:Signore::Signature
+  text: Finding a web site that redirects all links to a mobile home page is like
+    dating a girl that won’t do oral. Like, they still make you‽
+  author: Mark Pilgrim
+  tags:
+  - en
+  - web
+  - sex
+- !ruby/struct:Signore::Signature
+  text: The previous governess had taught them a prayer which included the hope that
+    some god or other would take their soul if they died while they were asleep and,
+    if Susan was any judge, had the underlying message that this would be a good thing.
+    One day, Susan averred, she’d hunt that woman down.
+  author: Terry Pratchett
+  source: Hoghfather
+  tags:
+  - en
+  - Discworld
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'God does not play dice with the universe: He plays an ineffable game of
+    His own devising, which might be compared, from the perspective of any of the
+    other players (i.e. everybody), to being involved in an obscure and complex variant
+    of poker in a pitch-dark room, with blank cards, for infinite stakes, with a Dealer
+    who won’t tell you the rules, and who *smiles all the time*.'
+  author: Terry Pratchett, Neil Gaiman
+  source: Good Omens
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ‘It would seem that you have no useful skill or talent whatsoever’, he said.
+    ‘Have you thought of going into teaching?’
+  author: Terry Pratchett
+  source: Mort
+  tags:
+  - en
+  - Discworld
+  - education
