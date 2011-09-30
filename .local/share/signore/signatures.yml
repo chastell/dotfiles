@@ -19939,3 +19939,60 @@
   - en
   - Discworld
   - education
+- !ruby/struct:Signore::Signature
+  text: I am gonna start a CS journal where to get published you have to include your
+    code. Because I don’t believe this shit works half the time.
+  author: Joshua Schachter
+  tags:
+  - en
+  - prorgramming
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! '‘America?’ said Mrs Liberty. ‘Won’t we get scalped?’
+
+    ‘Good grief, no!’ said William Stickers, who was a bit more up to date about the
+    world.
+
+    ‘*Probably* not’, said Mr Fletcher, who had been watching the news lately and
+    was even more up to date than William Stickers.'
+  author: Terry Pratchett
+  source: Johnny and the Dead
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: …walking like a man carrying a thermos flask of something that might cause,
+    if he dropped it or even thought about dropping it, the sort of explosion that
+    impels grey-beards to make statements like ‘And where this crater is now, once
+    stood the city of Wah-Shing-Ton’, in SF B-movies.
+  author: Terry Pratchett, Neil Gaiman
+  source: Good Omens
+  subject: on Crowley getting out the Holy Water
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ‘You mean mysterious ancient races of Amazonian princesses who subject all
+    male prisoners to strange and exhausting progenitative rites?’ said Eric, his
+    glasses beginning to fog.
+  author: Terry Pratchett
+  source: Eric
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: alt.fan.pratchett as an entity has the attention span of a butterfly on cocaine.
+  author: Terry Pratchett
+  tags:
+  - en
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! 'BSE w parlamencie można by odkryć tylko badając mózgi martwych parlamentarzystów¹,
+    bo po zachowaniu nie ma szans nic zauważyć.
+
+    ¹ Niezła myśl. Sugeruję przebadać wszystkich.'
+  author: Leszek Karlik
+  source: pl.news.nowe-grupy
+  tags:
+  - pl
+  - politics
+  - Usenet
