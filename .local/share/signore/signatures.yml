@@ -19996,3 +19996,103 @@
   - pl
   - politics
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: So polyglot heaven doesn’t have to mean ‘write some classes in Scala and some
+    in JRuby’. It means ‘use Scala actors in JRuby’.
+  author: David Furber
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Scala
+  - polyglot
+- !ruby/struct:Signore::Signature
+  text: Uwielbiam to, że lekarz prowadzący na moim piętrze w biurowcu prywatną praktykę
+    nazywa się Haus. Spacer z brudnym kubkiem i zwykła uprzejmość pod postacią zdania
+    „dzień dobry, doktorze Haus” dodaje tej szczypt surrealizmu, tak potrzebnej do
+    utrzymania mnie w pionie.
+  author: opi
+  tags:
+  - pl
+  - House
+- !ruby/struct:Signore::Signature
+  text: I’m not sure how scalable this is; I’m not expecting an outbreak of Romans
+    anytime soon.
+  author: Steven G. Harms
+  subject: on his LatinVerb library’s performance
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '‘That book open on my bed? Oh. That’s the Enterprise D tech manual. I—
+    I wasn’t expecting to have women over today.’ #sentencesihavesaid'
+  author: Ryan North
+  tags:
+  - en
+  - reading
+  - programming
+  - D
+- !ruby/struct:Signore::Signature
+  text: She’d stopped reading the kind of women’s magazine that talked about romance
+    and knitting and started reading the kind of women’s magazine that talked about
+    orgasms, but apart from making a mental note to have one if ever the occasion
+    presented itself she dismissed them as only romance and knitting in a new form.
+  author: Terry Pratchett, Neil Gaiman
+  source: Good Omens
+  tags:
+  - en
+  - sex
+- !ruby/struct:Signore::Signature
+  text: FABRICATI DIEM, PVNC.
+  author: Terry Pratchett
+  source: Guards! Guards!
+  subject: citing the motto of the Ankh-Morpork City Watch
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: Besides, it was nice to hear the voices of little children at play, provided
+    you took care to be far enough away not to hear what they were actually saying.
+  author: Terry Pratchett
+  source: Hogfather
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: Never trust any complicated cocktail that remainds perfectly clear until the
+    last ingredient goes in, and then immediately clouds.
+  author: Terry Pratchett
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jak ktoś ma pecha, to złamie ząb podczas seksu oralnego.
+  author: Szymon Sokół
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Oficjalna linia Kościoła Katolickiego w Polsce w sprawach seksu jest, odkąd
+    pamiętam, taka sama, i, odkąd pamiętam, zawsze pod kątem prostym do rzeczywistości.
+    Do tego stopnia, że ich website wyglądałby tak samo, gdyby został zrobiony jako
+    spoof, czyli parodia.
+  author: Marcin Swiatek
+  source: pl.soc.seks.moderowana
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Dalej się upieram przy swoim i tylko długotrwałym biciem można spowodować
+    jakąś zmianę mojego myślenia.
+  author: Grzegorz Janoszka
+  source: pl.soc.seks.moderowana
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: A może coś bardziej wykwintnego? Chateau d’Arizona, rocznik środa.
+  author: Maciej Witkowiak
+  source: pl.comp.os.advocacy
+  tags:
+  - pl
+  - wines
