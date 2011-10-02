@@ -20096,3 +20096,18 @@
   tags:
   - pl
   - wines
+- !ruby/struct:Signore::Signature
+  text: I’m such a good lover because I practice a lot on my own.
+  author: Woody Allen
+  tags:
+  - en
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! '— Błogosławieni ci, którzy nie mając nic do powiedzenia, nie oblekają tego
+    w słowa.
+
+    — Jak dla mnie to nie masz żadnych szans na kanonizację.'
+  author: Wojciech Orliński, Artur „Zmechu” Prokopiuk
+  source: pl.comp.os.advocacy
+  tags:
+  - pl
