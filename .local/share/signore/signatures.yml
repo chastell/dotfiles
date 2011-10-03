@@ -20111,3 +20111,46 @@
   source: pl.comp.os.advocacy
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: We may eventually come to realize that chastity is no more a virtue than malnutrition.
+  author: Alexander Comfort
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: He moved in a way that suggested he was attempting the world speed record
+    for the nonchalant walk.
+  author: Terry Pratchett
+  source: The Light Fantastic
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ! 'That seems to point up a significant difference between Europeans and Americans.
+    A European says: ‘I can’t understand this, what’s wrong with me?’ An American
+    says: ‘I can’t understand this, what’s wrong with him?’'
+  author: Terry Pratchett
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'DID YOU SAY HUMANS PLAY IT FOR FUN?
+
+    ‘Some of them get to be very good at it, yes. I’m only an amateur, I’m afraid.’
+
+    BUT THEY ONLY LIVE EIGHTY OR NINETY YEARS!'
+  author: Terry Pratchett
+  source: The Light Fantastic
+  subject: on the joys of bridge
+  tags:
+  - en
+  - Discworld
+  - bridge
+- !ruby/struct:Signore::Signature
+  text: He didn’t believe in any gods, since most wizards seldom like to encourage
+    them, but he prayed anyway the fervent prayers of an atheist who hopes to be wrong.
+  author: Terry Pratchet
+  source: Hogfather
+  tags:
+  - en
+  - Discworld
+  - religion
