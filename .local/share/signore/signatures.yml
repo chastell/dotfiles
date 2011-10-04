@@ -20154,3 +20154,31 @@
   - en
   - Discworld
   - religion
+- !ruby/struct:Signore::Signature
+  text: ‘Hello’, he lied.
+  author: Don Carpenter
+  subject: quoting a Hollywood agent
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I am sick unto death of obscure English towns that exist seemingly for the
+    sole accommodation of these so-called limerick writers and even sicker of their
+    residents, all of whom suffer from physical deformities and spend their time dismembering
+    relatives at fancy dress balls.
+  author: editor of the Limerick Times
+  tags:
+  - en
+  - poetry
+  - limericks
+- !ruby/struct:Signore::Signature
+  text: America is the only country that went from barbarism to decadence without
+    civilization in between.
+  author: Oscar Wilde
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: For best results, wash in cold water separately, hang dry and iron with warm
+    iron. For not so good results, drag behind car through puddles, blow-dry on roofrack.
+  author: HEET shirt laundry instructions
+  tags:
+  - en
