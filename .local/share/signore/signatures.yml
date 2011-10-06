@@ -20221,3 +20221,12 @@
   text: Of course I’m arrogant. The best usually are.
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If they give you ruled paper, write the other way.
+  author: Juan Ramon Jimenez
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A day for firm decisions! Or is it?
+  tags:
+  - en
