@@ -20230,3 +20230,28 @@
   text: A day for firm decisions! Or is it?
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Most of what I’ve learned over the years has come from signatures.
+  author: Larry Wall
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Every normal man must be tempted at times to spit upon his hands, hoist the
+    black flag and begin slitting throats.
+  author: H. L. Mencken
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I only please one person per day. Today is not your day. Tomorrow isn’t looking
+    good either.
+  author: Scott Adams
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Stasiu, nigdy nie można powiedzieć komuś, że nie będzie dla niego miejsca
+    w teatrze. Ale w twoim przypadku mówię to z całą odpowiedzialnością.
+  author: Jan Świderski
+  subject: do Stanisława Tyma
+  tags:
+  - pl
+  - theatre
