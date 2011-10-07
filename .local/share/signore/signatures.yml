@@ -20255,3 +20255,24 @@
   tags:
   - pl
   - theatre
+- !ruby/struct:Signore::Signature
+  text: All of the clocks in ‘Pulp Fiction’ are stuck on 4:20.
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: He took an IQ test and the results were negative.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Your lucky number is 3552664958674928. Watch for it everywhere.
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s is not, it isn’t ain’t, and it’s it’s, not its, if you mean it is. If
+    you don’t, it’s its. Then too, it’s hers. It isn’t her’s. It isn’t our’s either.
+    It’s ours, and likewise yours and theirs.
+  source: Oxford University Press, Edpress News
+  tags:
+  - en
+  - linguistics
