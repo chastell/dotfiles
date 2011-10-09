@@ -20276,3 +20276,120 @@
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Z całą mocą podkreślam, że tylko małżeństwo daje dwojgu kochającym się ludziom
+    prawo do współżycia płciowego.
+  author: Marina Ombach
+  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Nie można uznać antykoncepcji za prawidłową normę postępowania seksualnego
+    człowieka – z powodu zła moralnego, które wyrządza człowiekowi.
+  author: Marina Ombach
+  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Wybór metod naturalnych jest wzięciem odpowiedzialności za sprawy prokreacji
+    na siebie. Jeśli dojdzie do ciąży, małżeństwo wie, że jest to skutkiem błędu popełnionego
+    przez nich. Sprzyja to akceptacji poczętego życia.
+  author: Teresa Król
+  source: Wędrując ku dorosłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Nie rodzą się dzieci „niechciane”; już przed poczęciem dziecko jest niejako
+    zapraszane przez swych rodziców i rozwija się w łonie matki w atmosferze miłości
+    i akceptacji.
+  author: Marina Ombach
+  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Kobiety, stosujące antykoncepcję, narażając się na jej szkodliwe działanie,
+    czują się pokrzywdzone i wykorzystane.
+  author: Marina Ombach
+  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! '[Kobiety stosujące antykoncepcję] przeżywają uczucie niepewności – czy
+    są naprawdę kochane, czy są tylko obiektem rozładowania seksualnego u swojego
+    partnera.'
+  author: Marina Ombach
+  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Doprowadza to [stosowanie antykoncepcji] często do apatii, depresji, oziębłości
+    seksualnej i niechęci, a nawet agresji wobec mężczyzny.
+  author: Marina Ombach
+  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: U małżeństw stosujących antykoncepcję często występuje brak czułości i wzajemnego
+    podziwu.
+  author: Marina Ombach
+  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
+  tags:
+  - pl
+  - education
+  - religion
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ‘You like it?’ he said to Mort, in pretty much the same tone of voice people
+    used when they said to St George, ‘You killed a *what*?’
+  author: Terry Pratchett
+  source: Mort
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ‘One minute I’m just another rabbit and happy about it, next minute *whazaam*,
+    I’m thinking. That’s a major drawback if you’re looking for happiness as a rabbit,
+    let me tell you. You want grass and sex, not thoughts like “What’s it all about,
+    when you get right down to it?”’
+  author: Terry Pratchett
+  source: Moving Pictures
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ‘We got a talk about it at school. There’s lots of stuff most girls can’t
+    do, but you’ve got to pretend they can, so that more of them will.’
+  author: Terry Pratchett
+  source: Only You Can Save Mankind
+  tags:
+  - en
+  - sexism
+- !ruby/struct:Signore::Signature
+  text: ‘The thing is that Mr. Dibbler can even sell sausages to people who have bought
+    them off him *before*.’
+  author: Terry Pratchett
+  source: Moving Pictures
+  tags:
+  - en
+  - Discworld
