@@ -20393,3 +20393,83 @@
   tags:
   - en
   - Discworld
+- !ruby/struct:Signore::Signature
+  text: I am outraged that on this day a philosophically consistent person has voiced
+    the exact same opinion he has expressed for decades.
+  author: Avdi Grimm
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Playing by the rules’ is an awful, weasely phrase: a shibboleth of xenophobia
+    and racism.'
+  author: Paul Battley
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Static typing is like prohibition, responsible citizens don’t need it and
+    are burdened; and some find creative ways to defeat it.
+  author: Venkat Subramaniam
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Pornographers! I am available as a consultant to make sure you get these
+    important details right: http://blackboardsinporn.blogspot.com'
+  author: Paul Crowley
+  tags:
+  - en
+  - porn
+  - education
+- !ruby/struct:Signore::Signature
+  text: I hate the part of a negotiation which is all about unlikely hypothetical
+    situations.
+  author: Sarah Allen
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Still angry how in 2001 Apple used their illegal monopoly of 3% of the market
+    to force us into this hellish nightmare of devices that work.
+  author: Wil Shipley
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: One of these days there’s gonna be a lovely programming language which doesn’t
+    have a community of fuckheads attached like a tick.
+  author: Coda Hale
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'The only things known to go faster than ordinary light is monarchy, according
+    to the philosopher Ly Tin Weedle. He reasoned like this: you can’t have more than
+    one king, and tradition demands that there is no gap between kings, so when a
+    king dies the succession must therefore pass to the heir *instantaneously*. Presumably,
+    he said, there must be some elementary particles – kingons, or possibly queons
+    – that do this job, but of course succession sometimes fails if, in mid-flight,
+    they strike an anti-particle, or republicon. His ambitious plans to use his discovery
+    to send messages, involving the careful torturing of a small king in order to
+    modulate the signal, were never fully expanded because, at that point, the bar
+    closed.'
+  author: Terry Pratchett
+  source: Mort
+  tags:
+  - en
+  - Discworld
+  - monarchy
+- !ruby/struct:Signore::Signature
+  text: English Burger Lords managed to take any American fast food virtues (the speed
+    with which your food was delivered, for example) and carefully remove them; your
+    food arrived after half an hour, at room temperature, and it was only because
+    of the strip of warm lettuce between them that you could distinguish the burger
+    from the bun. The Burger Lord pathfinder salesmen had been shot 25 minutes after
+    setting foot in France.
+  author: Terry Pratchett, Neil Gaiman
+  source: Good Omens
+  tags:
+  - en
+  - food
