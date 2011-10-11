@@ -20473,3 +20473,50 @@
   tags:
   - en
   - food
+- !ruby/struct:Signore::Signature
+  text: One dose of Hacker News provides you with 1000% the recommended daily allowance
+    of blinkered, privileged, plutocratic misogyny.
+  author: Daniel Situnayake
+  tags:
+  - en
+  - tech
+  - equality
+- !ruby/struct:Signore::Signature
+  text: ‘The red rosy hen greets the dawn of the day’. In fact the hen is not the
+    bird traditionally associated with heralding a new sunrise, but Mrs Huggs, while
+    collecting many old folk songs for posterity, has taken care to rewrite them where
+    necessary to avoid, as she put it, ‘offending those of a refined disposition with
+    unwarranted coarseness’. Much to her surprise, people often couldn’t spot the
+    unwarranted coarseness until it had been pointed out to them. Sometimes a chicken
+    is nothing but a bird.
+  author: Terry Pratchett
+  source: Hogfather
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ‘And I could certainly run a marvellous university here if only we didn’t
+    have to have these damn students underfoot all the time.’
+  author: Terry Pratchett
+  source: Hogfather
+  tags:
+  - en
+  - Discworld
+  - education
+- !ruby/struct:Signore::Signature
+  text: ! 'Ludzie na tej grupie mogą ewentualnie wyjasnić ci co robisz źle i wbrew
+    pozorom właśnie to robią. Może nie są delikatni, ale czy ty byłbyś delikatny w
+    stosunku do kogoś, kto w tramwaju wyciąga procę i mówi do motorniczego: na Tempelhof,
+    tylko gazem?'
+  author: simon
+  source: pl.news.nowe-grupy
+  subject: do Sigurda
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Gdzie najlepsza palcówka w Krakowie? Proszę o odpowiedź doświadczonych grupowiczów.
+  author: Natalia
+  source: pl.biznes.banki
+  tags:
+  - pl
