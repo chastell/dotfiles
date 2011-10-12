@@ -20520,3 +20520,84 @@
   source: pl.biznes.banki
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Ankh-Morpork had dallied with many forms of government and had ended up with
+    that form of democracy known as One Man, One Vote. The Patrician was the Man;
+    he had the Vote.
+  author: Terry Pratchett
+  source: Mort
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: The shortest unit of time in the multiverse is the New York Second, defined
+    as the period of time between the traffic lights turning green and the cab behind
+    you honking.
+  author: Terry Pratchett
+  source: Lords and Ladies
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: Getting an education was a bit like contracting a communicable sexual disease.
+    It made you unsuitable for a lot of jobs, and then you had the urge to pass it
+    on.
+  author: Terry Pratchett
+  source: Hogfather
+  tags:
+  - en
+  - Discworld
+  - education
+- !ruby/struct:Signore::Signature
+  text: ! '‘Students made it long ago’, said Rincewind. ‘Handy way in and out after
+    lights out.’
+
+    ‘Ah’, said Twoflower, ‘I understand. Over the wall and out to brightly-lit tavernas
+    to drink and sing and recite poetry, yes?’
+
+    ‘Nearly right except for the singings and the poetry, yes’, said Rincewind.'
+  author: Terry Pratchett
+  source: The Light Fantastic
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ! '— Sprzedam patent na darmowe połączenia w TAK TAK. Cena za patent: 2500
+    zł do uzgodnienia.
+
+    — Napisałem do abuse@tpnet.pl i hajduk@kgp.waw.pl, może będą zainteresowani.
+
+    — Ok. Mogę zejść z ceny do max. 1500 zł.'
+  author: Konrad Zach, peter
+  source: pl.misc.telefonia.gsm
+  tags:
+  - pl
+  - spam
+- !ruby/struct:Signore::Signature
+  text: Ja już dawno twierdziłem (na sf-f…), że jak ktoś uważa, że możliwe jest porozumienie
+    z obcymi cywilizacjami, to najpierw powinien spróbować się dogadać z WO.
+  author: Szymon Sokół
+  source: pl.comp.os.advocacy
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Czy ktoś zna jakiś ludzki czytnik, który by pozwolił zapisać newsy w
+    pliku *.xls (Excela)?
+
+    — ROTFL.
+
+    — Dzięki, będę szukał w sieci, jakbyś wiedział gdzie leży będę wdzięczny.'
+  author: Aseta Włodzimierz Matuszewski, kocurek
+  source: pl.news.czytniki
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! 'Kiedyś koledze na teście po czterostronicowych obliczeniach wyszło x =
+    x, komentarz profesora: genialne!'
+  author: Grzegorz
+  source: pl.comp.lang.php
+  tags:
+  - pl
+  - math
