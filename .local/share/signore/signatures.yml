@@ -20601,3 +20601,90 @@
   tags:
   - pl
   - math
+- !ruby/struct:Signore::Signature
+  text: I agree with the ‘tests are a waste of time’ crowd. Their tests are a waste
+    of time.
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Java’s core design philosophy: ‘Make the common case hard’.'
+  author: Mike Perham
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: The trouble with having an open mind, of course, is that people will insist
+    on coming along and trying to put things in it.
+  author: Terry Pratchett
+  source: Diggers
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'The Kappamaki, a whaling research ship, was currently researching the question:
+    How many whales can you catch in one week?'
+  author: Terry Pratchett, Neil Gaiman
+  source: Good Omens
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Only one creature could have duplicated the expressions on their faces, and
+    that would be a pigeon who has heard not only that Lord Nelson has got down off
+    his column but has also been seen buying a 12-bore repeater and a box of cartridges.
+  author: Terry Pratchett
+  source: Mort
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: The gods of the Disc have never bothered much about judging the souls of the
+    dead, and so people only go to hell if that’s where they believe, in their deepest
+    heart, that they deserve to go. Which they won’t do if they don’t know about it.
+    This explains why it is so important to shoot missionaries on sight.
+  author: Terry Pratchett
+  source: Eric
+  tags:
+  - en
+  - Discworld
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Dogmatyczne podejście kapłanów teologi linuksowego zniewolenia zdejmuje z
+    umysłów młodych programistów obowiązek twórczego wątpienia w kanony uknute przez
+    czas.
+  author: Jarosław Protasiewicz
+  source: pl.comp.os.linux
+  tags:
+  - pl
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Eskalacja linuksowej propagandy wpływa w żenujacy sposób na obniżenie poziomu
+    inteligencji wśród młodzieży.
+  author: Jarosław Protasiewicz
+  source: pl.comp.os.linux
+  tags:
+  - pl
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Agresja jaką prezentują polscy goiści budzi poważne obawy wielu ludzi.
+  author: 82411k
+  source: pl.news.nowe-grupy
+  subject: w wątku o utworzeniu pl.rec.gry.go
+  tags:
+  - pl
+  - Usenet
+  - go
+- !ruby/struct:Signore::Signature
+  text: ! '— U starych koniarzy przy kastracji ogierów podaje się smażone końskie
+    jaja.
+
+    — W Hiszpanii po corridzie też, tyle że czasem porcje są bardzo małe.'
+  author: Krystyna Chiger, Paweł Pluta
+  source: pl.news.nowe-grupy
+  tags:
+  - pl
