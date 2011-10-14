@@ -20688,3 +20688,105 @@
   source: pl.news.nowe-grupy
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Like when you copy production data to the dev site and run load tests that
+    send thousands of e-mails to real addresses? _That_ kind of day.
+  author: Greg Knauss
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: ‘Newer version of Crack was not monkey patching Hash.’ What would non-developers
+    think if they read our commit logs?
+  author: Charles Lowell
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'If you’re happy and you know it – Cthulhu fhtagn!
+
+    If you’re happy and you know it – Cthulhu fhtagn!'
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: ! 'SCIENCE: A way of finding things out and then making them work. Science
+    explains what is happening around us the whole time. So does RELIGION, but Science
+    is better because it comes up with more understandable excuses when it is wrong.
+    There is a lot more Science than you think.'
+  author: Terry Pratchett
+  source: Wings
+  tags:
+  - en
+  - science
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'I USHERED SOULS INTO THE NEXT WORLD. I WAS THE GRAVE OF ALL HOPE. I WAS
+    THE ULTIMATE REALITY. I WAS THE ASSASSIN AGAINST WHOM NO LOCK WOULD HOLD.
+
+    ‘Yes, point taken, but do you have any particular skills?’'
+  author: Terry Pratchett
+  source: Mort
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ‘Let’s just say that if complete and utter chaos was lightning, he’d be the
+    sort to stand on a hilltop in a thunderstorm wearing wet copper armour and shouting
+    “All gods are bastards”.’
+  author: Terry Pratchett
+  source: The Colour of Magic
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: Wobbler had written an actual computer game like this once. It was called
+    Journey to Alpha Centauri. It was a screen with some dots on it. Because, he said,
+    it happened in *real time*, which no-one had ever heard of until computers. He’d
+    seen on TV that it took three thousand years to get to Alpha Centauri. He had
+    written it so that if anyone kept their computer on for three thousand years,
+    they’d be rewarded by a little dot appearing in the middle of the screen, and
+    then a message saying, ‘Welcome to Alpha Centauri. Now go home.’
+  author: Terry Pratchett
+  source: Only You Can Save Mankind
+  tags:
+  - en
+  - games
+- !ruby/struct:Signore::Signature
+  text: Ja nie miałam chomika, ale znajome dziecko. I zaszła idiotyczna sytuacja –
+    chomik zdechł, dziecko było sześcioletnie, matka chciała uchronić go przed szokiem,
+    wzięła trupka w garść i pogoniła po sklepach w celu nabycia drogą kupna identycznego.
+    I potem robiła to jeszcze dwa razy, aż dziecko dowiedziało się na lekcji biologii,
+    że ma najstarszego chomika na świecie.
+  author: justyna
+  source: pl.rec.zwierzaki
+  tags:
+  - pl
+  - pets
+- !ruby/struct:Signore::Signature
+  text: Różnica między dziennikarzem i publicystą polega na tym, że dziennikarz napisze
+    to, w co uwierzy, a publicysta uwierzy w to, co napisze.
+  author: Jarek Spirydowicz
+  source: pl.comp.os.advocacy
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Redaktor to jest ten, co w tekście dziennikarza ma odsiać ziarno od plew,
+    więc odsiewa ziarno i zostawia plewy.
+  author: Jarek Spirydowicz
+  source: pl.comp.os.advocacy
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: ! 'Anegdotka: kolega oprowadza serwisanta z IBM po naszej serwerowni; ten
+    zauważa heavy-duty mozaikową drukarkę HP do kodów paskowych, wielkości pralki,
+    rozpromienia się i mówi: „O, nasze dyski macie…”'
+  author: Szymon Sokół
+  source: pl.rec.fantastyka.sf-f
+  tags:
+  - pl
+  - tech
