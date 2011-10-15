@@ -25636,3 +25636,95 @@ signatures:
   tags:
   - pl
   - tech
+- !ruby/struct:Signore::Signature
+  text: Basically, there were two sides to the world. There was the entire computer
+    games software industry engaged in a tremendous effort to stamp out piracy, and
+    there was Wobbler. Currently, Wobbler was in front.
+  author: Terry Pratchett
+  source: Only You Can Save Mankind
+  subject: !!null 
+  tags:
+  - en
+  - piracy
+- !ruby/struct:Signore::Signature
+  text: ! '‘Pull me up, then’, he hinted.
+
+    ‘I think that might be sort of difficult’, grunted Twoflower. ‘I don’t actually
+    think I can do it, in fact.’
+
+    ‘What are you holding on to, then?’
+
+    ‘You.’
+
+    ‘I mean besides me.’
+
+    ‘What do you mean, besides you?’ said Twoflower.'
+  author: Terry Pratchett
+  source: The Light Fantastic
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: I do note with interest that old women in my books become young women on the
+    covers… this is discrimination against the chronologically gifted.
+  author: Terry Pratchett
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The sergeant put on the poker face which has been handed down from NCO to
+    NCO ever since one protoamphibian told another, lower ranking protoamphibian to
+    muster a squad of newts and Take That Beach.
+  author: Terry Pratchett
+  source: Eric
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ! '— WO: wzorcowy model użytkownika produktów Apple na pcoa, przechowywany
+    w Sevres pod Paryżem.
+
+    — Niestety, nie przez cały czas…'
+  author: Krzysztof Krzyżaniak, Lech Szychowski
+  source: pl.comp.os.advocacy
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Moja dziewczyna kupi sobie pakiet startowy TakTaka. Ja chcę jej dać mojego
+    Eryka T28s kupionego w Erze w marcu. Powiedzcie, proszę, jaka może być najniższa
+    cena tego telefonu, aby jej mąż uwierzył, że kupiła go okazyjnie od koleżanki.
+  author: Misio_Dziuni
+  source: pl.misc.telefonia.gsm
+  subject: !!null 
+  tags:
+  - pl
+  - relationships
+- !ruby/struct:Signore::Signature
+  text: ! '— Nowe hasło reklamowe z wityny www.tpsa.pl: „Zdążyliśmy poznać się na
+    wylot”. Ni mniej, ni więcej, zaiste taka właśnie sytuacja ma miejsce.
+
+    — Jaki był ten wylot ostatnio? 400 tys. abonentów?'
+  author: Ryszard Rączkowski, Faraon
+  source: pl.misc.telefonia
+  subject: !!null 
+  tags:
+  - pl
+  - telecommunications
+- !ruby/struct:Signore::Signature
+  text: ! '— Po co ludzie czytają beletrystykę?
+
+    — Ja czytam dlatego, że założyłem się o pół litra wyborowej z Czesławem Miłoszem
+    o to, kto przeczyta więcej w ciągu swojego żywota. Na razie on prowadzi o dwa
+    tomy Prousta.'
+  author: Paulo Coelho, pinuss
+  source: pl.rec.ksiazki
+  subject: !!null 
+  tags:
+  - pl
+  - literature
