@@ -25728,3 +25728,100 @@ signatures:
   tags:
   - pl
   - literature
+- !ruby/struct:Signore::Signature
+  text: Postalgolowa składnia to złe zło w programowniu.
+  author: Krzysztof Trzewiczek
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘You’re Hells Angels, then? What chapter are you from?’
+
+    REVELATIONS, CHAPTER SIX.'
+  author: Terry Pratchett, Neil Gaiman
+  source: Good Omens
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The Little Library… a bookshop which sold pornographic magazines, and science
+    fiction magazines. I went in there every day after school and came out with my
+    satchel bulging.
+  author: Terry Pratchett
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The only way housework could be done in this place was with a shovel or, for
+    preference, a match.
+  author: Terry Pratchett
+  source: Witches Abroad
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: The Disc, being flat, has no real horizon. Any adventurous sailors who get
+    funny ideas from staring at eggs and oranges for too long and set out for the
+    antipodes soon learned that the reason why distant ships sometimes looked as though
+    they were disappearing over the edge of the world was that they were disappearing
+    over the edge of the world.
+  author: Terry Pratchett
+  source: The Light Fantastic
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ! '— Someone on address war-r1.do.lodz-r1.tpnet.pl [194.204.175.19] wants
+    to send ICMP packet to your machine. Permitować to czy denyajować? Denajowałem
+    cały czas, ale może to coś ważnego? W końcu to od TP…
+
+    — Świat się zmienia… Czytałem jakiś czas o „human firewall”, ale nie spodziewałem
+    się tak dosłownego potraktowania tematu…'
+  author: Sebcio, Michał Zalewski
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - networking
+- !ruby/struct:Signore::Signature
+  text: ! '— Mam prośbę o jakiś crack do Linuksa.
+
+    — To mój ulubiony: man `ls $(echo $PATH | sed ''s/:/ /g'') | grep -v "\/" | xargs`
+    Dzięki niemu masz FULL (!!!) dostęp do manuali bez ograniczeń czasowych.'
+  author: Rafał Jaroszewski, Wojtek Walczak
+  source: alt.pl.comp.os.hacking.faq
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: ! '— Zobaczyłem dzisiaj zajebisty teledysk, rzecz jasna zapomniałem tytułu.
+
+    — Nienopewnie, rzecz jasna, na ten przykład ja mam tak ciągle z Beethovenem.'
+  author: Bucz, monkbert
+  source: pl.hum.x-muza
+  subject: !!null 
+  tags:
+  - pl
+  - music
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Jakie rzeczy według Was są najważniejsze w czytniku grup dyskusyjnych?
+
+    — Gnuśność.'
+  author: kopringo, Maciej Matysiak
+  source: pl.news.czytniki
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - Usenet
+  - Gnus
