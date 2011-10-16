@@ -55,6 +55,8 @@ set wildmode=list:longest
 let g:ctrlp_working_path_mode = 0
 let g:rubytest_cmd_test = "testdrb %p"
 let g:rubytest_cmd_testcase = "testdrb %p -n '/%c/'"
+let g:rubytest_cmd_spec = "ruby %p"
+let g:rubytest_cmd_example = "ruby %p -n '/%c/'"
 set clipboard+=unnamed
 set directory=/tmp//
 set hidden
