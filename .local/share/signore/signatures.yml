@@ -25825,3 +25825,102 @@ signatures:
   - tech
   - Usenet
   - Gnus
+- !ruby/struct:Signore::Signature
+  text: It’s sad how Wile E. Coyote is remembered for his violence, and not for his
+    brilliantly realistic paintings of tunnels.
+  author: Matt Roller
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - cartoons
+- !ruby/struct:Signore::Signature
+  text: ‘Chain letters’, said the Tyrant. ‘The Chain Letter to the Ephebians. Forget
+    Your Gods. Be Subjugated. Learn to Fear. Do not break the chain – the last people
+    who did woke up one morning to find fifty thousand armed men on their lawn.’
+  author: Terry Pratchett
+  source: Small Gods
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+  - religion
+- !ruby/struct:Signore::Signature
+  text: His philosophy was a mixture of three famous schools – the Cynics, the Stoics
+    and the Epicureans – and summed up all three of them in his famous phrase, ‘You
+    can’t trust any bugger further than you can throw him, and there’s nothing you
+    can do about it, so let’s have a drink.’
+  author: Terry Pratchett
+  source: Small Gods
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+  - philosophy
+- !ruby/struct:Signore::Signature
+  text: ! '‘You’re not one of us.’
+
+    ‘I don’t think I’m one of them, either’, said Brutha. ‘I’m one of mine.’'
+  author: Terry Pratchett
+  source: Small Gods
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: The figures looked more or less human. And they were engaged in religion.
+    You could tell by the knives (it’s not murder if you do it for a god).
+  author: Terry Pratchett
+  source: Small Gods
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Zabezpieczenie, które nie zabezpiecza, też jest nazywane zabezpieczeniem,
+    ale faktycznie nie zabezpiecza, czyli jest rzekomym zabezpieczeniem i nie różni
+    się zatem w skuteczności od braku zabezpieczeń.
+  author: Expert
+  source: pl.soc.prawo
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+  - security
+- !ruby/struct:Signore::Signature
+  text: ! '— W moim przypadku spidy. Członek ciężko staje po tym, ale jak już stanie,
+    to ho ho ho!
+
+    — Ciężko staje??? On po tym jest taki tyci tyci. Jak pierwszy raz poszedłem się
+    po tym wysikać to myślałem że zawału dostanę.'
+  author: Adam i Agnieszka Gasiorowski FNORD, Greg
+  source: pl.soc.seks.moderowana
+  subject: !!null 
+  tags:
+  - pl
+  - sex
+  - drugs
+- !ruby/struct:Signore::Signature
+  text: ! '— Aha, SKL to jest ten liberalny odłam PO… no bez jaj.
+
+    — Z całą pewnością bez. Ale to marny wyróżnik w tamtych okolicach.'
+  author: Michał Radomił Wiśniewski, Paweł Pluta
+  source: pl.rec.fantastyka.sf-f
+  subject: !!null 
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! '— W jaki sposób się dostawałeś do bazy danych?
+
+    — Zdejmowałem terminator z koncentryka i głośno i wyraźnie mówiłem w kabel polecenia
+    SQL.'
+  author: Jarosław Protasiewicz, Paweł Pluta
+  source: pl.comp.os.advocacy
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - SQL
+  - networking
