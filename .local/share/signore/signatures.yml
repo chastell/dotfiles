@@ -25924,3 +25924,121 @@ signatures:
   - tech
   - SQL
   - networking
+- !ruby/struct:Signore::Signature
+  text: Może i rzeczywistość niestety nie wygląda jak w amerykańskim filmie, ale na
+    szczęście nie wygląda też jak w polskim.
+  author: shapes
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: If testing seems hard, there’s something wrong with your design.
+  author: Sandi Metz
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: All children are born anarchists and atheists. They have to be taught to serve
+    gods and masters.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - anarchism
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: Stockholm.js
+  author: Lil’ B
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Mustrum Ridcully did a lot for rare species. For one thing, he kept them rare.
+  author: Terry Pratchett
+  source: Lords and Ladies
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ‘I know she’s in there’, said Verence, holding his crown in his hands in the
+    famous Ai-Senor-Mexican-Bandits-Have-Raided-Our-Village position.
+  author: Terry Pratchett
+  source: Lords and Ladies
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ! '‘It could be a torture chamber or a dungeon or a hideous pit or anything!’
+
+    ‘It’s just a student’s bedroom, sergeant.’
+
+    ‘You see?’'
+  author: Terry Pratchett
+  source: Men at Arms
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: The maze was so small that people got lost looking *for* it.
+  author: Terry Pratchett
+  source: Men at Arms
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+- !ruby/struct:Signore::Signature
+  text: ! '— A znacie pozycję „na kruka”?
+
+    — Na kruka, powiadasz…'
+  author: Malgorzatta, Mariusz Kruk
+  source: pl.soc.seks.moderowana
+  subject: !!null 
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! 'Przychodzi informacja o awarii w Czernobylu, a jakaś staruszka na to: „tak,
+    tak, w dobrach u Sapiehów zawsze był bałagan”. Podobno autentyczne.'
+  author: Paweł Pluta
+  source: pl.rec.fantastyka.sf-f
+  subject: !!null 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Być może to uzmysłowi Panu Tomaszowi Surmaczowi, że nie jest panem i
+    władcą polskich grup Usenetu.
+
+    — A kto to jest ten Surmacz?
+
+    — Pan i władca polskich grup Usenetu.'
+  author: Maciek Uhlig, Harry, Paweł Pluta
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Irak nie jest w stanie sam się wyżywić.
+
+    — Podobnie jak Korea Płn. Tylko widzisz, trzeba sie zdecydować. Albo krzyczymy
+    „Pomocy!”, albo krzyczymy „Wy sk…!”. Na okrzyki „Pomocy wy sk…!” ja osobiście
+    reaguję negatywnie.'
+  author: Robert, Stanisław Witold Czarnecki
+  source: pl.rec.fantastyka.sf-f
+  subject: !!null 
+  tags:
+  - pl
+  - politics
