@@ -26042,3 +26042,87 @@ signatures:
   tags:
   - pl
   - politics
+- !ruby/struct:Signore::Signature
+  text: I still have to find the one person on the planet to whom the PRINCE2 model
+    is useful.
+  author: Jurgen Appelo
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: The class was learning about some revolt in which some peasants had wanted
+    to stop being peasants and, since the nobles had won, had stopped being peasants
+    *really quickly*.
+  author: Terry Pratchett
+  source: Soul Music
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Smoke was coming out of the stricken piano. The Librarian’s hands were walking
+    through the keys like Casanunda in a nunnery.
+  author: Terry Pratchett
+  source: Soul Music
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+  - music
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ‘Yes’, said the skull. ‘Quit while you’re a head, that’s what I say.’
+  author: Terry Pratchett
+  source: Soul Music
+  subject: !!null 
+  tags:
+  - en
+  - Discworld
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Już raz napisałem, że ważniejszy jest odbiór córki ze szkoły niż dokończenie
+    operacji pacjenta.
+  author: Expert
+  source: pl.sci.medycyna
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Czas zacząć przerabiać kawały o milicjantach na kawały o członkach zarządu
+    TPSA.
+  author: Michał Szokolo
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Krótki opis: Grupa dyskusyjna fanów skoków narciarskich.
+
+    — Jakiś bardziej pomysłowy krótki opis by się przydał…
+
+    — MAŁYSZ GUROM! SCHMIDT PARÓWA!'
+  author: Tadeusz, Jarek Hirny, Asia Jędrychowska
+  source: pl.news.nowe-grupy
+  subject: dyskutując o ewentualnej grupie pl.rec.sport.skoki
+  tags:
+  - pl
+  - Usenet
+  - sport
+- !ruby/struct:Signore::Signature
+  text: ! '— Czasami słyszę jakiś dziwny dźwięk z przodu samochodu. Dźwięk pojawia
+    się przy dużej prędkości – powyżej 110 km/h ale nie zawsze – nie wiem od czego
+    to zależy. Dźwięk jest wysokiej częstości, bardzo cichutki, czasami przypomina
+    syczenie.
+
+    — To anioł stróż syczy ze strachu.'
+  author: Keimak, Krzysiek
+  source: pl.misc.samochody
+  subject: !!null 
+  tags:
+  - pl
