@@ -26126,3 +26126,129 @@ signatures:
   subject: !!null 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ‘This PHP code is so clean and elegantly solves the problem at hand’ – nobody,
+    never.
+  author: Mike Perham
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
+- !ruby/struct:Signore::Signature
+  text: Visit website; redirected to m.*; hit back; redirected to m.* … repeat … give
+    up, find developer, drive stake through heart.
+  author: Paul Battley
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - webdevelopment
+- !ruby/struct:Signore::Signature
+  text: I really don’t get how companies are always selling ‘proprietary technologies’
+    as a feature.
+  author: Konstantin Haase
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: If your tests are bad, delete them. If you don’t understand your tests, delete
+    them.
+  author: Chad Fowler
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Just learned that ?: is called the Elvis operator.'
+  author: Anna Filina
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I have determined that the complexity class of most C++ programs is NP-Fucked.
+  author: Joël Perras
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'reboot -n: Avoid the sync(1M) operation. This option can be used if a disk
+    or the processor is on fire.'
+  author: !!null 
+  source: man reboot, Solaris 2.4
+  subject: !!null 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Put knot yore trust inn spel chequers.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: At Group L, Stoffel oversees six first-rate programmers, a managerial challenge
+    roughly comparable to herding cats.
+  author: !!null 
+  source: Washington Post Magazine
+  subject: !!null 
+  tags:
+  - en
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If the Start Windows Restart when Windows starts check box is checked Windows
+    Restart will start automatically every time Windows is started.
+  author: !!null 
+  source: Windows Restart help
+  subject: !!null 
+  tags:
+  - en
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: ! 'Ja w Twojej wiadomości zobaczyłem coś takiego: „Content-Type: text/plain;
+    charset=ELWRO-Junior”. To Twoje dzieło, czy Gnus świętuje wykopując zmarłych?'
+  author: Maciej Matysiak
+  source: pl.news.czytniki
+  subject: 1.11.2001
+  tags:
+  - pl
+  - tech
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Usenet to właśnie elegancja, tradycja, zasady, netykieta, odpowiedni strój,
+    etyka, czyli taki intelektualny golf.
+  author: Expert
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Uważałem na siebie, jakbym miał jaja Faberge zamiast własnych.
+  author: Konrad Bagiński
+  source: pl.pregierz
+  subject: !!null 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Podczas gry w piłkę [komarzyca] usiłowała mnie zabić, ale nie wzięła pod uwagę
+    tego, że mam nadciśnienie. Generalnie ja ją pękłem tak, jak Prosiaczek swój balonik.
+  author: Konrad Bagiński
+  source: pl.pregierz
+  subject: !!null 
+  tags:
+  - pl
