@@ -26252,3 +26252,91 @@ signatures:
   subject: !!null 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: The optimizer will notice this and optimize the post-increment into a pre-increment,
+    because that's a little more efficient to execute. (You didn't need to know that,
+    but we hoped it would cheer you up.)
+  author: Larry Wall, Tom Christiansen, Randall L. Schwartz
+  source: Programming Perl
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: There is a record of geeks that don’t use computers. Unfortunately, they are
+    all dead, having lived in an era of no computers.
+  author: Robert A. Hayden
+  source: The Code of the Geeks
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The day Micros~1 makes something that doesn’t suck is probably the day they
+    start making vacuum cleaners.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - Microsoft
+- !ruby/struct:Signore::Signature
+  text: Where a calculator on the ENIAC is equipped with 18,000 vacuum tubes and weighs
+    30 tons, computers in the future may have only 1,000 vacuum tubes and weigh only
+    1.5 tons.
+  author: !!null 
+  source: Popular Mechanics, 1949
+  subject: !!null 
+  tags:
+  - en
+  - computers
+- !ruby/struct:Signore::Signature
+  text: This message has been brought to you by the language C and the number F.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '— …ale jakby ktos jeździł z Lublina do Warszawy przez Londyn to by go uznali
+    conajmniej za kretyna.
+
+    — W 150 milisekund? Istotnie by mnie to zdziwiło.'
+  author: konrador, Maciej Anczura
+  source: pl.internet.polip
+  subject: o routingu Teleglobe i TPSA
+  tags:
+  - pl
+  - tech
+  - networking
+- !ruby/struct:Signore::Signature
+  text: Za to mój znajomy był kiedyś w kinie na filmie z Flipem i Flapem i tak się
+    śmiał, że zwymiotował. Kiedy obmywał się w łazience kinowej, przypomniało mu się
+    to, co go tak rozśmieszyło, i wybił sobie zęby o zlew.
+  author: Andrzej R. Skoczylas
+  source: pl.rec.fantastyka.sf-f
+  subject: !!null 
+  tags:
+  - pl
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Słuchajcie, a naprawdę jest jakieś duszpasterstwo dziennikarzy? I każda grupa
+    zawodowa ma swoje? Chciałbym kiedyś posłuchać z ciekawości mszy dla programistów.
+  author: Wojciech Orliński
+  source: pl.rec.fantastyka.sf-f
+  subject: !!null 
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Ja natomiast przesyłam energię za pośrednictwem Internetu. Kto ze mną dyskutuje
+    ten dostaje dużo energii, śmiałości, zadowolenia i czuje się swietnie.
+  author: Expert
+  source: pl.sci.medycyna
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
