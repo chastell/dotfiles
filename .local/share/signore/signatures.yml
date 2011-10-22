@@ -26340,3 +26340,137 @@ signatures:
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: Friends! Who amongst you has non-profit experience? (As in setting up a non-profit
+    org, not failing to make money.)
+  author: Jim Remsik
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - NGO
+- !ruby/struct:Signore::Signature
+  text: If you don’t like locks but want parallelism on multi-core CPUs, use Actors.
+    Why are we even debating this? It’s like science doesn’t matter.
+  author: ! '@brixen'
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Want to learn something new and awesome about software? Ask a Smalltalker
+    what they were doing 15 years ago.
+  author: Steven R. Baker
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: Attention, Sinatra::Base will be renamed to Sinatra::UBERKLASSE in 1.3.2 and
+    1.2.8.
+  author: Konstantin Haase
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Sinatra
+- !ruby/struct:Signore::Signature
+  text: ! '‘Going to be the first white guy to die from hyperthermia in beautiful
+    Nice, France, which is less beautiful when your balls freeze off.’
+
+    ‘In Europe we have this crazy new invention we call clothes.’
+
+    ‘That sounds insane. I was told everyone would be naked here. Also, this conference
+    is now way more awkward.’'
+  author: Zach Holman, Konstantin Haase
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Documentation is like sex: when it is good, it is very, very good; and
+    when it is bad, it is better than nothing.'
+  author: Dick Brandon
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - docs
+  - sex
+- !ruby/struct:Signore::Signature
+  text: A benchmark is like sex. Everybody wants it, everybody is sure of how to do
+    it, but nobody can agree on how to compare performance.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Software is like sex, it’s better when it’s free.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - open source
+- !ruby/struct:Signore::Signature
+  text: Man is the best computer we can put aboard a spacecraft – and the only one
+    that can be mass produced with unskilled labor.
+  author: Wernher von Braun
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: Są na Internecie ludzie, pompy ssące, którzy wysysają energię intelektualną
+    i czujesz się wyczerpana po każdej dyskusji.
+  author: Expert
+  source: pl.sci.medycyna
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Istnieje jednak takie zagrożenie, że Internet wysysa z Ciebie siły witalne.
+    Jest taki syndrom, że czym dłużej dyskutujesz tym bardziej się czujesz wyczerpana.
+  author: Expert
+  source: pl.sci.medycyna
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Jeżeli grupa pl.internet.polip ma chronić najwyższe wartości etyczne to zrozumiałe,
+    że takie wartości prezentuje kodeks honorowy Usenetu.
+  author: Expert
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Prawdziwa kobieta na dźwięk słowa „penis” oblewa się szkarłatnym rumieńcem
+    i zamyka oczy!
+
+    — Aby być w zgodzie z tematem dyskusji powinieneś dodać jeszcze, że jednocześnie
+    otwiera usta.'
+  author: Adam i Agnieszka Gasiorowski FNORD, Bartosz Bielawski
+  source: pl.soc.seks.moderowana
+  subject: w wątku „Miłość francuska”
+  tags:
+  - pl
+  - sex
