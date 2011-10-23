@@ -26474,3 +26474,80 @@ signatures:
   tags:
   - pl
   - sex
+- !ruby/struct:Signore::Signature
+  text: The question of whether computers can think is just like the question of whether
+    submarines can swim.
+  author: Edsger W. Dijkstra
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The sendmail configuration file is one of those files that looks like someone
+    beat their head on the keyboard. After working with it… I can see why!
+  author: Harry Skelton
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - sendmail
+- !ruby/struct:Signore::Signature
+  text: ! 'There are two major products that come out of Berkeley: LSD and UNIX. We
+    don’t believe this to be a coincidence.'
+  author: Jeremy S. Anderson
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - Unix
+  - drugs
+- !ruby/struct:Signore::Signature
+  text: echo '[q]sa[ln0=aln256%Pln256/snlbx]sb3135071790101768542287578439snlbxq'
+    | dc
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '— Stąd pytanko: na czym polega aktualne wsparcie PostgreSQL-a dla Unikodu?
+
+    — Wsparcie polega z grubsza na tym, że PostgreSQL nie wysypuje się.'
+  author: chastell, Adam Buraczewski
+  source: pl.comp.bazy-danych
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - PostgreSQL
+  - Unicode
+- !ruby/struct:Signore::Signature
+  text: Mam problem. Dziewczyna mi powiedziała, że jest nimfomanką w 80% i lubi miłość
+    platoniczną.
+  author: jometal
+  source: pl.soc.seks.moderowana
+  subject: !!null 
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Jak będziesz niegrzeczny to przyjdzie Wojtek Orliński i coś napisze.
+  author: Krzysztof Krzyżaniak
+  source: pl.comp.os.advocacy
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Podpuszczasz mnie czy naprawdę Twój stary też ma na imię January?
+
+    — Oczywiście, że podpuszczam. Nikt normalny nazywając się January i mając ojca
+    o tym samym imieniu nie nazwałby także swojego syna „January”.'
+  author: Wojciech Orliński, January Weiner (trzeci)
+  source: pl.rec.fantastyka.sf-f
+  subject: !!null 
+  tags:
+  - pl
