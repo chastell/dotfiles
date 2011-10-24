@@ -22014,7 +22014,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: In general, I’d recommend injecting LSD directly into your temples, Syd-Barret-style,
     before mucking with Motif’s resource framework. The former has far lower odds
-    of  leading directly to terminal insanity.
+    of leading directly to terminal insanity.
   author: Dan Martinez
   source: !!null 
   subject: !!null 
@@ -26551,3 +26551,70 @@ signatures:
   subject: !!null 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: O piątej rano się dowiedziałem, że ext3 się wysypuje przy 31999 plikach w
+    katalogu.
+  author: Filip Tepper
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - ext3
+- !ruby/struct:Signore::Signature
+  text: High-tech computers, such as those used by NASA, the CIA, or some such governmental
+    institution, will have easy to understand graphical interfaces. Those that don’t,
+    have incredibly powerful text-bases command shells that can correctly understand
+    and execute commands typed in plain English.
+  author: The Movie Laws of Computers and Electronics
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: You never have to use the space-bar when typing long sentences.
+  author: The Movie Laws of Computers and Electronics
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Word processors never display a cursor.
+  author: The Movie Laws of Computers and Electronics
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Pośliń palec i dotknij drugiego portu joysticka – nieśmiertelność.
+  author: !!null 
+  source: Top Secret
+  subject: tip do „Syna boga wiatru”
+  tags:
+  - pl
+  - tech
+  - games
+- !ruby/struct:Signore::Signature
+  text: Microsoft zdominował rynek oprogramowania dzięki wysokiej jakości produktów
+    oraz otwartej, uczciwej konkurencji z innymi firmami, popartej fachowo prowadzoną
+    promocją.
+  author: Maciej Gołoś
+  source: CRN 16/2000
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - Microsoft
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Gra Lion to gra roleplaying – dosyć nietypowa. Jest to symulacja życia wilka.
+  author: !!null 
+  source: staregry.pl
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - games
