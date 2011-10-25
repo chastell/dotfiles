@@ -26618,3 +26618,84 @@ signatures:
   - pl
   - tech
   - games
+- !ruby/struct:Signore::Signature
+  text: Kto znieważy carbonarę ordynarnie, bez pardonu, ten durszlakiem zbierze cięgi
+    w Polskiej Izbie Makaronu.
+  author: Foochatek
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - poetry
+  - moskaliki
+  - pastafarianism
+- !ruby/struct:Signore::Signature
+  text: Kto makaron rozgotuje i w dodatku nie posoli temu długa boska macka łebek
+    durny upierdoli.
+  author: dzierzba
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - poetry
+  - moskaliki
+  - pastafarianism
+- !ruby/struct:Signore::Signature
+  text: The USA should invade the USA and win the hearts and minds of the population
+    by building roads, bridges and putting locals to work.
+  author: Paul Myers
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: The more I learn about Ruby, the more I go, ‘now how many times have I wished
+    for that feature’.
+  author: ! '@greenmanspirit'
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: There is an angel inside of me whom I am constantly shocking.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A scientific truth does not triumph by convincing its opponents and making
+    them see the light, but rather because its opponents eventually die and a new
+    generation grows up that is familiar with it.
+  author: Max Planck
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! '— Jejku, to seks nadal nazywa się dowodem miłości?
+
+    — No nie wiem, ja takich zwrotów nie używam, ale spodobał mi się, od kiedy mi
+    dziewczyna zaczęła o tym mówić.'
+  author: Carrie, Grzegorz Janoszka
+  source: pl.soc.seks.moderowana
+  subject: !!null 
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Terroryści internetowi reklamujący alkohole na Usenecie i przymuszający innych
+    do czytania reklamy alkoholi, piwa, wina, wódki, bimbru itd. jednak naruszają
+    ustawę o wychowaniu w trzeźwości i krzyki nic tu nie dadzą.
+  author: Expert
+  source: pl.rec.kuchnia
+  subject: w wątku o golonce w piwie
+  tags:
+  - pl
+  - Usenet
+  - alcohol
