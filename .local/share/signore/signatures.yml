@@ -26699,3 +26699,49 @@ signatures:
   - pl
   - Usenet
   - alcohol
+- !ruby/struct:Signore::Signature
+  text: ! '— Zdradzę Wam zaklęcie na apatię. Rozsiadając się w fotelu czytasz „nie
+    działa” zapisane krwią klienta, odpowiadasz „co dokładnie?”, a potem czytasz znów
+    „nie działa”. Czar powoduje spacer i długie śniadanie.
+
+    — Wiesz jaki blog się psuje na Durszlaku najczęściej (99% przypadków)? „Mój blog.”'
+  author: opi, reuptake
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Common sense and a sense of humor are the same thing, moving at different
+    speeds. A sense of humor is just common sense, dancing.
+  author: Clive James
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: In a display of perverse brilliance, Carl the repairman mistakes a room humidifier
+    for a mid-range computer but manages to tie it into the network anyway.
+  author: !!null 
+  source: The 5th Wave
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: alt.jacek to jednak brzmi doskonale, stary Jacek, cześć. Stary is ok.
+  author: Expert
+  source: pl.news.nowe-grupy
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Metatekstualność nie jest makaronizmem, ale uprawnionym pojęciem semiotycznym.
+
+    — Gdzieś tak w tym punkcie dołączyłem do tych 80% społeczeństwa, które nie rozumie
+    co czyta.'
+  author: Ufko, Daniel Walczak
+  source: pl.rec.fantastyka.sf-f
+  subject: !!null 
+  tags:
+  - pl
+  - linguistics
