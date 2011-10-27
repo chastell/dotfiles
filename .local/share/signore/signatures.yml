@@ -26745,3 +26745,60 @@ signatures:
   tags:
   - pl
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Odkąd poukładałem książki kolorami, przed podejściem do półki najpierw googlam
+    kolor okładki.
+  author: DrYoung
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - books
+- !ruby/struct:Signore::Signature
+  text: Gazeta zrobiła ranking miast pt. „gdzie nie chcelibyśmy mieszkać”. Do połowy
+    z nich wyniósłbym się w 15 minut.
+  author: reuptake
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: When cryptography is outlawed, bayl bhgynjf jvyy unir cevinpl.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - security
+  - ROT13
+- !ruby/struct:Signore::Signature
+  text: A TV cameraman thwarted Mr Bob Specas’s attempt to topple 100,000 dominoes
+    at the Manhattan Center, New York on 9 June 1978. 97,500 dominoes had been set
+    up when he dropped his press badge and set them off.
+  author: Stephen Pile
+  source: The Book of Heroic Failures
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '— Kiedyś, dawno, byłem z kobietą, która z jakąś dziwną i niewytłumaczalną
+    manią odliczała każde 100 dni naszej znajomości. Myślałem, że dostanę szału, pomimo
+    iż ona była moją największą miłością. Byliśmy razem trzy lata…
+
+    — Znaczy, doliczyła do dziesięciu.'
+  author: Piotr Przewłocki, Bart Ogryczak
+  source: pl.pregierz
+  subject: !!null 
+  tags:
+  - pl
+  - relationships
+- !ruby/struct:Signore::Signature
+  text: Za 10 lat nie będzie już Internetu opartego na protokole TCP/IP.
+  author: Expert
+  source: pl.internet.polip
+  subject: w 2001
+  tags:
+  - pl
+  - tech
+  - Usenet
