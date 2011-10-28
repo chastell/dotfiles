@@ -26802,3 +26802,105 @@ signatures:
   - pl
   - tech
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: Due to concern over some sanitation issues, you may be shot in the face with
+    tear gas. If this happens remain prone while we flashbang you.
+  author: CptTim
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - politics
+  - OWS
+- !ruby/struct:Signore::Signature
+  text: Zdałem sobie sprawę ostatnio, że społeczności się tworzą wokoło wszystkiego.
+    Chciałem coś mało istotnego kupić, szlik czy inne majtki, wszedłem na net, żeby
+    zobaczyć cenę mniej wiecej – i się okazało, że jest cała społeczność zbudowana
+    naokoło tego, i mają fora gdzie się wyzywają od chujów. To samo dotyczy lampki
+    nocnej.
+  author: szuwar
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - Internet
+- !ruby/struct:Signore::Signature
+  text: Nokia might strategically realign its product lineup around OS/2, a proven
+    platform with rich opportunities for differentiation.
+  author: Ryan Paul
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - Nokia
+  - OS/2
+- !ruby/struct:Signore::Signature
+  text: Interrupted a pair of ladies at the next table to tell them to push their
+    french press down. My coffee snobbery is getting out of hand.
+  author: Avdi Grimm
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: ‘Obsessed’ is a word that lazy people use to describe ‘dedicated’.
+  author: Ted Dziuba
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Jest tak źle, że mam dokumenty na pulpicie.
+  author: Filip Tepper
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: In the course of his duties in August 1977, a Dutch veterinary surgeon was
+    required to treat an ailing cow. To investigate its internal gases he inserted
+    a tube into that end of the animal not capable of facial expression and struck
+    a match. The jet of flame set fire first to some bales of hay and then to the
+    whole farm causing damage estimate at L45,000. The vet was later fined L140 for
+    starting a fire in a manner surprising to the magistrates. The cow escaped with
+    shock.
+  author: Stephen Pile
+  source: The Book of Heroic Failures
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘reproduces if added to its quotation.’ reproduces if added to its quotation.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Pewnie mecenasowi De Virion i kolegom po nocach śni się już jego życiowa —
+    „Sprawa Jacka vel Expierda przeciwko pl.internet.polip o naruszenie praw autorskich
+    do antologii cytatów”. Potem wyda ją w formie drukowanej, elektronicznej oraz
+    tańczonej i będzie ją sprzedawać Danuta Rinn w Mango za cenę podaną na ekranie.
+  author: Beerman
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— A przy okazji, bo najprawdopodobniej wcześniej nie było nigdzie płacone
+    ową kartą, więc skąd przestępca mógł mieć jej numer?
+
+    — Wylosował. To jest wstęp do komunizmu wirtalnego. Każdemu wedle potrzeb, a płacą
+    losowo wybrani posiadacze kart kredytowych.'
+  author: Łukasz, Vizvary II Istvan
+  source: pl.biznes.banki
+  subject: !!null 
+  tags:
+  - pl
+  - finances
