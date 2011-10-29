@@ -26904,3 +26904,77 @@ signatures:
   tags:
   - pl
   - finances
+- !ruby/struct:Signore::Signature
+  text: 106°. Air conditioning went dead on Monday. Kids are at each others’ throats.
+    Someone is going to die. I _so_ hope it’s me.
+  author: Greg Knauss
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Młodzież używa zupełnie innych tagów HTML niż my.
+  author: reuptake
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - HTML
+- !ruby/struct:Signore::Signature
+  text: There’s no such thing as intellectual property, just a succession of ones
+    and zeroes to which we apply meaning for largely ineffable reasons.
+  author: Eleanor McHugh
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: I don’t… I can’t… I… something… oh god. I gave my mom my iPhone and showed
+    her how to scroll down and she LICKED HER FINGER first.
+  author: Tracy King
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: In some cultures what I do would be considered normal.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Stoicism is the wisdom of madness and cynicism the madness of wisdom.
+  author: Bergen Evans
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - philosophy
+- !ruby/struct:Signore::Signature
+  text: ! '— A mieliśmy choćby jednego dobrego prezydenta?
+
+    — Mościcki?
+
+    — Ni mom.'
+  author: Piotr J. Ochwal, Yorge
+  source: pl.biznes.banki
+  subject: !!null 
+  tags:
+  - pl
+  - politics
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '— Muszę sobie programik do wycinania zbędnych wyrazów napisać. Jak napiszesz
+    jeden wyraz albo zdanie za dużo to się zawsze przypiepszą do niego.
+
+    — Przypieprzą.'
+  author: Eloy, Nina Liedtke
+  source: pl.news.nowe-grupy
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
