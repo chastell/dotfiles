@@ -26978,3 +26978,51 @@ signatures:
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: Instafaper.
+  author: Filip Tepper
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Now and then we had a hope that if we lived and were good, God would permit
+    us to be pirates.
+  author: Mark Twain
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Moral indignation is jealousy with a halo.
+  author: Herbert George Wells
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I skoro pan Surmacz ma władzę nad krajowym Usenetem, to ma władzę, jakiej
+    nie ma i nie miał żaden minister, żaden polityk, żadna partia, ani sejm kiedykolwiek,
+    gdyż może decydować o zainteresowaniach milionów użytkowników Internetu i Usenetu
+    i decydować, czy mają się interesować papugami czy pieskami, czy też hodować rybki
+    albo chomiki.
+  author: Expert
+  source: pl.news.admin
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: I oczywiście przykładem jest wymieniony pan Surmacz, bo skoro ma władzę nad
+    całym Usenetem, i może zablokować tworzenie nowych grup, to, jak mówią za oceanem,
+    kto ma władzę nad Usenetem, ten ma władzę nad Internetem, a kto ma władzę nad
+    Internetem, ten rządzi krajem, przynajmniej tą częścią społeczeństwa, która używa
+    Usenetu.
+  author: Expert
+  source: pl.news.admin
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
