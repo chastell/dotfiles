@@ -27026,3 +27026,53 @@ signatures:
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: Some languages are overrated. I think Perl is overhated.
+  author: Avdi Grimm
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
+- !ruby/struct:Signore::Signature
+  text: Mary had a little lamb. The doctor was surprised.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Most people are really scared of werewolves but I bet if you saw one crying
+    because the other wolves had made fun of him, you would probably feel sorry for
+    him and try to pet him. That was my first mistake.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '— Jakbyś wiedział, kto tak naprawdę zarządza tym całym biznesem – na którego
+    garnuszku jest wszystko – rządy, korporacje…
+
+    — To powiedz, kto?
+
+    — Możemy ci powiedzieć, ale potem musielibyśmy cię zabić.
+
+    — Powiedzcie mu.'
+  author: Krzysztof Halasa, Expert, Asia Jędrychowska, Robert Kois
+  source: pl.news.admin
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Z Tobą jest coś nie tak skoro używasz vi.
+  author: Piotr Trzcionkowski
+  source: pl.comp.os.advocacy
+  subject: !!null 
+  tags:
+  - pl
+  - tech
+  - Vim
