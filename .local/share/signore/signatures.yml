@@ -27152,3 +27152,47 @@ signatures:
   - pl
   - Usenet
   - networking
+- !ruby/struct:Signore::Signature
+  text: ! 'Google’s new motto: Don’t be evil. We’re watching you.'
+  author: x7o
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - Google
+- !ruby/struct:Signore::Signature
+  text: My parents just came back from a planet where the dominant lifeform had no
+    bilateral symmetry, and all I got was this stupid F-shirt.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: My problems all started with my early education. I went to a school for mentally
+    disturbed teachers.
+  author: Woody Allen
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - education
+- !ruby/struct:Signore::Signature
+  text: „Och, ty moje biedne Maleństwo!” powiedziała Mama Kangurzyca i dała Maleństwu
+    kopa w dupę.
+  author: OKSzot
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - Winnie-the-Pooh
+- !ruby/struct:Signore::Signature
+  text: Gdy trwa mecz piłkarski, nie wiem, czy na świecie trwają wojny, czy rodzą
+    się i umieraja ludzie. Sądzę, że nie.
+  author: Jerzy Pilch
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - sport
+  - football
