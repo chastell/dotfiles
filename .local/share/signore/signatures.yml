@@ -27076,3 +27076,79 @@ signatures:
   - pl
   - tech
   - Vim
+- !ruby/struct:Signore::Signature
+  text: Dziennik pokładowy, jest poniedziałek, czwarta siedemnaście. Wylądowaliśmy
+    na planecie Kuchnia. Kuchnia słynie z produkcji Kawy, a kto ma Kawę ten kontroluje
+    Wszechświat.
+  author: opi
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - work
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: Błogosławieni niekompetentni, którzy siedzą cicho.
+  author: DrYoung
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Klient i żona zaplanowali mi sprzeczne urlopy.
+  author: Filip Tepper
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '#czerska-reality-distortion-field „Nieśmiertelne, sportowe bluzy z kapturem
+    z wielkim logo GAP nosił każdy polski nastolatek.”'
+  author: reuptake
+  source: !!null 
+  subject: !!null 
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: I’ve noticed that the press tends to be quite accurate, except when they’re
+    writing on a subject I know something about.
+  author: Keith F. Lynch
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: ! '‘Quid ergo est, Porcelle?’ dixit Christophorus Robinus lectulo exsurgens.
+
+    ‘Heff’, dixit Porcellus anhelitum ducens ut vix loqui posset, ‘heff-heff-heffalumpus!’'
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - la
+  - Winnie-the-Pooh
+- !ruby/struct:Signore::Signature
+  text: Pamiętaj, że św. Jacek podlega ochronie prawnej i dlatego zwróciliśmy się
+    do parafii św. Jacka z Jackowa w Chicago o wsparcie naszych badań nad ślubami
+    zawieranymi za pośrednictwem Internetu. Jeżeli napiszesz coś niemądrego to prześlę
+    do Jackowa.
+  author: Expert
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Ten cały biznes domenowy został niepotrzebnie rozdmuchany i prowadzi do chaosu.
+    Kto się zna na biznesie wróci do IP + adres wirtualnego serwera.
+  author: Expert
+  source: pl.internet.polip
+  subject: !!null 
+  tags:
+  - pl
+  - Usenet
+  - networking
