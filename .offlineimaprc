@@ -1,0 +1,17 @@
+[general]
+accounts = Gmail
+
+[Account Gmail]
+localrepository = Local
+remoterepository = Remote
+
+[Repository Local]
+type = Maildir
+localfolders = ~/Gmail
+
+[Repository Remote]
+type = IMAP
+remotehost = imap.gmail.com
+remoteuser = chastell@chastell.net
+remotepass = …
+ssl = yes
