@@ -24027,15 +24027,6 @@ signatures:
   - en
   - HHGG
 - !ruby/struct:Signore::Signature
-  text: \Piłka z jakimś takim poznańskim smutkiem zatrzepotała w koszu Olimpii.
-  author: Krzysztof Ratajczak
-  source: !!null 
-  subject: !!null 
-  tags:
-  - pl
-  - sport
-  - basketball
-- !ruby/struct:Signore::Signature
   text: Gdyby nie skłonność do zapisania bramki na swoje konto, Milan mógł prowadzić
     już 3:1.
   author: Dariusz Szpakowski
@@ -27196,3 +27187,82 @@ signatures:
   - pl
   - sport
   - football
+- !ruby/struct:Signore::Signature
+  text: I don’t always read fiction, but when I do it’s a spreadsheet with timelines
+    in a developer meeting.
+  author: Mike Holzinger
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: It’s a sign of madness when you start editing XML files by hand. No, wait.
+    It’s a sign of madness when you start editing XML files.
+  author: Florian Hanke
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - XML
+- !ruby/struct:Signore::Signature
+  text: ! 'Python has three idiomatic ways to flatten a list, depending on who you
+    ask. Two are O(n²). Ruby has one way. It’s O(n). #oneandonlyone
+
+    Also, all three Python ways are more complex. They require imports, reduce (#lolreduce),
+    or applying mathematical terminology to lists.
+
+    The first response to my ‘three idiomatic ways’ toot was a fourth idiomatic way.
+    #lolpython
+
+    The least-crazy flatten in Python is [x for y in xs for x in y] (itself very crazy).
+    Reduce and sum are O(n²); chain requires splatting.'
+  author: Gary Bernhardt
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I took the speed reading course and read ‘War and Peace’ in twenty minutes.
+    It’s about Russia.
+  author: Woody Allen
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s never too late to have a happy childhood.
+  author: !!null 
+  source: !!null 
+  subject: !!null 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Chodzą słuchy, że opinia laboratorium odnośnie piwa ze Zwierzyńca brzmiała
+    „wasz koń jest chory na cukrzycę”.
+  author: Maciej Hałas
+  source: pl.rec.rowery
+  subject: !!null 
+  tags:
+  - pl
+  - beer
+- !ruby/struct:Signore::Signature
+  text: ! '— Jak dystrybutorzy przestaną wypuszczać oryginalne wersje to będę biegał
+    nago przed ich siedzibami i jawnie ściągał warezy, aż się poddadzą!
+
+    — Jakkolwiek nie widziałem kolegi to pozwolę sobie przypuszczać, że Twój dyndajacy
+    bastard sword +4 zrobi na nich wstrząsające wrażenie…
+
+    — Eee, tylko +4? Phi! Jakbyś stanął ze mną twarzą w twarz to by Ci zęby wybił.
+
+    — Znaczy albo Sayko jest niezła dupencja albo… a nic zresztą.'
+  author: Juliusz „Julas” Gonera, Sayko, Doman
+  source: pl.rec.gry.komputerowe.rpg
+  subject: !!null 
+  tags:
+  - pl
