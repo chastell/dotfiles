@@ -27266,3 +27266,78 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I’m quite certain that your API should use different XML tags and attributes
+    for the same entity in various requests.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - API
+  - XML
+- !ruby/struct:Signore::Signature
+  text: Heh, I just ran GC by selecting ‘Collect Garbage’ from a dropdown.
+  author: Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: The only normal people are the ones you don’t know very well.
+  author: Joe Ancis
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: This ‘telephone’ has too many shortcomings to be seriously considered as a
+    means of communication. The device is inherently of no value to us.
+  author: 
+  source: Western Union internal memo, 1876
+  subject: 
+  tags:
+  - en
+  - telecommunications
+- !ruby/struct:Signore::Signature
+  text: Przy jej zakładaniu współpracowało i konsultacji udzielało i nad jej sukcesem
+    pracowało grono 50 amerykańskich administratorów.
+  author: Expert
+  source: pl.news.admin
+  subject: o swojej grupie alt.jacek
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Uzyskała zbyt dużą popularność i stąd te trudności w uzyskaniu dostępu. Wkrótce
+    będzie trudniej się na nią dostać, czytać i ściągać niż jakąkolwiek stronę WWW
+    zza Atlantyku.
+  author: Expert
+  source: pl.news.admin
+  subject: o swojej grupie alt.jacek
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Poza tym jest to pierwsza na świecie międzynarodowa grupa usenetowa, która
+    powstała we współpracy polsko-amerykańskiej.
+  author: Expert
+  source: pl.news.admin
+  subject: o swojej grupie alt.jacek
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Napisz do swojego administratora, żeby ją włączył, gdyż inaczej będzie dostępna
+    jedynie w kręgach elity światowego Usenetu, omijając nasz kraj.
+  author: Expert
+  source: pl.news.admin
+  subject: o swojej grupie alt.jacek
+  tags:
+  - pl
+  - Usenet
