@@ -41,7 +41,7 @@ set formatprg=lovely-rufus nojoinspaces
 " GUI
 colorscheme torte
 let loaded_matchparen = 1
-set guifont=Terminus\ 9 guioptions-=m guioptions-=T
+set guifont=Ubuntu\ Mono\ 11 guioptions-=m guioptions-=T
 set lazyredraw
 set list listchars=extends:→,precedes:←,nbsp:_,tab:»\ ,trail:·
 set scrolloff=7 sidescroll=1 sidescrolloff=10
