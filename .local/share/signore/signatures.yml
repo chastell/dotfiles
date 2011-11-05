@@ -27341,3 +27341,55 @@ signatures:
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: Those who can be made to believe absurdities can be made to commit atrocities.
+  author: Voltaire
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: The wireless music box has no imaginable commercial value. Who would pay for
+    a message sent to nobody in particular?
+  author: David Sarnoff’s associates on investment in radio, 1920s
+  source: 
+  subject: 
+  tags:
+  - en
+  - radio
+- !ruby/struct:Signore::Signature
+  text: Who the hell wants to hear actors talk?
+  author: H. M. Warner, Warner Brothers, 1927
+  source: 
+  subject: 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: ! '— Poszukuję zleceń do tłumaczeń niemiecko-polsko-niemieckich jako praca
+    dodatkowa. Kilku letnie doświadczenie.
+
+    — Mein lieber Scholli! Soweit mir bekannt ist, schreibt Mann (oder Frau) „kilkuletnia”
+    auf polnisch genauso wie eben in „Gänsefußchen” aufgeführt, nicht getrennt wie
+    Du schreibst! Tja professionelle Übersetzung werde im Bezug auf o.a. „kilku letnie”
+    werde ich von Dir nicht machen lassen.'
+  author: Marek, casio
+  source: pl.regionalne.wroclaw
+  subject: 
+  tags:
+  - pl
+  - linguistics
+  - translations
+- !ruby/struct:Signore::Signature
+  text: ! 'Wczoraj wieczorem, przejeżdżając obok kościoła, przypadkiem zauważyłem
+    napis na krzyżu: „ZBAW DUSZĘ SWOJĄ”. Dziś rano, jadąc tą samą trasą w drugą stronę,
+    ze zdziwieniem zauważyłem zmianę poglądów kościoła: na tym samym krzyżu widnieje
+    teraz napis „BAW DUSZĘ SWOJĄ”. Jak tak dalej pójdzie to zostanę katolikiem.'
+  author: Jarek Dukat
+  source: pl.listserv.chomor-l
+  subject: 
+  tags:
+  - pl
+  - linguistics
+  - religion
