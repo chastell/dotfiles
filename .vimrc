@@ -5,6 +5,7 @@ set runtimepath+=$HOME/coding/vundle
 call vundle#rc()
 
 Bundle 'AutoTag'
+Bundle 'LaTeX-Box'
 Bundle 'LustyExplorer'
 Bundle 'Markdown'
 Bundle 'Parameter-Text-Objects'
