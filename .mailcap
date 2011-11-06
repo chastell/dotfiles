@@ -1,0 +1,5 @@
+application/ms-tnef; tnef -w %s
+image/bmp;           eog '%s'; test=test -n "$DISPLAY"
+image/gif;           eog '%s'; test=test -n "$DISPLAY"
+image/jpeg;          eog '%s'; test=test -n "$DISPLAY"
+image/png;           eog '%s'; test=test -n "$DISPLAY"
