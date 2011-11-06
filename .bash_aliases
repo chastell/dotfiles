@@ -1,5 +1,6 @@
 alias backup='offlineimap; reset; rm -fr ~/.cache ~/.local/share/Trash ~/.thumbnails; fusermount -u ~/.gvfs; rdiff-backup --print-statistics -v5 ~ /media/Arthur/X301.rdiff; beep -r 3'
 alias clive='clive -cf best'
+alias cp1250='iconv -t cp1250 -f utf8'
 alias diff='diff -u'
 alias flac2ogg='for i in *.flac; do oggenc "$i"; done'
 alias gitg='gitg --all'
