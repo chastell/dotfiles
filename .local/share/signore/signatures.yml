@@ -27393,3 +27393,82 @@ signatures:
   - pl
   - linguistics
   - religion
+- !ruby/struct:Signore::Signature
+  text: Learning syntax is the dumbest, easiest thing to learn that has nothing to
+    do with programming.
+  author: James Edward Gray II
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Python’s view of OO distilled: http://yfrog.com/ny3owg'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+- !ruby/struct:Signore::Signature
+  text: ! 'Always remember: if you don’t know how to do something, no one else does
+    either and it’s clearly impossible.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Next time I’m in a lift with four or more strangers, I’m going to turn around
+    and say ‘I’m sure you’re wondering why I’ve gathered you all here’.
+  author: ! '@funnyhumour'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m just glad it’ll be Clark Gable who’s falling on his face and not Gary
+    Cooper.
+  author: Gary Cooper
+  source: 
+  subject: on his decision not to take the leading role in ‘Gone With the Wind’
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Drill for oil? You mean drill into the ground to try and find oil? You’re
+    crazy.
+  author: drillers to Edwin L. Drake on his project to drill for oil, 1859
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Ja już mówiłem, że wy programiści macie jakieś zboczone tendencje do używania
+    programów, których nazwy brzmią jak mowa wieśniacza (vim), odgłosy fizjologiczne
+    (slrn) albo środek antykoncepcyjny (emacs).
+  author: Radek Teklak
+  source: pl.pregierz
+  subject: 
+  tags:
+  - pl
+  - tech
+  - Vim
+  - slrn
+  - Emacs
+- !ruby/struct:Signore::Signature
+  text: ! '— Oferta TV-banking, czyli dostęp do rachunku bankowego za pośrednictwem
+    telewizji.
+
+    — Po wpisaniu pilotem numeru karty i PIN-u na ekranie ukaże się pan Kozakiewicz
+    i pokaże na migi aktualne saldo.'
+  author: MK, Piotr J. Ochwal
+  source: pl.biznes.banki
+  subject: 
+  tags:
+  - pl
+  - banking
