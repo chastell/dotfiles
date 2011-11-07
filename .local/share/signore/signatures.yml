@@ -27472,3 +27472,49 @@ signatures:
   tags:
   - pl
   - banking
+- !ruby/struct:Signore::Signature
+  text: Typing on a tablet screen is an exercise in creeping insanity.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Humanity has advanced, when it has advanced, not because it has been sober,
+    responsible, and cautious, but because it has been playful, rebellious, and immature.
+  author: Tom Robbins
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I can’t understand why people are frightened of new ideas. I’m frightened
+    of the old ones.
+  author: John Cage
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '— Student admin jest dobry bo jest tani i dobry.
+
+    — …chyba że ma sesję.
+
+    — To wtedy jest tylko tani.'
+  author: Jakub Turski, Krzysztof Krzyżaniak
+  source: pl.comp.os.advocacy
+  subject: 
+  tags:
+  - pl
+  - work
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Typowe linuksiarstwo, liczyć karty sieciowe i się cieszyć, że dużo, zamiast
+    robić coś pożytecznego.
+  author: Wojciech Orliński
+  source: pl.rec.fantastyka.sf-f
+  subject: 
+  tags:
+  - pl
+  - tech
+  - Linux
