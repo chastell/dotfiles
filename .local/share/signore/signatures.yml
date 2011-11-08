@@ -27518,3 +27518,38 @@ signatures:
   - pl
   - tech
   - Linux
+- !ruby/struct:Signore::Signature
+  text: If God had meant for us to be naked, we would have been born that way.
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: At lunch time, sit in your parked car with sunglasses on and point a hair
+    dryer at passing cars. See if they slow down.
+  author: 
+  source: How to Keep a Healthy Level of Insanity
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Przewidywany program koncertu to czas rzędu dwóch części po 50 minut gdzie
+    pomiędzy nimi zastosuje się przerwę podczas której odbędzie się przedstawienie
+    dwóch zespołów grających na jednej platformie.
+  author: Artur Macioszek
+  source: ahoj.pl
+  subject: 
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: „Elvish”. Mmm. „Elvish” to jest moje ukochane słowo. Elvish Preshley.
+  author: OKSzot
+  source: 
+  subject: przeglądając Tolkiena w oryginale
+  tags:
+  - pl
+  - linguistics
+  - Tolkien
