@@ -27623,3 +27623,39 @@ signatures:
   - Usenet
   - music
   - cinematography
+- !ruby/struct:Signore::Signature
+  text: Sing along at the opera.
+  author: How to Keep a Healthy Level of Insanity
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: Go to a poetry recital and ask why the poems don’t rhyme.
+  author: How to Keep a Healthy Level of Insanity
+  source: 
+  subject: 
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: Grupa pl.rec.zwierzaki, tak samo zresztą jak inne grupy w hierarchii pl.*,
+    jest grupą kierowaną przez wielkie korporacje, to one zdecydowały, że telewizor
+    nie jest uważany za zwierzę, to one mówią nam – masz telewizor? to nie masz zwierzęcia!
+  author: Jacek Popławski
+  source: pl.news.nowe-grupy
+  subject: 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! 'Przez pierwsze kilka pięter ładnie, potem nie trzyma poziomu. Ale wybucha
+    ładnie niezależnie od stylu lotu. To może zaproponujmy definicję: zwierzę to papuga
+    która nie wybucha po wylądowaniu.'
+  author: Michał Mierzwa
+  source: pl.news.nowe-grupy
+  subject: o lotach telewizora
+  tags:
+  - pl
+  - Usenet
