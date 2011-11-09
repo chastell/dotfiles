@@ -27553,3 +27553,73 @@ signatures:
   - pl
   - linguistics
   - Tolkien
+- !ruby/struct:Signore::Signature
+  text: When small men begin to cast big shadows, it means that the sun is about to
+    set.
+  author: Lin Yutang
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: U innej osoby razi mnie ułatwianie, szukanie sobie rozkoszek, dziobanie życia,
+    jak kura dziobie, gdacząc. Dlaczego nie razi mnie u siebie, na tyle przynajmniej,
+    żebym przestał zachowywać się jak kura?
+  author: Sławomir Mrożek
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: To jest ten odcinek, w którym wg linii WizzAir jest o pięć minut później niż
+    jest i razem z walizką zostaję w Rzymie. Prawdziwą maturę zdajesz w ciągu tych
+    dwóch godzin spędzonych na czternastoterminalowym lotnisku, na którym nie ma żadnej
+    informacji na temat awaryjnych noclegów, po angielsku mówią bardzo nieliczni i
+    to też niechętnie, a jedyne połączenie internetowe to terminale z włoską klawiaturą
+    umieszczoną o pół metra za nisko.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - travel
+- !ruby/struct:Signore::Signature
+  text: Put decaf in the coffee maker for three weeks. Once everyone has gotten over
+    their caffeine addictions, switch to espresso.
+  author: 
+  source: How to Keep a Healthy Level of Insanity
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Finish all your sentences with ‘in accordance with the prophecy’.
+  author: 
+  source: How to Keep a Healthy Level of Insanity
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '— O tym, że marchewka jest owocem zadecydowała któraś podkomisja rolnictwa
+    UE. To dobrze, że telewizor nie jest zwierzęciem wedle definicji. Bo jakby zaczął
+    bredzić, mogliby nam masowo wybić.
+
+    — E tam. Jakby mieli wybijać wszystkich co bredzą, to już nie mielibyśmy parlamentu.'
+  author: Vizvary II Istvan, Szymon Sokół
+  source: pl.news.nowe-grupy
+  subject: 
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Czy to nie jest grupa dyskusyjna o muzie??? Przecież Wy tu chrzanicie o wszystkim
+    innym tylko nie o muzyce!!!
+  author: Mateusz Droździewicz
+  source: pl.hum.x-muza
+  subject: 
+  tags:
+  - pl
+  - Usenet
+  - music
+  - cinematography
