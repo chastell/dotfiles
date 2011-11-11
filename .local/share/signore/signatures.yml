@@ -27659,3 +27659,46 @@ signatures:
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: ! '— Logistyka towarzyska i ludzkie puzzle. Na wszelki wypadek oświadczam
+    publicznie, że chętnie napiję się z każdym ze swoich znajomych (no, poza moim
+    byłym mężem).
+
+    — Gdzieś mi się zgubiło „byłym” i co gorsza wcale się nie zdziwiłem.'
+  author: Evva, DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Did you hear about the dyslexic devil worshipper who sold his soul to Santa?
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Put down the dogma and back away slowly.
+  author: Porter Glendinning
+  source: webdesign-l
+  subject: to Ryan Singer
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jak człowieka spotyka jakieś nieszczęście, to okazuje się, że ma wielu przyjaciół,
+    którzy chetnie przyjdą, żeby na to popatrzeć…
+  author: kya
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Polecam psa, to co prawda zwierzę, ale nie lata, za to telewizor lata, jak
+    pies zobaczy muchę, która lata, a mimo to nie jest papugą.
+  author: Jacek Popławski
+  source: pl.news.nowe-grupy
+  subject: 
+  tags:
+  - pl
+  - Usenet
