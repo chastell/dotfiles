@@ -27702,3 +27702,60 @@ signatures:
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: If you’re going to add 5 seconds to the test startup time, you might as well
+    just delete all the tests. Same effect, less labor.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: ! '— Przetłumaczysz mi tekst?
+
+    — Ok, wal.
+
+    — „Ty pierdolony chuju z tą swoją pierdoloną bandą pojebów!”
+
+    — To będzie tak… „Szanowny marszałku, wysoka izbo!”'
+  author: seth, Phaet
+  source: 
+  subject: 
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I’m on a low-fat, high stress diet – coffee and fingernails.
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: You’re just jealous because the voices are talking to me.
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Nazywanie papugi zwierzęciem mnie razi.
+  author: Expert
+  source: pl.news.nowe-grupy
+  subject: 
+  tags:
+  - pl
+  - Usenet
+- !ruby/struct:Signore::Signature
+  text: Nazywanie papugi zwierzęciem jest po prostu śmieszne.
+  author: Expert
+  source: pl.news.nowe-grupy
+  subject: 
+  tags:
+  - pl
+  - Usenet
