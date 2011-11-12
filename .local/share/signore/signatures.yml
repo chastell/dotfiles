@@ -23529,7 +23529,7 @@ signatures:
   source: 
   subject: 
   tags:
-  - pl
+  - en
   - education
   - math
   - statistics
@@ -27759,3 +27759,47 @@ signatures:
   tags:
   - pl
   - Usenet
+- !ruby/struct:Signore::Signature
+  text: There is a thin, red line between eccentricity and insanity. That thin red
+    line is a tiny pink dot to me.
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: One by one, the penguins steal my sanity.
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - sanity
+- !ruby/struct:Signore::Signature
+  text: Pesymista twierdzi, że wszystkie kobiety to nierządnice. Optymista nie jest
+    tego zdania, ale ma nadzieję.
+  author: Julian Tuwim
+  source: 
+  subject: 
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Za mundurem chłopcy sznurem…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Doraźne grzebanie rannych.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
