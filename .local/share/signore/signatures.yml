@@ -27872,3 +27872,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Reading a job ad that requires ‘a working knowledge of COBOL or HTML’.
+  author: Not Joe Ellis
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - HTML
+  - COBOL
+- !ruby/struct:Signore::Signature
+  text: I’m going to kill our captives anyway, and I don’t give a damn whether the
+    other goody-good PCs like it or not.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: I drop trough and expose myself to the arch-mage as a gesture of contempt.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Woda dla napalmu nie jest wodą groźną.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Człowiek musi sobie zbudować szczęście na ziemi i na niebiosa nie ma co czekać.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
