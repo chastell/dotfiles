@@ -381,7 +381,7 @@ signatures:
   - advertising
 - !ruby/struct:Signore::Signature
   text: Jestem mistrzem impulse buying, dzisiaj byłem w Saturnie, zobaczyłem pudełko
-    przecenione ze 100 zł na 40 zł, więc kupiłem. Jutro sobie rozpakuje i sprawdze
+    przecenione ze 100 zł na 40 zł, więc kupiłem. Jutro sobie rozpakuję i sprawdzę
     co to.
   author: DrYoung
   source: 
@@ -27911,6 +27911,41 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Człowiek musi sobie zbudować szczęście na ziemi i na niebiosa nie ma co czekać.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Don’t worry! The chances of me blowing a climb walls roll twice, at my level,
+    are infinitesimal.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Come on! Arrows versus Kevlar?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Dmuchnie na północ, na południe lub też między innymi na wschód.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Głowa jest bardzo ważnym ośrodkiem jeśli chodzi o człowieka.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
