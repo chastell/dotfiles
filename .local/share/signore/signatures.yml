@@ -28034,3 +28034,93 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Corporations are people, pizza is a vegetable, the Internet will be censored
+    and protest is illegal. Welcome to 21st century America.
+  author: Barrett Garese
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Was told a friend is looking for a purpose for his life. I’m happy without
+    a purpose. Don’t know where I’d put the tank.
+  author: Michael Feathers
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: How to do SQL stuff in CouchDB? That’s like medieval man asking modern man
+    ‘how did you solve demonic possession?’ It’s not a problem, sir.
+  author: Jason Smith
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SQL
+  - databases
+  - NoSQL
+  - CouchDB
+- !ruby/struct:Signore::Signature
+  text: People who have figured out the Jenkins UI are our planet’s foremost xenolinguists.
+    We’ll press-gang them when the aliens arrive.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Jenkins
+- !ruby/struct:Signore::Signature
+  text: I once knew a company with a problem. So they outsourced. Now they have 10
+    problems but are only paying for 2.5.
+  author: Patrick McKenzie
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: wyjdę na zewnątrz, nawdycham się jadu!
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: You mean they get to use the critical hit chart too?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Hey, I know a dragon when I see one.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Nie warte to było po prostu tego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Szef kompanii nie pyta tylko w mordę wali.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
