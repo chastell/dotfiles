@@ -27953,3 +27953,84 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ‘There’s an ops guy upstairs. Makes me nervous. It’s like when you’re on a
+    ship and the rats all show up on deck.’
+  author: Marcus Phillips
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Journalism is like ghostwriting except you do it for poor people.
+  author: Paul Ford
+  source: 
+  subject: 
+  tags:
+  - en
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: ! 'I might try to start a reactionary movement back to plain old websites.
+    Slogan: dumb shit that actually works.'
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: „Bardzo proszę o przesłanie nowej wyceny uwzględniającej mniejszy budżet,
+    równocześnie przesyłam listę nowych funkcjonalności, które muszą się znaleźć w
+    projekcie.”
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Śniło mi się, że bank obrabiałem z babcią,i nagle się włączył alarm. Wyobraźcie
+    sobie miny rodziny, gdy nagle przy włączonym dryndającym budziku zrywam się z
+    łóżka z krzykiem „babcia! spierdalamy!”
+  author: adik
+  source: 
+  subject: 
+  tags:
+  - pl
+  - dreams
+- !ruby/struct:Signore::Signature
+  text: It’s not trapped, you just want it to yourself.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Come on, we haven’t found any so far.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Dobrze, więc wobec tego, ponieważ zaraz jest przerwa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Każdy naukowiec jest w pewnym sensie kosmonautą… kosmopolitą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
