@@ -9,9 +9,5 @@ IRB.conf[:HISTORY_FILE] = '~/.irb_history'
 IRB.conf[:PROMPT_MODE]  = :SIMPLE
 IRB.conf[:SAVE_HISTORY] = 1024
 
-if RUBY_VERSION < '1.9'
-  IRB.conf[:USE_READLINE] = false
-else
-  Pry.start
-  exit
-end
+Pry.start
+exit
