@@ -58,6 +58,7 @@ let g:rubytest_cmd_test = "testdrb %p"
 let g:rubytest_cmd_testcase = "testdrb %p -n '/%c/'"
 let g:rubytest_cmd_spec = "ruby %p"
 let g:rubytest_cmd_example = "ruby %p -n '/%c/'"
+let NERDTreeQuitOnOpen = 1
 set clipboard+=unnamed
 set directory=/tmp//
 set hidden
