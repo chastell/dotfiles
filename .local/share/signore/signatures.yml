@@ -28158,3 +28158,58 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ‘Requires a Facebook account’ is like ‘best viewed in Netscape 4’.
+  author: Andy Clarke
+  source: 
+  subject: 
+  tags:
+  - en
+  - Facebook
+- !ruby/struct:Signore::Signature
+  text: ! 'Achievement unlocked: watched water boil. Next up: paint drying, grass
+    growing, Rails app tests running.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Dragons give you a lot of exp.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: I know an illusion when I see one.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: To ja wobec tego wam podyktuję to co teraz powiem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Teraz po prostu zapiszcie sobie temat naszych dzisiejszych rozważań.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
