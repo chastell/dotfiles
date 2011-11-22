@@ -28213,3 +28213,74 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: No, nareszcie, sąsiad zaczął wiercić, już myślałem, że coś mu się stało.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: New Songkick pages we rolled out today have a mere six ‘fuck’s in the changelogs.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Scientists believe that computers may one day be fast enough to run Java GUIs.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: I’m tired of clueless vi-haters regurgitating claim vi has two modes, one
+    which beeps and one which destroys input. THOSE ARE THE SAME MODE.
+  author: Sean Barrett
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: Whoever did this must be long gone by now.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Oh don’t worry. The poisonous ones have orange stripes.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Nie potrzeba ręki amputować, nie potrzeba między innymi nic.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Pociąg, który leciał do Wrocławia został odwołany.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
