@@ -28284,3 +28284,53 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Podobno koledzy z Muzeum Techniki chodzą po salonach T-Mobile i wykupują z
+    ich najnowszej oferty wszystkie te muzealne obiekty.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Jak jeszcze raz jakiś smark zapyta nas na lekcji muzealnej, czy „kolekcjonujemy
+    chwile ulotne jak ulotka” to nie ręczymy za siebie.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Ha ha ha! Let’s put bookworms in his spell research library.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: I’ve got better things to do than run your petty errands, Your Highness.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Z czego się śmiejesz durniu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nieobliczalne skutki ludzi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
