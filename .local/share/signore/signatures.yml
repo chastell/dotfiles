@@ -28334,3 +28334,56 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: On two occasions I have been asked, ‘Pray, Mr Babbage, if you put into the
+    machine wrong figures, will the right answers come out?’ I am not able rightly
+    to apprehend the kind of confusion of ideas that could provoke such a question.
+  author: Charles Babbage
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Na pocieszenie mogę dodać, że w kontaktach z różnymi urzędami przekonałem
+    się wiele razy, iż urzędnicy nie rozumieją się nawzajem.
+  author: Mirosław Bańko
+  source: Poradnia PWN
+  subject: komentując formułę „audycja zawierała lokowanie produktu”
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: For some reason I had always imagined that bugbears were somewhat smaller.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: A trap? That’s exactly what we’re supposed to expect. I think this DM is more
+    imaginative than that.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Obywatel w wieku lat osiemnastu do roku sześćdziesiątego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zlikwidowano organizację czerwonego lwa i słońce.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
