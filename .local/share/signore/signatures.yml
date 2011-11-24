@@ -28387,3 +28387,55 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'SCIENCE NEWS: Linguists seek the origin of sarcasm in study totally worth
+    taxpayer dollars'
+  author: Matthew Baldwin
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'People of the Internet: I hereby permit you to create resources with PUT.'
+  author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTTP
+- !ruby/struct:Signore::Signature
+  text: Wanna see my new spell?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Something’s wrong with my d20.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Kto nie chce, będzie się z podręcznika ograniczał.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Fizyczną nie jest możliwością żeby każdy w klasie, każdego przepytać.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
