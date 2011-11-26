@@ -28439,3 +28439,86 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '— Dostaliśmy kartkę z oceną postępów szkolnych Joanny. Joanna poległa na
+    zadaniu pt. „Rozpoznaje wybrane audycje radiowe i telewizyjne” (how come).
+
+    — Na razie nauczyłem ją mówić „Szeregowiec Joanna Bieńkowska. Hanka Mostowiak
+    nie żyje.” Zaraz ją obudzę i sprawdzę, czy pamięta.'
+  author: Evva, DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - education
+- !ruby/struct:Signore::Signature
+  text: ! '„„Proszę mi wytłumaczyć dlaczego funkcja działa dokładnie tak jak stoi
+    w dokumentacji, której nie przeczytałam? Dodałam trzecie zgłoszenie w tym temacie
+    ponieważ brzydzę się odpowiadania w wątku. Kompletnie nie rozumiem czemu nie mogę
+    wydrukować widoku, który nie jest do wydruku. Odmawiam też używania znajdującego
+    się obok guzika »Wydruk«.
+
+    Wszystkie e-maile w sprawie mojego kompletnego braku zrozumienia załączę do szefów
+    żeby się Pan bał strasznie.”
+
+    Parafrazując ostatnie dwa dni.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'I find it disheartening that the server should know or care whether this
+    is an AJAX request. #itsjusthttpguys'
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTTP
+  - Ajax
+- !ruby/struct:Signore::Signature
+  text: Podobno scenarzysta „Dnia świstaka” zatrudnił się na tydzień w muzeum, aby
+    złapać ducha narracji.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: Ha! That’s the oldest trick in the book.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Hey, Bill, cast a Detect Invisibility, quick. Bill. Bill? Where’s Bill?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Lecimy nad sobotą i przylatujemy w piątek.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Po upadku Państwa Kościuszkowskiego, kiedy Państwo Kościuszkowskie upadło.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
