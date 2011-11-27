@@ -8529,6 +8529,7 @@ signatures:
   subject: 
   tags:
   - en
+  - tech
   - C
   - programming
 - !ruby/struct:Signore::Signature
@@ -28515,6 +28516,50 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Po upadku Państwa Kościuszkowskiego, kiedy Państwo Kościuszkowskie upadło.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'My new hobby: whenever I encounter a comments block in the code, I append
+    a ‘cool story, bro’ line.'
+  author: Andrzej Krzywda
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: 23… 24… Well, that’s the last of his arrows.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Watch this.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Przestańcie rzucać tymi długopisami, od tego jest przerwa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Straty materialne w ludziach.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
