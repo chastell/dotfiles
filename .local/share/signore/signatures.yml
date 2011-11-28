@@ -28567,3 +28567,69 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: A recruiter sent me an email today written as a Ruby class, but with syntax
+    errors.
+  author: William Morgan
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'Started reading the Wikipedia articles on Thomas the Train to find out
+    the name of engine #8. Fell down a Star Wars-sized rabbit hole.'
+  author: William Morgan
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+  - Wikipedia
+- !ruby/struct:Signore::Signature
+  text: It’s staggering how few photos of ‘minimalist workspaces’ include a person
+    who’s working REALLY fucking hard.
+  author: Merlin Mann
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Well, if I remember correctly, it’s AC 7, 3+1 HD, 1d8 damage. Hmm… [scribble,
+    scribble] I should defeat him around the 4th round and still have about 12.5 hit
+    points left. Ok, let’s rock!
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Ok pal, take your best shot.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Na przykład jest to taka sprawa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Bo jest takie przysłowie, że dobry gospodarz to nawet psa nie kopie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
