@@ -28633,3 +28633,47 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: I have no problem with magic making reindeer fly, but there’s just
+    no reason for magic to make polar bears and penguins live together.'
+  author: James Edward Gray II
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: I’m sure reinforcements will get here on time. They promised.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: So this wand fires a fireball if I point it at something and say ‘Braxat’?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Uczniowie myślą, że jak chodzą w spodniach to są kowbojami, a uczennice chodzą
+    w spódniczkach i dobrze strzelają.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Będę odpytywał z tego, z czego nie zdążę powiedzieć.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
