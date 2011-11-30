@@ -28677,3 +28677,82 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Dear bvcapital.com: I appreciate your interest in Pinboard, but suggest
+    you consider changing your email salutation from ‘Dear XXX’.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’ve never understood why nationalism is more acceptable than racism.
+  author: Michael Feathers
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Writing for a penny a word is ridiculous. If a man really wanted to make a
+    million dollars, the best way to do it would be start his own religion.
+  author: L. Ron Hubbard
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Just realized that I today reverted a month-old commit and deployed to
+    production without even looking at the site. Testing, man: it works.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: I see Facebook has a ‘see friendship’ button under messages. If you need it,
+    you might be doing friendship wrong.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - Facebook
+- !ruby/struct:Signore::Signature
+  text: My character is being careful.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Wait. Let me first look through the keyhole.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Jezuici są w kościele wywiadem i kontrwywiadem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zwierzę domowe niewiadomego pochodzenia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
