@@ -28802,3 +28802,95 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Resisting the urge to write a test runner that raises CoolStoryBro if your
+    test is over eight lines long.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Arguing with an engineer is like wrestling with a pig in mud. After a while,
+    you realise the pig is enjoying it.
+  author: Jamie Lawrence
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Ricardo’s Law: Don’''t bother using git blame. It was you.'
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
+- !ruby/struct:Signore::Signature
+  text: Nokia might strategically realign its product lineup around OS/2, a proven
+    platform with rich opportunities for differentiation.
+  author: Ryan Paul
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Nokia
+  - OS/2
+- !ruby/struct:Signore::Signature
+  text: I love it when Libertarians run into a company violating their privacy. It’s
+    like watching an Asimov robot deal with a logical fallacy.
+  author: Zed Shaw
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+  - work
+- !ruby/struct:Signore::Signature
+  text: Prawie spadłam ze schodów w katedrze medycyny sądowej, a doktor do mnie „pani
+    uważa, i tak już nie wyrabiamy ze zwłokami”.
+  author: annie
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: They’re only squirrels. Come on, let’s go.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: What do you mean, the townspeople are upset that we killed the mayor?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Wstępne badania mówią, że to były przez małolaty podpalenie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wobec tego ja już jestem w domu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
