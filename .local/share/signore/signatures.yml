@@ -28756,3 +28756,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Honestly surprised at the people who insinuate I’m a bad writer because of
+    ‘fuck’. Who are these people, and how are they reading my blog?
+  author: Amy Hoy
+  source: 
+  subject: 
+  tags:
+  - en
+  - censorship
+- !ruby/struct:Signore::Signature
+  text: They are chaotic evil? That’s great, we’re chaotic evil, too. So there will
+    be no problem with alignments.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: ! 'PC: Hi, my name is Hurga the Immortal.
+
+    DM: [smiling] I hope you have an Hurga the Immortal II worked out…'
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Czwórkę ci postawiłem za… że w ogóle nie odpowiedziałeś na żadne pytanie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Chcieli żeby ta młodzież między innymi, żeby przygarnąć.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
