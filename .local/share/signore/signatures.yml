@@ -28938,3 +28938,104 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: May your tests be green and your diffs be red.
+  author: Mark McBride
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Dance like nobody’s watching. Talk like nobody’s listening. Reboot like nobody’s
+    using the production server whose kernel you just replaced.
+  author: Joachim Fenkes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Nasze twitty stukamy na maszynie, idą do sekretariatu, gdzie dyr. zatwierdza
+    pieczątką, następnie sprawę opiniuje radca prawny i już są tu!
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museum
+- !ruby/struct:Signore::Signature
+  text: Jeden z kustoszy zwariował. Krzyczy, że nas wyzabija, jeśli zamiast Toshiby
+    z Win7 nie dostanie z powrotem Łucznika z kolorowym tuszem!
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museum
+- !ruby/struct:Signore::Signature
+  text: Chcieliśmy opublikować dokumenty kompromitujące władze muzealne w Polsce,
+    ale zorientowaliśmy się, że Twitter nie obsługuje mikrofilmów.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museum
+- !ruby/struct:Signore::Signature
+  text: Just discovered git rebase --interactive --autosquash. Holy shit. Will never
+    again need to do any work.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
+- !ruby/struct:Signore::Signature
+  text: ! 'Wysyłanie skrótu do dokumentu w wersji 2.0: dostaliśmy emailem url do cudzego
+    koszyka z zakupami.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Watch this and be envious!
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Take the other end of this rope and we’ll trip the dragon as it runs through
+    the doorway.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Stany Zjednoczone mogą sobie w nosie podłubać.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jest wielkie zdziwienie i okazuje się, że nie jest to wielkie zdziwienie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
