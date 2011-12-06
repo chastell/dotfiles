@@ -27371,9 +27371,9 @@ signatures:
   text: ! '— Poszukuję zleceń do tłumaczeń niemiecko-polsko-niemieckich jako praca
     dodatkowa. Kilku letnie doświadczenie.
 
-    — Mein lieber Scholli! Soweit mir bekannt ist, schreibt Mann (oder Frau) „kilkuletnia”
-    auf polnisch genauso wie eben in „Gänsefußchen” aufgeführt, nicht getrennt wie
-    Du schreibst! Tja professionelle Übersetzung werde im Bezug auf o.a. „kilku letnie”
+    — Mein lieber Scholli! Soweit mir bekannt ist, schreibt Mann (oder Frau) „kilkuletnia“
+    auf polnisch genauso wie eben in „Gänsefußchen“ aufgeführt, nicht getrennt wie
+    Du schreibst! Tja professionelle Übersetzung werde im Bezug auf o.a. „kilku letnie“
     werde ich von Dir nicht machen lassen.'
   author: Marek, casio
   source: pl.regionalne.wroclaw
@@ -29066,6 +29066,90 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Może cię to w rękę parzyć, a w związku z powyższym powinieneś mieć rękawicę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Eats more CPU time than a small CPU-time-eating animal.
+  author: 
+  source: man timidity, BUGS section
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'At some point I’m going to have to tell my mom that her son is now #7 when
+    you google ‘swearing’.'
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Judging by the contents on some of our servers, we should rename /tmp to /wtf.
+  author: Mike Gunderloy
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Carving notes in three languages so that my great great great grandchildren
+    can continue my work once this Puppet run completes.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+  - Puppet
+- !ruby/struct:Signore::Signature
+  text: If I ever meet the idiot who made USB ports *almost* rotationally symmetrical,
+    they should expect to be in a lot of pain.
+  author: Owen Blacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - USB
+- !ruby/struct:Signore::Signature
+  text: ! 'PC1: I guess this goblin came to taunt and lead us into an ambush.
+
+    PC2: Yes, obviously. Hopefully there’ll be more of them there.'
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Well, he’s got the arrow point cocked against my temple, so when he lets go
+    of the drawstring, it should just stay there, right?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Stąd gdzieniektórzy naukowcy biją na alarm.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I to jest pierwszy temat. Drugi temat to jest nie kop go, bo to jest nieładnie,
+    jak dziewczyna kopie, prawda, kopniaka daje w tyłek uczniowi, koledze.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
