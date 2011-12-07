@@ -29157,3 +29157,47 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ulubiony rodzaj klienta. Nie wie jeszcze co, ale na pewno na jutro.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: You know, I’m actually starting to like this character.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Nah. She’s done this to us before. Its just a blue dragon with an illusion
+    of four other heads.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Spadek to znaczy również podczas tego referatu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Moi dawni uczniowie spotykają się ze mną w kawiarni na kawie i wynurzają się
+    ze swoich spraw.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
