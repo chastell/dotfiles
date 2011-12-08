@@ -22440,7 +22440,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Yes, Java is so bulletproofed that to a C programmer it feels like being in
     a straightjacket, but it’s a really comfy and warm straightjacket, and the world
-    would be a safer place if everyone was straightjacketedA most of the time.
+    would be a safer place if everyone was straightjacketed most of the time.
   author: Mark ‘Kamikaze’ Hughes
   source: 
   subject: 
@@ -24363,10 +24363,10 @@ signatures:
   - en
   - USB
 - !ruby/struct:Signore::Signature
-  text: Proszę Proszę państwa, prosimy zapiąć papierosy i zgasić pasy. Za kwadrans
-    podchodzimy do lądowania w Poniedziałku. Pogoda jest i ciśnienie też. Za wspólny
-    lot dziękuje państwu kapitan Weekend i drugi kapitan Kurwa Ale Kac Więcej Nie
-    Piję (stare, szacowne nazwisko).
+  text: Proszę państwa, prosimy zapiąć papierosy i zgasić pasy. Za kwadrans podchodzimy
+    do lądowania w Poniedziałku. Pogoda jest i ciśnienie też. Za wspólny lot dziękuje
+    państwu kapitan Weekend i drugi kapitan Kurwa Ale Kac Więcej Nie Piję (stare,
+    szacowne nazwisko).
   author: opi
   source: 
   subject: 
@@ -29194,6 +29194,80 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Moi dawni uczniowie spotykają się ze mną w kawiarni na kawie i wynurzają się
     ze swoich spraw.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: The patch is on an obscure feature branch. You’ve probably never heard of
+    it.
+  author: Jason Weathered
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Ruby is a very kinky language. It keeps coming back for more no matter what
+    twisted things I do to it.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: My memoir will be called ‘Computers and the morons who program them’.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Dunno why everyone is whining about Facebook again. You guys did not seriously
+    upload your private pics there, did you?
+  author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - Facebook
+  - privacy
+- !ruby/struct:Signore::Signature
+  text: The inscription says ‘Asmodeus was here’. Asmodeus… I haven’t heard that name
+    before. Hey, magic-user, do you know who Asmodeus is?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Gods don’t exist. Here, I’ll show you… Odin is a geek! Odin is a geek! Odin
+    is a geek! See, nothing happened.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Chciałbym się przytoczyć, to znaczy podeprzeć przykładem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zwykle człowiek młody jeździ na łyżwach.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
