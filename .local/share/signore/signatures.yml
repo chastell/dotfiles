@@ -29275,3 +29275,86 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: In 2011, it is estimated that QR codes were used by eight people who do not
+    work in marketing, technology or PR; a 50% rise on 2010.
+  author: made-up stats
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Your code isn’t OO, nor are your APIs RESTful, your specs are slow, your
+    framework/editor/language suck. Give up already. #tryingtobehelpful'
+  author: George Anderson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: You website is probably more RESTful than your API. Think about that today.
+  author: David Larlet
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - REST
+- !ruby/struct:Signore::Signature
+  text: ! 'Little known secret about people from THE FUTURE: They all have carpal
+    tunnel from poking at vertical touch screens all day.'
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Metaprogramming is the gift that keeps on giving. You feel clever when you
+    write it, and somebody else feels clever when they debug it.
+  author: ! '@imccoy'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: It looks exactly like me, except it’s made out of luminious blue energy? It’s
+    an illusion. Watch, I’ll stick my sword thru it!
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Woah, I’m really lucky! A chest, no traps, no locks? You gotta be kidding!
+    I open the chest.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Zdjąć zaćmę z oka czy jakąś tam po prostu tego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nazywali drugi kryptonim, żeby zmylić przeciwnika.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
