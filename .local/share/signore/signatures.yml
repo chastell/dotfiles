@@ -29358,3 +29358,45 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Klient prosi o wykonanie trzech egzekucji.
+  author: 
+  source: Wycięte z mejli
+  subject: 
+  tags:
+  - pl
+  - advertising
+- !ruby/struct:Signore::Signature
+  text: Dwarves can’t be vampires.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: You know, I’m sick of no-one ever turning around to see what’s chasing them.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Broń biologiczna nie ma zamiaru uśmiercać.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Proszę rozbandażować sobie po prostu tą rękę i nie rżnąć głupa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
