@@ -18356,7 +18356,7 @@ signatures:
   - programming
   - C
 - !ruby/struct:Signore::Signature
-  text: \C gives you enough rope to hang yourself. C++ also gives you the tree object
+  text: C gives you enough rope to hang yourself. C++ also gives you the tree object
     to tie it to.
   author: 
   source: 
@@ -29393,6 +29393,66 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Proszę rozbandażować sobie po prostu tą rękę i nie rżnąć głupa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Są tacy goście, dla których świat jest milionem małych stópek wymierzonych
+    w ich gargantuiczną dupę.
+  author: kya
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Zawstydzam konia po westernie i to już w poniedziałek.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Zaskakujący fakt: gry robię wycenę leżąc na łóżku w nowych butach, idzie
+    mi ciut łatwiej.'
+  author: Ameba
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: I always enjoy killing these things because they’re the GM’s favourite monster.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Let’s get the old mage’s body down from the cross and give him a decent burial.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: ! '— Jakie leki należy podawać, żeby zapobiec krwotokowi wewnętrznemu?
+
+    — Więc, między innymi trzeba dać leki odpowiednie do tego.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Myśli się tak jak nam wczoraj zapowiedziano.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
