@@ -29460,3 +29460,54 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Homophobia: the fear that gay men will treat you the way you treat women.'
+  author: Coyote Too
+  source: 
+  subject: 
+  tags:
+  - en
+  - homophobia
+- !ruby/struct:Signore::Signature
+  text: Rodzice porzucili go w serwerowni i wychowały go patch panele.
+  author: stivi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: You won’t get a second blow, so you better make your first one count, jackass!
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: I use Basic Electronics to try and stabilize the shield generator.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Narzędzia na schowki…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rurociąg miał miejsce i dwieście tysięcy litrów wyciekło.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
