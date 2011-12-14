@@ -29545,3 +29545,46 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I try to be open minded, but when people say homosexuality is a disease, all
+    I can think is ‘people like you drove Turing to suicide’.
+  author: Zach Weiner
+  source: 
+  subject: 
+  tags:
+  - en
+  - homosexuality
+- !ruby/struct:Signore::Signature
+  text: A priest of the Halfling Demi-god of Death, is this guy for real?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Free talismans? Sure, I’ll have two.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Ja krótko przelecę, jeśli chodzi o trzęsienie ziemi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli chodzi o śmiech, to śmiech to zdrowie… jak tego, to rąbnij jakimś kawałem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
