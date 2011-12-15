@@ -29588,3 +29588,55 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: My problem with podcasts is no matter how loud I yell they can’t hear me.
+  author: Nick Gauthier
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: For fuck sakes. Do I call you a briefcase ninja? How about you show
+    my profession some fucking respect?'
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Ain’t this great! I lose an arm and this Vecana guy leaves a magic one for
+    me.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Just watch and wonder how I manage to ride this horse.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: …to, co poruszaliście w zeszłym roku, czyli armię zawodową…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Doznałem urazu mechanicznego, pękła mi wątroba, ale nie jestem ranny.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
