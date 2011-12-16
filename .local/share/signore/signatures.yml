@@ -29640,3 +29640,57 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Pani z mBanku powiedziała, że wysłuchanie tej informacji do niczego nie zobowiązuje
+    i że może w innym terminie znalazłbym na to czas. Powiedziałem, że nigdy w życiu
+    nie będę miał czasu na wysłuchanie tej informacji – i oboje wiedzieliśmy, że mówię
+    zajebiście serio.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - mBank
+  - spam
+- !ruby/struct:Signore::Signature
+  text: Zostaw wszystko i chodź pocałkować.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - math
+- !ruby/struct:Signore::Signature
+  text: Ha. Now your life is in my hands, evil witch.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Now on to the reward you promised.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Była to taka, powiedziałbym, anarchia, bezprawie na morzu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I na zakończenie chciałem skwitować tylko jednym takim zdaniem…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
