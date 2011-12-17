@@ -29694,3 +29694,68 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ‘Resource temporarily unavailable’ is not an error I want to see coming out
+    of the test suite.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: If you’ve never written tests or been on a project saved by good tests, it’s
+    hard not to view it as busy work. In short, you’re wrong.
+  author: Marco Rogers
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: ! 'GM: Something small and roundish clinks down the stairs.
+
+    PC1: Grenade! I catch it.
+
+    PC2: I catch it.
+
+    PC3: I catch it.'
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: I throw my nuclear hand grenade into the next room.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Gdy przekracza wytrzymałości, jest chrup i nie ma kości.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '— Kiedy następuje złamanie?
+
+    — Złamanie następuje wtedy, kiedy otwieramy damie drzwi do samochodu, dama wsiada,
+    jeszcze nie zdążyła wziąć ręki, a my bum…'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
