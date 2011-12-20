@@ -29887,3 +29887,48 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: To be honest the first half of this palindrome is much better than naht retteb
+    hcum si emordnilap siht fo flah tsrif eht tsenoh eb ot.
+  author: Simon Blackwell
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+  - palindromes
+- !ruby/struct:Signore::Signature
+  text: Basilisks have to bite you to turn you to stone, stupid!
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Hah, both of us know that you cannot shoot me right here in the park in front
+    of all those people.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Broń chemiczna poszukuje organizmy żywe i zabija.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: …ma hopla na właśnie ten temat.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
