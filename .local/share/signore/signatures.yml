@@ -29839,3 +29839,51 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '— Wróciłem i nie jestem bardzo pijany.
+
+    — 25+8*68^4?
+
+    — 171051033.
+
+    — Dobrze.'
+  author: freeqstyler, thantor
+  source: 
+  subject: 
+  tags:
+  - pl
+  - math
+- !ruby/struct:Signore::Signature
+  text: Don’t be silly, ‘evenresh’ does not mean beware, it means ‘welcome’!
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: A little old lady armed with a frying pan? Easy!
+  author: 
+  source: famous last RPG words in the Discworld MUD
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Ja chciałem dla przykładu stąd wziąć pieniądze na ochronę środowiska.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Później na przykład już my wchodzimy na dzisiejszej lekcji w zatrucia przemysłowe.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
