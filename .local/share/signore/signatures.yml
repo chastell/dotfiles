@@ -29932,3 +29932,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: The ThinkPad 701c was the top-selling notebook PC of 1995, and the [Butterfly
+    keyboard] design was so innovative that it won 27 awards. Watching the keyboard
+    fold and unfold itself again and again created a sense of childlike glee that
+    most adults find hard to replicate without drugs.
+  author: Carol Pinchefsky
+  source: 7 Awesome Bits of Tech That Just Freakin’ Disappeared
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Just leave everything to me.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: I lock myself in the bank vault so when the villain comes to steal I’ll be
+    there to catch him.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Jeszcze jedną udzielam odpowiedzi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mignęliśmy przez ten temat.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
