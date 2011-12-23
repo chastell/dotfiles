@@ -29978,3 +29978,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Once plants and animals were raised together on the same farm – which therefore
+    neither produced unmanageable surpluses of manure, to be wasted and to pollute
+    the water supply, nor depended on such quantities of commercial fertilizer. The
+    genius of American farm experts is very well demonstrated here: they can take
+    a solution and divide it neatly into two problems.'
+  author: Wendell Berry
+  source: 
+  subject: 
+  tags:
+  - en
+  - farming
+- !ruby/struct:Signore::Signature
+  text: Hey… It’s only a little old man holding a pair of chopsticks.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: What are you going to drink? Blood?
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Kobieta żyje dopóki nie umrze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wprowadzono gazy izotropowe. Na czym one polegają?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
