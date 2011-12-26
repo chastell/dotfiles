@@ -5,7 +5,6 @@ set runtimepath+=$HOME/coding/vundle
 call vundle#rc()
 
 Bundle 'AutoTag'
-Bundle 'LaTeX-Box'
 Bundle 'LustyExplorer'
 Bundle 'Markdown'
 Bundle 'Parameter-Text-Objects'
@@ -57,10 +56,8 @@ let NERDTreeQuitOnOpen = 1
 let g:ctrlp_working_path_mode = 0
 let g:rubytest_cmd_example = "ruby %p -n '/%c/'"
 let g:rubytest_cmd_spec = "ruby %p"
-let g:rubytest_cmd_test = "testdrb %p"
-let g:rubytest_cmd_testcase = "testdrb %p -n '/%c/'"
 let g:tagbar_autoclose = 1
-set clipboard+=unnamed
+set clipboard=unnamedplus
 set directory=/tmp//
 set hidden
 set history=1000
