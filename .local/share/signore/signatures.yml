@@ -30096,3 +30096,57 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Klient odesłał tłumaczenie z reklamacją. Znalazł następujące błędy:
+
+    John is referred to as John, Johna, and Johnowi
+
+    Mark is referred to as Mark and Marka
+
+    Idę sobie znaleźć jakiś względnie miękki kawałek ściany do walenia głową w.'
+  author: Evva
+  source: 
+  subject: 
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: What is Ly-can-thro-py? Well, nothing a couple of days in bed won’t cure.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: ! 'PC1: May I borrow your gun?
+
+    PC2: Why?
+
+    PC1: [ironically] To commit suicide.
+
+    PC2: [shoots PC1]'
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Teraz jeśli przechodzimy do referatów to ja powiem kogo jeszcze będę pytał.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nikt nie mógł tam walczyć, oczy łzawiły, z nosa kapało…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
