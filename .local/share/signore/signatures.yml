@@ -30222,3 +30222,70 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Max Born passed the oral exam in astronomy, even though he answered the question
+    ‘What do you do when you see a falling star?’ with ‘I make a wish!’ and only after
+    Schwarzschild’s further inquiry remembered to add ‘I note down the time and location,
+    the direction and the length of the visible trace’.
+  author: Sabine Hossenfelder
+  source: Backreaction
+  subject: 
+  tags:
+  - en
+  - science
+  - astronomy
+- !ruby/struct:Signore::Signature
+  text: Yo dog, I heard you like bugs, so we put a bug in your debugger, so that while
+    you debug your bug, you experience another bug.
+  author: Aman Gupta
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - debugging
+- !ruby/struct:Signore::Signature
+  text: pv -q -L10 -B1 <<<"It was a dark and stormy night. My fingers struck the keys
+    like rain hitting the pavement."
+  author: Command Line Magic
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - CLI
+- !ruby/struct:Signore::Signature
+  text: I look where the first bullet came from.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Don’t worry, Jack, I can fix a light bulb.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Teraz przechowujemy młodzie… żywność.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Gdybym na dziedzińcu szkoły poderwał jedną kilotonę…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
