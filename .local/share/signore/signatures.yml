@@ -30289,3 +30289,60 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'C++: the plus signs are actually arrows. They only look like plusses because
+    they’re POINTED DIRECTLY AT YOUR EYEBALLS.'
+  author: zooko
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: ‘We tried Postgres but it sucked, so we’re switching back to MySQL’ – no one,
+    ever.
+  author: Paul Barry
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - databases
+  - MySQL
+  - PostgreSQL
+- !ruby/struct:Signore::Signature
+  text: You can’t kill me after all what I’ve done for you.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Our GM is harsh but fair.
+  author: 
+  source: famous last RPG words
+  subject: 
+  tags:
+  - en
+  - RPG
+- !ruby/struct:Signore::Signature
+  text: Wymień główne żywności i wody przed zakażeniem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To kosztuje pieniądze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
