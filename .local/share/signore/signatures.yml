@@ -30346,3 +30346,89 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Wandering in a vast forest at night, I have only a faint light to guide
+    me. A stranger appears and says to me: ‘My friend, you should blow out your candle
+    in order to find your way more clearly.’ The stranger is a theologian.'
+  author: Denis Diderot
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
+  - religion
+  - theology
+- !ruby/struct:Signore::Signature
+  text: If you watch the software industry backwards, it starts with kids flailing;
+    ends with old guys solving impossible problems by thinking hard.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Old guys with beards don’t know shit. Pass the MongoDB; ima get wasted and
+    submit a nodejs patch.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Started freestyle rapping while driving home. Paired ‘distributed version
+    control’ with ‘git pull, partition full’. Still single.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT WASTE CHALK
+
+    I WILL NOT WASTE CHALK
+
+    I WILL NOT WASTE CHALK
+
+    I WILL NOT WASTE CHALK'
+  author: Bart Simpson
+  source: Simpsons 7G02
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT INSTIGATE REVOLUTION
+
+    I WILL NOT INSTIGATE REVOLUTION
+
+    I WILL NOT INSTIGATE REVOLUTION
+
+    I WILL NOT INSTIGATE REVOLUTION'
+  author: Bart Simpson
+  source: Simpsons 7G06
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Trzynaście regionów zagrożone tam, gdzie nikt nie powinien mieszkać.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dziesiątki hektarów ogień pożarł las.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
