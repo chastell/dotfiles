@@ -30432,3 +30432,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'THEY ARE LAUGHING AT ME, NOT WITH ME
+
+    THEY ARE LAUGHING AT ME, NOT WITH ME
+
+    THEY ARE LAUGHING AT ME, NOT WITH ME
+
+    THEY ARE LAUGHING AT ME, NOT WITH ME'
+  author: Bart Simpson
+  source: Simpsons 7G12
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT ENCOURAGE OTHERS TO FLY
+
+    I WILL NOT ENCOURAGE OTHERS TO FLY
+
+    I WILL NOT ENCOURAGE OTHERS TO FLY
+
+    I WILL NOT ENCOURAGE OTHERS TO FLY'
+  author: Bart Simpson
+  source: Simpsons 7F03
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Jak kto woli ekologicznych.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Siadają po prostu za samochody w stanie nietrzeźwym.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
