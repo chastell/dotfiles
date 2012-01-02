@@ -30478,3 +30478,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT FAKE MY WAY THROUGH LIFE
+
+    I WILL NOT FAKE MY WAY THROUGH LIFE
+
+    I WILL NOT FAKE MY WAY THROUGH LIFE
+
+    I WILL NOT FAKE MY WAY THROUGH LIFE'
+  author: Bart Simpson
+  source: Simpsons 7F03
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT CUT CORNERS
+
+    "  "    "   "   "   "
+
+    "  "    "   "   "   "
+
+    "  "    "   "   "   "'
+  author: Bart Simpson
+  source: Simpsons 7F11
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Ja nie rozumiem, co to znaczy, że to jest niezrozumiałe.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wyjmuj mama piękne truskawki takie jak na obrazku.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
