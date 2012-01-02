@@ -86,6 +86,7 @@ nnoremap <leader>r  :w<enter>:!rake<enter>
 nnoremap <space>    :
 nnoremap j          gj
 nnoremap k          gk
+nnoremap Y          Vy
 
 " filetypes
 autocmd BufRead,BufNewFile *.install         set filetype=php
