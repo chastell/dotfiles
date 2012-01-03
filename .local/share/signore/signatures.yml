@@ -9126,16 +9126,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: At this point, anyone proposing to run Windows on servers should be prepared
-    to explain what they know about servers that Google, Yahoo, and Amazon don’t.
-  author: Paul Graham
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Windows
-- !ruby/struct:Signore::Signature
   text: Pieczone przez cztery godziny pierniki dżeopardyzują moję dietę.
   author: kodz
   source: 
@@ -15367,16 +15357,6 @@ signatures:
   subject: 
   tags:
   - en
-- !ruby/struct:Signore::Signature
-  text: Drupal on IRC is like a group jerk, and I’m like, ‘dudes, get the code out,
-    you can always fix it later…’
-  author: overheard somewhere
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Drupal
 - !ruby/struct:Signore::Signature
   text: perl -Mre=debug -e "/just|another|perl|hacker/"
   author: 
@@ -30517,6 +30497,52 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Wyjmuj mama piękne truskawki takie jak na obrazku.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT GET VERY FAR WITH THIS ATTITUDE
+
+    I WILL NOT GET VERY FAR WITH THIS ATTITUDE
+
+    I WILL NOT GET VERY FAR WITH THIS ATTITUDE
+
+    I WILL NOT GET VERY FAR WITH THIS ATTITUDE'
+  author: Bart Simpson
+  source: Simpsons 7F12
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT BELCH THE NATIONAL ANTHEM
+
+    I WILL NOT BELCH THE NATIONAL ANTHEM
+
+    I WILL NOT BELCH THE NATIONAL ANTHEM
+
+    I WILL NOT BELCH THE NATIONAL ANTHEM'
+  author: Bart Simpson
+  source: Simpsons 7F15
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Ja ostatni rok pracuję i już wychodzę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Miałem możliwość naocznie zobaczyć jak to wszystko wygląda.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
