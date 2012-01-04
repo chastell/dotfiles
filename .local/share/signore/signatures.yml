@@ -30550,3 +30550,60 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: A good programmer is someone who looks both ways before crossing a one-way
+    street.
+  author: Doug Linder
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT DO ANYTHING BAD EVER AGAIN
+
+    I WILL NOT DO ANYTHING BAD EVER AGAIN
+
+    I WILL NOT DO ANYTHING BAD EVER AGAIN
+
+    I WILL NOT DO ANYTHING BAD EVER AGAIN'
+  author: Bart Simpson
+  source: Simpsons 7F20
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT BRIBE PRINCIPAL SKINNER
+
+    I WILL NOT BRIBE PRINCIPAL SKINNER
+
+    I WILL NOT BRIBE PRINCIPAL SKINNER
+
+    I WILL NOT BRIBE PRINCIPAL SKINNER'
+  author: Bart Simpson
+  source: Simpsons 8F03
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Jeśli ktoś tam sobie kupi, to kosztuje pięć tysięcy, chłopcy tam z tyłu, z
+    tego!
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na takich hasłach leciał Bush.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
