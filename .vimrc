@@ -45,12 +45,14 @@ colorscheme torte
 let loaded_matchparen = 1
 set guifont=Ubuntu\ Mono\ 11 guioptions-=m guioptions-=T
 set lazyredraw
-set list listchars=extends:→,precedes:←,nbsp:_,tab:»\ ,trail:·
+set list listchars=extends:»,precedes:«,nbsp:_,tab:→\ ,trail:·
+set nowrap
 set scrolloff=7 sidescroll=1 sidescrolloff=10
 set showcmd
 set t_Co=256
 
 " tab-completion
+set completeopt=menu,longest
 set wildmode=list:longest
 
 " misc
