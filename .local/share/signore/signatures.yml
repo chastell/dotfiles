@@ -30659,3 +30659,80 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: It is a truism that almost any sect, cult, or religion will legislate its
+    creed into law if it acquires the political power to do so.
+  author: Robert A. Heinlein
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '‘Complaining about Ruby’s open classes sounds a lot like Canadians being
+    afraid of being shot when they visit the US. It’s not that bad.’
+
+    ‘…until you get shot.’'
+  author: Joshua Hull, Jake Donham
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Remember the curmudgeons in your org care deeply. When they quit you have
+    lost balance & are left with self congratulatory cheerleaders.
+  author: Abdur Chowdhury
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT CARVE GODS
+
+    I WILL NOT CARVE GODS
+
+    I WILL NOT CARVE GODS
+
+    I WILL NOT CARVE GODS'
+  author: Bart Simpson
+  source: Simpsons 8F11
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT EXPOSE THE IGNORANCE OF THE FACULTY
+
+    I WILL NOT EXPOSE THE IGNORANCE OF THE FACULTY
+
+    I WILL NOT EXPOSE THE IGNORANCE OF THE FACULTY
+
+    I WILL NOT EXPOSE THE IGNORANCE OF THE FACULTY'
+  author: Bart Simpson
+  source: Simpsons 8F15
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Jeśli zakażenie nie odbywa się drogą płciową, to może być za pomocą przedmiotów.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na tym byśmy było, co program wyczerpali.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
