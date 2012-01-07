@@ -30736,3 +30736,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I SAW NOTHING UNUSUAL IN THE TEACHER’S LOUNGE
+
+    I SAW NOTHING UNUSUAL IN THE TEACHER’S LOUNGE
+
+    I SAW NOTHING UNUSUAL IN THE TEACHER’S LOUNGE
+
+    I SAW NOTHING UNUSUAL IN THE TEACHER’S LOUNGE'
+  author: Bart Simpson
+  source: Simpsons 8F17
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT CONDUCT MY OWN FIRE DRILLS
+
+    I WILL NOT CONDUCT MY OWN FIRE DRILLS
+
+    I WILL NOT CONDUCT MY OWN FIRE DRILLS
+
+    I WILL NOT CONDUCT MY OWN FIRE DRILLS'
+  author: Bart Simpson
+  source: Simpsons 8F19
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Na przerwie wszystkie sprawy związane ze sprawami, także prawda.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zniszczenie ileś tam tysięcy ofiar.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
