@@ -30782,3 +30782,105 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: You can tell Monopoly is an old game because there’s a luxury tax and rich
+    people can go to jail.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If you are looking at yours old code and like it, it means you aren’t making
+    progress.
+  author: Aleksander Dąbrowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If deploying after the first 10% of your project is done wouldn’t teach you
+    anything, you worked on the wrong 10%.
+  author: Kent Beck
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: The person who adds the most code to your code base is often the least valuable.
+    Look for the person who deletes the most code.
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I think programming riddles, games, and brain teasers are a great way to hire.
+    First one to say ‘fuck this!’ and walk out gets the job.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Osiągnąłem 80 level studenta: kanar wydał mi resztę z łapówki.'
+  author: lejk
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'THIS PUNISHMENT IS NOT BORING AND POINTLESS
+
+    THIS PUNISHMENT IS NOT BORING AND POINTLESS
+
+    THIS PUNISHMENT IS NOT BORING AND POINTLESS
+
+    THIS PUNISHMENT IS NOT BORING AND POINTLESS'
+  author: Bart Simpson
+  source: Simpsons 8F24
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT DEFAME NEW ORLEANS
+
+    I WILL NOT DEFAME NEW ORLEANS
+
+    I WILL NOT DEFAME NEW ORLEANS
+
+    I WILL NOT DEFAME NEW ORLEANS'
+  author: Bart Simpson
+  source: Simpsons 9F01
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Jeśli chodzi o moją opinię tego pisma…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dzierżymorstwo.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
