@@ -30884,3 +30884,68 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Cain, Perry, Bachmann all claimed God told them to run for President, and
+    all are out of the race. God is hilarious.
+  author: Kelly Oxford
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Kto normalny kurwa zabija człowieka robiącego wino z wody? Jakbyś spotkał
+    takiego zabiłbyś go? To jest bzdura i mistyfikacja!
+  author: djmentos
+  source: 
+  subject: 
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL TRY TO RAISE A BETTER CHILD
+
+    I WILL TRY TO RAISE A BETTER CHILD
+
+    I WILL TRY TO RAISE A BETTER CHILD
+
+    I WILL TRY TO RAISE A BETTER CHILD'
+  author: Marge Simpson
+  source: in episode 9F03
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT TEACH OTHERS TO FLY
+
+    I WILL NOT TEACH OTHERS TO FLY
+
+    I WILL NOT TEACH OTHERS TO FLY
+
+    I WILL NOT TEACH OTHERS TO FLY'
+  author: Bart Simpson
+  source: Simpsons 9F05
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Internistów jest jeden, dwa, a chirurgów jeden.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wszystkie znaki na niebie i na ziemi wskazują, że będziesz miał piątkę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
