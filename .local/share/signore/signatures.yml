@@ -30949,3 +30949,45 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I DO NOT HAVE DIPLOMATIC IMMUNITY
+
+    I DO NOT HAVE DIPLOMATIC IMMUNITY
+
+    I DO NOT HAVE DIPLOMATIC IMMUNITY
+
+    I DO NOT HAVE DIPLOMATIC IMMUNITY'
+  author: Bart Simpson
+  source: Simpsons 9F20
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ALL WORK AND NO PLAY MAKES BART A DULL BOY ALL WORK AND NO PLAY MAKES BART
+    A DULL BOY ALL WORK AND NO PLAY MAKES BART A DULL BOY ALL WORK AND NO PLAY MAKES
+    BART A DULL BOY ALL WORK AND NO PLAY
+  author: Bart Simpson
+  source: Simpsons 1F07
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Daliby wam do spróbowania jak się przechowuje chleb w puszkach.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mogą być zabici i wyparowani.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
