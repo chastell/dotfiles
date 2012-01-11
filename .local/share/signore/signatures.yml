@@ -30991,3 +30991,59 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Napisałem koledze tak zajebisty list motywacyjny, że zastanawiam się nad wpisaniem
+    tam jednak swojego nazwiska.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'ORGAN TRANSPLANTS ARE BEST LEFT TO THE PROFESSIONALS
+
+    ORGAN TRANSPLANTS ARE BEST LEFT TO THE PROFESSIONALS
+
+    ORGAN TRANSPLANTS ARE BEST LEFT TO THE PROFESSIONALS
+
+    ORGAN TRANSPLANTS ARE BEST LEFT TO THE PROFESSIONALS'
+  author: Bart Simpson
+  source: Simpsons 1F15
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'THE PLEDGE OF ALLEGIANCE DOES NOT END WITH HAIL SATAN
+
+    THE PLEDGE OF ALLEGIANCE DOES NOT END WITH HAIL SATAN
+
+    THE PLEDGE OF ALLEGIANCE DOES NOT END WITH HAIL SATAN
+
+    THE PLEDGE OF ALLEGIANCE DOES NOT END WITH HAIL SATAN'
+  author: Bart Simpson
+  source: Simpsons 1F16
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Ja mówię po to, że jeśli na przykład będziesz stroną napastliwą i rząd cię
+    wyśle i tego to żebyś wiedział jak się zachować wobec kobiety.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na tym przykładzie niedawnym, bo żywym…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
