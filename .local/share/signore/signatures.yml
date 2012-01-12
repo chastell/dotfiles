@@ -4396,7 +4396,7 @@ signatures:
   text: ! 'When you enjoy something, you must never let logic get too much in the
     way. Like the villains in all the James Bond movies. Whenever Bond breaks into
     the complex: ‘Ah, Mr Bond, welcome, come in. Let me show you my entire evil plan
-    and then put you in a death machine that doesn’t work’.'
+    and then put you in a death machine that doesn’t work.’'
   author: Jerry Seinfeld
   source: 
   subject: 
@@ -31040,6 +31040,71 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Na tym przykładzie niedawnym, bo żywym…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Are you willing to participate in a survey that studies self-selection bias?
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - statistics
+- !ruby/struct:Signore::Signature
+  text: Testing an object that depends on 14 database tables. If I had a time machine
+    I’d go back and punch the original developer in my face.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT CELEBRATE MEANINGLESS MILESTONES
+
+    I WILL NOT CELEBRATE MEANINGLESS MILESTONES
+
+    I WILL NOT CELEBRATE MEANINGLESS MILESTONES
+
+    I WILL NOT CELEBRATE MEANINGLESS MILESTONES'
+  author: Bart Simpson
+  source: Simpsons 1F18
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'THERE ARE PLENTY OF BUSINESSES LIKE SHOW BUSINESS
+
+    THERE ARE PLENTY OF BUSINESSES LIKE SHOW BUSINESS
+
+    THERE ARE PLENTY OF BUSINESSES LIKE SHOW BUSINESS
+
+    THERE ARE PLENTY OF BUSINESSES LIKE SHOW BUSINESS'
+  author: Bart Simpson
+  source: Simpsons 1F19
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Ja chciałem powiedzieć tak.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Środowisko wodne, środowisko podwórkowe, środowisko klasowe…
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
