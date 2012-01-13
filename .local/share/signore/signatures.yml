@@ -31112,3 +31112,179 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: It’s a good thing I don’t have a blog, because I’ve been wrong about a lot
+    of things over the years.
+  author: Matt Ranney
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Coding in an IDE that warns as you type is like telling a story to a child.
+    ‘So, this dog was—’ ‘What’s his name?’ ‘I’LL GET TO THAT!’
+  author: Matt Comi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Giving up coffee for a few days. If you don’t hear back, avenge my death.
+  author: Brian McFee
+  source: 
+  subject: 
+  tags:
+  - en
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: ! 'BREAKING: Random blogger discovers the reason why Linux will not succeed.
+    Generously describes the discovery even though nobody asked.'
+  author: FOSS News Channel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Remember how as kids we learned that giving in to hate would make us powerful
+    to strike down our enemies and rule the galaxy? So not true.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: ! 'BREAKING: User publishes 10-paragraph essay to explain why he has no time
+    to report a bug.'
+  author: FOSS News Channel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'The voice of the public is clear: in our recent Identi.ca poll, nobody
+    answered YES to ‘do you support proprietary services like Twitter?’.
+
+    Nobody answered NO either, but we are confident this is just an Identi.ca bug
+    that will be fixed thanks to the source being open.'
+  author: FOSS News Channel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - FLOSS
+  - Identi.ca
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: I haven’t met many people who program for a living who call it ‘ICT’.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Biorąc pod uwagę wszystkie okoliczności rozważamy utworzenie całkiem nowego,
+    odlotowego Muzeum Zimy. W środku rzecz jasna same obrazy olejne.
+
+    Ponieważ obrazy olejne to podstawowa forma komunikacji z młodzieżą szkolną w polskim
+    muzealnictwie. Jedna wizyta wystarczy im na całe życie.'
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: Remember when we made those New Year’s resolutions? Haha, we were so young
+    and idealistic back then.
+  author: Matthew Baldwin
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'How many lines of Java would it take to do this?
+
+    obj.class.superclass.public_instance_methods(false).sort'
+  author: fogus
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Java
+- !ruby/struct:Signore::Signature
+  text: ‘To run [INSERT JAVA LIB HERE] you need an XML configuration file.’
+  author: Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Did they fix that thing in Xcode yet where you have to program in Objective-C?'
+  author: Jon Yurek
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Xcode
+  - Objective-C
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT DISSECT THINGS UNLESS INSTRUCTED
+
+    I WILL NOT DISSECT THINGS UNLESS INSTRUCTED
+
+    I WILL NOT DISSECT THINGS UNLESS INSTRUCTED
+
+    I WILL NOT DISSECT THINGS UNLESS INSTRUCTED'
+  author: Bart Simpson
+  source: Simpsons 2F05
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'ADDING ‘JUST KIDDING’ DOESN’T MAKE IT OKAY TO INSULT THE PRINCIPAL
+
+    ADDING ‘JUST KIDDING’ DOESN’T MAKE IT OKAY TO INSULT THE PRINCIPAL
+
+    ADDING ‘JUST KIDDING’ DOESN’T MAKE IT OKAY TO INSULT THE PRINCIPAL
+
+    ADDING ‘JUST KIDDING’ DOESN’T MAKE IT OKAY TO INSULT THE PRINCIPAL'
+  author: Bart Simpson
+  source: Simpsons 2F09
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Mi godziny zastępcze nie imponują.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Masz tydzień czasu na nieprzygotowanie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
