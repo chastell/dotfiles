@@ -31288,3 +31288,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'CURSIVE WRITING DOES NOT MEAN WHAT I THINK IT DOES
+
+    CURSIVE WRITING DOES NOT MEAN WHAT I THINK IT DOES
+
+    CURSIVE WRITING DOES NOT MEAN WHAT I THINK IT DOES
+
+    CURSIVE WRITING DOES NOT MEAN WHAT I THINK IT DOES'
+  author: Bart Simpson
+  source: Simpsons 2F11
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'NEXT TIME IT COULD BE ME ON THE SCAFFOLDING
+
+    NEXT TIME IT COULD BE ME ON THE SCAFFOLDING
+
+    NEXT TIME IT COULD BE ME ON THE SCAFFOLDING
+
+    NEXT TIME IT COULD BE ME ON THE SCAFFOLDING'
+  author: Bart Simpson
+  source: Simpsons 2F12
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Nie żebym ja sobie kupił jakiś japoński samochód, dajmy na to mercedesa…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Stan ekologiczny.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
