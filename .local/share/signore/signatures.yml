@@ -31334,3 +31334,57 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: I’m not debating that, but as a nerd I’m required by law to use more
+    complicated solutions if they are cooler.'
+  author: Matt Wilson
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL REMEMBER TO TAKE MY MEDICATION
+
+    I WILL REMEMBER TO TAKE MY MEDICATION
+
+    I WILL REMEMBER TO TAKE MY MEDICATION
+
+    I WILL REMEMBER TO TAKE MY MEDICATION'
+  author: Bart Simpson
+  source: Simpsons 2F14
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'THE GOOD HUMOR MAN CAN ONLY BE PUSHED SO FAR
+
+    THE GOOD HUMOR MAN CAN ONLY BE PUSHED SO FAR
+
+    THE GOOD HUMOR MAN CAN ONLY BE PUSHED SO FAR
+
+    THE GOOD HUMOR MAN CAN ONLY BE PUSHED SO FAR'
+  author: Bart Simpson
+  source: Simpsons 2F18
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Gdzieniektórzy podchodzą z takimi pewnymi…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Co między innymi po prostu tam by się stało?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
