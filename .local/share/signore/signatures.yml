@@ -31388,3 +31388,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS
+
+    I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS
+
+    I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS
+
+    I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS'
+  author: Bart Simpson
+  source: Simpsons 2F19
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'NERVE GAS IS NOT A TOY
+
+    NERVE GAS IS NOT A TOY
+
+    NERVE GAS IS NOT A TOY
+
+    NERVE GAS IS NOT A TOY'
+  author: Bart Simpson
+  source: Simpsons 2F32
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Trzydzieści siedem, trzydzieści sześć, trzydzieści osiem…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Trzeba na przykład przygotować obiekt do szpitala.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
