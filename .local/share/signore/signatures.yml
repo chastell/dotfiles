@@ -31434,3 +31434,65 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Same słabe gadżety kupuję, dzisiaj drabina.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: I prayed for freedom for twenty years, but received no answer until I prayed
+    with my legs.
+  author: Frederick Douglass
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT MOCK MRS. DUMBFACE
+
+    I WILL NOT MOCK MRS. DUMBFACE
+
+    I WILL NOT MOCK MRS. DUMBFACE
+
+    I WILL NOT MOCK MRS. DUMBFACE'
+  author: Bart Simpson
+  source: Simpsons 2F21
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I DID NOT LEARN EVERYTHING I NEED TO KNOW IN KINDERGARTEN
+
+    I DID NOT LEARN EVERYTHING I NEED TO KNOW IN KINDERGARTEN
+
+    I DID NOT LEARN EVERYTHING I NEED TO KNOW IN KINDERGARTEN
+
+    I DID NOT LEARN EVERYTHING I NEED TO KNOW IN KINDERGARTEN'
+  author: Bart Simpson
+  source: Simpsons 3F23
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Zarazy padają na hodowców.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ta taśma leci i leci nadaje.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
