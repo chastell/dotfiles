@@ -31496,3 +31496,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I AM NOT MY LONG-LOST TWIN
+
+    I AM NOT MY LONG-LOST TWIN
+
+    I AM NOT MY LONG-LOST TWIN
+
+    I AM NOT MY LONG-LOST TWIN'
+  author: Bart Simpson
+  source: Simpsons 4F03
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT HIDE THE TEACHER’S PROZAC
+
+    I WILL NOT HIDE THE TEACHER’S PROZAC
+
+    I WILL NOT HIDE THE TEACHER’S PROZAC
+
+    I WILL NOT HIDE THE TEACHER’S PROZAC'
+  author: Bart Simpson
+  source: Simpsons 3G03
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Duże wady przy odbiorze płodu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wtłoczenie do programu problematyki ekologicznej jest trafione.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
