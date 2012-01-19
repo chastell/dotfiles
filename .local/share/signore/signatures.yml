@@ -16559,10 +16559,10 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: ! '‘Incidentally keeping things as simple as possible often helps with the
     robustness as well: the lesser nuts and bolts there are less things can break
-    and usually the lower the likeliness of things to break. :-)’
+    and usually the lower the likeliness of things to break.’
 
     ‘Not to mention: the fastest code is the code that never gets executed, and it’s
-    easier to test code that doesn’t has to be written, too. ;)’'
+    easier to test code that doesn’t has to be written, too.’'
   author: Robert Klemme, Phillip Gawlowski
   source: ruby-talk
   subject: 
@@ -31535,6 +31535,52 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Wtłoczenie do programu problematyki ekologicznej jest trafione.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'A FIRE DRILL DOES NOT DEMAND A FIRE
+
+    A FIRE DRILL DOES NOT DEMAND A FIRE
+
+    A FIRE DRILL DOES NOT DEMAND A FIRE
+
+    A FIRE DRILL DOES NOT DEMAND A FIRE'
+  author: Bart Simpson
+  source: Simpsons 4F16
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I NO LONGER WANT MY MTV
+
+    I NO LONGER WANT MY MTV
+
+    I NO LONGER WANT MY MTV
+
+    I NO LONGER WANT MY MTV'
+  author: Bart Simpson
+  source: Simpsons 3G02
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Takie urządzenia są wyposażone w elektrownie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kwaśne mleko na ciele wysycha i śmierdzi jak cap – nieprzyjemnie dla otoczenia.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
