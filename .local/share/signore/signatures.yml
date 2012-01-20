@@ -31588,3 +31588,161 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: In a library we are surrounded by many hundreds of dear friends imprisoned
+    by an enchanter in paper and leathern boxes.
+  author: Ralph Waldo Emerson
+  source: 
+  subject: 
+  tags:
+  - en
+  - books
+  - library
+- !ruby/struct:Signore::Signature
+  text: The Wikipedia blackout presents a horrifying picture of a world with no knowledge.
+    So does the Fox News website, which is running normally.
+  author: Andy Daglas
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Dzisiaj za karę pracuję z API uBoost.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - programming
+  - API
+- !ruby/struct:Signore::Signature
+  text: ! 'Mieszkania w Miasteczku Wilanów sprzedawane jako „w miejscu przesyconym
+    historią Polski”. #chaszcze'
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Deutsche Punk.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - banking
+- !ruby/struct:Signore::Signature
+  text: Some people, when confronted with n, think ‘I know, I’ll add 1.’ Now they
+    have n + 1.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Commit message of the day: ‘Support for shotgun and unicorn’.'
+  author: Patrick Huesler
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Inheritance is a code smell. There, I said it.
+  author: Chris Strom
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Any sufficiently advanced dependency management system is indistinguishable
+    from Hell.
+  author: Stuart Sierra
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Remember why movies, as a business, moved to California? To avoid paying for
+    the use of Edison’s patented cameras.
+  author: Ben Kuchera
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+  - patents
+- !ruby/struct:Signore::Signature
+  text: Under SOPA, artists whose work is stolen and sold as T-shirts still can’t
+    afford to sue but your site can be shut down over a Disney avatar.
+  author: Gibson Twist
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+  - SOPA
+- !ruby/struct:Signore::Signature
+  text: ! 'Jestem wzruszony, aż dwie osoby skorzystały z nowego ficzera dla klienta.
+
+    Zespół klienta liczy dwie osoby.'
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'EVERYONE IS TIRED OF THAT RICHARD GERE STORY
+
+    EVERYONE IS TIRED OF THAT RICHARD GERE STORY
+
+    EVERYONE IS TIRED OF THAT RICHARD GERE STORY
+
+    EVERYONE IS TIRED OF THAT RICHARD GERE STORY'
+  author: Bart Simpson
+  source: Simpsons 5F01
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'RUDOLPH’S RED NOSE IS NOT ALCOHOL-RELATED
+
+    RUDOLPH’S RED NOSE IS NOT ALCOHOL-RELATED
+
+    RUDOLPH’S RED NOSE IS NOT ALCOHOL-RELATED
+
+    RUDOLPH’S RED NOSE IS NOT ALCOHOL-RELATED'
+  author: Bart Simpson
+  source: Simpsons 5F07
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Szaman to funkcjonariusz kultu religijnego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zmuszacie mnie do głośnego mówienia i będę zagrożeniem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
