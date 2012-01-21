@@ -31746,3 +31746,68 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'People are always asking what my secret is, so here goes: Take her to the
+    Aerosmith laser show and keep feeding her Nutella.'
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: MPAA calls the Internet going dark in protest of SOPA ‘an abuse of power’.
+    In related news, the Eye of Sauron accuses Hobbits of terrorism.
+  author: Beach Fox
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+  - SOPA
+  - MPAA
+- !ruby/struct:Signore::Signature
+  text: ! 'PAIN IS NOT THE CLEANSER
+
+    PAIN IS NOT THE CLEANSER
+
+    PAIN IS NOT THE CLEANSER
+
+    PAIN IS NOT THE CLEANSER'
+  author: Bart Simpson
+  source: Simpsons 5F10
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT DEMAND WHAT I’M WORTH
+
+    I WILL NOT DEMAND WHAT I’M WORTH
+
+    I WILL NOT DEMAND WHAT I’M WORTH
+
+    I WILL NOT DEMAND WHAT I’M WORTH'
+  author: Bart Simpson
+  source: Simpsons 5F14
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Co wolno wojewodzie to nie tobie m… hm… mhm…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Patrzy między innymi, że tłum, patrzy, że facet, i myśli.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
