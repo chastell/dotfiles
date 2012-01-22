@@ -31811,3 +31811,60 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I wonder if the guy that wrote BigDecimal#inspect has a tragic backstory that
+    explains why he hates humanity.
+  author: Tim Pope
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'NO ONE CARES WHAT MY DEFINITION OF “IS” IS
+
+    NO ONE CARES WHAT MY DEFINITION OF “IS” IS
+
+    NO ONE CARES WHAT MY DEFINITION OF “IS” IS
+
+    NO ONE CARES WHAT MY DEFINITION OF “IS” IS'
+  author: Bart Simpson
+  source: Simpsons AABF02
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WILL NOT SCREAM FOR ICE CREAM
+
+    I WILL NOT SCREAM FOR ICE CREAM
+
+    I WILL NOT SCREAM FOR ICE CREAM
+
+    I WILL NOT SCREAM FOR ICE CREAM'
+  author: Bart Simpson
+  source: Simpsons AABF03
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Zawsze między innymi te zwierzątka na przykład szczury uciekały i piszczały.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Cysterny się wykoleją kolejowe.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
