@@ -72,6 +72,7 @@ set use_envelope_from
 unset mark_old
 unset markers
 unset move
+unset reverse_realname
 unset sig_dashes
 
 source ~/.config/mutt/addresses
