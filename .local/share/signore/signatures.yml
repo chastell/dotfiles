@@ -10181,20 +10181,6 @@ signatures:
   - tech
   - Microsoft
 - !ruby/struct:Signore::Signature
-  text: ! '— mBank co prawda wcześniej w Operze działał, ale obecnie już też nie…
-
-    — A co nie działa? Bo teraz na szybko sprawdziłem i jest ok.
-
-    — No przelewy nie przychodzą…'
-  author: Jarek P., |<onrad, Tom N
-  source: pl.pregierz
-  subject: 
-  tags:
-  - pl
-  - tech
-  - mBank
-  - Opera
-- !ruby/struct:Signore::Signature
   text: We always used to joke about a product so simple that it only had one button,
     which we pressed for you before it left the factory.
   author: Steve Yegge
@@ -31861,6 +31847,52 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Cysterny się wykoleją kolejowe.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'THE PRESIDENT DID IT, IS NOT AN EXCUSE
+
+    THE PRESIDENT DID IT, IS NOT AN EXCUSE
+
+    THE PRESIDENT DID IT, IS NOT AN EXCUSE
+
+    THE PRESIDENT DID IT, IS NOT AN EXCUSE'
+  author: Bart Simpson
+  source: Simpsons AABF05
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I CANNOT ABSOLVE SINS
+
+    I CANNOT ABSOLVE SINS
+
+    I CANNOT ABSOLVE SINS
+
+    I CANNOT ABSOLVE SINS'
+  author: Bart Simpson
+  source: Simpsons AABF14
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Rozpanoszy się dur na przykład brzuszny.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeżeli chodzi o organizm ludzki, jak ozon po prostu działa ujemnie?
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
