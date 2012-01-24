@@ -31900,3 +31900,59 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Basically, if you think it’s easy but it hasn’t been done yet, it’s probably
+    because you’re wrong.
+  author: Ben Bleything
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - progamming
+- !ruby/struct:Signore::Signature
+  text: ! 'A TRAINED APE COULD NOT TEACH GYM
+
+    A TRAINED APE COULD NOT TEACH GYM
+
+    A TRAINED APE COULD NOT TEACH GYM
+
+    A TRAINED APE COULD NOT TEACH GYM'
+  author: Bart Simpson
+  source: Simpsons AABF15
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I HAVE NEITHER BEEN THERE NOR DONE THAT
+
+    I HAVE NEITHER BEEN THERE NOR DONE THAT
+
+    I HAVE NEITHER BEEN THERE NOR DONE THAT
+
+    I HAVE NEITHER BEEN THERE NOR DONE THAT'
+  author: Bart Simpson
+  source: Simpsons AABF17
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Szamanizm dzieli świat na trzy części.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jest nich 25 chłopa, a wśród nich mój pies.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
