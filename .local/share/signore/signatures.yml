@@ -12150,7 +12150,7 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Jedziemy przez Wrześnię. Dzieci mówią plynnie po polsku. Machamy im!
+  text: Jedziemy przez Wrześnię. Dzieci mówią płynnie po polsku. Machamy im!
   author: opi
   source: 
   subject: 
@@ -31949,6 +31949,123 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Jest nich 25 chłopa, a wśród nich mój pies.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Wiedziałam, że mam jakiś tam pakiet asistans, ale nie przypuszczałam, że
+    Alior może nam przysłać darmowego hydraulika. A przysłał.
+
+    Więc to uzasadnione, że sobie nakupilam w haemie.'
+  author: Lilarouge
+  source: 
+  subject: 
+  tags:
+  - pl
+  - shopping
+- !ruby/struct:Signore::Signature
+  text: Jaja jak beretty!
+  author: Suler
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Strasznie trudno wymyślić ironiczny tytuł dziennika. Dwa najlepsze zostały
+    już zajęte: Prawda i Fakt.'
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: Obawiam się, że wygrywa wolność.
+  author: Tadeusz Cymański
+  source: 
+  subject: 
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I love my children so much that I often choose to spend time away from them.
+    That way they’ll still be alive when I calm down.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Sometimes after a really intense workout I write made-up stories on Twitter.
+  author: Joshua Allen
+  source: 
+  subject: on Twitter
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some people when confronted with a problem say, hey I will write the solution
+    using LaTeX. Now they have overfull hbox (23pt) problems.
+  author: ! '@splittingfield'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - LaTeX
+- !ruby/struct:Signore::Signature
+  text: It’s getting to the point where I won’t even run ‘ls’ without equipping it
+    with ionice, nice, setuidgid, softlimit and envdir. Level 80 nerd.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: ! 'SUBSTITUTE TEACHERS ARE NOT SCABS
+
+    SUBSTITUTE TEACHERS ARE NOT SCABS
+
+    SUBSTITUTE TEACHERS ARE NOT SCABS
+
+    SUBSTITUTE TEACHERS ARE NOT SCABS'
+  author: Bart Simpson
+  source: Simpsons BABF09
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'MY SUSPENSION WAS NOT ‘MUTUAL’
+
+    MY SUSPENSION WAS NOT ‘MUTUAL’
+
+    MY SUSPENSION WAS NOT ‘MUTUAL’
+
+    MY SUSPENSION WAS NOT ‘MUTUAL’'
+  author: Bart Simpson
+  source: Simpsons BABF10
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: To mięso na przykład na przykładzie mięsa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Myślę, że wyrośliście z lat przedszkolaków.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
