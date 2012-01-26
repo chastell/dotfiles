@@ -32073,3 +32073,100 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nearly gave myself a heart attack by plus one-ing a very boring link by accident.
+  author: Elise Huard
+  source: 
+  subject: 
+  tags:
+  - en
+  - social networks
+  - Google+
+- !ruby/struct:Signore::Signature
+  text: If I had a couple millions or billions I’d buy the rights to broadcast football
+    in Germany. AND THEN KEEP IT TO MYSELF.
+  author: ! '@klimpong'
+  source: 
+  subject: 
+  tags:
+  - en
+  - sport
+  - football
+- !ruby/struct:Signore::Signature
+  text: Czasami gdy bardzo się nudzę, ściągam z sieci jakąś płytę Staszewskiego tylko
+    po to, aby ją skasować. A następnie ściągam jeszcze raz. I jeszcze. Wszytko w
+    nadziei, że uda mi się wygenerować na tyle duże koszty, aby Kazik rzucił tworzenie
+    muzyki w cholerę i zajął się czymś innym. Niestety, na razie bezskutecznie.
+  author: Konrad Hildebrand
+  source: 
+  subject: 
+  tags:
+  - pl
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: One of the greatest things about working on OSS is people appreciate your
+    work. Hard to get in proprietary.
+  author: Justin Ko
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - open source
+- !ruby/struct:Signore::Signature
+  text: Only after the internet has been censored, the last civil right eroded, and
+    freedom of thought taken away will we realize that the middle ages weren’t actually
+    that great.
+  author: Florian Hanke
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'NON-FLAMMABLE, IS NOT A CHALLENGE
+
+    NON-FLAMMABLE, IS NOT A CHALLENGE
+
+    NON-FLAMMABLE, IS NOT A CHALLENGE
+
+    NON-FLAMMABLE, IS NOT A CHALLENGE'
+  author: Bart Simpson
+  source: Simpsons BABF13
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: ! 'I WAS NOT TOUCHED ‘THERE’ BY AN ANGEL
+
+    I WAS NOT TOUCHED ‘THERE’ BY AN ANGEL
+
+    I WAS NOT TOUCHED ‘THERE’ BY AN ANGEL
+
+    I WAS NOT TOUCHED ‘THERE’ BY AN ANGEL'
+  author: Bart Simpson
+  source: Simpsons BABF14
+  subject: on chalkboard
+  tags:
+  - en
+  - Simpsons
+- !ruby/struct:Signore::Signature
+  text: Żołnierz ciągnie równo z nieznanego miejsca.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wstrząsy są to ciężkie przypadki, które często gęsto kończą się między innymi
+    zgonem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
