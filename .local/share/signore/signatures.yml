@@ -32170,3 +32170,31 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Prayers are to men as dolls are to children. They are not without use and
+    comfort, but it is not easy to take them very seriously.
+  author: Samuel Butler
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - prayer
+- !ruby/struct:Signore::Signature
+  text: Radzieckie obozy nie były gorsze od Oświęcimia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Odrywamy i patrzymy na mnie. Oczywiście odrywamy ołówki, bo ja mówię skrótami.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
