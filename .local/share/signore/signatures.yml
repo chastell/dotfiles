@@ -32198,3 +32198,76 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Ekspert do spraw bezpieczeństwa, któremu przedstawiliśmy dokument potwierdza,
+    że logi wyglądają bardzo wiarygodnie. Podkreśla, że oczywiście możliwe jest ich
+    sfałszowanie (to zwykłe pliki tekstowe), ale wymaga to sporej wiedzy. #cojapacze'
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: ! 'Idealny kandydat: jest estetą i potrafi zauważyć 0.5px przesunięcie w layoucie.'
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - webdesign
+- !ruby/struct:Signore::Signature
+  text: Ja mam taką naturę, który nie lubi być zamknięty w klatce.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nie wiem czy to nie wejdzie, na razie tego nie ma.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Trzeba przyspieszać życie doczesne.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Aby woda nie była większa od temperatury tkanki.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '‘ES5 was approved 2009. Now we won’t be talking about ES5 features because
+    no browser implements ES5…’ THEN WHY THE FUCK WAS IT APPROVED?
+
+    Who the hell creates a standard without a reference implementation?!
+
+    Mind you, I’m not mad at JavaScript. You can’t be mad at a bedraggled puppy that
+    has seen nothing but abuse.'
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - EcmaScript
+  - JavaScript
