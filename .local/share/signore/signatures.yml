@@ -32271,3 +32271,165 @@ signatures:
   - programming
   - EcmaScript
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: fork it clone it pull it tweak it fix it push it pull-request it
+  author: Elliott Kember
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: Whenever I get annoyed by seeing a sponsored tweet, I light up a cool, never-bitter
+    Chesterfield light™ and the anger floats away.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - advertising
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: I use node.eps because I can use the same code on both the server and the
+    printer.
+  author: Tom Dale
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Node.js
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: ! 'From: Google <privacy-noreply@google.com> #nocomment'
+  author: Christian Neukirchen
+  source: 
+  subject: 
+  tags:
+  - en
+  - privacy
+  - Google
+- !ruby/struct:Signore::Signature
+  text: I wish 37 signals would offer a product where I pay them a monthly fee and
+    they never write anything again.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - 37signals
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: The first law of tautology club is the first law of tautology club.'
+  author: Evan Light
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: How I Learned to Stop Worrying And Hate You For Choosing A Stupid Talk Title
+    Like This.
+  author: Nick Quaranto
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some people, when confronted with a problem, think ‘I know, I’ll use multithreading’.
+    Nothhw tpe yawrve o oblems.
+  author: Eiríkr Åsheim
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - threads
+- !ruby/struct:Signore::Signature
+  text: ! 'Google, 1998: We don’t break eggs. 2005: Well, we make omelettes, so you
+    do the math. 2012: WHY ARE SOME OF THESE EGGS STILL NOT BROKEN'
+  author: Dan Wineman
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google
+- !ruby/struct:Signore::Signature
+  text: 99 bugs in the legacy code, 99 bugs in the code. Take one down, pass it around.
+    102 bugs in the legacy code.
+  author: Saša Tomislav Mataić
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Preparing yak embryos for implantation so that I can breed a whole family
+    of yaks, which I’ll then shave, & maybe then start on the problem.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Application number one has 107 gem dependencies. There are eleven other applications.
+    I may be some time.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Have a problem → google it → find solution I posted online year ago → ‘damn,
+    I’m smart’.
+  author: Hubert Łępicki
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Co jeszcze trzymamy w beczkach oprócz kapusty i tak dalej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: No więc to jest taka po prostu ten.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Chciałbym jeszcze chodzi o ci, którzy chcą…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dym papierosa, niezależnie od wieku, jest szkodliwy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
