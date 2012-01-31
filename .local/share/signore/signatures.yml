@@ -32488,3 +32488,62 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: The great thing is my 4yo thinks me teaching him how to play NetHack is totally
+    normal.
+  author: Philip J. Hollenback
+  source: 
+  subject: 
+  tags:
+  - en
+  - games
+  - NetHack
+- !ruby/struct:Signore::Signature
+  text: ! 'Dzwonek do drzwi. Patrzę przez wizjer: Piotr Szotkowski w stetoskopie.
+    Wpuszczam go i pytam o stetoskop. Zbywa mnie gestem ręki i chowa go do kieszeni.
+    Mówi, że przyjechał pożyczyć kawy. Prowadzę go do szafki z kawą, podaję mu pudełko,
+    a on zaczyna opróżniać je do stojącego nieopodal śmietnika. Tłumaczy, że tyle
+    nie potrzebuje. Dalej jest historia o boisku z czterema bramkami, ale się już
+    obudziłem.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - dreams
+- !ruby/struct:Signore::Signature
+  text: Magnes, który nie zatrzyma przed niczym.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dlaczego, dla skąd się wzięła?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeden posiada tą subtelność, drugi człowiek nie posiada tej subtelności.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Każda broń przeznaczona do zabijania nie jest humanitarna.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
