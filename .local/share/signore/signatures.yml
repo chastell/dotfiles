@@ -32547,3 +32547,102 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ‘Asshole’ is the term repressed people use to describe those posessing the
+    self-confidence to live life the way they desire.
+  author: ! '@anachronistic'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I believe that if Postgres had a catchy name (say, SuperSQL) it would have
+    left MySQL in the dust long ago.
+  author: Diego Basch
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - databases
+  - PostgreSQL
+  - MySQL
+- !ruby/struct:Signore::Signature
+  text: In my optimistic view, velocity increases because it can or else decreases
+    because it must. Teams don’t want less productivity.
+  author: Tim Ottinger
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Velocity calculations are an illusion of productivity. Real productivity is
+    measured in validated learning.
+  author: Joshua Kerievsky
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: When googling for STI problems, remember to make it clear you’re talking about
+    Active Record.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Any sufficiently complicated Sinatra app contains an ad hoc, informally-specified,
+    bug-ridden, slow implementation of half of Rails.
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+  - Sinatra
+- !ruby/struct:Signore::Signature
+  text: Zalanie aż po dym.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Skażenie nastąpi o godzinie dziesiątej zero-zero minut sześćdziesiąt.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja też jestem miłośnikiem piesków.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ktoś na to kładzie się belki.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
