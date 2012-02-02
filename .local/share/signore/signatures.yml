@@ -32646,3 +32646,51 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: — Pani jest matką tej skarbonki? — czyli śpię w szpitalu, bo młody połknął
+    monetę.
+  author: Lilarouge
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! '— Czy były jakieś piątki z testu?
+
+    — Nie wiem, nie spotkałem.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Oprócz tych stwierdzonych, że stracili życie, to są tysiące ludzi, która straciła
+    dach nad głową.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dla mnie – dla osoby niesprawnej fizycznie nawet schody są zagrożeniem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Straż pożarna nie miała czym gasić, brakowało między innymi benzyny.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
