@@ -32694,3 +32694,131 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Straszne: kiedy bardzo stanowcza Pandżynka z miną rodem z japońskich horrorów
+    wskazuje na mój tatuaż i mówi: Dać!!!
+
+    Naprawdę bardzo straszne: kiedy bardzo stanowcza Pandżynka z miną rodem z japońskich
+    horrorów wyciąga rączkę w stronę mojego pępka i mówi: Dać!!!'
+  author: Lilarouge
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Say what you will about airport security but I still get a decent boner every
+    time I whip off my belt in front of a hundred people.
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Also, what do you mean I’ve given you card details and I can’t watch a Jackie
+    Chan film immediately? Are you nuts, LoveFilm?
+  author: ! '@ntlk'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Darth Vader was amazed to discover that when Boba Fett said ‘as you
+    wish’ what he meant was ‘I love you’.'
+  author: Jim Weirich
+  source: 
+  subject: 
+  tags:
+  - en
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: ! 'I’m getting to like telling people ‘no, DAS won’t support PayPal, even
+    if it means less money for me’. Having standards: feels good, man!
+
+    Gonna slowly transition DAS into saying no to *everything*. Don’t even sell anything;
+    just say ‘no’. Achievement unlocked: troll company.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - PayPal
+- !ruby/struct:Signore::Signature
+  text: Sure, you can learn Ruby in a week. You can learn it so well that I’ll force
+    push my changes over yours because of the violence you’ve done.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Complex code is far more afraid of pair-programmers than solo programmers.
+  author: Joshua Kerievsky
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'I liked hosting one of my archive servers at a mom-and-pop colo until I
+    got today’s notice about an 8 HOUR scheduled downtime.
+
+    I guess they need to unplug everything so mom can mop and scrub those ethernet
+    ports real good with a toothbrush.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - hosting
+- !ruby/struct:Signore::Signature
+  text: I can’t pay for Reddit gold via Google Checkout because ‘Google Checkout won’t
+    ship to Poland’. Ship fucking what? An UPDATE query?
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Przy zmywaniu głowy trzeba mieć zamkniętą buzię i oczy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja bym chciał, żeby klasa pierwsza A była dodatnia na każdą osobowość, która
+    tu się znajduje.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja miałem tu krostę pod nosem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ty wiesz, że ja złośliwy nie jestem, ale czasem potrafię.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
