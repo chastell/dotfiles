@@ -32822,3 +32822,59 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Some people see a problem and think ‘I know, I’ll use Java!’ Now they have
+    a ProblemFactory.
+  author: Chris Lonnen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: That feeling of instant terror when the chair leans back farther than you
+    expected.
+  author: Tiffany Duening
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Ja wam to tylko podaję hasłowo, bo po co to wiedzieć.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I po pięciu latach idzie człowiek do ziemi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Będą pytania i za to będą odpowiedzi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Słuchajcie, myśmy przegadali lekcję nie na ten temat, w związku z powyższym,
+    powrócimy do tematu w przyszłym tygodniu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
