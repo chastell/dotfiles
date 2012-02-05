@@ -32878,3 +32878,59 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: The gate agent just said ‘paging passenger Na-ga-ha-ma’ like a confused American,
+    then repeated in fluent Japanese. Ya trollin’, son!
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'Hipster hacker: complains about projects (by well-respected authors) that
+    use `curl … | sh`; runs .pkg and setup.exe from random companies.'
+  author: Magnus Holm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Ile by należało wydać, żeby zbudować samolot, to to by było jedno skrzydło
+    do samolotu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To co ja namalowałem na waszych pracach to to trzeba wpisać do dziennika.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dopóki co będziemy opierać się na zarządzeniach dyrekcji.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jest to definicja, czyli równoważnik definicji pojęcia osoby poszkodowanej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
