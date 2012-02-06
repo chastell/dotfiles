@@ -44,7 +44,6 @@ set formatprg=lovely-rufus nojoinspaces
 colorscheme torte
 let loaded_matchparen = 1
 set guifont=Ubuntu\ Mono\ 11 guioptions-=m guioptions-=T
-set lazyredraw
 set list listchars=extends:»,precedes:«,nbsp:_,tab:»\ ,trail:·
 set nowrap
 set scrolloff=7 sidescroll=1 sidescrolloff=10
