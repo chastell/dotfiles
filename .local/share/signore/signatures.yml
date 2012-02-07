@@ -32970,3 +32970,92 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Improving my flat with Star Trek engine noise:
+
+    play -c2 -n synth whitenoise band -n 100 24 band -n 300 100 gain +20'
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: Mam już dość tych głupich dowcipów zaczynających się od „znasz może jakiegoś
+    bezrobotnego developera iOS?”
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - work
+  - programming
+  - iOS
+- !ruby/struct:Signore::Signature
+  text: Picasa ma defaultowo rozpoznawanie twarzy, chuja i robienie drzewa genealogicznego
+    do 14 pokoleń wstecz, które wyświetla byłych członków SB na czerwono. Dawać im
+    dane to w moim słowniku trochę tak jak wypinać dupę pod prysznicem na oddziale
+    chorób wenerycznych wojewódzkiego szpitala więziennego.
+  author: spin
+  source: 
+  subject: 
+  tags:
+  - pl
+  - privacy
+  - Picasa
+- !ruby/struct:Signore::Signature
+  text: I suspect all real geeks are like this. Being paid very well to sit in a cubicle
+    with nothing to do (been there, quit that) is low-grade torture.
+  author: Rob Landley
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Naładowałem sobie rękę elektrycznością statyczną od kota i odpaliłem palnik
+    gazowy iskrą z ręki.
+  author: Porost
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Urodziłem się między innymi w Warszawie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja pierwszy raz ostrzegam, a drugi raz zabieram karty i stawiam dwójkę, to
+    znaczy w obecnym układzie jedynkę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na tyle na ile umiesz po prostu ci dam.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Przepraszam cię bardzo, że wejdę w słowo.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
