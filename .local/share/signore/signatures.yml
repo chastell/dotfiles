@@ -33059,3 +33059,83 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: schonfinkelize() is way better than curry()
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: To ∞ & →
+  author: Pixar
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Been at Walgreens for an hour trying to find a card that says something like
+    HAPPY BIRTHDAY SON I LIE AWAKE AT NIGHT SCARED THAT YOU HATE ME
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: If you’re upset about seeing a middle finger on TV, you’re going to shit yourself
+    when you see everything else going on in the world.
+  author: Mike Drucker
+  source: 
+  subject: 
+  tags:
+  - en
+  - censorship
+- !ruby/struct:Signore::Signature
+  text: For our younger two, ‘daddy is at work’ has always meant ‘daddy is downstairs’.
+    They have no idea how lucky they are.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+  - work
+- !ruby/struct:Signore::Signature
+  text: Oblali te dyplomy szampanem i ciastkiem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: My też jesteśmy Kuwejtem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja nie pod tym względem co was rozśmieszyło powiedziałem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rany szarpane są bardzo trujące.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
