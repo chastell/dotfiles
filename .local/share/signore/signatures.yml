@@ -8135,7 +8135,7 @@ signatures:
 
     aby zstąpił i odnowił, wybierz 1. aby tej Ziemi, wciśnij przycisk dostępny w twojej
     ofercie ekumenicznej.'
-  author: Vontrompka
+  author: Von Trompka
   source: 
   subject: 
   tags:
@@ -33132,6 +33132,115 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Rany szarpane są bardzo trujące.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W końcu obejrzałem Szpiega. Gary Oldman to jest taki facet, że stopą potrafi
+    wyrazić więcej niż większość polskich aktorów twarzą.
+  author: Von Trompka
+  source: 
+  subject: 
+  tags:
+  - pl
+  - movies
+- !ruby/struct:Signore::Signature
+  text: Pięćdziesięcioletni facet przyłapany w tramwaju na jeździe bez biletu wyrecytował
+    imię, nazwisko, datę urodzenia, adres zameldowania, adres zamieszkania, imiona
+    rodziców, daty urodzenia rodziców, adres zameldowania rodziców, numer PESEL, numer
+    NIP, serię i numer dowodu osobistego, serię i numer paszportu, numer legitymacji
+    szkolnej, czas rozpoczęcia i zakończenia nauki szkolnej, czas rozpoczęcia i zakończenia
+    odbywania służby wojskowej, numer jednostki wojskowej, numer seryjny broni, datę
+    rozprawy sądowej, paragraf, z którego został skazany, czas rozpoczęcia i zakończenia
+    odbywania wyroku, nazwę i adres zakładu karnego oraz planowany przystanek końcowy
+    – a wszystko to bez pośpiechu, starannie akcentując i z lekkim rozbawieniem. Wypisujący
+    mandat agent Smith wyglądał na wkurwionego.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: God, how can I make my server side code less readable and more difficult to
+    maintain? What about that fucked up language Netscape invented?
+  author: Buckley’s Angel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Valentine’s  day is bullshit. Our DNA demands we fuck each other, so if you
+    need a holiday to talk your wife into screwing you, it’s over.
+  author: 
+  source: Shit My Dad Says
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘Yeah, I’m starting up a restaurant startup. If it works out it might be a
+    business someday.’ — nobody, ever.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - startups
+- !ruby/struct:Signore::Signature
+  text: ! 'The feeling of eating a pizza and wanting another one. #firstworldproblems
+
+    No reason to panic, I have Mövenpick.'
+  author: Alexis Sellier
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I am both useless and a creep. BUT charming with it, so it’s OK.
+  author: Peter Cooper
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Co to znaczy powietrze? Powietrze to jest to czym oddychamy, ale czy my chcemy
+    oddychać powietrzem?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W pościgu za armią rosyjską sami się między innymi potruli.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kiedy wnuczek, prawda, z wnuczkiem przyjeżdża do babci, a babcia daje marchewkę,
+    wnuczek między innymi wtenczas chrupie marchewkę, a babcia się cieszy, że truje
+    wnuczka metalami ciężkimi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zachowujesz się nieprzyzwoicie, jak na dziewczynę nie przystało.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
