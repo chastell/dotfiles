@@ -33248,3 +33248,68 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Portland-based, hand-crafted artisanal Java bytecode.'
+  author: Alex Payne
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: GitHub is the worst dating site ever.
+  author: David Hoang
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: I want to write a github crawler bot that removes the words ‘just’ and ‘simply’
+    from your READMEs.
+  author: Jeff Casimir
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: Wywołam kogoś z dziennika.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To ma dwa niebezpieczeństwa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Chodzi o broń myślącą, a nie o masowość żołnierską.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Gruntowne zmywanie zaczyna się od głowy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
