@@ -33313,3 +33313,123 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'How to code your ‘viral contacts’ feature: Assume a woman is cheating on
+    her abusive husband and if he sees her contacts he’ll kill her.'
+  author: Zed Shaw
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Some developers, when confronted with a problem, think ‘I know, I’ll use Node.js’.
+    Now they have to call a callback to count their problems.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Node.js
+- !ruby/struct:Signore::Signature
+  text: In response to a free essay, people ask in free forums, ‘If we abolish IP,
+    who will write?’ The question answers itself.
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: ! 'Eating a chorizo burrito in the shower: Not the game changer I expected
+    but still way better than anything else that happened today.'
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'I wish I had a goat. I feel like I’d be happier if I had a goat. I grew
+    up with goats. They eat clothing. But they are strangely calming.
+
+    If I had a goat, people would be like ‘I have an iPhone 18! It tells me when it’s
+    time to poo!’ And I’d be like ‘yeah, well, I have a goat’.'
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Chciałbym kiedyś przeczytać o evencie startupowym na którym nie ma cudownej
+    armosfery, fantastycznych ludzi i mnóstwa dobrej energii.
+  author: Bartek Gola
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Aspirational job title: Señor Vise Precedent.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '‘Who would DDOS Github?’
+
+    ‘CVS fans, I think.’'
+  author: ! '@dotemacs'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: Kiedyś jeszcze za moich czasów, kiedy ja byłem dzieckiem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rodzice są zaskakiwani i to samo jest wojsko.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Tylko dwie osoby jest dzisiaj nieobecne?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Czyli też, po prostu, to, między innymi, doszło do skutku.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zabrakło wężów, bo przestała być produkcja.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
