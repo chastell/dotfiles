@@ -33433,3 +33433,32 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jakbyś kreta zabił między innymi poza swoim ogrodem, a złapaliby cię po prostu
+    z ochrony przyrody…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To do dwudziestego pierwszego życia, a po dwudziestym pierwszym robi się szarych
+    komórek mniej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rany boskie, jeszcze się mogę podobać?!
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
