@@ -33462,3 +33462,50 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Walczono ze mną do rana.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nie zawsze oddanie życia kończy się życiem, czasem dośmiertnym kalectwem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Szaman tańczy aż padnie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kopci mu się z odbytnicy, prawda.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: o trabancie
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: If you see a problem and think ‘I know, I’ll use caching’, now you have 1
+    problems.
+  author: Bradley Grzesiak
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - caching
