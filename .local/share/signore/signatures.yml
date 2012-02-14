@@ -33509,3 +33509,32 @@ signatures:
   - tech
   - programming
   - caching
+- !ruby/struct:Signore::Signature
+  text: Debating creationists on the topic of evolution is rather like trying to play
+    chess with a pigeon – it knocks the pieces over, craps on the board, and flies
+    back to its flock to claim victory.
+  author: Scott D. Weitzenhoffer
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - creationism
+- !ruby/struct:Signore::Signature
+  text: Biegniesz na boisku potykasz się o nogę i padasz na rękę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Z podziałem na trójpodział władzy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
