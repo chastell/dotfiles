@@ -33538,3 +33538,61 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dopiero macie te pierwsze początki ze mną.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To nie znaczy, że ja się siebie wykluczam.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Instytut Matki z Dzieckiem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Trudnili się szkolnictwem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I can never get enough light colored clothes together to do a full load.
+    #anarchistproblems'
+  author: Lauren Riot
+  source: 
+  subject: 
+  tags:
+  - en
+  - anarchism
+- !ruby/struct:Signore::Signature
+  text: ! '‘I swear, Ruby has more syntax for creating strings than Python has total.’
+
+    ‘"what" + %[are] + <<STR you STR + %q(talking) + ''about?''’'
+  author: Gary Bernhardt, Jeff Forcier
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Python
