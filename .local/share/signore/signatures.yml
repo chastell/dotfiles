@@ -33596,3 +33596,44 @@ signatures:
   - programming
   - Ruby
   - Python
+- !ruby/struct:Signore::Signature
+  text: ! '‘I wish more Lisp books had the chutzpah of Successful Lisp to use the
+    Common Lisp “first” and “rest” aliases instead of car and cdr.’
+
+    ‘I love it from an anthropological aspect. Here we are, 50 years later, worshipping
+    the name of a register on a machine of the ancients.’'
+  author: Avdi Grimm, Phill MV
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: Szamanizm ma pierwiastki buddyzmu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli chodzi o mgłę, to czterdzieści tysięcy ludzi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Problem leczenia izolatek.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
