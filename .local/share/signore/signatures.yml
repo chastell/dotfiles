@@ -33637,3 +33637,57 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: My book just crashed. This is new.
+  author: Tom Lea
+  source: 
+  subject: 
+  tags:
+  - en
+  - books
+- !ruby/struct:Signore::Signature
+  text: ! 'Principle of Most Time: The most elegant and simple solution to any design
+    problem will be the one that requires the most developer effort.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - design
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Po pierwsze między innymi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ta klasa się bardzo trzyma wszyscy razem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Moi kochani, za dużo myśmy się rozbrykali.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jaka jeszcze przyczyna nauka nie zna.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
