@@ -20711,7 +20711,7 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: ! 'Nie znał niuansow języka i mówił wprost: „och, chciałbym panią zobaczyć
+  text: ! 'Nie znał niuansów języka i mówił wprost: „och, chciałbym panią zobaczyć
     nago”.'
   author: Ilja Ilf
   source: 
@@ -33781,6 +33781,76 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Wlatują tu te po prostu zanieczyszczone powietrza.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Worried that TDD will slow down your programmers? Don't. They probably need
+    slowing down.
+  author: J. B. Rainsberger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+  - TDD
+- !ruby/struct:Signore::Signature
+  text: Rakar was recently released from a ten day arrest. He’s still mayor of the
+    police station on foursquare.
+  author: Alex Barth
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '— Ktoś miał kiedyś tak, że płącz ei się śmieje naraz?
+
+    — Ta.
+
+    — Ja też, śmiałem się z żartu, potem się ziorentowałem, że był o mnie.'
+  author: Dora, kok0$, asvo
+  source: 
+  subject: 
+  tags:
+  - pl
+  - IRC
+- !ruby/struct:Signore::Signature
+  text: No matter how slow you are writing clean code, you will always be slower if
+    you make a mess.
+  author: Bob Martin
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: life=->g,s{(0..s*s-1).map{|i|->n{n==3||(g[i]&&n==2)||nil}[[g[i-s-1],g[i-s],g[i-s+1],g[i-1],g[i+1],g[i+s-1],g[i+s],g[i+s+1]].compact.count]}}
+  author: Simon Ernst
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Ukraina to tyle ile dwie armie polskie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Może dożyjemy, ale to chyba nie za naszego życia.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
