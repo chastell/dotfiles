@@ -33691,3 +33691,100 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I truly believe that PostgreSQL is the hacker’s RDBMS.
+  author: Ryan Smith
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - PostgreSQL
+- !ruby/struct:Signore::Signature
+  text: One should as a rule respect public opinion in so far as is necessary to avoid
+    starvation and to keep out of prison, but anything that goes beyond this is voluntary
+    submission to an unnecessary tyranny, and is likely to interfere with happiness
+    in all kinds of ways.
+  author: Bertrand Russell
+  source: 
+  subject: 
+  tags:
+  - en
+  - ideology
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Dzień małych radości: otrzymałem poprawnie sformatowany, czytelny i logiczny
+    dokument od pracownika klienta. Łzy radości. Wszędzie jeden krój i styl, jeden
+    rozmiar, nagłówki.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: W 1998 kupiłem dyskietkę z archiwizerem LZX (dla AmigaOS) i po przyniesieniu
+    jej do domu znalazłem LZX.lzx.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - Amiga
+- !ruby/struct:Signore::Signature
+  text: Considering looking into how to get on Apple’s list of approved Web sites
+    that Safari will let you look at in OS X 10.9.
+  author: Peter Cooper
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Just discovered a correlation between the amount of email in my inbox and
+    the amount of debt accumulated by the US government.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - email
+- !ruby/struct:Signore::Signature
+  text: Problem leczenia przez specjalistów warszawskich jest dłuższy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Chciałbym abyście, ponieważ mamy taki temat.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeżeli z sześćdziesięciu sześciu procent przyjmę, że czterdzieści cztery procent
+    palą mężczyźni, a dwadzieścia cztery procent kobiety…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wlatują tu te po prostu zanieczyszczone powietrza.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
