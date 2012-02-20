@@ -33858,3 +33858,73 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '‘Scumbag Europe: dump all your Puritans in America, then complain about
+    US religious conservatism.’
+
+    ‘Australia gets the criminals, America the annoying douchebags. I think Australia
+    wins.’'
+  author: Avdi Grimm, Jason Lewis
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - politics
+- !ruby/struct:Signore::Signature
+  text: What I hate most about Twitter is finishing a great tweet, having -1 characters
+    left, and then having to decide which grammar crime to commi
+  author: Alan Garner
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: ! 'There are 7 hard things in computer science: finding original quotes and
+    thread safety.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Jeśli będzie ryczał albo ryczała z bólu, to oznacza, że w tym miejscu jest
+    złamanie, albo, prawda, pęknięcie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: On daje po prostu deklarację oddania się jego narządów.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja mogę być tylko wdzięczny, że minister edukacji ma tak wielkie zaufanie
+    do nauczycieli.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To, co rodzinne, nie było zawsze obce.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
