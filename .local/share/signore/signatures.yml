@@ -33928,3 +33928,81 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Dear internal DSL designers: the point isn’t to make your API look like
+    English, the point is to make it likely that my program is correct.'
+  author: James Iry
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'I don’t understand how anyone can not be angry with the state of the terminal.
+
+    Run a shell command from Vim. Now hit enter to go back to Vim. Now suspend Vim
+    to see the terminal. You can’t see the full output.
+
+    Please don’t tell me to stop using Vim or to use multiple terminal windows. If
+    I wanted to program slower, I’d get drunk first.
+
+    Please stop telling me to use tmux or screen. I can’t tweet any more without people
+    talking to me as if I switched to Unix two weeks ago.
+
+    ‘The most fundamental layer of this system is broken.’ ‘OH WELL HERE LET ME RECOMMEND
+    SOME TOOLS TEN LAYERS UP TO INTRODUCE MORE PROBLEMS.’'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I’m starting to dislike Ruby Rogues because it makes me look like a crazy
+    person when I argue with the guys on the podcast.
+  author: Kurtis R.G.
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: If you can’t look away from the screen while programming without slowing down,
+    then your tools, or the way you use them, are broken.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Kto skonstruuje najgłówniejszą, najtrudniejszą broń.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mamy między innymi cztery stopnie oparzenia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zapiszcie, to się wam na starość przyda.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
