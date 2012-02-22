@@ -34006,3 +34006,61 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: If Node.js is the future of programming I’m rowing my ass toward data analysis
+    as fast as my brain can carry me.
+  author: Richard Minerich
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+  - Node.js
+- !ruby/struct:Signore::Signature
+  text: Apple’s Gatekeeper keeps you from ‘installing nefarious applications’. Fuckin’
+    hypocritical. Did that problem ever exist in the first place?
+  author: Paolo Perrotta
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Ja byłem bardzo dobrym strzelcem, nie chwaląc się.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Musicie to wykuć na blachę, stanąć i wyrypać jak… na gitarze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mięta nie zaszkodzi nikomu z was, jak tu siedzi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jak się utraci nogę czy życie, to już się tego nie można dorobić.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
