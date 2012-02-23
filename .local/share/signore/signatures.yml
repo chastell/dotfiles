@@ -8542,7 +8542,7 @@ signatures:
   - en
   - religion
 - !ruby/struct:Signore::Signature
-  text: Today I learned that 1337% of pi is 42.
+  text: Today I learned that 1337% of π is 42.
   author: Max Niederhofer
   source: 
   subject: 
@@ -34057,6 +34057,116 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Jak się utraci nogę czy życie, to już się tego nie można dorobić.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'The Javascript spaghetti code we’re creating now means job security in
+    2016. #nonblocking'
+  author: Matt Sherman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: The only audio in that video would be ‘what the fuck, RubyGems?’'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'Yes, I am a princess and Kernel#test is a pea. I don’t care. These are
+    the thousand cuts that make Ruby so difficult to reason about.
+
+    The real question here is: who is the mattress?'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Been talking to my two week old son about why he should program in Haskell,
+    but he just sits there and farts. PHP it is, then.
+  author: Bryan O’Sullivan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
+  - PHP
+- !ruby/struct:Signore::Signature
+  text: hope someone disrupts higher education within the next ten years so I can
+    blow my kids’ college fund on something fun instead.
+  author: Ian McAllister
+  source: 
+  subject: 
+  tags:
+  - en
+  - education
+- !ruby/struct:Signore::Signature
+  text: Apple got us to use reverse scrolling. I bet they could get us to use the
+    metric system.
+  author: Tom Wuttke
+  source: 
+  subject: 
+  tags:
+  - en
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: I have a fear that one day some cam girl whom I blocked when she was (barely)
+    18 will dm me with missile abort codes and I won’t see it.
+  author: Steven G. Harms
+  source: 
+  subject: 
+  tags:
+  - en
+  - spam
+- !ruby/struct:Signore::Signature
+  text: Grzybek może dostać się do wody podskórnej skąd wodę mieszkańcy rury biorą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To jest tak łatwy temat, że szkoda czasu na pisanie. Wobec tego zapiszcie
+    sobie temat…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Naukowcy po prostu od razu wyłuskują.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Odmian raka jest wiele, ale wszystkie rakowe.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
