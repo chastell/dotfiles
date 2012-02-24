@@ -2,15 +2,15 @@
   br = branch
   ci = commit
   co = checkout
-  st = status -bs
+  st = status --branch --short
 
 [color]
   ui = auto
 
-[user]
-  name = Piotr Szotkowski
-  email = chastell@chastell.net
-
 [github]
   user = chastell
   token = …
+
+[user]
+  name = Piotr Szotkowski
+  email = chastell@chastell.net
