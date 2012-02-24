@@ -34228,3 +34228,46 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: If your business model involves ‘convenience fees’, know that we hate you.
+    All of us.
+  author: Wes Morgan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: You run Windows? Everything good you’ve ever done was just invalidated.'
+  author: John E. Vincent
+  source: 
+  subject: 
+  tags:
+  - en
+  - Windows
+- !ruby/struct:Signore::Signature
+  text: A grzeczność wymaga jak z tobą rozmawiam to wstań.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Trzeba czytać wiele pozycji pisanych z różnych pozycji.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jedni i drudzy po części rozgrabili te tajniki.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
