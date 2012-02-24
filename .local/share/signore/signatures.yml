@@ -705,14 +705,6 @@ signatures:
   - pl
   - tech
 - !ruby/struct:Signore::Signature
-  text: Poleciłam panu od trawnika, coby przy oraniu omijał ogródek Asi. W zamian
-    opowiedział mi, że kiedyś musieli omijać grób kotka.
-  author: Evva
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: // sometimes I believe compiler ignores all my comments
   author: 
   source: 
@@ -34167,6 +34159,68 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Odmian raka jest wiele, ale wszystkie rakowe.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jestem tak przytomny, że właśnie spędziłem pięć minut na szukaniu napisów
+    do polskiego filmu.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ‘Immature’ is a word that boring people use to describe fun people.
+  author: ! '@FillWerreII'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Feminism and FPers focus on trivialities (gender-neutral pronouns, immutable
+    data) and forget the big picture: that society/software is shit.'
+  author: PLT Žižek
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: W literaturze możecie spotkać czarny papież.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja to przechodziłem na własnej osobie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I masz na tej mapie, ona jest tego, odsłonięta, albo zasłonięta firanką…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Im w dół, tym bardziej są ujemne stopnie.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
