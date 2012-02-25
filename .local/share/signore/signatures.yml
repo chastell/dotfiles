@@ -34271,3 +34271,40 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Bojowe środki chemiczne mogą być wprowadzone do powietrza w postaci pary,
+    gazu, dymu, mgły. Mogą być napastliwe, śmiertelne i nieśmiertelne.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Obandażowałem, podwiesiłem i teraz jest moja.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jak przeczytacie, po prostu szamanizm, odnośnie jak wyżej, to się nauczycie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Miałem rodzoną siostrę i mam do tej pory.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
