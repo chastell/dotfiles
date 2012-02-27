@@ -34308,3 +34308,52 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Using PUT instead of PATCH is like using a div element with a class of ‘br’.
+  author: Joshua Clayton
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - HTTP
+- !ruby/struct:Signore::Signature
+  text: Jeśli się nie przyjdzie z pomocą, co do tego nastąpi śmierć biologiczna i
+    jest to nieodwracalne.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Gdyby nie socjalizm, to by twój ojciec i twój dziadek, tak jak twój pradziadek
+    za stodołą kupę robili.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '…a ci co tam pracują to przede wszystkim: buty gumowe, rękawice gumowe,
+    kombinezon gumowy, maska na twarzy i oczywiście ciężka praca!'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Cynoptyka.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
