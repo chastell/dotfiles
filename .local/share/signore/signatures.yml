@@ -32542,7 +32542,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: ‘Asshole’ is the term repressed people use to describe those posessing the
     self-confidence to live life the way they desire.
-  author: ! '@anachronistic'
+  author: Alan Harris
   source: 
   subject: 
   tags:
@@ -34350,6 +34350,52 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Cynoptyka.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: The more professional experience I gain, the shorter my résumé becomes.
+  author: Alan Harris
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Sod the Mayans, I’m a follower of the UNIX Philosophy. Do one thing, do it
+    well, and the world will end on January 19th 2038.
+  author: Graeme Mathieson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: Jednąż rzecz chciałbym, abyście wynieśli oprócz tego, co powiedziałem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Akurat u was w klasie nie ma tragicznej sytuacji, bo w innych klasach jest
+    tragicznie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Każdy naukowiec powinien być patriotą swojego kraju.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
