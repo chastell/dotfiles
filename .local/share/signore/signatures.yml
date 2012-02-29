@@ -26765,7 +26765,7 @@ signatures:
   - OWS
 - !ruby/struct:Signore::Signature
   text: Zdałem sobie sprawę ostatnio, że społeczności się tworzą wokoło wszystkiego.
-    Chciałem coś mało istotnego kupić, szlik czy inne majtki, wszedłem na net, żeby
+    Chciałem coś mało istotnego kupić, szalik czy inne majtki, wszedłem na net, żeby
     zobaczyć cenę mniej wiecej – i się okazało, że jest cała społeczność zbudowana
     naokoło tego, i mają fora gdzie się wyzywają od chujów. To samo dotyczy lampki
     nocnej.
@@ -34396,6 +34396,42 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Każdy naukowiec powinien być patriotą swojego kraju.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Just tipped a hooker with my own money instead of change I stole from my kid’s
+    piggy bank. Being a real adult feels pretty good!
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Dosiadają podłogi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rozumiecie, dziewczyno?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Konwencja, znaczy konkordat.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
