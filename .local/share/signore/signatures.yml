@@ -34503,3 +34503,40 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: No matter what your app does, your biggest competitor is probably one of the
+    following 1) Email/Gmail 2) Word/Excel/Google Docs 3) Apathy.
+  author: Des Traynor
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: My one year old, Sam, just appended the string ‘pi9’ to the end of a text
+    file ~90,000 times. He learns Vim pretty fast.
+  author: Phil Crissman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: …so they each bought a copy of the Mythical Man Month, handed all 10
+    to him and said, there, you can read it in a 10th of the time.'
+  author: Liz Keogh
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Jak żołnierz może walczyć, kiedy ma czterdzieści stopni i duży stopień śmiertelności?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
