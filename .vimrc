@@ -101,5 +101,6 @@ autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
 " help in vertical split
 autocmd FileType help wincmd L
 
-" autosave
-autocmd FocusLost * :wa
+" autosave and return to normal mode
+autocmd FocusLost * :silent! wall
+autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
