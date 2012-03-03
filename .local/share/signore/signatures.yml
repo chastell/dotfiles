@@ -34540,3 +34540,73 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kiedy strona ważnego klienta przenosi jej użytkowników na Twojego bloga (przez
+    dwa tygodnie), to wiedz, że coś się dzieje. Literówka w konfiguracji się dzieje.
+    Mam nadzieję, że wszyscy pragnący poznać ofertę kompleksowej obsługi finansowej
+    byli zadowoleni z moich tekstów o rozkroku między humanizmem a kąpjutrami.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Patrzę na pasek z adresem, który kończy się na to/
+
+    Patrzę. to/ i widzę gościa pokazującego środkowy palec jednej ręki a drugą zamawia
+    pięć piw.
+
+    Piątek.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '‘Which is more offensive? “Code ninja” or “software engineer”?’
+
+    ‘“Software engineer” is more offensive to engineers. Ninjas probably don’t give
+    a shit.’'
+  author: Gary Bernhardt, Jonathan Broad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Nie ma religii dobrej i złej, jedna jest lepsza a druga gorsza.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli mi państwo takie nie zabezpiecza to to jest do kitu, ja na takie państwo
+    nie głosuję, ja mam to w nosie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W czwartki był dzień i tylko dzień wasz, znaczy nasz patron wysuwał sprawy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Inspektorzy wołają na alarm.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
