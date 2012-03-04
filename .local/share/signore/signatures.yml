@@ -34610,3 +34610,59 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Whenever I see IT in the movies, it always makes me wonder how badly other
+    occupations must be portrayed.
+  author: Mark Coleman
+  source: 
+  subject: 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: The difference between a hooker and a lobbyist is that a hooker offers a valuable
+    service.
+  author: ! '@TheTweetOfGod'
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Nie płonę miłością do was, żeby tę godzinę mieć.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli opracuje temat na jakieś zagadnienie, to ja wiem, że to mu zostanie
+    do końca śmierci.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jakie mamy rany?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W wypadku jeśli chodzi o młodzież powracającą i idącą do szkoły, to jest dziewięć
+    tysięcy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
