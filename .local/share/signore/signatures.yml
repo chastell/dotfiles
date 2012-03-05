@@ -34666,3 +34666,50 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na razie wierzyłem na słowo, ale tak doświadczony dyskutant jak Ty na pewno
+    z własnej nieprzymuszonej woli chciałby egzemplifikować swoje tezy, więc dalsze
+    uniemożliwianie tego przez moją łatwowierność byłoby z mojej strony niekulturalne.
+  author: rysiek
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: I’d pick a villain as my project manager any day. Heroes are too reactionary.
+    Villains can scope a Death Star and ship it. Twice.
+  author: Eris Stassi
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: Saying ‘atheism is a belief system’ is like saying ‘not going skiing is a
+    hobby’.
+  author: Ricky Gervais
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: Smarkaczu jeden z drugim w konsekwencji walnę jedynkę i wyrzucę z klasy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Produkcja tlenu dla Śląska.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
