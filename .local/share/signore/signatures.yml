@@ -34713,3 +34713,78 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Back on Wing Commander 1 we were getting an exception from our EMM386 memory
+    manager when we exited the game. We’d clear the screen and a single line would
+    print out, so»
+  author: Ken Demarest
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If you watch Godzilla backwards, it’s about a dinosaur who passionately pieces
+    a city back together before moon-walking into the sea.
+  author: Łukasz Anwajler
+  source: 
+  subject: 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: ! 'I’ve been forced to explain homosexuality to my kids (aged 3 and 4) because
+    their uncle is gay. This incredibly difficult and traumatic experience went as
+    follows:
+
+    Child: Why does Uncle Bob go everywhere with Pete?
+
+    Me: Because they’re in love, just like Mummy and Daddy are.
+
+    Child: Oh. Can I have a biscuit?
+
+    We’re all scarred for life. Scarred, I tell you.'
+  author: KateP
+  source: 
+  subject: 
+  tags:
+  - en
+  - homosexuality
+- !ruby/struct:Signore::Signature
+  text: Od zarania powstania państwa polskiego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Był przedmiotem, jeśli chodzi o płeć piękną.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Potrzyma się trzy-cztery sekundy do góry, następuje samoprzetoczenie i jest
+    to wszystko porządne.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Czym fabryka zaczyszcza atmosferę?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
