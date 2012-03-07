@@ -27951,7 +27951,7 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że bank obrabiałem z babcią,i nagle się włączył alarm. Wyobraźcie
+  text: Śniło mi się, że bank obrabiałem z babcią i nagle się włączył alarm. Wyobraźcie
     sobie miny rodziny, gdy nagle przy włączonym dryndającym budziku zrywam się z
     łóżka z krzykiem „babcia! spierdalamy!”
   author: adik
@@ -34781,6 +34781,102 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Czym fabryka zaczyszcza atmosferę?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dziś napisał do mnie użyszkodnik, że chce, żebym mu zmienił płeć.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Blip
+- !ruby/struct:Signore::Signature
+  text: A w ogóle to byliśmy wczoraj w kinie i w połowie seansu obraz zamarł. Na szczęście
+    po 20 sekundach ktoś przytomnie krzyknął „wciśnij spację” i ruszyło.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: „The classic example of phenomena well modelled by a Poisson process is deaths
+    due to horse kick in the Prussian army, as shown by Ladislaus Bortkiewicz in 1898.”
+    Myślę, że wykorzystam to zdanie z Wikipedii w mojej pracy jako test, czy ktoś
+    ją właściwie czytał.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - science
+- !ruby/struct:Signore::Signature
+  text: When asked why there was only one set of foot prints Jesus replied, ‘The Sand
+    people ride single file to hide their numbers.’
+  author: Unvirtuous Abbey
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: Some people, wanting an escape from their full-time job, think ‘I know, I’ll
+    contribute to open source’. Now they have two full-time jobs.
+  author: Tom Dale
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - open source
+- !ruby/struct:Signore::Signature
+  text: In security startup we are heavy use of RoR as honeypot.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Ja nikogo w mordę nie walę i źle nie żyję, takie myślę, że na tamtym świecie
+    będzie dobrze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Teraz będziecie mnie naśladować. Ja będę rysował a wy przerysujecie. A teraz
+    narysuję prostokącik.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jak ty tam, to, bo ja mówię.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Czołg, tego… leci…
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
