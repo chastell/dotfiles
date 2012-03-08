@@ -34884,3 +34884,48 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I’m somewhat of an expert on testing, and it still amazes me how much time
+    and energy is saved by practicing TDD.
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Each time you delete dead code, a baby smiles.
+  author: Tim Ottinger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Ludzie, którzy nie odróżniają prekambru od dytyrambu.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Oczyszczalni ścieków jest trzystu siedemdziesięciu dwóch.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Znam was wszystkich, co u mnie jest zjawiskiem dodatnim.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
