@@ -34929,3 +34929,41 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Commenting bad code is like explaining a joke.
+  author: Venkat Subramaniam
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Like the right-wing creates *fake* scapegoats to channel *real* discontent,
+    FP blames mutable state for the software crisis.
+  author: PLT Žižek
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Nakrętka do połączenia części twarzowej z tą nakrętką.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Poszczególni ojcowie papieże byli zaniepokojeni.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
