@@ -34967,3 +34967,70 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: RVM, rbenv, etc. are symptoms of Ruby’s Cambrian Explosion in implementations,
+    something few languages are lucky enough to ever experience.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'Agree/disagree statement from phone survey for my bank: ‘I can’t imagine
+    a world without [BANK].’ I took the LOL option.'
+  author: Annette Vee
+  source: 
+  subject: 
+  tags:
+  - en
+  - banking
+- !ruby/struct:Signore::Signature
+  text: Ten minutes into PyCon, I’ve already shouted ‘you CAN’T fix Python!’ in a
+    group of ten Python programmers.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+- !ruby/struct:Signore::Signature
+  text: Na co by człowiek nie popatrzył to jest podwojenie obrazu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Człowiek jest, a młodzież nie jest wyjęta spod tego prawa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na tym polega humanitaryzm, że człowiek zdaje sobie sprawę, że grozi mu niebezpieczeństwo.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Słońce znajduje się tam na dole.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
