@@ -35034,3 +35034,91 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Śniło mi się, że gram w pokera z Havlem. Musiałem się poddać po pierwszym
+    rozdaniu. Moją rączka wyglądała następująco: notatnik, kalendarzyk, notatnik,
+    wizytówka i Joker.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - dreams
+- !ruby/struct:Signore::Signature
+  text: „Ilu miałaś facetów?” zapytuje mnie Merlin w fantastycznie dobranej promocji
+    wysłanej e-mailem.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: 80% of devops need of exercise more, are out of breath after one deploy.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
+- !ruby/struct:Signore::Signature
+  text: ‘Who’s doing test driven development?’ 1% of the audience raise their hands.
+    In a testing talk at PyCon. Oh, Python culture.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+  - testing
+- !ruby/struct:Signore::Signature
+  text: I love you, Ruby and Ruby culture. You are horrible and flawed and warty and
+    so much better than anything else that exists.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Wątroba jest jak to się mówi produkcja, tam jest wszystko oczyszczane i wprowadzane
+    do obiegu, a to co jest ten to zostaje.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rozstrzelany przez sąd polowy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Najpierw zajmowała się książką, później konwersacją, a ja się będę na przyszły
+    tydzień tobą zajmował.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nie powiem, że wyłącznie u dorosłych, ale tylko.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
