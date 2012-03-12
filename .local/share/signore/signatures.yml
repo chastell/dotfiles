@@ -35122,3 +35122,42 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'I am such a socially awkward penguin when I’m in another country.
+
+    I really want to be like ‘I’m so sorry I’m an American and I’m here and I don’t
+    know your language… but can I get a Big Mac? *shame*’'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Kace możemy podzielić na dwa podstawowe rodzaje: kace zwykłe i kace spędzane
+    sam na sam z czterolatkiem z zajawką na warcaby, dinozaury i idiotyczne żarty
+    językowe. O pierwszych nie warto mówić, o drugich nie sposób.'
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - hangovers
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Podwoił o trzysta osób.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Przyświecało im ratowanie życia, które zagrażało ludności wokół.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
