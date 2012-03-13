@@ -35161,3 +35161,82 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Boy said this morning: ‘if they build car parks, then the cars will come’.
+    Deep thinker for a three year old.'
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Yak remains defiantly present and hirsute.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: We can just ship JRuby in an applet and write the whole site in Swing using
+    MonkeyBars.
+  author: Tony Arcieri
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Java
+- !ruby/struct:Signore::Signature
+  text: If they give you ruled paper, write the other way.
+  author: Juan Ramon Jiminez
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Like its politicians and its wars, society has the teenagers it deserves.
+  author: J. B. Priestley
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Proszę między innymi wyjść i opuścić salę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kleszcz musi dojść do mózgu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Między innymi kapłana-szamana zaproszono do Warszawy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Proces zmiany pańszczyzny, czyli na czynsz.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
