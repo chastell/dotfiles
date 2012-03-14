@@ -35240,3 +35240,57 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: It’s only technical debt if you *chose* to do it that way to meet a deadline.
+    Otherwise it’s called incompetence.
+  author: Clay McClure
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: From now on this unicode character indicates an underutilized liberal arts
+    degree ❦.
+  author: Paul Ford
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jeśli chodzi o broń chemiczną to nie jest to wynalazek.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Człowiek między innymi znajdował sobie stanowiska pracy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Taka fabryka spalania.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jest to moi kochani tragedia, po prostu tragedia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
