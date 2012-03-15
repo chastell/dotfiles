@@ -35294,3 +35294,61 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ciekawe, że jak tłumaczę o sprzęcie audio albo foto, to mam ochotę natychmiast
+    lecieć i sobie takie kupić, a jak tłumaczę o porządkowaniu i organizacji miejsca
+    pracy, to mam najwyżej ochotę nażreć się czekolady albo napić wódki.
+  author: Evva
+  source: 
+  subject: 
+  tags:
+  - pl
+  - translations
+- !ruby/struct:Signore::Signature
+  text: I’m annoyed today by the fact that in Rails people tend to just pass hashes
+    around instead of real objects. Holy shit this is annoying.
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Mogę nastawiać jedynek tyle, ile gwiazd na niebie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Teraz ja może poproszę, o tego, o spokój.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Są też tak zwani bez dyplomu, czyli zielarze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kończyłem historię filozofii, jestem religioznawcą, a jako wierzący jestem
+    niewierzący.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
