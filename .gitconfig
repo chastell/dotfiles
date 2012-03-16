@@ -11,6 +11,9 @@
   user = chastell
   token = …
 
+[push]
+  default = current
+
 [user]
   name = Piotr Szotkowski
   email = chastell@chastell.net
