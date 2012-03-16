@@ -35352,3 +35352,95 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Fotoszop to taka kurwa której obca jest jakakolwiek optymalizacja pamięci.
+    Ktokolwiek nad tym pracował, powinien przyciąć sobie jaja klapą od ksero w ramach
+    zadośćuczynienia.
+  author: spin
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - Photoshop
+- !ruby/struct:Signore::Signature
+  text: Some programmers, when confronted with a problem, think ‘I know, I’ll use
+    floating point arithmetic’. Now they have 1.999999999997 problems.
+  author: Tom Scott
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Właśnie odkryłem – cholernie nie chce mi się dzisiaj.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: I asked the masseuse for a happy ending and she leaned over and said, ‘you
+    blow up the Death Star’.
+  author: Jason Sweeney
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I love Ruby’s optional parentheses. Lisp doesn’t have optional parentheses.
+  author: Jamis Buck
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Guy on the bus has the same jacket I have. I gave him a man-nod. It was either
+    that or stab him with my knife. He probably has my knife too.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Po co po prostu, jeśli chodzi o ekologię?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nie lubię tego, jak to się mówi po szkolarsku, wykuwania na blachę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja nie chcę być taki gromowładny Zeus.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: …a nie żebym ja spał i myślał, cholera jasna, czy ja jutro wsiądę do tego
+    mercedesa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
