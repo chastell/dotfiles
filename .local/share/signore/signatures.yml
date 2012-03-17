@@ -35444,3 +35444,88 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: w czacie słychać strzały.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Cynicism is OVER.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Wyrzuty, gdy wrzucisz byle co do repo, a klient zachwycony.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Klient usunął kod i narzeka, że nie działa. NO SHIT.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: So far, adulthood involves way more paperwork and way less battling the forces
+    of evil on a talking Pegasus than I expected.
+  author: Theresa Lauren
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If you hear devops is mutter ‘shit got real’ is probably Unicode error.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
+- !ruby/struct:Signore::Signature
+  text: Jak to będzie w przeszłości, to trudno powiedzieć.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Gdzieniektórzy nie zwracają uwagę, jak idzie belfer.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Drogami oddechowymi przez przewód pokarmowy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rakiety drzemią sobie w silosach.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
