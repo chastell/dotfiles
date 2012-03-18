@@ -35529,3 +35529,48 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mocking is hard, let’s go stubbing.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Piszemy powieść „Przygody nieustraszonego Muzealnika”, w której streścimy
+    wszystkie nieprawdopodobne sny, które przyśniły nam się w Muzeum.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: Wysokie urodzenie ubiegało się o rycerstwo.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Po te złoża trzeba sięgać między innymi głębiej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Państwo robi rezerwę i to jest rezerwa państwowa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
