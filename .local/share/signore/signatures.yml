@@ -35574,3 +35574,65 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Is all fun and game until you can not able ping it.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Look, all I’m saying is that 9.9999% is ‘five nines’ too.
+  author: Dana Contreras
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: W naszym konkursie na „Chomika roku” wygrywa kustosz, który zaczął katalogować
+    fiszki, na których jego poprzednicy katalogowali zbiory.
+  author: ‏‏@Muzealnicy
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: ! 'I type my slides in LibreOffice and then export them to PDF. First slide:
+    title, second: ‘Listen.’, third: ‘Thanks!’'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - presentations
+- !ruby/struct:Signore::Signature
+  text: Ściana ognia może niszczyć siłę żywą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nauka to człowiek.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Pochówek rannych.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
