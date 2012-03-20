@@ -35636,3 +35636,67 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Śniło mi się, że w ramach promocji Euro 2012 przyjechał Arsenal i grał nago.
+    Wbiegł ubrany kibic na boisko i był wielki skandal.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - football
+- !ruby/struct:Signore::Signature
+  text: History is written by the victors, most likely using git rebase.
+  author: Robert Reppel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: ! 'We have two types of clients: those who insist on estimates, and those
+    who are happy with us.'
+  author: Doug Alcorn
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Ja to nie dostałem w zastrzykach, ja to dostałem między innymi w pastylkach.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: …że oprócz tych zaginionych są jeszcze no, no ci, którzy umarli, a także jeszcze
+    ci zaginieni.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Żołnierz naćpał się wody.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Ja wychodzę z założenia: dlaczego stan między innymi takiego armii…'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
