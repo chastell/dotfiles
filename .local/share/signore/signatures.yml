@@ -35745,3 +35745,36 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Właśnie ogarnąłem tutoriala z nawigacji [Zbrusha]. Kurwa kurwa kurwa kurwa,
+    ktokolwiek pracował nad interfejsem tego szitu powinien zdecydować się czy koksuje
+    w żyłę czy wącha klej, bo w narkotycznym widzie chyba zrobił na odwrót. Ja pierdole,
+    witkacy picasso megamix. NOT ENOUGH MENUS, YOU MUST ADD ADDITIONAL MENUS.
+
+    Tu nie chodzi o to że jest mało intuicyjny i ma duży learning curve. Tu chodzi
+    o to, że rzeczy które są na jedne kliknięcie w takim blęderze tutaj zabierają
+    osiem podmenu. Skróty klawiszowe na dwie ręce, obsługa myszy chujem - dołączamy
+    przyssawki podnapletkowe i winylowe podkładki pod mosznę dla tych co nie lubią
+    golić!
+
+    A w dodatku pizdy kupiły darmowego sculptrisa razem z programistą i wpierdoliły
+    do niego te swoje openglowe menu z transparencjami i animacjami.
+
+    Bring me my fighting trousers, kurwa.
+
+    https://www.youtube.com/watch?v=0iRTB-FTMdk'
+  author: spin
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Finding good people to hire is a big problem, especially when your industry
+    ostracizes half of the population.
+  author: Alex Rock
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - gender
