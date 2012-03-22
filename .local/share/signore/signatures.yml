@@ -35778,3 +35778,58 @@ signatures:
   - en
   - tech
   - gender
+- !ruby/struct:Signore::Signature
+  text: ! 'How to upset a Brit in two simple steps:
+
+    1. Make fun of their power plugs.
+
+    2. There is no step 2.'
+  author: Arjen Poutsma
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Will you people be quiet? We’re trying to run a brothel.
+  author: 
+  source: Oglaf
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Razem byśmy pobili wszystkie klasy jakie są średnie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Doprowadza między innymi do śmierci.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zajmiemy się obroną cywilną jeśli chodzi o Rzeczpospolitą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Jeśli chodzi o szkolnictwo i tak dalej, to wiesz jest takie przysłowie:
+    poznać głupiego po śmiechu jego.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
