@@ -35833,3 +35833,79 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Naming a class for part of a pattern is like putting a sign saying ‘door’
+    on a door: either an error or an emergency measure!'
+  author: Keith Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: In Soviet Russia code tests you.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Doradziliśmy dziś kustoszom, że ich zebrania będą miały większy sens jeśli
+    zaczną obradować w kapturach.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Some people, when confronted with a security problem, think ‘I know, I’ll
+    further couple my controllers to my models’. Now they have Rails.
+  author: Angry on Rails
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Tam według tego wiecie…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mieliśmy ze sobą temat piąty.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zwierzęta i rośliny dostarczają szczątków.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Między innymi te baterie przemieszczały się non stop.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
