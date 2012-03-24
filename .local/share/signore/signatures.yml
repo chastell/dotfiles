@@ -35909,3 +35909,63 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Homoiconicity is terribly overrated.
+
+    I’m OK with metaprogramming being harder if my daily programming is easier. Optimize
+    for the common case.'
+  author: Josh Susser
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I would love to do a talk on what Ruby developers could learn from C#, but
+    I can’t think of anything.
+  author: Chris Geihsler
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - C#
+- !ruby/struct:Signore::Signature
+  text: Małgosia nie umie, jedynka i siad.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W konwencji o ochronie żywności kobieta brana jest pod ochronę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Bydło, krowy między innymi karmiąc się, przenika do mleka.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W 1974 Rada Ministrów w tej materii podjęła uchwały.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
