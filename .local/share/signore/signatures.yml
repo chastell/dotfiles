@@ -35969,3 +35969,55 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I can’t hug all the cats. I can’t hug all the cats. I can’t hug all the cats.
+  author: Carol Nichols
+  source: 
+  subject: 
+  tags:
+  - en
+  - cats
+- !ruby/struct:Signore::Signature
+  text: Give me the right music, and I’ll code anything.
+  author: Marcin Bunsch
+  source: 
+  subject: 
+  tags:
+  - en
+  - programming
+- !ruby/struct:Signore::Signature
+  text: W czasie ferii były łyżwy, narty… były inne przyjemności.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zaczęło strażakami trzepać, którzy się tym bawili.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja się tam po prostu wysilałem, dobierałem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Każdy naukowiec ma jakąś nić i chce tą nić doprowadzić do… tego…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
