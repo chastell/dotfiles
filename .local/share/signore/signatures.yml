@@ -36057,3 +36057,59 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Szczury są pożyteczne, odstraszają ser.
+  author: Edward Tomasz Napierała
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'We are like tenant farmers chopping down the fence around our house for
+    fuel when we should be using Nature’s inexhaustible sources of energy – sun, wind
+    and tide.
+
+    I’d put my money on the sun and solar energy. What a source of power! I hope we
+    don’t have to wait until oil and coal run out before we tackle that.'
+  author: Thomas Edison
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Tam gdzie jest pusty ogień sypie się miotaczem ognia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Proszę się ze mną skonsultować, ja podam adres, telefon…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nauczyciel jedzie na starej benzynie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Może najpierw sobie zaczniemy od amoniaku, z którym człowiek najczęściej się
+    spotyka.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
