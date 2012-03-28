@@ -104,3 +104,6 @@ autocmd FileType help wincmd L
 " autosave and return to normal mode
 autocmd FocusLost * :silent! wall
 autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
+
+" autoremove Fugitive buffers
+autocmd BufReadPost fugitive://* set bufhidden=delete
