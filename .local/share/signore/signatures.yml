@@ -36113,3 +36113,64 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: The delivery guy hands over my six pizzas. I close the door, turn off the
+    MP3 of party noise and let out a long, shuddering breath.
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Unit testing sucks. By which I mean, unit testing reveals where my code is
+    horribly written. Which sucks.
+  author: Gareth Adams
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: The folks who create process care about control, and they use politics to
+    shape that control and to influence communications, and if there is ever a sentence
+    that would cause a hacker to stand up and throw his or her keyboard at the screen,
+    it’s the first half of this one.
+  author: 
+  source: Hacking is Important, Rands in Repose
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '— Kiedy mamy do czynienia z omdleniem?
+
+    — Z omdleniem mamy do czynienia wtedy, gdy widzisz, że ktoś modląc się nad otwartym
+    grobowcem stoi, stoi, fik, fik i już nie ma.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W dzielnicy XXI wieku zbudowano domy na obraz i podobieństwo przedszkolaków.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Pojęcie układu rozumiecie z fizyki albo z cybernetyki, co wyraża się w komputerach.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
