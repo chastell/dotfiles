@@ -1,0 +1,11 @@
+; generated_rule Vim
+( if 
+( begin 
+( is ( application_name ) "Vim" )
+) 
+( begin 
+( maximize )
+( set_workspace 2 )
+( println "match" )
+)
+)

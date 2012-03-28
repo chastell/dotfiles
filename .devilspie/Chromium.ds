@@ -1,0 +1,11 @@
+; generated_rule Chromium
+( if 
+( begin 
+( is ( application_name ) "Chromium" )
+) 
+( begin 
+( maximize )
+( set_workspace 3 )
+( println "match" )
+)
+)

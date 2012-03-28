@@ -1,0 +1,12 @@
+; generated_rule Skype
+( if 
+( begin 
+( is ( application_name ) "Skype" )
+) 
+( begin 
+( set_workspace 1 )
+( maximize_vertically )
+( geometry "664x876+0+24" )
+( println "match" )
+)
+)

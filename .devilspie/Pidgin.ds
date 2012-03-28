@@ -1,0 +1,12 @@
+; generated_rule Pidgin
+( if 
+( begin 
+( is ( application_name ) "Pidgin" )
+) 
+( begin 
+( set_workspace 1 )
+( maximize_vertically )
+( geometry "+0+0" )
+( println "match" )
+)
+)
