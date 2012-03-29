@@ -9,12 +9,12 @@ map <leader>fr  ggCFrom: Piotr Szotkowski <piotr.szotkowski@rebased.pl><esc>G?^�
 map <leader>fw  ggCFrom: Wojtek Szotkowski <chastell@chastell.net><esc>G?^— .<enter>C— Wojtek<esc>
 
 " sig randomiser: e/p → (non-)Polish, l/t → (non-)technical
-map <leader>se  G?^-- $<enter><down>dG:r! signore prego ~pl<enter>Go<enter><enter><esc>
-map <leader>sle G?^-- $<enter><down>dG:r! signore prego ~pl ~tech<enter>Go<enter><enter><esc>
-map <leader>sll G?^-- $<enter><down>dG:r! signore prego ~tech<enter>Go<enter><enter><esc>
-map <leader>slp G?^-- $<enter><down>dG:r! signore prego pl ~tech<enter>Go<enter><enter><esc>
-map <leader>sp  G?^-- $<enter><down>dG:r! signore prego pl<enter>Go<enter><enter><esc>
-map <leader>ss  G?^-- $<enter><down>dG:r! signore prego<enter>Go<enter><enter><esc>
+map <leader>se  G?^-- $<enter><down>dG:r! signore prego ~pl ~Staszic<enter>Go<enter><enter><esc>
+map <leader>sle G?^-- $<enter><down>dG:r! signore prego ~pl ~tech ~Staszic<enter>Go<enter><enter><esc>
+map <leader>sll G?^-- $<enter><down>dG:r! signore prego ~tech ~Staszic<enter>Go<enter><enter><esc>
+map <leader>slp G?^-- $<enter><down>dG:r! signore prego pl ~tech ~Staszic<enter>Go<enter><enter><esc>
+map <leader>sp  G?^-- $<enter><down>dG:r! signore prego pl ~Staszic<enter>Go<enter><enter><esc>
+map <leader>ss  G?^-- $<enter><down>dG:r! signore prego ~Staszic<enter>Go<enter><enter><esc>
 map <leader>ste G?^-- $<enter><down>dG:r! signore prego ~pl tech<enter>Go<enter><enter><esc>
 map <leader>stp G?^-- $<enter><down>dG:r! signore prego pl tech<enter>Go<enter><enter><esc>
 map <leader>stt G?^-- $<enter><down>dG:r! signore prego tech<enter>Go<enter><enter><esc>
