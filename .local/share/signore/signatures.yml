@@ -36174,3 +36174,90 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'DKJP, mam deadline na projekt na środę, ale jeszcze nie wiem co to ma być,
+    nie chce mi się już.
+
+    Ciągle projekty gdzie nie wiadomo co, nie wiadomo kto, wiadomo tylko na kiedy
+    i że za mało czasu.
+
+    W przyszłym roku jadę zbierać mech do Norwegii.
+
+    Tymczasem na Gieplusie idiotyczna dyskusja o tym, jak genialnie pracuje się na
+    czterech monitach.
+
+    Tylko wrodzona elegancja i szyk nie pozwalają mi skomentować tego krótkim „jak
+    chuj”.'
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Szef projektu, na Skajpie ksywa Hammerfist. Rocznik zdradza, że ma 59 lat.
+    Spodziewam się sukcesu.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '— Daję słowo, że połowa szkół w tym kraju nosi imię JPII.
+
+    — A powinny IPv6.'
+  author: Merigold, DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Zrobiłem sobie tak zajebistą kawę, że chyba sie z tej radości zdrzemnę.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: Every time I ask some Rails question I get a half-dozen answers saying I should
+    exert godlike powers of change over client projects.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Władowali ich na pierwszy skraj.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kraków, Nowa Huta, Katowice, Bełchatów, Trójmiasto, Zielona Góra – to są po
+    prostu wsie bardzo zanieczyszczone.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ukraińce.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
