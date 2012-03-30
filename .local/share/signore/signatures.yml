@@ -36261,3 +36261,122 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I’m about 15% done with the last 10%.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: I’m getting really, really good at buying books on Amazon, sending them to
+    my Kindle, and never reading them. It’s the future of publishing.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - Kindle
+  - ebooks
+- !ruby/struct:Signore::Signature
+  text: You’re so vain you probably think this tweet is about you.
+  author: Ben Simo
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Repeat after me: My short time on this planet is better spent not arguing
+    on the Internet.'
+  author: ! '@arclight'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’d love to be able to vote Green at the mayoral election. But the anti-science,
+    anti-nuclear nonsense makes it difficult.
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I live in a fairy castle where half the inhabitants are livid because the
+    rainbow-pooping unicorns are just the wrong shade of awesome.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I have some of the most advanced consumer gadgets around and they all run
+    free (as in speech) operating systems. I love that we won.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - open source
+- !ruby/struct:Signore::Signature
+  text: Scientists say men who drink beer daily reduce their risk of heart attack.
+    As for livers, scientists said ‘fuck livers’ and then high-fived.
+  author: Chase Mitchell
+  source: 
+  subject: 
+  tags:
+  - en
+  - alcohol
+  - health
+- !ruby/struct:Signore::Signature
+  text: ! 'Things I don’t understand #77: people who want to get in trains before
+    letting passengers get off.'
+  author: Ashish Dixit
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Java developers hate the language so much that, faced with the prospect of
+    actually writing Java, they instead write 10× as much XML.
+  author: Eevee
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Dwieście tysięcy chlorów idzie do atmosfery.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja wam między innymi powiem co wam grozi na okres.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Może i tak o jedno bardzo proszę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
