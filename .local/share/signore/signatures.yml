@@ -36380,3 +36380,50 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: The problem with DRM is it makes a legal product its own inferior version.
+    It’s just bad economics to raise the value of the pirate copy.
+  author: Matt Pearson
+  source: 
+  subject: 
+  tags:
+  - en
+  - piracy
+  - DRM
+- !ruby/struct:Signore::Signature
+  text: Nie chcę cię kompromitować jak nowy nauczyciel przyjdzie, że jesteś taka denna
+    jeśli chodzi o ekologię.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I dlatego między innymi czternaście tysięcy chlorów wyciekło.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli na przykład statystyki mówią, i, hej, od piętnastego roku.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Niesienie pomocy to nie jest tak, że nic się samo z siebie nie bierze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
