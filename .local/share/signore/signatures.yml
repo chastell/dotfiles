@@ -36427,3 +36427,107 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: If you know, in the morning, what your day looks like with any precision,
+    you are a little bit dead – the more precision, the more dead.
+  author: Nassim Taleb
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'A Allegro zapodało mi, cytuję: „4 osoby licytują, wygrywa k…a”.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Allegro
+- !ruby/struct:Signore::Signature
+  text: „Niezwykłe w mojej pracy jest to, że głosem wpływam na tłumy” – mówi w wywiadzie
+    dla magazynu „W podróży” Jadwiga Ragus, megafonistka z Dworca Centralnego.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - railways
+- !ruby/struct:Signore::Signature
+  text: W Katowicach wiosenny poranek, dżdżysty, chłodny i szarobury. Za godzinę rozpoczynam
+    podróż powrotną i jeszcze przed północą dotrę do Gdańska, oddalonego o pięć i
+    pół tysiąca kilometrów.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - railways
+- !ruby/struct:Signore::Signature
+  text: ! '— Ktoś wie jak się rysuje na papierze półlogarytmicznym?
+
+    — Bierzesz ołówek i linijkę. Przykładasz ołówek do papieru tą ostrzejszą stroną
+    (oczywiście najpierw musisz ołówek zatemperować). Następnie jeżeli masz już przyciśnięty
+    ołówek do kartki to wykonujesz ruchy ręką w określonym kierunku. Ołówek powinien
+    pozostawiać ciemny ślad. Jeżeli nie pozostawia to albo nie zatemperowałeś albo
+    za słabo przyciskasz bądź też przyłożyłeś ołówek nie tą stroną. Linijka jest od
+    rysowania prostych linii.'
+  author: Tomasz, Jasiek
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Z hipsterkami trzeba uważać – gadasz z taką, jest ok; ładna buzia, fajne włoski,
+    jakieś chusty, te ich śmieszne okularki, kolorowe ciuszki… a tu hipsterka ma na
+    imię Mariusz.
+  author: rozkminator
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Good error messages distinguish a framework from a clever hack.
+  author: Jessica Kerr
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Ranny w obie dwie nogi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Będzie aż się roiło od ludzi, które będą się dopychali.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I sprzęt już odkażony leci, prawda, z czwórki na dziesiątkę – ja tu dziesiątki
+    nie narysowałem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Milicja boża to są właśnie jezuici.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
