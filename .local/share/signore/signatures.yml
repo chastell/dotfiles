@@ -36576,3 +36576,47 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Wszystko musi jeść! Papu, jeść!
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Żołnierze zewsząd naciągają do legionów.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Epidemia przestraszonych, rannych i zadżumionych.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Trzeba zabrać nauszniki na ochraniacze… na usta… na uszy…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: When my children ask, ‘what was the Internet like when you were young, dad?’
+    Slow, I’ll reply, but you didn’t go to jail for lookcrime.
+  author: Rob Manuel
+  source: 
+  subject: 
+  tags:
+  - en
