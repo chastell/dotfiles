@@ -36620,3 +36620,82 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If you want something in your life that’s always excited to see you, but you
+    don’t like dogs, consider a poorly-placed hot air hand dryer.
+  author: anand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I napiszmy dwukropek, bo jak się pisze całym ciurkiem, to się nie można rozeznać.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Samolot czy łódź podwodna nie musi dopłynąć do wybrzeżów Stanów Zjednoczonych.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jezuici w ogóle, po prostu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Więc jest mi bardzo przykro, albowiem cytowałem uchwałę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Dear Web Devs: Stop asking me what type of credit card I’m entering. If
+    you can’t tell from the number you’re too stupid to have my money.'
+  author: Mike Gunderloy
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: When a site/app is slow I read their careers page to learn their tech. It’s
+    always interesting. ‘Hot new stuff’ is often in play.
+  author: Baron Schwartz
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Your point will doubtless be fascinating once you arrive at it.
+  author: Rick Moen
+  source: linux-elitists
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Marek po wejściu do domu zaczął histerycznie płakać na mój widok. Myślałem,
+    że przestraszył się gumowej końskiej głowy, w której stałem na środku pokoju –
+    ale okazało się, że miał nadzieję, że jestem jeszcze w pracy i komputer jest wolny.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
