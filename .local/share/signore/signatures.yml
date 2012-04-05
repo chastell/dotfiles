@@ -36699,3 +36699,81 @@ signatures:
   tags:
   - pl
   - parenting
+- !ruby/struct:Signore::Signature
+  text: Cała dłoń, aż do łokci.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: A więc na terenie między innymi przetaczania krwi…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja bardzo lubię młodzieńców.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mówić na frezarkę „wiertarka na stojaku” to jak powiedzieć o swojej starej
+    „ex-mleczarnia obsługująca aparaturę kuchenną”.
+  author: Spin
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '„Ludzie dzielą się na trzy grupy: tych którzy uwielbiają srirachę i żrą
+    ją ze wszystkim, tych którzy srirachy jeszcze nie próbowali, oraz na takich co
+    nie mają duszy a na śniadanie jedzą trzy małe pandy (co gorsza bez srirachy).”
+
+    ~ Abraham Lincoln, „Wspomnienia”'
+  author: q3k
+  source: 
+  subject: 
+  tags:
+  - pl
+  - sriracha
+- !ruby/struct:Signore::Signature
+  text: I cried because I had no shoes, until I met a man who was wearing Crocs.
+  author: John Kovalic
+  source: 
+  subject: 
+  tags:
+  - en
+  - crocs
+- !ruby/struct:Signore::Signature
+  text: A taxi driver describing the trunk of the cab as ‘big enough for a couple
+    bodies’ loses some humor when you’re alone with him at 4 am.
+  author: Pete Higgins
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '— HTTP/1.1 200 OK\r\nTWOJA STARA\r\n
+
+    — HTTP/1.1 413 Request Entity Too Large\r\n
+
+    — HTTP/1.1 413 \r\nCHYBA TWOJA\r\n
+
+    — HTTP/1.1 301 \r\nLocation: /Berdyczów\r\n'
+  author: Anna Warzecha, Cezary Statkiewicz, opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - HTTP
