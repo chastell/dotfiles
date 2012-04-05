@@ -6,6 +6,6 @@ keycode 47 = semicolon colon leftsinglequotemark dead_doubleacute leftsinglequot
 keycode 48 = apostrophe quotedbl rightsinglequotemark dead_caron rightsinglequotemark dead_caron
 keycode 51 = backslash bar doublelowquotemark dead_breve doublelowquotemark dead_breve
 keycode 56 = b B Greek_beta Greek_BETA Greek_beta Greek_BETA
-keycode 59 = comma less horizconnector leftarrow horizconnector leftarrow
+keycode 59 = comma less heart leftarrow heart leftarrow
 keycode 60 = period greater ellipsis rightarrow ellipsis rightarrow
 keycode 65 = space NoSymbol nobreakspace NoSymbol nobreakspace NoSymbol
