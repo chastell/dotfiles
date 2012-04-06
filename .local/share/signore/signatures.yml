@@ -36777,3 +36777,92 @@ signatures:
   - pl
   - tech
   - HTTP
+- !ruby/struct:Signore::Signature
+  text: ! 'I think I’m starting to see that statically typed languages have crippled
+    programmers’ ability to think adaptively.
+
+    And, all ‘static typing’  amounts to is syntax for a complicated compile time
+    assertion system. It’s failing is it’s not run time as well.'
+  author: Zed Shaw
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'It’s funny what you find when reading through some Travis CI source, like:
+
+    export HAS_ANTARES_THREE_LITTLE_FRONZIES_BADGE=true'
+  author: Graham McIntire
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Travis
+- !ruby/struct:Signore::Signature
+  text: Few things irritate me more than computer scientists claiming that natural
+    selection is optimization. Sufficient ≠ optimal, people.
+  author: Brian McFee
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: We have been like a cooperating cat colony on code convention.
+  author: Carlos Garcia Perez
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Złamania rąk, czyli kończyn górnych i dolnych.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W zależności, co się w tym zakładzie pracuje.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Coś tam robią tym świtaniem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Najważniejsze jest zapewnienie różnych zapewnień.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I found a bug in Firefox’s rendering of blinking red bold scrolling marquees
+    that evening.
+  author: Gregory Brown
+  source: 
+  subject: on the night Jordan Byron came up with spotthebaddy.com
+  tags:
+  - en
+  - tech
+  - programming
