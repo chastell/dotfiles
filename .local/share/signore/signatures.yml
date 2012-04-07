@@ -36963,3 +36963,93 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: In and out of IKEA in 18 min. Bam. Take that you manipulative maze building
+    DIY viking punks.
+  author: Chris Worman
+  source: 
+  subject: 
+  tags:
+  - en
+  - IKEA
+- !ruby/struct:Signore::Signature
+  text: Just was asked what language I code in by a U.S. Customs and Border Protection
+    officer. I told him semicolonless JavaScript.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: I got asked what language I program in on my way back from Colombia. I told
+    that fine gentlemen 5 things I hate about Ruby.
+  author: Duncan Grazier
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! '‘I always wanted to mess around with D.’
+
+    ‘It’s fun. Lots of problems, mostly social.’'
+  author: Avdi Grimm, Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - D
+- !ruby/struct:Signore::Signature
+  text: ! 'Pretty sure if reading the word ‘confidential’ in an NDA was a drinking
+    game I’d be dead from alcohol poisoning.
+
+    You know when you say a word a lot and it stops sounding like a real word? Just
+    happened to me. #confidential'
+  author: Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You kids have it so easy with your O(n^2.3727) matrix multiplication algorithms.
+    Back in my day it was O(n^2.3753) AND WE LIKED IT.
+  author: Colin Bayer
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Wy jesteście skurczybyki nie wierzę wam jak psom.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Glony to są bardzo potrzebne, jeśli chodzi o rośliny.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Albo dodatnio albo inaczej wobec tych cech wpływa ujemnie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
