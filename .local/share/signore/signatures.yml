@@ -36866,3 +36866,100 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Don’t kid yourself. There is a full-on arms race going on right now against
+    Skype to understand their UI. And they are winning.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - Skype
+- !ruby/struct:Signore::Signature
+  text: What if the Rails community spoke about data integrity the same way we speak
+    about fast tests?
+  author: Xavier Shay
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Whenever I want to be alone I go hang out on Google+.
+  author: Marshall Huss
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google+
+- !ruby/struct:Signore::Signature
+  text: We used to have Watir tests for the UI but they got lost/deprecated (like
+    Ryszard’s uncle who,  at the age of 11, got off the train in Siberia to buy a
+    sandwich, missed the train, then had to walk back to Poland alone over the course
+    of several years).
+  author: Nick Allen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: I guess the best thing about having kids is pretending the police are at the
+    door and making them eat an entire pot plant.
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: In the future, only robots will be able to pass CAPTCHAs.
+  author: Matt O’Brien
+  source: 
+  subject: 
+  tags:
+  - en
+  - CAPTCHA
+- !ruby/struct:Signore::Signature
+  text: Jezuici nigdy nie parali się po prostu brudną robotą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Atomówka myśli i jest mądra.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja cię po prostu pytam i tak dalej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Pięć procent promieniowania cieplnego przeznaczone jest na promieniowanie
+    cieplne.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
