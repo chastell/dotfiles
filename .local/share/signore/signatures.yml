@@ -37053,3 +37053,31 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'While imagining what it’d feel like to get hit by a car, I was just almost
+    hit by a car. Now I’m imagining a threesome.
+
+    I’ll take an almost threesome.'
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Niepotrzebne nam Szwejki, potrzebna nam broń myśląca.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Gdy kobieta jest alkoholiczką, to jej się wydaje że mąż ją zdradza.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
