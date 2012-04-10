@@ -63,6 +63,7 @@ let g:rubytest_cmd_spec = "ruby %p"
 let g:tagbar_autoclose = 1
 set clipboard=unnamedplus
 set directory=/tmp//
+set grepprg=ack-grep
 set hidden
 set history=1000
 set mouse=
@@ -78,6 +79,8 @@ nnoremap <c-h>      <c-w>h
 nnoremap <c-j>      <c-w>j
 nnoremap <c-k>      <c-w>k
 nnoremap <c-l>      <c-w>l
+nnoremap <c-m>      :cp<enter>
+nnoremap <c-n>      :cn<enter>
 nnoremap <s-down>   O<esc><down>
 nnoremap <leader>b  :LustyBufferExplorer<enter>
 nnoremap <leader>f  :LustyFilesystemExplorer<enter>
