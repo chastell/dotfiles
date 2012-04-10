@@ -37081,3 +37081,54 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '‘Is there any canonical place to put constants for use in my code in Rails?’
+
+    ‘I like to create a Config class, and patch in the various values at odd parts
+    all over the app, with different and contrasting values. Because whoever comes
+    after me is the one who took my job. And fuck that guy.’'
+  author: Xenoskin, POTUS
+  source: /r/rails
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Ja wam powiedziałem, że kończę szkołę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Spojrzenie na uczniów przez ekologię.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Bardzo brzydkie określenie: rura.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Alkohol to dobry nie na ręce tylko do gardła.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
