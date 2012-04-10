@@ -1,3 +1,4 @@
+alias a='ack-grep'
 alias backup='offlineimap; reset; rm -fr ~/.cache/chromium ~/.local/share/Trash ~/.thumbnails; fusermount -u ~/.gvfs; rdiff-backup --print-statistics -v5 ~ /media/Arthur/X301.rdiff; beep -r 3'
 alias clive='clive -cf best'
 alias cp1250='iconv -t cp1250 -f utf8'
