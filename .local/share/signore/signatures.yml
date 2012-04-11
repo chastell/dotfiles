@@ -17739,7 +17739,7 @@ signatures:
     — Już wiem jak się czują „mniej informatyczne” osoby gdy słuchają jak rozmawia
     dwóch geeków.'
   author: rysiek, Sergiusz Bazański
-  source: hs-waw
+  source: HS WAW
   subject: 
   tags:
   - pl
@@ -32991,7 +32991,7 @@ signatures:
     dane to w moim słowniku trochę tak jak wypinać dupę pod prysznicem na oddziale
     chorób wenerycznych wojewódzkiego szpitala więziennego.
   author: spin
-  source: 
+  source: HS WAW
   subject: 
   tags:
   - pl
@@ -35357,7 +35357,7 @@ signatures:
     Ktokolwiek nad tym pracował, powinien przyciąć sobie jaja klapą od ksero w ramach
     zadośćuczynienia.
   author: spin
-  source: 
+  source: HS WAW
   subject: 
   tags:
   - pl
@@ -35764,7 +35764,7 @@ signatures:
 
     https://www.youtube.com/watch?v=0iRTB-FTMdk'
   author: spin
-  source: 
+  source: HS WAW
   subject: 
   tags:
   - pl
@@ -36730,7 +36730,7 @@ signatures:
   text: Mówić na frezarkę „wiertarka na stojaku” to jak powiedzieć o swojej starej
     „ex-mleczarnia obsługująca aparaturę kuchenną”.
   author: Spin
-  source: 
+  source: HS WAW
   subject: 
   tags:
   - pl
@@ -37132,3 +37132,129 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Marek miał pretensję, że obiecałem budować restaurację razem z nim, a zamiast
+    tego leżę na łóżku – ale wyjaśniłem mu, że jestem menejdżment i beze mnie – tu,
+    na tym łóżku – nic by się nie udało.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: My cat and I have a pretty boring conversational relationship. ‘Meow.’ ‘Dude,
+    you just ate.’ ‘Meow.’ ‘Again, shut it furball.’ ‘Meow.’ ‘Hey, quit biting me!’
+    – don’t get the parts mixed up, he’s the one meowing. It is cool that he sings
+    the meow mix song for his dinner but he is kind of a one-hit wonder that way.
+    Sure, for a brain the size of a walnut it’s pretty good. Alright. Enough said.
+  author: Chris Worman
+  source: 
+  subject: 
+  tags:
+  - en
+  - cats
+- !ruby/struct:Signore::Signature
+  text: Wiele piosenek, które lubiłem przestałem jak już nauczyłem się na tyle angielskiego,
+    żeby zrozumieć o czym są.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: ! 'W kombi siedzą zombie. Powtarzam: w kombi siedzą zombie i matka jest z
+    tyłu.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Pewne rzeczy sa stałe, czasami niewygodne, zawsze zaskakujace.
+
+    — Odgaduje hasło: za mały stanik.'
+  author: Ensata, DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'BREAKING NEWS: Pinboard acquires medium coffee at a $1.50 valuation. Believe
+    this will have sitewide benefits; excited going forward.
+
+    I was going to say cappuccino but I figured that would be the name of some Rails
+    framework and didn’t want to panic anyone.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Acquired, A PLAY. Act I. ‘We couldn’t be happier!’ Act II. ‘Why aren’t you
+    happy for us?’ Act III. ‘You have 7 days to save your data.’ FIN
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Jest to takie pół.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Odczuwamy silny brzuch w jamie brzusznej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Co jest charakterystyczne na przełomie XX i XXI wieku? To, że wiek XX się
+    kończy, a w XXI wkraczamy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'W koszu na śmieci w trzecim pomieszczeniu zaraz pod wielkim napisem „NO
+    CANS HERE” leżały sobie trzy puszki.
+
+    Proszę przekazać analfabecie który je tam wrzucił, że będzie mieć problem jak
+    założymy stowarzyszenie, bo „X” w miejscu podpisu na deklaracji członkowskiej
+    raczej nie wystarczy. Oprócz tego, została naliczona opłata karna za transport,
+    kompresję i zdeponowanie puszek we Frani w wysokości 5 PLN od puszki, płatna do
+    pojemnika ze zrzutką na serwer. Idź, synu, i więcej nie spierdol.'
+  author: Enleth
+  source: HS WAW
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Następnym projektem HS powinien być kosz na śmieci, który upierdala obie
+    ręce i wciska je w dupę siłownikiem hydraulicznym każdemu, kto wrzuca coś do niego
+    jeśli:
+
+    a) nie jest założony worek na śmieci,
+
+    b) kosz jest przepełniony,
+
+    c) wrzucany obiekt jest puszką.'
+  author: Enleth
+  source: HS WAW
+  subject: 
+  tags:
+  - pl
