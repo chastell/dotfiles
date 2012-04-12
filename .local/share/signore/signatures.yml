@@ -37258,3 +37258,134 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Dzwonił Pan i nazwał mnie przez telefon per blogger. Muszę się wykąpać w rzece.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Ja mam słuch muzyczny drugiego stopnia. 1. wiem, jak ktoś śpiewa. 2. wiem,
+    kiedy ktoś fałszuje.
+
+    W związku z tym nie śpiewam.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: ! '— Mogę słuchać muzyki i nie śpiewać (choć słabo mi idzie), ale nie podrygiwać
+    to już jednak nie umiem.
+
+    — Ja mam słuch muzyczny drugiego stopnia. 1. wiem, jak ktoś śpiewa. 2. wiem, kiedy
+    ktoś fałszuje. W związku z tym nie śpiewam.
+
+    — Pozajączkowało Ci się. 1°: rozróżniasz kiedy grają, a kiedy nie. 2°: wiesz kiedy
+    grają hymn. 3°: wiesz, kiedy grają swój, kiedy inny.'
+  author: oshin, DrYoung, Sithian
+  source: 
+  subject: 
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: ++ was invented for pointer arithmetic. The last major lang to use pointer
+    arithmetic was C++, a language so bad it was named for the operator.
+  author: Jim Weirich
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: When abroad, James Bond is known as +44 7.
+  author: James Martin
+  source: 
+  subject: 
+  tags:
+  - en
+  - Bond
+- !ruby/struct:Signore::Signature
+  text: Nosebleed on train. Probably telekinesis related. No-one’s head exploded though.
+    Must keep practising.
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Every time I see a deep/shallow copy problem, I grow more enamored of functional
+    programming.
+  author: John Carmack
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Trading in the concept of ‘ownership’ for that of ‘custodianship’ will do
+    pretty astonishing things for your happiness level.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I only managed one screencast take today. It went perfectly. I finished, hit
+    Cmd-shift-2 to stop recording, and it started recording. FML.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 6 pages is the 140 characters of academia.
+  author: Brian McFee
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
+  - academia
+- !ruby/struct:Signore::Signature
+  text: Żadnych granic praktycznie nie mamy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Policjanci byli zamieszani w korupcję kradzionych samochodów.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ktoś mnie referuje na podstawie jednego podręcznika to jest żadna wiedza.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jest to naprawdę sztuka i tak samo nauczyciel.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
