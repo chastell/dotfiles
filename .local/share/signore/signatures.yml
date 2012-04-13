@@ -37389,3 +37389,87 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: GitHub is my diploma.
+  author: Maciej Małecki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: ! 'My mail’s bouncing, and my key no longer opens the building’s side door.
+    Feeling like Roy Batty at the end of Blade Runner. #timetograduate'
+  author: Brian McFee
+  source: 
+  subject: 
+  tags:
+  - en
+  - academia
+- !ruby/struct:Signore::Signature
+  text: Someday I will have a room in my house with a betamax, an Atari Lynx, a PC
+    running OS/2, another running BeOS, and a Palm Pre.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: None of the debates over test coverage today have covered the value of TDD
+    as a design tool, which is what it is, primarily.
+  author: Luke Redpath
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+  - TDD
+- !ruby/struct:Signore::Signature
+  text: Yay! Just got latest phone books delivered. Will read them tonight by candlelight.
+  author: Andy Hunt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: To make error is human. To propagate error to all server in automatic way
+    is devops.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: Ja nikogo w mordę nie walę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wszystko to, co będę mówił i czytał to w tysięcy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wszyscy ludzie zdolni do armii pójdą do armii.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
