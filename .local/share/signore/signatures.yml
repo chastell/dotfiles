@@ -37473,3 +37473,118 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Do not in your sentences use this word order. Use this word order in your
+    sentences. Please. Thanks.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: TDD is hard, let’s go racing!
+  author: Angry on Rails
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+  - TDD
+- !ruby/struct:Signore::Signature
+  text: You’ve already spent more time optimizing this code than the server will spend
+    executing it in a year.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: The slogan for every Python tool is ‘almost as good as the Ruby equivalent’.
+  author: Mac Amazing
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Ruby files end in a .rb extension, much like Python files end in a .py extension
+    or Java files end in suicide.
+  author: Sean Marcia
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+  - Ruby
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Tell someone you love them today, because life is short. But SHOUT it at them
+    in German, because life is also terrifying and confusing.
+  author: Matt Suddain
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Paddington. Not just the name of a marmaladivorous anthropomorphised ursiform.
+    There’s a station, too.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: According to the feedback cards, 80% of the ladies who bone me do so solely
+    for the free McDonalds after. :(
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Amerykanie obliczają pi razy drzwi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I co jakiś czas leżały szyny do wy… tego…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli ma ambicję, musi zbierać manaty i uciekać ze szkoły.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Bandażujemy palec i nie spuszczamy go z oka.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
