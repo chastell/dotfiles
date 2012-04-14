@@ -37588,3 +37588,58 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: „Kiedy byłem młody nie było pedofili. Sami musieliśmy sobie organizować cukierki.”
+  author: Fruugo
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Joining a Facebook group about creative productivity is like buying a chair
+    about jogging.
+  author: Merlin Mann
+  source: 
+  subject: 
+  tags:
+  - en
+  - productivity
+  - procrastination
+- !ruby/struct:Signore::Signature
+  text: Możesz w masce rozmawiać z dowódcą jak ja z tobą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W trzynastu regionach trzynaście regionów było zagrożonych, a teraz doszedł
+    jeszcze jeden.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Przy zatruciu należy dużo pić, gdy się oddaje na dwa końce, to znaczy torsje
+    i wymioty.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jezuici to wybitni intelektualiści.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
