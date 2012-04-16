@@ -37643,3 +37643,87 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na G+ trending topics to Bee Gees. Czyżby na Kaukazie zmarła w wieku 140 lat
+    ostatnia osoba, która słuchała ich zanim byli modni?
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: Ludzie, którzy piszą o sobie w trzeciej osobie. Emil jest znany z żywienia
+    nienawiści i pogardy do nich.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Every time I read old computer science articles, I find that everyone figured
+    everything out before I was even born.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: When I hear ‘I don’t think you really need to write that test’ I hear ‘the
+    only large, long-lived codebase I hack on is the one I started’.
+  author: Joshua Wehner
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: ! 'Hypothesis: every nginx config in the world is cobbled together from 3
+    different blog posts.'
+  author: Mike Perham
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - nginx
+- !ruby/struct:Signore::Signature
+  text: I have two important things to do today. Which is good news for the 100 unimportant
+    things I’ve been putting off.
+  author: Elliott Kember
+  source: 
+  subject: 
+  tags:
+  - en
+  - procrastination
+- !ruby/struct:Signore::Signature
+  text: null is the second-worst idea ever invented in programming – behind the semicolon.
+  author: fogus
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Stan drzewostanu był w opłakanym stanie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Prawda, dziecko, leży taka.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
