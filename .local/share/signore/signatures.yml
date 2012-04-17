@@ -37727,3 +37727,91 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '‘MongoDB is the Rebecca Black of databases.’
+
+    ‘That’s unfair, Rebecca Black can probably keep a journal.’'
+  author: Carl Lerche, Christopher MacGown
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MongoDB
+- !ruby/struct:Signore::Signature
+  text: I like how people read Steve Jobs’s bio and decide being an asshole is okay,
+    but can’t embrace eating a bunch of LSD and not showering.
+  author: Shanley Kane
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some kind dude at IEEE is worried that my copy of IEEE Spectrum may not have
+    arrived this month. As if that’s somehow a bad thing…
+  author: Brian McFee
+  source: 
+  subject: 
+  tags:
+  - en
+  - IEEE
+  - academia
+- !ruby/struct:Signore::Signature
+  text: Why would I get tax credit for owning an alternative fuel car but none for
+    not owning any car at all?
+  author: Chris Amaphore
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'All software that will still work in ten years is at least twenty years
+    old. Everything we’re doing now will be broken.
+
+    LMAO if you think your node app – full of browser hacks and dependencies ‘maintained’
+    by 19-year-olds who know one language – will work in 2022.
+
+    Think about the software you were running 15 years ago. It was 1997. Win95 was
+    current. You know what worked then and now? Unix, damn it.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I’m calling the next open source project ZOMBIE PIGEON. Doesn’t matter what
+    it will be doing.
+  author: Marcin Bunsch
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Obrona Cywilna jest odpowiedzialna za ruchy wojsk w jedną i w drugą stronę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Są to częste gęste przypadki.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Koleżanka mojej córki paliła jak smok, prawda, w ciąży.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
