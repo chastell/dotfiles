@@ -37896,3 +37896,55 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Gdy jest nam smutno z powodu naszej branży, przebieramy się za roznosicieli
+    kanapek i idziemy obejrzeć, jak męczycie się w korporacjach.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: WHO MILKS THE MILKMEN?
+  author: Sean Gillies
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Ostrzegają i sygnalizują ojcom miasta.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Broń trzeba zdobyć na przeciwniku.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Co jest między innymi przerażające?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na czym się między innymi skończy między tobą a mną dialog.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
