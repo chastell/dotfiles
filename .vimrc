@@ -86,7 +86,7 @@ nnoremap <leader>f  :LustyFilesystemExplorer<enter>
 nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>p  gqip
-nnoremap <leader>r  :w<enter>:!rake<enter>
+nnoremap <leader>r  :silent! wall<enter>:!rake<enter>
 nnoremap <space>    :
 nnoremap j          gj
 nnoremap k          gk
