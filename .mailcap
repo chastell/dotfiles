@@ -5,3 +5,4 @@ image/gif;           eog '%s';  test=test -n "$DISPLAY"
 image/jpeg;          eog '%s';  test=test -n "$DISPLAY"
 image/jpg;           eog '%s';  test=test -n "$DISPLAY"
 image/png;           eog '%s';  test=test -n "$DISPLAY"
+# text/html;           vilistextum -tuan -s 1 --links -y %{charset} '%s' -; copiousoutput;  description=HTML Text; nametemplate=%s.html
