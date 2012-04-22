@@ -90,6 +90,7 @@ nnoremap <leader>r  :silent! wall<enter>:!rake<enter>
 nnoremap <space>    :
 nnoremap j          gj
 nnoremap k          gk
+nnoremap U          :syntax sync fromstart<enter>:redraw!<enter>
 nnoremap Y          Vy
 
 " filetypes
