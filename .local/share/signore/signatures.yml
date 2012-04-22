@@ -37996,3 +37996,41 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Node.jk
+  author: Benjamin W. Smith
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+  - Node.js
+- !ruby/struct:Signore::Signature
+  text: Kiedy mur żelazny pęknie to zapraszam do Izraela.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Następuje katar, z nosa po prostu leci jak z cebra.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kto między innemi tego ptaka puścił?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
