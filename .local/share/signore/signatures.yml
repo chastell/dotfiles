@@ -38034,3 +38034,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I can send an IP packet to Europe faster than I can send a pixel to the screen.
+    How fucked up is that?
+  author: John Carmack
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - networking
+- !ruby/struct:Signore::Signature
+  text: Radio też pisało, że było ponad dwa i pół tysiąca ludzi na pogrzebie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: …że A to jest naprawdę klasa A.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Stawiali dwóję czyli inaczej jedynkę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: My uważamy, że obrona cywilna jest pełniona na zasadzie humanitaryzmu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
