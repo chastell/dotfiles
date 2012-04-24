@@ -2452,8 +2452,8 @@ signatures:
   - en
   - science
 - !ruby/struct:Signore::Signature
-  text: ! 'OH: ‘I still can’t understand how people write code on a MacBook. It’s
-    like a slow Linux box with a shitty window manager.’'
+  text: ! 'OH: I still can’t understand how people write code on a MacBook. It’s like
+    a slow Linux box with a shitty window manager.'
   author: William Morgan
   source: 
   subject: 
@@ -38073,6 +38073,124 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: My uważamy, że obrona cywilna jest pełniona na zasadzie humanitaryzmu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Na polecenie „ułóż zdanie ze słowem przybył” Joanna wpisała „Przybyłam.”
+
+    „Miałam zamiar wpisać »Ja przybyłam«, ale ostatnio pani mi skreśliła »ja« na początku
+    zdania.”'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! 'Stary, powinniśmy częściej się przeprowadzać z rodziną: przenieśliśmy komodę,
+    a za nią leżała 40-letnia whiskey. Musieliśmy przeprowadzkę przesunąć o jeden
+    dzień.'
+  author: synek
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— No nie wiem… Cycki są przereklamowane w sumie – można się pobawić pięć
+    minut a później cię wkurwiają.
+
+    — Ale tu chodzi o kobiece, nie twoje.'
+  author: white, Tril
+  source: 
+  subject: 
+  tags:
+  - pl
+  - sex
+- !ruby/struct:Signore::Signature
+  text: ! 'Znajomy twierdzi, że jak kiedyś się obudził po popijawie to miał sformatowany
+    dysk C: i przylepioną do monitora żółtą karteczkę, gdzie jego własnym pismem było
+    napisane „Hahaha, ale się jutro wkurwię!”'
+  author: ggler
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Będę się smażył w piekle.
+
+    — Co jest?
+
+    — Zrobiłem całej rodzinie herbatę z wody święconej. Nie powiedziałem im jeszcze,
+    ale babka aż się lepiej poczuła.'
+  author: Raf, Ala
+  source: 
+  subject: 
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Najserdeczniejsze życzenia dla pana kierowcy 157, który odjechawszy z przystanku
+    zobaczył jak biegnę i się COFNĄŁ po mnie. Lubi pan sernik? Upiekę panu sernik.
+  author: fruugo
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Klient zamówił bełkot, dostał i mu się spodobało.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: The problem with Rails today is that ½ the people are afraid Rails is turning
+    into Java and the other ½ are trying to turn it into Java.
+  author: Yehuda Katz
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Rana szarpana powstaje przy gwałtownym zetknięciu z zakrzywionym narzędziem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Szefuniu wymień maskę bo jest między innymi niebezpieczna.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Stąd ja tu mówię na tym wszystkim cierpi młodzież.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Żołnierze mogą być nieleczone.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
