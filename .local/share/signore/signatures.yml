@@ -38198,3 +38198,48 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Never trust a yard with no dandelions.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Na pewno się chyba to co powiedziałem tym zdziwicie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: O! Jeszcze tak na marginesie, powiem wam dlaczego ja jestem taki skołowany.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ziemniak zerwany we wrześniu czy w październiku.
+  author: 
+  source: ! 'płk Tadeusz Sieńko
+
+    przysposobienie obronne'
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: …pozostawienie ucznia na szerokiej wodzie. Niech sobie pływa, prawda, do woli.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
