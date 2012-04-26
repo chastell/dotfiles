@@ -61,7 +61,7 @@ set reverse_name
 set send_charset          = us-ascii:iso-8859-1:iso-8859-2:utf-8
 set sidebar_width         = 25
 set signature             = ~/.config/mutt/signature
-set smtp_url              = smtp://chastell@chastell.net@smtp.gmail.com:587
+set smtp_url              = smtps://chastell@chastell.net@smtp.gmail.com:465
 set sort                  = threads
 set spoolfile             = =INBOX
 set tilde
