@@ -38243,3 +38243,30 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Future generations will look back on TV as the lead in the water pipes that
+    slowly drove the Romans mad.
+  author: Kurt Vonnegut
+  source: 
+  subject: 
+  tags:
+  - en
+  - television
+- !ruby/struct:Signore::Signature
+  text: Każdy naukowiec ma warsztat naukowy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Proszę między innymi się nie bawić i czymś między innymi pod ławką nie wozić.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
