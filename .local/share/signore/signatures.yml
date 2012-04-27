@@ -38270,3 +38270,48 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Taking a train to get to Kentish Town. I feel like I’ve levelled up as a Londoner.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - London
+- !ruby/struct:Signore::Signature
+  text: Po prostu z łba się leje, jak z krowy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli chodzi o Polskę to od I do XVIII wieku nie znane były przypadki użycia
+    gazów.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wschodniej Europy jeszcze nie było…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Facet między innymi wkracza, wpycha się, tego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
