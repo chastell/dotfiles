@@ -38315,3 +38315,29 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: No, Foursquare, three weeks in a row at an airport is not ‘pretty fly’.
+  author: Aaron Patterson
+  source: 
+  subject: 
+  tags:
+  - en
+  - Foursquare
+- !ruby/struct:Signore::Signature
+  text: Nikt nie chce, aby Ukraina, a ona zawsze była nacjonalistyczna.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Mam następne pytanie: Zbijewski.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
