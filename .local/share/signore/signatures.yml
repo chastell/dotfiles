@@ -38341,3 +38341,51 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Usłyszałam „Ale fajnie, pojawiają się zielone liście na drzewach” i w pierwszym
+    momencie pomyślałam o drzewie kategorii.
+
+    Mamo, robiłam co mogłam, ale nie ma już dla mnie nadziei.'
+  author: Anna Warzecha
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: If you’ve never spoken ‘computer, end program’ out loud theres still a chance
+    your whole life has been a holodeck simulation.
+  author: ! '@dreadhole'
+  source: 
+  subject: 
+  tags:
+  - en
+  - Star Trek
+- !ruby/struct:Signore::Signature
+  text: U nas jest to nie do pomyślenia, a u nich między innymi jest to do pomyślenia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Lasy to są zbiorniki, zasobniki gromadzenia wód.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rzeki nie nadają się do przerobu przemysłowego, mówię na przykład o wodach
+    Bałtyku.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
