@@ -38389,3 +38389,51 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Listening to a bit of Ludwig van. Well, Rails programming is quite a lot like
+    ultraviolence.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Upadłem, starłem skórę, krew wystąpiła.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: No i w związku na wszelką ewentualność…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Bardzo dwie ważne rzeczy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Się jądro zaczyna ile?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
