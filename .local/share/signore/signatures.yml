@@ -38437,3 +38437,50 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '‘What about Lotus Notes?’
+
+    ‘How can you say those words? Here? In this place of peace‽’'
+  author: David Brady, Avdi Grimm
+  source: RailsConf 2012
+  subject: 
+  tags:
+  - en
+  - tech
+  - Lotus Notes
+- !ruby/struct:Signore::Signature
+  text: Maski gazowe potrzebne do tego, ponieważ chłopcy będą pokonywać tor przeszkód.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Problem udzielania pomocy jeden drugiemu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ocena będzie dodatnia albo ujemna, to już zależy od was.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kiedy jest rosa, to jest najgroźniejsze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
