@@ -38576,3 +38576,51 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dana asked me ‘Why are people shipping lingerie to our house?’, and I knew
+    that ‘It’s David Brady’ wasn’t a good answer.
+  author: James Edward Gray II
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
+  - Ruby Rogues
+- !ruby/struct:Signore::Signature
+  text: To jest też taka prawda.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Oprócz ze względu na naukę, ja mam zapalenie strun głosowych i zaraz dostanę
+    napadu kaszlu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na tle, że Gorbaczow żąda i w ogóle.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ten stary podręcznik on między innymi nie jest taki stary.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
