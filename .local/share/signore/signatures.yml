@@ -38533,3 +38533,46 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: WHO MILKS THE MILKMEN?
+  author: Sean Gillies
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'To jest zamach na moje życie: ten pojemnik, ta gąbka.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: o koszu na środku klasy i gąbce na podłodze
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wywalę na zbitą, tego, er, no… tego… no.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To jest ostatnia lekcja gdy spóźnienie zostało odnotowane.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Do ciebie masz takie bardzo łatwe pytanie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
