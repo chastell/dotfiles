@@ -38624,3 +38624,33 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '%!...!.each { |require| require require }'
+  author: Ben Bleything
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Nie ma czasu wtenczas.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Człowiek ponieważ nie miał żony i dzieci czołgał się przed bunkier i zatykał
+    dziurę. Ale nikt mu nie dawał takiego rozkazu: ja ci zabiorę tę rakietkę i wyrzucę
+    z klasy.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
