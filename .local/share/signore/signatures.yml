@@ -38654,3 +38654,40 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I’ve been chatting with a 13 year old girl online. Then I found out she is
+    a undercover cop. How cool is that for someone her age.
+  author: Bill Murray
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jeśli chodzi o zaangażowanie wszystkich państw nie ma tam interesu.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '— Kiedy należy użyć opaski uciskowej?
+
+    — Wtenczas, kiedy przewrócimy się i po naszej ręce przejedzie tramwaj.'
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: O tych sprawach i tak dalej innych…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
