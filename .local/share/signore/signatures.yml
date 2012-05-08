@@ -38718,3 +38718,57 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ale bym chciał, żeby jakiś plac w mieście dostał nazwę Przestrzeń Banacha.
+  author: Piotr Kucharski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - math
+- !ruby/struct:Signore::Signature
+  text: ! 'Kupując coś w H&M myślę tylko o jednym: dzieci fantastycznie szyją ubrania.'
+  author: Fruugo
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+  - clothes
+- !ruby/struct:Signore::Signature
+  text: People laugh when I thank our in-channel announce bot for letting me know
+    I can push, but when the robot uprising happens, I’ll be spared.
+  author: Dannel Jurado
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Policja ekologiczna ma rower.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja was już przygotowuję do klasówki, ona została użyta później na Hiroszimie
+    i Nagasaki.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Na kartkówkę między innymi całą godzinę poświęcimy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
