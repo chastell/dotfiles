@@ -38847,3 +38847,61 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Many people die at twenty five and aren’t buried until they are seventy five.
+  author: Benjamin Franklin
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: pół-człowiek, pół litra.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - alcohol
+- !ruby/struct:Signore::Signature
+  text: Klient napisał, że nie podoba mu się design Facebooka i mamy go zmienić. Do
+    dzieła.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Facebook
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '„In the mid-1950s, Vonnegut worked very briefly for Sports Illustrated
+    magazine, where he was assigned to write a piece on a racehorse that had jumped
+    a fence and attempted to run away. After staring at the blank piece of paper on
+    his typewriter all morning, he typed, ‘The horse jumped over the fucking fence’,
+    and left.”
+
+    Czasem chciałbym zrobić to samo i zostawić słowa „nie działa boście spierdolili”.
+    Konie skakały przez ten pieprzony płot na świeżym powietrzu, Kurt. Nie bądź wybredny.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Agata jest nieczynna a Ewa i Maria produkują izotopy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Między innymi bardzo, to znaczy jeśli chodzi o Bałtyk.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
