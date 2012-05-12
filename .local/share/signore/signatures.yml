@@ -38997,3 +38997,40 @@ signatures:
   - en
   - piracy
   - music
+- !ruby/struct:Signore::Signature
+  text: Nie jesteśmy w tej chwili pod żadnym parasolem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli podwładny w wojsku nie ma zaufania do dowódcy, to stosuje wobec niego
+    niedozwolone środki wychowawcze.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Środki trujące w środowisku to będzie woda, powietrze, gleba.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Umieszcza się piasek z workami.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
