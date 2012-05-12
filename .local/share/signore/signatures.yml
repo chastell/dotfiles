@@ -39034,3 +39034,52 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: I’ve never met an MP who understood that extrapolation from limited personal
+    experience did not constitute statistically significant data.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: When I was a Java developer I used Eclipse for years, not because I liked
+    it, but because the Java APIs are so horrible that nobody can actually remember
+    them. You need a powerful IDE that can generate all the boilerplate needed to
+    do the most trivial thing and also to spell some dirty words like AbstractSingletonProxyFactoryBean.
+  author: Alberto Fernández Capel
+  source: mendicant-alumni
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Ja nie lubię krzywdzić młodzieży.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Powstaje między innymi pytanie, czy rzeczywiście na przykład?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli chodzi o wytrzymałość kości, to wytrzymałość kości jest duża.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
