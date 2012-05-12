@@ -38959,3 +38959,41 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Can’t sleep…
+
+    while(i=rand(45)+5);36.times{|x|print " "*(Math::sin(x*10*Math::PI/180)*i+50)+"*\n";sleep(0.05)};end'
+  author: ! '@maltize'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Half of programming is figuring out where to put the mess.
+  author: ! '@zorano'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: My mind was blown when I realized ‘OK’ is a sideways person.
+  author: Eric Alper
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: So Adele’s ‘21’ has sold more copies in 15 months than Michael Jackson’s ‘Thriller’
+    in 29 years. But piracy is killing the music industry!
+  author: Dave Arter
+  source: 
+  subject: 
+  tags:
+  - en
+  - piracy
+  - music
