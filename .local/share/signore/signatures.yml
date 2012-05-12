@@ -38905,3 +38905,57 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wczoraj oglądałem film na Polsacie i zaczęły się reklamy. Czekam i czekam,
+    trwały tak długo, że wziąłem laptopa do rąk – zdążyłem ściągnąć ten film i oglądać
+    dalej gdy reklamy jeszcze leciały…
+  author: pantic
+  source: 
+  subject: 
+  tags:
+  - pl
+  - piracy
+- !ruby/struct:Signore::Signature
+  text: Ja naprawdę staram się być miły dla ludzi, ale oni mi tego nie ułatwiają –
+    bo chcą ze mną rozmawiać.
+  author: saint
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Bo ja rąbnę między innymi po prostu jedynki z zachowania i polecicie w dół.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zazwyczaj występują mianowicie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Móżdż.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Sprawa noszenia ciąży.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
