@@ -21898,7 +21898,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ! 'OH: ‘I have a huge WSDL.’'
+  text: ! 'OH: I have a huge WSDL.'
   author: Tom Preston-Werner
   source: 
   subject: 
@@ -39076,6 +39076,54 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Jeśli chodzi o wytrzymałość kości, to wytrzymałość kości jest duża.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: The ‘http://’ at the beginning of URLs is a command to the browser. It stands
+    for ‘head to this place:’ followed by two laser-gun noises.
+  author: Brian Sutorius
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTTP
+- !ruby/struct:Signore::Signature
+  text: Kosztuje między innymi osiem milionów.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: A to jest sztuka, żeby przed dowódcą defilowały serca żołnierskie a nie buty
+    żołnierskie, a często defilują buty żołnierskie a nie serca żołnierskie, a powinny
+    defilować serca żołnierskie a nie buty żołnierskie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jak ważną rolę w procesie człowieka, procesie życiowym człowieka odgrywa mózg.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Matematycy różnego rodzaju.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
