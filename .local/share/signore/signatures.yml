@@ -39131,3 +39131,129 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Today’s Word of the Day e-mail is ‘adularesecence’. Definition? ‘The chatoyancy
+    of the adularia variety of feldspar.’ Oh, so obvious now!
+  author: Peter Cooper
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: The Go compiler isn’t so fast; other compilers are just slow. Machines are
+    bloody fast. Just don’t piss the speed away.
+  author: Rob Pike
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
+- !ruby/struct:Signore::Signature
+  text: Of the many benefits cited by those that occasionally work from home, I feel
+    ‘experimenting with sourdough recipes’ is underrepresented.
+  author: mudge
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: After writing a parser, you will understand every language’s grammar choices
+    (except PHP and JavaScript, which were designed by coin flip).
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+  - PHP
+- !ruby/struct:Signore::Signature
+  text: ! 'Przykre: gdyby nie Noc Muzeów, przy okazji której wszyscy wariują, jakbyśmy
+    byli centrum handlowym, majówka trwałaby u nas do końca miesiąca.'
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - museums
+- !ruby/struct:Signore::Signature
+  text: ! 'It only takes three commands to install Gentoo.
+
+    cfdisk /dev/hda && mkfs.xfs /dev/hda1 && mount /dev/hda1 /mnt/gentoo/ && chroot
+    /mnt/gentoo/ && env-update && . /etc/profile && emerge sync && cd /usr/portage
+    && scripts/bootsrap.sh && emerge system && emerge vim && vi /etc/fstab && emerge
+    gentoo-dev-sources && cd /usr/src/linux && make menuconfig && make install modules_install
+    && emerge gnome mozilla-firefox openoffice && emerge grub && cp /boot/grub/grub.conf.sample
+    /boot/grub/grub.conf && vi /boot/grub/grub.conf && grub && init 6
+
+    That’s the first one.'
+  author: insomnia
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Gentoo
+- !ruby/struct:Signore::Signature
+  text: Claiming that someone else’s marriage is against your religion is like being
+    angry at someone for eating a donut because you’re on a diet.
+  author: Seth Rogen
+  source: 
+  subject: 
+  tags:
+  - en
+  - homosexuality
+- !ruby/struct:Signore::Signature
+  text: ! 'Rails!!!!! My favorite part are the TWO anonymous Modules: https://gist.github.com/2648107'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Everyone loves SemVer until they’re the one who wants a breaking change.
+  author: Yehuda Katz
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - SemVer
+- !ruby/struct:Signore::Signature
+  text: Żołnierz nie mógł skupić się na strzelaniu, bo cały czas miał w ręku chustkę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zdawało się często gęsto przypadki.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jestem niski pionek jeśli chodzi o politykę i wojskowego, co prawda stopień
+    pułkownika posiadam.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
