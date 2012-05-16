@@ -39257,3 +39257,40 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Oh cool. Thanks for that 554 rejecting banned content error, Mr SMTP server.
+    I’ll try to avoid the word FUCK next time I send email to you.
+  author: Jordan Byron
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - censorship
+- !ruby/struct:Signore::Signature
+  text: Całe centrum skupiska aglomeracji ludzkiej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ktoś chce się rozstać z tym padołem na tle różnym.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zamknij sobie buzię, bo coś ci wpadnie i będę miał kłopoty.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
