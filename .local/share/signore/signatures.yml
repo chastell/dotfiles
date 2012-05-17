@@ -28781,7 +28781,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ! 'Ricardo’s Law: Don’''t bother using git blame. It was you.'
+  text: ! 'Ricardo’s Law: Don’t bother using git blame. It was you.'
   author: 
   source: 
   subject: 
@@ -39287,6 +39287,55 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Zamknij sobie buzię, bo coś ci wpadnie i będę miał kłopoty.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: I would love to join some joke religion like Kopism or FSM-ism but I’m already
+    part of Catholic Church, a joke that’s hard to one up.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Kiedyś między innymi jest to taka sprawa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Potężna głowa jeśli chodzi o jezuitów.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Chłopiec w wieku czternastu lat stawał się Geremkiem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '— Muszę wam powiedzieć, że totalnie mnie olali.
+
+    — Uczniowie czy strażacy?
+
+    — Strażacy.'
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
