@@ -34714,17 +34714,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Back on Wing Commander 1 we were getting an exception from our EMM386 memory
-    manager when we exited the game. We’d clear the screen and a single line would
-    print out, so»
-  author: Ken Demarest
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-- !ruby/struct:Signore::Signature
   text: If you watch Godzilla backwards, it’s about a dinosaur who passionately pieces
     a city back together before moon-walking into the sea.
   author: Łukasz Anwajler
@@ -39382,6 +39371,112 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Ja nie mówię do Einsteina.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Back on Wing Commander 1 we were getting an exception from our EMM386 memory
+    manager when we exited the game. We’d clear the screen and a single line would
+    print out, something like ‘EMM386 Memory manager error. Blah blah blah.’ We had
+    to ship ASAP. So I hex edited the error in the memory manager itself to read ‘Thank
+    you for playing Wing Commander’.
+  author: Ken Demarest
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Sometimes I worry there may be friends of mine living a ‘paleo lifestyle’
+    without telling me about it in rich, satisfying detail.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+  - paleo
+- !ruby/struct:Signore::Signature
+  text: Today a student handed in an essay with one reference. The reference was an
+    essay purchasing website. Oops.
+  author: Polite Ire
+  source: 
+  subject: 
+  tags:
+  - en
+  - education
+- !ruby/struct:Signore::Signature
+  text: Beware the fury of a patient man.
+  author: Tore Profaci
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: INTERNTET EXPLORER Y U NO GOOD AT EXPLORING INTERNET?
+  author: ! '@Y_U_NOOO'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - IE
+- !ruby/struct:Signore::Signature
+  text: ! '‘I have a horrid short attention span.’
+
+    ‘Beware the fury of a patient man.’'
+  author: Aminat Odunewu, Tore Profaci
+  source: 
+  subject: as quoted by @pentametron
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: Ten film posieje grozą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ci którzy wyczytali są potencjalni na pięć.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeszcze inni uważają, że na skutek kiedy dziecko upada.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: 
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - StaszicStąd
+  - widzicie
+  - często
+  - gęsto…
+- !ruby/struct:Signore::Signature
+  text: Stąd widzicie często gęsto…
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
