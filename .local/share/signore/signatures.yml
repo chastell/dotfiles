@@ -39343,3 +39343,49 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Googlnijcie sobie „Junior Brand Manager mem”, wyświetli się bardzo dużo wpisów
+    na blogach rozmaitych agencji, tłumaczących dlaczego to jest śmieszne i nie o
+    nich.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - marketing
+- !ruby/struct:Signore::Signature
+  text: The sooner you start to code, the longer the program will take.
+  author: Roy Carlson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Uczeń był obecny w dzienniku a w rzeczywistości go nie było.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dziecko dla rodziców to jest dziecko na pięćdziesiąt lat.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja nie mówię do Einsteina.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
