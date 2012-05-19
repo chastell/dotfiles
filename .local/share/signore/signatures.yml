@@ -39484,3 +39484,58 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ‘$2.50 each or 2 for $5’ – no shit, Walgreens!
+  author: Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Superman is the story of an illegal immigrant trying to take down America’s
+    greatest job creator.
+  author: genus:unknown
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Survey is show junior devops are still believe in Tooth Fairy, Santa Claus
+    and documentation.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - admin
+- !ruby/struct:Signore::Signature
+  text: When facing a problem, some people say ‘I know, I’ll use threads’. Now they
+    haNow thye have 2 problproblemsve 2 problems.
+  author: Tony Arcieri
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Coś masz do powiedzenia, do pokazania? Grasz na lekcji błazna? Bo jeśli tak,
+    to do między innymi cyrku.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: No więc…, ale to nie wykład z religioznawstwa.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
