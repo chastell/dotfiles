@@ -39539,3 +39539,103 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Complete chaos at the astronomy shop this morning, employees overwhelmed by
+    demand for eclipse glasses. YOU HAD THIRTY CENTURIES LEAD TIME.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - astronomy
+- !ruby/struct:Signore::Signature
+  text: iPhone autocorrects ‘rubyists’ to ‘rubbish’. Apple can be so ducking mean.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Like many writers, I have rituals. Before writing, I pour coffee, open the
+    window by my desk, and attempt to read the entire Internet.
+  author: Katy Read
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - procrastination
+  - writing
+- !ruby/struct:Signore::Signature
+  text: I’d love to see an honest Ruby job ad. ‘You will spend half your time running
+    bundle install & the other half facepalming.’
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - work
+- !ruby/struct:Signore::Signature
+  text: My wife just looked at my ‘Hug a Rubyist’ shirt and asked ‘Why are you wearing
+    a Ron Jeremy shirt?’
+  author: Dan Kubb
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I have a great idea for a novel, but I need an author to write it for me.
+    I’m willing to give equity.
+  author: Rich Aberman
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: A developer had a problem and thought ‘what would Hipster Hacker do?’ Now
+    he has a problem and a Haskell-based continuous deployment system.
+  author: Neckbeard Hacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
+- !ruby/struct:Signore::Signature
+  text: Though incorrect, PostgreSQL is more fun to use when you pronounce it as ‘post-Grayskull’.
+  author: karlinfox
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - PostgreSQL
+- !ruby/struct:Signore::Signature
+  text: Można stać po pachy w wodzie no i łowić ryby.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Są tak zwane studnie, za pomocą których wydobywa się wodę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
