@@ -15,3 +15,4 @@ remotehost = imap.gmail.com
 remoteuser = chastell@chastell.net
 remotepass = …
 ssl = yes
+folderfilter = lambda foldername: foldername not in ['[Gmail]/Important']
