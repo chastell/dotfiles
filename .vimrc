@@ -6,7 +6,6 @@ call vundle#rc()
 
 Bundle 'AutoTag'
 Bundle 'EasyMotion'
-Bundle 'LustyExplorer'
 Bundle 'Markdown'
 Bundle 'Parameter-Text-Objects'
 Bundle 'Rubytest.vim'
@@ -81,8 +80,7 @@ nnoremap <c-l>      <c-w>l
 nnoremap <c-m>      :cp<enter>
 nnoremap <c-n>      :cn<enter>
 nnoremap <s-down>   O<esc><down>
-nnoremap <leader>b  :LustyBufferExplorer<enter>
-nnoremap <leader>f  :LustyFilesystemExplorer<enter>
+nnoremap <leader>b  :CtrlPBuffer<enter>
 nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>p  gqip
