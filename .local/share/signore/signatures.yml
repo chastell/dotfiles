@@ -1092,7 +1092,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Jest 10 rodzajów ludzi. Ci którzy rozumieją system binarny i ci, którzy uprawiają
     regularnie seks.
-  author: poncki
+  author: Poncki
   source: 
   subject: 
   tags:
@@ -39669,6 +39669,51 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Jeden egzemplarz na uzbrojenie to znaczy nic.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: People change and forget to tell each other.
+  author: Lillian Hellman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'WSTAJE O PIĄTEJ NA SPOTKANIE
+
+    Emil.jpg
+
+    SPOTKANIE ODWOŁANE SMS-EM O 3:40'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: I Krzaklewski został odstawiony, między innymi ciupasem, na granicę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Budowaliśmy elementy budowlane na budowę.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Gdzie idzie produkt? A więc idzie do konsumenta.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
