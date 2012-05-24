@@ -14932,7 +14932,7 @@ signatures:
 
     If it wasn’t for Jesus
 
-    We''d all be Jewish'
+    We’d all be Jewish'
   author: 
   source: 
   subject: 
@@ -39714,6 +39714,103 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Gdzie idzie produkt? A więc idzie do konsumenta.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Dear recruiters: if you are going to say that you liked my profile, remember
+    that there is a ‘who viewed your profile’ section.'
+  author: Patrik Björklund
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Consider the sentence ‘Operators are standing by.’ Really consider it.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Douglas Adams was an unparalleled wordsmith, but I suppose he’ll be considered
+    too ‘silly’ to go down as one of our era’s great novelists.
+
+    Trying to remember which of the classics actually failed to suck. Steinbeck. Hemingway.
+    Twain, of course.
+
+    The trouble with listing my favorite writers is that every time I remember a particularly
+    fantastic story I realize it, too, was by Kipling.'
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - literature
+- !ruby/struct:Signore::Signature
+  text: When the last trash bag is taken from the trash bag box, I tell the empty
+    box, ‘You carried him his whole life. Now he shall carry you.’
+  author: Erik Durbin
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: At RailsConf I wasn’t allowed into a bar with ten people testifying for me
+    because the guy was unable to parse the EU date format.
+  author: Sven Fuchs
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Each rejection puts me that much closer to my next sale.’
+
+    ‘Statistically, that’s not actually true.’
+
+    ‘See, that’s why devs can’t do sales.’'
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'It’s impossible for me to play classical games. Auto-aim and save-points
+    spoiled me. I’ve witnessed so many game overs it’s not even funny.
+
+    Castlevania? Game over. Metroid? Game over. Megaman II? Game so fucking over.
+    The kid in me just told me he’s ashamed by what I turned into.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - games
+- !ruby/struct:Signore::Signature
+  text: Ja jako były pułkownik wojska polskiego…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To nie dotyczy grup to dotyczy między innymi jednostek.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Rypnę ci jedynkę.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
