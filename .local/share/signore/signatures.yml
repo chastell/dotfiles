@@ -39818,3 +39818,65 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: The Internet didn’t destroy publishing, it destroyed advertising. Publishing
+    was handcuffed to the corpse when we threw it off the bridge.
+  author: David Sleight
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I love the British summer, it’s my favourite day of the year.
+  author: Mark Coleman
+  source: 
+  subject: 
+  tags:
+  - en
+  - weather
+- !ruby/struct:Signore::Signature
+  text: If you’re ever tempted to add a post-install message to a gem, stop and back
+    slowly away from the keyboard.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'Random dude next to me: hit by a yak while reaching for the razor.'
+  author: Sven Fuchs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If I have seen further than others, it is because I am looking in the wrong
+    direction.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Nie jesteś, prawda, dzidzią-przedszkolakiem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Taki partyzant to w dzień robił w polu albo w dzień w nocy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
