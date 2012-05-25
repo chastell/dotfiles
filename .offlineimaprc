@@ -10,9 +10,7 @@ type = Maildir
 localfolders = ~/Gmail
 
 [Repository Remote]
-type = IMAP
-remotehost = imap.gmail.com
+type = Gmail
 remoteuser = chastell@chastell.net
 remotepass = …
-ssl = yes
 folderfilter = lambda foldername: foldername not in ['[Gmail]/Important']
