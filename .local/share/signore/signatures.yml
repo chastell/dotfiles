@@ -39907,3 +39907,58 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'Best Towel Day reaction so far: ~70 year old lady on the bus:
+
+    ‘Are you one of us?’
+
+    ‘Uh, what?’
+
+    ‘Are you a frood, or are you going to the beach?’
+
+    And then she pointed towards an item of clothing I had mistaken for a shawl at
+    first glance, and it turned out to be a really nice towel.'
+  author: ! '@humppafreak'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Dzisiaj wstępnie zasygnalizuję o wojnie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Będą studiować prasę lokalną, taką po prostu tego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja chcę wam zwrócić uwagę na czym po prostu siedzimy. Siedzimy na bombie po
+    prostu chemicznej.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zatankowałem paliwo i pojechałem między innymi do Tomaszowa Mazowieckiego
+    i tam smrodziłem. Z Tomaszowa przyjechało dziesięć samochodów i też smrodziło
+    w stolicy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
