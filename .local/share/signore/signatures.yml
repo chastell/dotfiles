@@ -39962,3 +39962,48 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Nie zawsze kapłan szedł z krzyżem, równie gęsto często z automatem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Przez 41 lat spóźniłem się dziesięć minut, dlatego ja ni w ogóle przyjmuję
+    tłumaczenia spóźnienia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Masz tendencję do siadania na stole, więc będę z tobą prowadził spór słowny.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Do fizyka, albo do pani, która uczy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: The best thing about alcohol hand gel in hospitals isn’t the hygiene, but
+    that everyone walks around like they’re hatching a dastardly plan.
+  author: ‏@justinkb
+  source: 
+  subject: 
+  tags:
+  - en
