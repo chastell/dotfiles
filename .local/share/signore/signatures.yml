@@ -40052,3 +40052,60 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: INSERT INTO rages VALUES('FFFFFFFFFFF','UUUUUUUUU');
+  author: Simon Coffey
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - SQL
+- !ruby/struct:Signore::Signature
+  text: Airlines can fly you around the world but cannot make a website that works
+    for even the simplest things. It scares the crap out of me.
+  author: Scott Chacon
+  source: 
+  subject: 
+  tags:
+  - en
+  - airlines
+- !ruby/struct:Signore::Signature
+  text: ! 'One nice thing I have done for the Internet is never tried to coin a new
+    term for ‘bookmark’.
+
+    Soon users will have their own cushions where they can share pins with one another,
+    or else set up a collaborative thimble.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jak się na talerzu trzęsło, to znaczy, że dobre jedzenie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zjawisko to występuje dość często gęsto.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Są tak zwane ręce też się chroni.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
