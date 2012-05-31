@@ -40109,3 +40109,42 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ab PHP 5.3.0 gibt es endlich goto auch in PHP. JETZT KANN MICH NICHTS MEHR
+    AUFHALTEN!
+  author: Wilm Schumacher
+  source: 
+  subject: 
+  tags:
+  - de
+  - tech
+  - programming
+  - PHP
+- !ruby/struct:Signore::Signature
+  text: Jak by było dwadzieścia pięć procent to byśmy bili się piętami w pewną część
+    ciała.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W szkole mamy dwie szkoły – warszawską i gdańską.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To jest tygodnik, on ukazuje się co tydzień.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
