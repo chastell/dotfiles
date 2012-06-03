@@ -40211,3 +40211,20 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Burdel na pulpicie zaczyna się wtedy, kiedy dajesz plikowi nazwę „asdjbasfbasdfjbasdfkjsadbkfasd”
+    i okazuje się, że taki już istnieje.
+  author: kamis
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Budowanie tych zapór na tym między innymi tego przeciwrakietowymi.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
