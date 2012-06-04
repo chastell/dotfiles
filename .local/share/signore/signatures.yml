@@ -40228,3 +40228,51 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! '— Coraz bliżej sesja…
+
+    — Słyszę jak to śpiewa coraz głośniej żeński chórek, widzę jadące jedna za drugą
+    ciężarkówki Coca Coli i na ostatniej ciężarówce zamiast tego Mikołaja mój rektor
+    puszczający oko.'
+  author: asia, kosma
+  source: 
+  subject: 
+  tags:
+  - pl
+  - uni
+- !ruby/struct:Signore::Signature
+  text: Za wyjątkiem jest po prostu Jana Pawła II.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wiele przypadków zejścia są to zgony.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Trzy plutony plus… to jest, między innymi, kompania.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja będę pytał i później no może skoczyć jedynka, prawda.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
