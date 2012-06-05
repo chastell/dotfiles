@@ -40276,3 +40276,38 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: We are building a maximum viable product…'
+  author: Sand Ridge Labs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Szkoła podstawowa okresem dzidziusia się kończy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja nie miałem lwa w krzakach, więc musiałem iść do wojska.
+  author: płk Tadeusz Sieńko
+  source: 
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Broń biologiczna nazwana jest bronią humanitarną bo zabija bezboleśnie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
