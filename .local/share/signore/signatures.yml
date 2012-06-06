@@ -40311,3 +40311,54 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: DBSM ist, wenn du mit der Bahn fährst.
+  author: crackpille
+  source: 
+  subject: 
+  tags:
+  - de
+- !ruby/struct:Signore::Signature
+  text: Today, the joke’s on me. I insist.
+  author: Elise Huard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Bez względu na to jaka jest śmierć, w ciągu pięciu minut da się człowieka
+    odratować.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Modernizacja to jest człowiek.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jak ja teraz obserwuję przed wojną, wtenczas kiedy ja żyłem.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli ty od razu wygrzmocisz jedna za drugą pięć butelek, to już obawy są.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
