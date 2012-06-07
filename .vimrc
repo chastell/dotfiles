@@ -22,6 +22,7 @@ Bundle 'tComment'
 Bundle 'textobj-rubyblock'
 Bundle 'textobj-user'
 Bundle 'unimpaired.vim'
+Bundle 'vim-rails'
 
 " end Vundle setup
 filetype plugin indent on
