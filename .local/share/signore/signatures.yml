@@ -40362,3 +40362,137 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: k do u do r do w do a, w firmie nowy PM, gdyby pisał po polsku to bym go do
+    junior brand managera nominował.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Hint for those looking to hire developers. There are three things I want
+    from your office: 1) desk, 2) power, 3) to not have to go there.'
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: We ain’t a sharp species. We kill each other over arguments about what happens
+    when you die, then fail to see the fucking irony in that.
+  author: 
+  source: Shit My Dad Says
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Nabraliśmy starszych kustoszy, że hipsterzy to są byli zakonnicy, których
+    wyrzucono ze wspólnoty za homoseksualizm.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Data Scientist (n.): Person who is better at statistics than any software
+    engineer and better at software engineering than any statistician.'
+  author: Josh Wills
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: C++ provides a remarkable facility for concealing the trivial details of a
+    program – such as where its bugs are.
+  author: David Keppel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: 24/7 Yakshaving 4 lyfe
+  author: Ted Han
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: abstract_model.model.model_name.demodulize.underscore.humanize
+  author: Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: TIL you only need to move your finger slightly down when tapping ‘Poland’
+    to turn it into a country of people laughing loudly.
+  author: Roy Tomeij
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Colemak is the ‘extra hipster’ variant of Dvorak. Either layout is fine if
+    you want to reduce your RSI and number of coworkers who like you.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Przyszedł do mnie jakiś biznesmen, że mu się komputer psuje i żeby mu naprawić.
+    Seriously, what’s wrong with you people?
+
+    „Bo na wydziale budowlanym robią ekspertyzy budowlane, komputer mi sie zepsuł
+    to przyszedłem tutaj.”
+
+    Oraz „nie pójdę do serwisu, bo tam mogą siedzieć dwaj chłopcy, którzy naprawiają
+    komputery od podstawówki”. ARGHJHHH
+
+    Na usta cisnęło mi się „proszę spróbować na wydziale teologicznym, tam się za
+    pana pomodlą”, ale przypomniałem sobie, że głosowałem przeciwko utworzeniu takiego
+    wydziału.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Weźcie pod uwagę to co się stało wczoraj w Kabulu, ludzie między innymi spali…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Człowiek inteligentny, wykształcony, na przykład ja…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Jeśli się pomylę to niebardzo wiele.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
