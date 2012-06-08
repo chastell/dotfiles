@@ -40496,3 +40496,34 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: My then-5-year-old son said he wanted to become a programmer so that he could
+    ‘eat pistachios and watch YouTube all day’.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Online job boards must be confusing for those seeking employment as an actual
+    ninja or rockstar.
+  author: Jeremy Turner
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Just remembered that Heroku stores your password locally in plain text.
+
+    Oh, the password is SHAd. My passwords are long and random; I assumed it was my
+    actual password. Still do not approve.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Heroku
+  - security
