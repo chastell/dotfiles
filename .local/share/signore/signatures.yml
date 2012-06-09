@@ -40527,3 +40527,93 @@ signatures:
   - tech
   - Heroku
   - security
+- !ruby/struct:Signore::Signature
+  text: ! 'JOIN `vehicles`.`vehicles` ON `vehicles`.vehicles.vehicle_id = `vehicles`.vehicles_sites.vehicle_id
+
+    I reckon this query is about vehicles.'
+  author: Phil Sturgeon
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SQL
+- !ruby/struct:Signore::Signature
+  text: Proud to reassure my users that Pinboard passwords are not only hashed and
+    salted, but pan-seared and dusted with a saffron quince reduction.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: Just realized all these pieces of metal Europeans give you after a financial
+    transaction is like, small fractions of actual money.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A web professional doesn’t need a resume. Who they are is available online.
+    A company that doesn’t get this isn’t hiring professionals.
+  author: Chris Eppstein
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Okay, geeks, we got everyone saying ‘the cloud’. . Phase 2: get people
+    calling databases ‘the cylinder’.'
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'My GTD system: sit down and work.'
+  author: Fred LeBlanc
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! "— Chciałbyś nauczyć się asertywności? \n— Nie."
+  author: pico, equalidoo23
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Ja rozumiem między innymi twoje po prostu pytanie.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Inspektorzy wołają na sygnał.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Zginęło dwadzieścia tysięcy ofiar w wyniku zamarznięć wysokich temperatur.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
