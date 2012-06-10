@@ -40617,3 +40617,81 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Du ziehst auf eine einsame Insel und du kannst ein Smartphone mit Internet
+    oder einen besten Freund mitnehmen, was wäre dein erster Tweet?
+  author: Phonebitch
+  source: 
+  subject: 
+  tags:
+  - de
+- !ruby/struct:Signore::Signature
+  text: Manchmal, wenn ich Politikerinterviews im Radio höre, möchte ich am liebsten
+    „BEANTWORTE DOCH EINFACH DIE SCHEISS FRAGE, DU SPACKEN“ rufen.
+  author: Peter Piksa
+  source: 
+  subject: 
+  tags:
+  - de
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Perform your best screencast take in months; forget to press record first.
+    ‪#LIFEHACKS‬ ‪#AWEZOME‬ ‪#SUPERKEWL‬
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 2012, the year of functional programming on the desktop.
+  author: Tom Crayford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Weird that inside each of us is a skeleton that will one day wander the earth
+    carrying a rusty sword.
+  author: Rob Delaney
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Ja nie przywiązuję wielką wagę do klasówek.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ja jestem osoba nie chcę się popisywać gdzie nie mam szarego pojęcia.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Ile na jednego człowieka, na jednego łebka wody przydziela?
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Bito jak do kaczek, spadały te samoloty jak między innymi kaczki.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
