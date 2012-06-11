@@ -40695,3 +40695,47 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: „Niemiecka wokalistka soulowa”, będzie się działo.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: Kret jest pod ścisłą ochroną, wolno go tylko zabić.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mieszkają w willach po dwóch, po trzech…
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: W czasie kiedy wyście… tego… były ulewy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Idee odżywcze w zakresie wychowania obronnego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
