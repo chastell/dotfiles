@@ -14842,7 +14842,7 @@ signatures:
   - pl
 - !ruby/struct:Signore::Signature
   text: ! '— Czy to prawda, że migając długimi światłami samochodu wtedy, kiedy na
-    skrzyżowaniu świeci się czerwone, to zmiania się na zielone?
+    skrzyżowaniu świeci się czerwone, to zmienia się na zielone?
 
     — A jak zatrąbisz to na niebieskie.'
   author: TJE, Boombastic
@@ -40732,6 +40732,51 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: Idee odżywcze w zakresie wychowania obronnego.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Email length is proportional to how much happiness you want to take away from
+    your recipients.
+  author: Aaron Levie
+  source: 
+  subject: 
+  tags:
+  - en
+  - email
+- !ruby/struct:Signore::Signature
+  text: Ja przepraszam, że nie przyszedłem na poprzednie tego, to nie z mojej winy.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Kwarantanna ma różne okresy od pięciu do czterech tygodni.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Wiem, ponieważ dlatego słyszałem, jak mi wychowawca mówił.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: To nie był pogrzeb, to była między innymi wprost manifestacja.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
