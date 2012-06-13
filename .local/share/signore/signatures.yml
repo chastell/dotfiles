@@ -40784,3 +40784,50 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: Mein Code muss wirklich sehr traurig sein. Viele seiner Zeilen enden mit );
+    oder ]; oder };
+  author: Lena Schimmel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Jeszcze nie radziłbym nikomu uciekać, jeśli bym miał w ręku broń.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Dwadzieścia procent to jest po prostu już dużo.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Każdy potrzebuje mieć swojego lwa w krzakach.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
+- !ruby/struct:Signore::Signature
+  text: Takie były tradycyjne zwyczaje w Piastowej Polsce, że na koniec zimna stawiali
+    dziewicę i ją polewali wodą.
+  author: płk Tadeusz Sieńko
+  source: przysposobienie obronne
+  subject: 
+  tags:
+  - pl
+  - education
+  - Staszic
