@@ -40831,3 +40831,113 @@ signatures:
   - pl
   - education
   - Staszic
+- !ruby/struct:Signore::Signature
+  text: ‘Never wrestle with a pig – you get dirty and the pig likes it.’ NOW REPLACE
+    PIG WITH ASSET PIPELINE.
+  author: Mike Perham
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Procrastination? No, I just wait until the last minute to do my work because
+    I will be older, therefore wiser.
+  author: Alan Garner
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - procrastination
+- !ruby/struct:Signore::Signature
+  text: Oh I’m sorry, is the FUCKING MAGIC BRICK IN YOUR POCKET THAT TALKS TO SATELLITES
+    NOT SHOWING YOU THE ENTIRE PLANET TO YOUR SATISFACTION‽
+  author: Tom Coates
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: What if fucks given exist in non-euclidean space‽'
+  author: John E. Vincent
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Yeah, it’s imperative to keep hitting ‘refresh’. It’s like CPR for web servers!
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Handy tip: if you call the thing you’re curating ‘content’, then the thing
+    you are doing should not be called ‘curating’.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘If what you are working on feels overwhelming, try slicing off a chunk
+    randomly, and then focus on making that part great. It works.’
+
+    ‘I keep randomly slicing off the part where I enjoy a beer at the end.’'
+  author: Practicing Ruby, Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: As soon as you talk about cryptography it’s like serious science, and I’m
+    just making up shit with markers.
+  author: Jeff Casimir
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - cryptography
+- !ruby/struct:Signore::Signature
+  text: The real tragedy of football is that they would score far more goals if both
+    teams put their differences aside and worked together.
+  author: Rob Hale
+  source: 
+  subject: 
+  tags:
+  - en
+  - sport
+  - football
+- !ruby/struct:Signore::Signature
+  text: Seeing ‘200 new features’ as a marketing point is almost as chilling as reading
+    ‘now with 900,000 new lines of code!’
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: When they ლ(ಠ益ಠლ) just do ¯\_(ツ)_/¯
+  author: Alexander Bakus
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: One of the unproductive things about having a fast test suite is sitting there
+    running it over and over grinning like an idiot.
+  author: Jamie Gaskins
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
