@@ -40941,3 +40941,49 @@ signatures:
   - tech
   - programming
   - testing
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Hipstermedia APIs.'
+  author: Juliusz Gonera
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - REST
+- !ruby/struct:Signore::Signature
+  text: The scariest part of my job is dealing with people who have one joint email
+    account with their spouse.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'When a private individual creates a threat, and coerces you into paying
+    him to alleviate the same threat, it is called organized crime.
+
+    When a government creates an external threat, and then coerces your payment to
+    defend against it, it is called a state.'
+  author: x7o
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I am increasingly convinced that the time has come to find a way of thinking
+    about spirituality and ethics beyond religion altogether.
+  author: Dalai Lama
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Momentary confusion as a Kiwi offers to show us photos of his deck.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
