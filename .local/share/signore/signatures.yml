@@ -40987,3 +40987,22 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: If you say you love ‘The Wire’ but are still a line-toeing corporate fuckface,
+    then what did you like about ‘The Wire’? The sassy hairdos?
+  author: Scott Simpson
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - The Wire
+- !ruby/struct:Signore::Signature
+  text: With AWS having an outage, thousands of startups with literally dozens of
+    customers are affected.
+  author: Laurie Voss
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
