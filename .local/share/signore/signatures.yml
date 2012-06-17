@@ -41006,3 +41006,24 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! '<!--[if lte IE 7]> <style> * {font-family: "Comic Sans";} </style> <![endif]-->'
+  author: Barry Dorrans
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - CSS
+  - IE
+- !ruby/struct:Signore::Signature
+  text: ! '‘Been sent on of those contactless payment things to stick on my phone.
+    Not entirely sure why I’d bother when my wallet’s in my other pocket.’
+
+    ‘Does it have to go on your phone? Could you stick it on your knuckles so you
+    can punch your way through consumerism?’'
+  author: Pаul Bаttley, Murray Steele
+  source: 
+  subject: 
+  tags:
+  - en
