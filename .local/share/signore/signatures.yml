@@ -41027,3 +41027,20 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: You just know the tastiest animals never made it off of Noah’s Ark.
+  author: ‏@Jesus_M_Christ
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Always mildly surprised when I make an iptables change and don’t lock myself/everyone
+    out of the machine.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - networking
