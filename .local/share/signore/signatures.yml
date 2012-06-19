@@ -26189,7 +26189,7 @@ signatures:
   - pl
   - Usenet
 - !ruby/struct:Signore::Signature
-  text: Uważałem na siebie, jakbym miał jaja Faberge zamiast własnych.
+  text: Uważałem na siebie jakbym miał jaja Fabergé zamiast własnych.
   author: Konrad Bagiński
   source: pl.pregierz
   subject: 
@@ -41044,3 +41044,13 @@ signatures:
   - en
   - tech
   - networking
+- !ruby/struct:Signore::Signature
+  text: ‘Working Effectively with Legacy Code’ should just be 300 pages of a picture
+    of a bottle of whiskey.
+  author: Tony Collen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
