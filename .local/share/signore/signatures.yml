@@ -41054,3 +41054,10 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ‘Monday’ is an adjective. Today was totally Monday.
+  author: Chad Fowler
+  source: 
+  subject: 
+  tags:
+  - en
