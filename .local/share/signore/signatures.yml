@@ -41061,3 +41061,34 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Is anyone still fighting the “it’s a BLOG POST, not a blog” war, like
+    one of those Japanese soldiers in the Filipino jungle?’
+
+    ‘I am, but not very hard. Like one of those provincial towns whose bylaws mean
+    they’re technically still at war with France.’'
+  author: Pаul Bаttley, Tom Phillips
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Coś we mnie umiera jak mnie dotyka po ramionach teściowa szefa.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Dostałem ofertę od firmy SEO. Ich strona ma PageRank 0. Zrobiłem aliasa do
+    ich konta pocztowego na jednej z moich domen  i prosiłem żeby skontaktowali się
+    z kimś, kto potrzebuje natychmiast pomocy.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - SEO
