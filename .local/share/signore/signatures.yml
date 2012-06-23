@@ -41128,3 +41128,28 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: There is no universal right that forces people to accept your beliefs or even
+    find them remotely credible or respectable.
+  author: Aaron Diaz
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Civil Servant in lift: ‘you’re not dressed for work’. He must be new to
+    the Internet.'
+  author: Brad Wright
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: By growing up, I feel like I’ve traded summer vacations for the ability to
+    eat ice cream for every meal.
+  author: Aaron Patterson
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
