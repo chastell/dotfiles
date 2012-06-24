@@ -41153,3 +41153,14 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: Told my three-year-old son about GoRuCo. He is now running around saying ‘lambda’
+    and laughing hysterically.
+  author: Daniel Doubrovkine
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
