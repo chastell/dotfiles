@@ -41164,3 +41164,12 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: Being popular on Twitter is like sitting at the cool table in the cafeteria
+    at a mental hospital.
+  author: Kyle Lippert
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
