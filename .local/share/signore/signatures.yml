@@ -16765,14 +16765,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: In the future, everyone will be a national security threat for 15 minutes.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - security
-- !ruby/struct:Signore::Signature
   text: I do hope that no-one protesting about reductions in public expenditure is
     witless enough to call themselves an anarchist.
   author: Tom Greeves
