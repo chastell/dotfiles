@@ -40027,15 +40027,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Chciałbym, abyście przejrzeli domowe magazyny, apteki.
-  author: płk Tadeusz Sieńko
-  source: przysposobienie obronne
-  subject: 
-  tags:
-  - pl
-  - education
-  - Staszic
-- !ruby/struct:Signore::Signature
   text: Tak zwana opychotechnika.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
