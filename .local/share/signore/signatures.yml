@@ -41156,3 +41156,10 @@ signatures:
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: ! Mam ochotę tupnąć tak mocno że dysk żółwiowi spadnie.
+  author: Jarosław Śmiejczak
+  source: 
+  subject: 
+  tags:
+  - pl
