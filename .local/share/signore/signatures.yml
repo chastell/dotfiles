@@ -41157,9 +41157,21 @@ signatures:
   - en
   - Twitter
 - !ruby/struct:Signore::Signature
-  text: ! Mam ochotę tupnąć tak mocno że dysk żółwiowi spadnie.
+  text: Mam ochotę tupnąć tak mocno że dysk żółwiowi spadnie.
   author: Jarosław Śmiejczak
   source: 
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'C++ function or line noise?
+
+    _ZNSt3__18functionIFvvEEC1IZ3fooPKcE3$_0EET_PNS_9enable_ifIXsr10__callableIS7_EE5valueEvE4typeE'
+  author: Evan Phoenix
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
