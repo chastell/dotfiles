@@ -41175,3 +41175,23 @@ signatures:
   - tech
   - programming
   - C++
+- !ruby/struct:Signore::Signature
+  text: Listen to your tests, they gossip about how awful your code is.
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Turns out theres a Nyan Cat Vim plugin. Looks like I’m changing my text editor.
+  author: Ryan Bibby
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Vim
