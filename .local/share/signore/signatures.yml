@@ -41195,3 +41195,13 @@ signatures:
   - tech
   - programming
   - Vim
+- !ruby/struct:Signore::Signature
+  text: I’ve never worked on a piece of software where the data layer was swapped
+    out, yet I’ve spent hundreds of hours making sure that could happen.
+  author: Daniel Auger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
