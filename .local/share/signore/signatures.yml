@@ -41215,3 +41215,12 @@ signatures:
   - tech
   - programming
   - devops
+- !ruby/struct:Signore::Signature
+  text: solo> uptime 04:02 up for 2 minutes, 4 users, load avg 1.2 0.5 0.2 KERNEL
+    PANIC
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
