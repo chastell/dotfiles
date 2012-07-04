@@ -41224,3 +41224,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Colleague suggested that I offer straight talking as a consulting business,
+    or, as it was also expressed, ‘fuck off as a service’.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - tech
