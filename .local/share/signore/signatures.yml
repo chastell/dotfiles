@@ -41234,3 +41234,13 @@ signatures:
   - en
   - work
   - tech
+- !ruby/struct:Signore::Signature
+  text: Every time I type `rake routes` I hear Scooby Doo saying it in my head.
+  author: Jason Lewis
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
