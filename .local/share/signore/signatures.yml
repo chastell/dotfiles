@@ -41244,3 +41244,13 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: Premature optimizations can be troublesome to revert, but premature generalizations
+    are often near impossible.
+  author: Emil Persson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
