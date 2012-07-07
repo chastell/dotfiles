@@ -41254,3 +41254,21 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Proszę się odsunąć, konfiguruję Vima.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: Czy ktoś może wytłumaczyć temu szalonemu milionerowi z Hawajów, że jego strona
+    nie będzie lepsza jeśli załadujemy tam jeszcze więcej logówek?
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
