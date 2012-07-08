@@ -41272,3 +41272,11 @@ signatures:
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: TIL if you leave two car lengths in front of you on a Florida highway, three
+    cars pull into it.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
