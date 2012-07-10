@@ -41290,3 +41290,13 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! "No więc w temacie kreatywności w przygotowywaniu danych, to najlepsze co
+    widziałem, to było pracowite robienie skrinszotów z ankiety internetowej, wypełnienie
+    długopisem wydrukowanej wersji i odesłanie zwykłą pocztą. Czy wspomniałem o pieczątce
+    wypełniającego na każdej stronie?\uFEFF"
+  author: Piotr Bartkiewicz
+  source: 
+  subject: 
+  tags:
+  - pl
