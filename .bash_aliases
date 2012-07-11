@@ -1,5 +1,5 @@
 alias a='ack-grep'
-alias backup='offlineimap; reset; rm -fr ~/.cache/chromium ~/.local/share/Trash ~/.thumbnails; fusermount -u ~/.gvfs; rdiff-backup --print-statistics -v5 ~ /media/Arthur/X301.rdiff; beep -r 3'
+alias backup='offlineimap; fusermount -u ~/.gvfs; rdiff-backup --print-statistics -v5 ~ /media/Arthur/X301.rdiff; beep -r 3'
 alias be='bundle exec'
 alias clive='clive -cf best'
 alias computer,='sudo'
