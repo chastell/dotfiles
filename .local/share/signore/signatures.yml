@@ -41300,3 +41300,14 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Bardzo chętnie ci pomogę, powinienem być wolny w tych datach co podałeś.
+    Nie jestem studentem ale studencko wyglądam, więc nie będzie chyba większego problemu.
+
+    — Studencko wyglądasz… staaary, ty to byś wyniósł z reaktora atomowego pręty paliwowe
+    w worku papierowym na bagietki i jeszcze by cię ochrona przepraszała.'
+  author: Krzysztof Rączkiewicz, spin
+  source: HS WAW
+  subject: 
+  tags:
+  - pl
