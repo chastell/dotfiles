@@ -41311,3 +41311,30 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Ponieważ dziecko nie było grzeczne zabiorę je zaraz na szoping do Arkadii.
+  author: Siwa
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Żadna laska, żadna lala nie zastąpi terminala.
+  author: Bartek Kuczyński
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - CLI
+- !ruby/struct:Signore::Signature
+  text: Programming is about learning to think computationally, just as art is about
+    learning to see.
+  author: Chris Parsons
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
