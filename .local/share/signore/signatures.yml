@@ -41338,3 +41338,33 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Colleague suggested that I offer straight talking as a consulting business,
+    or, as it was also expressed, ‘fuck off as a service’.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Every time I type `rake routes` I hear Scooby Doo saying it in my head.
+  author: Jason Lewis
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: PHP is the Nickelback of programming languages.
+  author: Jeff Atwood
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
