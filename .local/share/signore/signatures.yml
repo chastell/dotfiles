@@ -41368,3 +41368,246 @@ signatures:
   - tech
   - programming
   - PHP
+- !ruby/struct:Signore::Signature
+  text: „W najbliższym czasie ukarze się książka”
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: North Korea is using Disney content without permission. Great. This is exactly
+    how I wanted WWIII to start.
+  author: David Weinberger
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: Człowiek-pizda w podskokach realizuje debilne zlecenie Ważnego.
+  author: L-child 1
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Sometimes I like to `cat /dev/urandom > /dev/null` to see who will win.
+  author: Rein Henrichs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Got informed of the existence of Haskell a few more times today. My favorite
+    part about Twitter is learning Haskell exists over and over.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
+- !ruby/struct:Signore::Signature
+  text: Sufficiently advanced trolling is indistinguishable from thought leadership.
+  author: Cliff Moon
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Runaway sidekiq worker just created 75,000 records for me. Never had a race
+    condition with destroy_all before.
+  author: Jonan Scheffler
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: I’m fucking tired of people complaining about Android fragmentation. Try programming
+    for the web, you lazy miserable assholes.
+  author: Ben Vinegar
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Just seen a businessman do ‘33500 + 3000’ on their iPhone calculator, in case
+    you’re wondering why there’s a financial crisis.
+  author: Carson Dyle
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some people, when confronted with a problem, think ‘I know, I’ll use abstraction’.
+    Now they have one problem they aren’t thinking about.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Some people, when confronted with an obvious thought, think ‘I know, I’ll
+    disguise it as a “some people” joke’. Now they have retweets.
+  author: Magnus Holm
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘The males in Brave were all plot devices!’
+
+    GEE. THAT MUST REALLY SUCK TO HAVE YOUR GENDER MARGINALIZED IN A MOVIE. CAN’T
+    IMAGINE.'
+  author: Kiersten White
+  source: 
+  subject: 
+  tags:
+  - en
+  - gender
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: Nope, can’t handle Go. I’ll be fucked if I’m going to start taking the address
+    of variables again. That’s the computer’s problem.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
+- !ruby/struct:Signore::Signature
+  text: ! 'Bidirectional recruiter harassment gateway: it tweets recruiter emails;
+    replies to the tweets go to the recruiter as email. Make it happen.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '‘Free app idea: autoresponder that estimates how long it will take the
+    recipient to reply to an email, based on current mail backlog.’
+
+    ‘…and use some machine learning to factor in how little I care about the particular
+    email.’
+
+    ‘Based on other emails containing the phrase “exciting opportunity”, your email
+    will be processed in approximately 600 years.’'
+  author: Avdi Grimm, Josh Susser
+  source: 
+  subject: 
+  tags:
+  - en
+  - email
+- !ruby/struct:Signore::Signature
+  text: Late-night buses are surprisingly fast, proving, once again, l’enfer, c’est
+    les autres.
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I hate being bipolar, it’s fantastic!
+  author: ‏@AthenaOriana
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The bad news is daddy drank your sea monkeys. The good news is the resulting
+    psychosexual mind-voyage inspired me to start a prog band.
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Sure, I’ll pay 5.25 for that 12 oz latte. No, I won’t buy your book or your
+    app for 99 cents. Maybe if you gave it away for free. Thanks.
+  author: Max Andrew Dubinsky
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Being an Emacs user today is *exactly* like when your time machine breaks
+    and you have to spend the rest of your life among cave dwellers.
+  author: Terry Jones
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Emacs
+- !ruby/struct:Signore::Signature
+  text: That frustrating feeling when you really want to devalue an idea but it starts
+    with a vowel so you can’t use the sarcastic ‘an’.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: When you say ‘detail oriented’ I hear ‘gives a shit’.
+  author: rands
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘It’s entirely appropriate to present in Comic Sans!’
+
+    ‘If you have no taste. Using Comic Sans (except in comic strips) is like doing
+    physics in Imperial units.’'
+  author: Brian Cox, Alastair Houghton
+  source: 
+  subject: on Higgs boson discovery presentation
+  tags:
+  - en
+  - physics
+- !ruby/struct:Signore::Signature
+  text: ! 'Words I wish would be bleeped around me: guesstimate, webinar. This is
+    a non exhaustive list.'
+  author: Carol Nichols
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: I imagine XSLT programmers say ‘it’s a one pager’ the way most other programmers
+    say ‘it’s a one liner’.
+  author: Derek Elkins
+  source: 
+  subject: on Haskell
+  tags:
+  - en
+  - tech
+  - programming
+  - XSLT
+  - Haskell
+- !ruby/struct:Signore::Signature
+  text: ! 'Because complacency is liberty’s greatest foe, it comforts my heart that
+    some people have bookmarked WAR PLAN RED: https://en.wikipedia.org/wiki/War_Plan_Red'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
