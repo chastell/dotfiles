@@ -41611,3 +41611,388 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I haven’t the slightest idea how to change people, but I still keep a long
+    list of prospective candidates just in case I should ever figure it out.
+  author: David Sedaris
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Objects telling other objects to do things. This is what you want.
+  author: Tom Crayford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I just washed down a Happy Meal with peppermint schnapps and will now human
+    beatbox the shit out of this PTA meeting.
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Never burn bridges. Unless the bridge is your soon to be former workstation
+    hard drive, in which case ‘shred /dev/sda’ does nicely.
+  author: CLI Magic
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Code-commenters require a therapy.
+  author: Andrzej Krzywda
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: You know your partner is used to your shenanigans when you shout after them
+    ‘I don’t even have eyes anymore!’ and they just keep going.
+  author: Ashe Dryden
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Hipsters: it’s safe to continue to use RDF. It won’t become too mainstream.
+    Ever.'
+  author: Eeppa
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - RDF
+- !ruby/struct:Signore::Signature
+  text: Philip Arndt says he doesn’t understand the state machine problem, but will
+    happily charge $100/hr to consult on it. He’ll go far.
+  author: Ryan Bigg
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I just realized that book reviewers GET PAID TO READ BOOKS. I went into the
+    wrong field.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You dog, I heard you like sleep, so we put PagerDuty on the AWS cloud so when
+    you are down, you are down.
+  author: Tim Dysinger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
+- !ruby/struct:Signore::Signature
+  text: Once you go Async, back go never you
+  author: Will Green
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Advertising people say ‘digital’. Web people say ‘Internet’. Police people
+    say ‘cyber’.
+  author: Andrea Lopez
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: That feeling right after you think ‘how hard could it be’ and open your editor
+    to discover just how hard the guy before you thought it was.
+  author: Kevin Smith
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Can’t tell whether amazing or just Ruby unbreaking itself.
+
+    undef_method *instance_methods.grep(/^(?!__|object_id)/) # BlankerSlate.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Want to work at Pinboard? Then you must bring me a single hair from Stallman’s
+    beard, or one of Paul Graham’s fingers.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: And so the most powerfully interconnected generation the planet has ever seen
+    posts another photo of its lunch.
+  author: Mike Monteiro
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Imagine the most beautiful scene ever. Now paint it. Now you understand why
+    your ‘awesome idea for an app’ is 1% of the work done.
+  author: Geordie Guy
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Daughter, six, has homework to list ‘Olympic Values’. Sadly, she can’t yet
+    spell ‘corporate greed’ or ‘Nietzschean cult of The Superman’.
+  author: Lee Jackson
+  source: 
+  subject: 
+  tags:
+  - en
+  - sports
+- !ruby/struct:Signore::Signature
+  text: Playing some weird dubstep in the bathroom, wife charges in OMG IS EVERYTHING
+    OK?!
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+  - dubstep
+- !ruby/struct:Signore::Signature
+  text: Log file reports ‘Possible SYN flooding on port 8080. Sending cookies.’ That
+    just seems like it’s encouraging bad behavior!
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I change every story I tell just a little bit, to make myself look like less
+    of a jerk. Usually after rescuing orphans from a fire.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: These ‘retweet for a savings!’ things are handy. They let you know how much
+    the people you follow value your time, in dollars.
+  author: Jeff Atwood
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: We put the ‘agile’ in ‘fragile’.'
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'The answer to ‘what if I get hit by a bus’: MUNI driver will get four weeks
+    paid leave and then stencil my silhouette below driver’s window.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If you love someone, re-indent their code. If they complain, it means they
+    were never really yours. Also that they had ugly code.
+  author: Joe Valenzuela
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘Ruby programmers: this is your periodic reminder that Python does this:
+
+    >>> def f(a, b): return [a, b] ...
+
+    >>> f(b=''b'', a=''a'') [''a'', ''b'']’
+
+    ‘LOL BUT CAN IT DO THIS????
+
+    lambda do { end &poop &block;;asdfgh;aoidghoibfoobar!?()()[] $?!
+
+    LOL PYTHON’'
+  author: Gary Bernhardt, Max Cantor
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: AAAAARGH I CANNOT WRITE DOCS IF YOU ARE MESSAGING ME ASKING HOW MY WRITING
+    OF DOCS IS GOING ARGH ARGH ARGH GO TO BED IT’S BEDTIME IN GERMANY
+  author: Chris Meredith
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: The idea that books don’t pay comes from A) publishers (surprise!) and B)
+    writing shitty books which nobody wants.
+  author: Amy Hoy
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Rails! Where the simple existance of an ivar with a magic name can change
+    behavior EVEN IF THAT IVAR IS NEVER USED!
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Objects remain unrustled until trolled. Rustling is proportional to the trolling.
+    For every troll there is an equal and opposite caremad.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Totally going to stand shoulder-to-shoulder with the world’s biggest democracy
+    in the struggle for just treatment of .IN domains. Also, lazy.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Source of CERN is tell me next monumental task for them is find trace of Linux
+    on desktop.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: The scariest thing about whatever happened to George Lucas’s neck is that
+    even billions of dollars can’t fix it.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - Star Wars
+- !ruby/struct:Signore::Signature
+  text: After reading the http://App.net  materials I wish I could somehow donate
+    a large, negative sum of money.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Best line of code I’ve ever written.
+
+    def run pump until @dead end
+
+    Can’t stop laughing right now.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Your data exists as tiny motes of rust spinning in a locked box at a hundred
+    times a second, of course you should worry about it!
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I’m at a thing. I yell ‘NERD’. Everyone turns around. ‪#techlife‬
+  author: Carol Nichols
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Free idea: make your company’s support address visible. When someone emails,
+    close their account and issue a refund. Provide no support.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘Dude, unless you’re using Iambic Pentameter, you’re not really writing’ –
+    if writers argued like programmers do.
+  author: ‏@mcmoyer
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: GNU’s Not Unix. BING Is Not Google.
+  author: Graham Lee
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: If hanging out online after midnight trying to make your friends laugh is
+    wrong, I apparently haven’t wanted to be right since 1995.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
