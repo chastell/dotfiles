@@ -41996,3 +41996,32 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Just because you’re solving an easy problem doesn’t mean programming is easy,
+    just your current problem.
+  author: Alexis Sellier
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'ad hack /ˈad ˈhak/, noun: hacked for a particular purpose only.'
+  author: Rein Henrichs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: I think most people thing programming is cold, precise, and mechanical. It’s
+    actually creative, perplexing and deeply personal.
+  author: Mitch Garnaat
+  source: 
+  subject: 
+  tags:
+  - en
+  - programming
