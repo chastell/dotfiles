@@ -38323,7 +38323,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ! 'Usłyszałam „Ale fajnie, pojawiają się zielone liście na drzewach” i w pierwszym
+  text: ! 'Usłyszałam „ale fajnie, pojawiają się zielone liście na drzewach” i w pierwszym
     momencie pomyślałam o drzewie kategorii.
 
     Mamo, robiłam co mogłam, ale nie ma już dla mnie nadziei.'
@@ -42025,3 +42025,30 @@ signatures:
   tags:
   - en
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Z rekrutacji: atmosfera w firmie jest tak świetna, że w weekendy przychodzimy
+    na kilka godzin do biura żeby ze sobą popracować.
+
+    Where do I sign?'
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: „Twoja nokia wygląda jak ajfon dla linuksiarzy” she said.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: Jaram się tą nową robotą, to może potrwać nawet 2-3 dni od rozpoczęcia.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
