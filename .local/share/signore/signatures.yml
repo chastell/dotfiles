@@ -42052,3 +42052,83 @@ signatures:
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: Show me a sane man and I will cure him for you.
+  author: Carl Jung
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: AMAZING. Tweetbot for mac doesn’t crash when I view an image. Already dramatically
+    better than the official app.
+  author: Ben Bleything
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: ‘Your card number must not contain spaces!’ We put a man on the moon. You
+    can take the fucking spaces out.
+  author: Simon Harris
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: we should filter emails using some simple regexp.'
+  author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Loved it when Github used to say ‘hardcore forking action…’ $100M in funding
+    later it says ‘forking repository’.
+  author: Julia H. Grace
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: So the Jesus lovers protesting at Comic Con are angry because it’s a sin to
+    celebrate fantastical stories with mythical heroes? Hm.
+  author: Simon Helberg
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Reading another book that wastes chapters explaining programming to people
+    who only know Java. Do they exist? Are they really programmers?
+  author: Pаul Bаttley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: ! 'The real problem of humanity is the following: we have paleolithic emotions;
+    medieval institutions; and god-like technology.'
+  author: E. O. Wilson
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 90% ludzi używa macosiksa bo lubią lizać ekran gdy nikt nie patrzy.
+  author: spin
+  source: HS WAW
+  subject: 
+  tags:
+  - pl
+  - tech
+  - Apple
+  - Mac OS X
