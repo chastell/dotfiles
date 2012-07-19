@@ -985,16 +985,13 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ! ' <Palemka> Czym się różni byle popierdółka od prawdziwego mężczyzny?
+  text: ! '— Czym się różni byle popierdółka od prawdziwego mężczyzny? Popierdółka
+    mówi „stanik zapinany z przodu”, a prawdziwy mężczyzna „stanik rozpinany z przodu”.
 
-     <Palemka> Popierdółka mówi „stanik zapinany z przodu”,
+    — Prawdziwy facet nie rozpina, prawdziwy facet zdziera.
 
-               a prawdziwy mężczyzna „stanik rozpinany z przodu”.
-
-    <DoubleGJ> Prawdziwy facet nie rozpina, prawdziwy facet zdziera.
-
-      <goegoe> Prawdziwy facet nie nosi stanika.'
-  author: 
+    — Prawdziwy facet nie nosi stanika.'
+  author: Palemka, DoubleGJ, goegoe
   source: 
   subject: 
   tags:
@@ -1979,7 +1976,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: I’m happy for people to hold negative views of programmers. I just ask them
-    to avoid hypocrisy by not using the internet to express them.
+    to avoid hypocrisy by not using the Internet to express them.
   author: Paul Battley
   source: 
   subject: 
@@ -5380,7 +5377,7 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: I love how grammar is like being handsome on the internet.
+  text: I love how grammar is like being handsome on the Internet.
   author: Shart
   source: 
   subject: 
@@ -8281,7 +8278,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ! "˙˙˙oɹƃǝllɐ ɐu\uFEFF ɹnʇɐıʍɐlʞ ǝıɔɾndnʞ ǝıu"
+  text: ˙˙˙oɹƃǝllɐ ɐu ɹnʇɐıʍɐlʞ ǝıɔɾndnʞ ǝıu
   author: ProTofik
   source: 
   subject: 
@@ -8336,7 +8333,7 @@ signatures:
   - tech
   - Big Bang Theory
 - !ruby/struct:Signore::Signature
-  text: ! '‘One thing that I’ve noticed since being mostly away from the internet
+  text: ! '‘One thing that I’ve noticed since being mostly away from the Internet
     for a month is how quickly minor conflicts spin out of control.’
 
     ‘Stop being such a sensitive hitler nazi.’'
@@ -12421,7 +12418,7 @@ signatures:
   - tech
   - memcached
 - !ruby/struct:Signore::Signature
-  text: This bit where the internet lets us all instantly peer around to make sure
+  text: This bit where the Internet lets us all instantly peer around to make sure
     everyone’s reactions suit us seems more bug than feature to me.
   author: Erin Kissane
   source: 
@@ -13833,7 +13830,7 @@ signatures:
   - morals
   - politics
 - !ruby/struct:Signore::Signature
-  text: The internet interprets censorship as damage and routes around it.
+  text: The Internet interprets censorship as damage and routes around it.
   author: John Gilmour
   source: 
   subject: 
@@ -17283,7 +17280,7 @@ signatures:
   - politics
 - !ruby/struct:Signore::Signature
   text: Dzisiaj obserwowałem trochę jak ludzie korzystają z komputerów i ogarnia mnie
-    podziw na myśl, że cały ten internet pomimo wszystko działa.
+    podziw na myśl, że cały ten Internet pomimo wszystko działa.
   author: Lipszyc
   source: 
   subject: 
@@ -17747,7 +17744,7 @@ signatures:
   - programming
   - Java
 - !ruby/struct:Signore::Signature
-  text: Just seen Transformers 3; I sincerely hope the internet destroys the current
+  text: Just seen Transformers 3; I sincerely hope the Internet destroys the current
     movie industry.
   author: Martin Aumont
   source: 
@@ -20218,7 +20215,7 @@ signatures:
   - work
 - !ruby/struct:Signore::Signature
   text: It has come to my attention that some of you are still putting things on the
-    internet that I do not need. This is inefficient. Please stop.
+    Internet that I do not need. This is inefficient. Please stop.
   author: David Brady
   source: 
   subject: 
@@ -24914,7 +24911,7 @@ signatures:
   - en
   - linguistics
 - !ruby/struct:Signore::Signature
-  text: Of course I’m arrogant. The best usually are.
+  text: Of course I’m arrogant – the best usually are.
   author: 
   source: 
   subject: 
@@ -32099,7 +32096,7 @@ signatures:
   - programming
   - open source
 - !ruby/struct:Signore::Signature
-  text: Only after the internet has been censored, the last civil right eroded, and
+  text: Only after the Internet has been censored, the last civil right eroded, and
     freedom of thought taken away will we realize that the middle ages weren’t actually
     that great.
   author: Florian Hanke
@@ -33793,7 +33790,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ! '— Ktoś miał kiedyś tak, że płącz ei się śmieje naraz?
+  text: ! '— Ktoś miał kiedyś tak, że płacze i się śmieje naraz?
 
     — Ta.
 
@@ -41291,18 +41288,19 @@ signatures:
   - programming
   - Ruby
 - !ruby/struct:Signore::Signature
-  text: ! "No więc w temacie kreatywności w przygotowywaniu danych, to najlepsze co
-    widziałem, to było pracowite robienie skrinszotów z ankiety internetowej, wypełnienie
-    długopisem wydrukowanej wersji i odesłanie zwykłą pocztą. Czy wspomniałem o pieczątce
-    wypełniającego na każdej stronie?\uFEFF"
+  text: No więc w temacie kreatywności w przygotowywaniu danych, to najlepsze co widziałem,
+    to było pracowite robienie skrinszotów z ankiety internetowej, wypełnienie długopisem
+    wydrukowanej wersji i odesłanie zwykłą pocztą. Czy wspomniałem o pieczątce wypełniającego
+    na każdej stronie?
   author: Piotr Bartkiewicz
   source: 
   subject: 
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: ! '— Bardzo chętnie ci pomogę, powinienem być wolny w tych datach co podałeś.
-    Nie jestem studentem ale studencko wyglądam, więc nie będzie chyba większego problemu.
+  text: ! '— Bardzo chętnie ci pomogę [odebrać książki z biblioteki], powinienem być
+    wolny w tych datach co podałeś. Nie jestem studentem ale studencko wyglądam, więc
+    nie będzie chyba większego problemu.
 
     — Studencko wyglądasz… staaary, ty to byś wyniósł z reaktora atomowego pręty paliwowe
     w worku papierowym na bagietki i jeszcze by cię ochrona przepraszała.'
@@ -42132,3 +42130,31 @@ signatures:
   - tech
   - Apple
   - Mac OS X
+- !ruby/struct:Signore::Signature
+  text: Konsultanci Orange pracujący dla TPSA rzondzom. „Wie pan, ten nasz przepis
+    jest bez sensu, ale ja panu powiem, jak go obejść.”
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Orange
+- !ruby/struct:Signore::Signature
+  text: Porównania do samochodów są jak samochody, natomiast inne, lepsze metafory
+    są jak ciężarówki.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: How can you even be a PHP programmer without a sense of humor? You write PHP.
+    That’s hilarious.
+  author: Jeff Atwood
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
