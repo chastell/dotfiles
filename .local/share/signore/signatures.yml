@@ -42158,3 +42158,80 @@ signatures:
   - tech
   - programming
   - PHP
+- !ruby/struct:Signore::Signature
+  text: In my work life I routinely deal with people who believe the world needs a
+    punctuation mark for sarcasm.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '‘In my work life I routinely deal with people who believe the world needs
+    a punctuation mark for sarcasm.’
+
+    ‘We obviously need some sort of <![SARCASM[ markup to disambiguate.’
+
+    ‘DO NOT CROSS THE STREAMS.’'
+  author: Maciej Cegłowski, Leonardo Etcheverry
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: There is something about <![CDATA[…]]> as a syntax that wounds my tender sensibilities.
+    Cat-on-keyboard protocol design.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - XML
+- !ruby/struct:Signore::Signature
+  text: Gay marriage has ruined traditional marriage. Every time I see a link to wedding
+    pics and it’s a guy and a girl I’m like ‘pssh, boring’.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - homosexuality
+- !ruby/struct:Signore::Signature
+  text: LinkedIn portalem równych szans jak widzę, ale dawać redesign robić niewidomym
+    to ryzykowne.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - LinkedIn
+- !ruby/struct:Signore::Signature
+  text: ‘I’d LOVE to download your app instead of going to the webpage I just tried
+    to visit!’ – No-one, ever. No-one in the future either.
+  author: Graham Linehan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'No SciFi author foresaw this: we are building clans around languages we
+    speak to the Machine.'
+  author: Vyacheslav Egorov
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: We have to stop this recent culture of people telling us they’re offended
+    and expecting us to give a fuck.
+  author: Ricky Gervais
+  source: 
+  subject: 
+  tags:
+  - en
