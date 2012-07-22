@@ -42243,3 +42243,70 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Postanowiłem najpierw maile, potem wino. Będę żałował.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: If your company cares about some data and the programmers want to put it in
+    Mongo, the canary just died. Canaries as a service.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - MongoDB
+- !ruby/struct:Signore::Signature
+  text: If you know anything about the quality of most software, you should be completely
+    amazed that humans have managed to survive this long.
+  author: Michael Koziarski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Me: No, Pandora! No Flock of Seagulls! ::downvote::
+
+    Pandora: [two songs later] Flock of Seagulls! Woo!
+
+    Me: HOW MANY SONGS DO THEY HAVE?!'
+  author: Ashe Dryden
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+  - Pandora
+- !ruby/struct:Signore::Signature
+  text: ! 'Protip: Answer your phone with ‘yolo’ instead of ‘hello’.'
+  author: Chris Wanstrath
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Pinboard advantage #920: only site whose test environment is a distributed
+    neural network guaranteed to be indistinguishable from production.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - testing
+- !ruby/struct:Signore::Signature
+  text: The Star Trek universe happens when you put scientists in charge. The Star
+    Wars universe happens when you put politicians in charge.
+  author: ‏@thagler
+  source: 
+  subject: 
+  tags:
+  - en
+  - Star Trek
+  - Star Wars
