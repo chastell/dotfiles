@@ -42310,3 +42310,106 @@ signatures:
   - en
   - Star Trek
   - Star Wars
+- !ruby/struct:Signore::Signature
+  text: So I just wrote this hierarchical kernelized Boltzmann process in Prolog using
+    ed on my iPhone. I can send you the RCS repository.
+  author: ML Hipster
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Hey, anybody know a good open source operating system with shoddy UI and complete
+    disregard for my time?
+  author: Tom Crayford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Curmudgeons 2, hipsters none.
+
+    Vim Mutt vs TextMate Sparrow'
+  author: Adamus Maximus
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Vim
+  - Mutt
+- !ruby/struct:Signore::Signature
+  text: The curmudgeons win. The neckbeards win. Unix wins. You might not realize
+    this if Unix is ‘a thing that came with your Mac’. LEARN TO UNIX.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: ! 'A void function is either mutating something or a no-op. I’m genuinely
+    distressed at how many people don’t understand this.
+
+    This is why you should have a CS degree. My replies are full of people asking
+    why printing to the screen is mutation.
+
+    If f calls g, and g mutates something, then both f and g are destructive and not
+    referentially transparent. Functions: a thing.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Currently overhearing someone who doesn’t like Macs because they don’t
+    have hierarchical file systems.
+
+    File system dude is on a first date, on the bus, incorrectly explaining file systems
+    to a girl who works as a princess at birthday parties.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - relationships
+- !ruby/struct:Signore::Signature
+  text: Had to explain to my mom tonight about the frontend server dying. ‘It’s like
+    the maître d’ had a heart attack, no one knows where to sit.’
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '— Ludzie, którzy piszą na Facebooku, że przeszukują torbę pani od sprzątania.
+
+    — Najważniejsze to dodać taką panią uprzednio do znajomych, coby mogła polajkować
+    jak jej znajdziemy błyszczyk i zagubiony kluczyk do skrzynki.'
+  author: Ensata, DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '„Eine normale Person verbringt ca. 18 Stunden in der Woche im Internet.“
+
+    „Du meinst am Tag.“
+
+    „Was?“
+
+    „Was?“'
+  author: ! '@ihopeyoudiexo'
+  source: 
+  subject: 
+  tags:
+  - de
+  - Internet
