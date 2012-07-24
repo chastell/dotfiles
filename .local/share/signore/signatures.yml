@@ -42413,3 +42413,37 @@ signatures:
   tags:
   - de
   - Internet
+- !ruby/struct:Signore::Signature
+  text: The trouble with words is that you never know whose mouths they’ve been in.
+  author: Dennis Potter
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘We may never know what caused the gunman to snap’, but if he had a Muslim
+    background I bet we’d suddenly be all sorts of certain.
+  author: Bilal Dardai
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Tn IT head for a Fortune 500 company is explaining to me how IPv6 is unnecessary
+    because ‘they’ll probably give in and issue more IPv4 addresses’.
+  author: ‏@me_irl
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - IPv6
+- !ruby/struct:Signore::Signature
+  text: At this age I don’t schedule things, I just do them to make sure they actually
+    get done.’ – man who is 95 years old.
+  author: Dr Nic
+  source: 
+  subject: 
+  tags:
+  - en
