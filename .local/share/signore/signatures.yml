@@ -42447,3 +42447,110 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'olympics: n. Loose assemblage of activities undertaken quadrennially by
+    over-ripped folk with an odd view of life and difficulty prioritising. Small trinkets
+    on coloured ribbons and needlessly ostentatious flower arrangements are commonly
+    given to several of the better entrants as stirring tunes play. Flags and advertising
+    signage tend to be prominently displayed and portly men in suits shuffle about
+    needlessly.'
+  author: Urban Dictionary
+  source: 
+  subject: 
+  tags:
+  - en
+  - sports
+  - olympics
+- !ruby/struct:Signore::Signature
+  text: ! 'Merlin zarekomendował mi jednym tchem: „Sztuka pierdzenia”, „Z penisem
+    jak z mężem” i „Dlaczego pingwinom nie zamarzają stopy”. Idę się powiesić.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - books
+- !ruby/struct:Signore::Signature
+  text: Never trust anyone who keeps safe search enabled in their browser.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'My seven year old was horrified when she read the server error log over
+    my shoulder: ‘Unicorn killed for taking too long’.'
+  author: Wynn Netherland
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Unicorn
+- !ruby/struct:Signore::Signature
+  text: Remember when web sites worked? Remember when they rendered things on the
+    server side? Remember how those time periods overlapped exactly?
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: die drei ßßß und die kaputte shifttaste.
+  author: ‏@der_handwerk
+  source: 
+  subject: 
+  tags:
+  - de
+- !ruby/struct:Signore::Signature
+  text: Watermarking your photos to prevent copying is like pissing on your belongings
+    to prevent people from stealing them.
+  author: Steve Losh
+  source: 
+  subject: 
+  tags:
+  - en
+  - photography
+- !ruby/struct:Signore::Signature
+  text: ‘So you fuck-wits had all that historical work and you chose that step backwards?’
+    – our children, maintaining our JavaScript.
+  author: Tony Morris
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: ! 'At the office:
+
+    ‘Oh wow, that window has never been this clean!’
+
+    ‘You know I opened it, right?’
+
+    ‘Oh.’'
+  author: Roy Tomeij
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'My favorite productivity tip: sit down and do a bunch of work.'
+  author: Johnnie Manzari
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! "XML is a binary format, it combines the readability of a machine language
+    with the resource usage of a weather simulator.\uFEFF"
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - XML
