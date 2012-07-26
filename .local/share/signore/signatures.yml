@@ -42554,3 +42554,11 @@ signatures:
   - en
   - tech
   - XML
+- !ruby/struct:Signore::Signature
+  text: You can get ideas anywhere-while driving, in the shower, drifting off to sleep-anywhere
+    where you can’t easily write them down.
+  author: ‏@nedroid
+  source: 
+  subject: 
+  tags:
+  - en
