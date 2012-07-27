@@ -36759,8 +36759,8 @@ signatures:
   text: ! 'I think I’m starting to see that statically typed languages have crippled
     programmers’ ability to think adaptively.
 
-    And, all ‘static typing’  amounts to is syntax for a complicated compile time
-    assertion system. It’s failing is it’s not run time as well.'
+    And, all ‘static typing’ amounts to is syntax for a complicated compile time assertion
+    system. It’s failing is it’s not run time as well.'
   author: Zed Shaw
   source: 
   subject: 
@@ -42562,3 +42562,64 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Programista renesansu zrobił z projektu jesień średniowiecza…
+  author: Jarosław Śmiejczak
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - programming
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Listen to me. LISTEN TO ME.
+
+    [excessively dramatic pause]
+
+    You google that shit before you ask a question, man.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m still sometimes amazed by doing a ‘curl | tar’ and watching their output
+    mixed together as they negotiate the pipe.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: You realize that somewhere out there U2 is working on a new album? And we’re
+    just letting it happen?
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+  - U2
+- !ruby/struct:Signore::Signature
+  text: ‘Mexican’ + any superhero name = movie I want to see.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: ! 'I’m scanning through reload.c, a notorious dark corner of GCC. There’s
+    a random form feed character between two functions. Not even joking.
+
+    This is the crap that builds everything you run, man.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C
