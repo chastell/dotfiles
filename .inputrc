@@ -1,6 +1,5 @@
-"\C-l":'clear\n'
-"yl":yank-last-arg
-"yn":yank-nth-arg
+"\C-l":clear-screen
+"\e.":yank-last-arg
 
 set completion-ignore-case on
 set completion-prefix-display-length 2
