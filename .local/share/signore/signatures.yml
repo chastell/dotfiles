@@ -42623,3 +42623,20 @@ signatures:
   - tech
   - programming
   - C
+- !ruby/struct:Signore::Signature
+  text: Can we just all agree that it’s okay to not wear clothes?
+  author: Patrick Ellis
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Build a hadoop out of bamboo and coconuts. That’s how you get the big data
+    planes to land on your island.
+  author: Cliff Moon
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Hadoop
