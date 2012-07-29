@@ -21035,16 +21035,6 @@ signatures:
   - en
   - politics
 - !ruby/struct:Signore::Signature
-  text: With luck, this will get me unwedged. But if you really didn't forget anything,
-    try typing '2' now; then my insertion and my current dilemma will both disappear.
-  author: 
-  source: TeX
-  subject: 
-  tags:
-  - en
-  - tech
-  - TeX
-- !ruby/struct:Signore::Signature
   text: I suspect you've forgotten a '}', causing me to apply this control sequence
     to too much text. How can we recover? My plan is to forget the whole thing and
     hope for the best.
