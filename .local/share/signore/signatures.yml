@@ -26549,8 +26549,9 @@ signatures:
   - tech
   - games
 - !ruby/struct:Signore::Signature
-  text: Kto znieważy carbonarę ordynarnie, bez pardonu, ten durszlakiem zbierze cięgi
-    w Polskiej Izbie Makaronu.
+  text: ! 'Kto znieważy carbonarę ordynarnie, bez pardonu,
+
+    Ten durszlakiem zbierze cięgi w Polskiej Izbie Makaronu.'
   author: Foochatek
   source: 
   subject: 
@@ -42630,3 +42631,10 @@ signatures:
   - en
   - tech
   - Hadoop
+- !ruby/struct:Signore::Signature
+  text: Balancing hope for a better world against the desire to fuck everything.
+  author: 
+  source: Oglaf
+  subject: 
+  tags:
+  - en
