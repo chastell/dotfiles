@@ -42638,3 +42638,22 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Never bring a regular expression to a context-free fight.'
+  author: Meredith L. Patterson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - regular expressions
+- !ruby/struct:Signore::Signature
+  text: Tim Berners-Lee! I remember him, he was the one we didn’t chemically castrate.
+    Hooray for Britain!
+  author: Michael Cook
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
