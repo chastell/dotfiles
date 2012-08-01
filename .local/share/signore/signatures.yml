@@ -42323,7 +42323,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: ! 'Curmudgeons 2, hipsters none.
 
-    Vim Mutt vs TextMate Sparrow'
+    Vim + Mutt vs TextMate + Sparrow'
   author: Adamus Maximus
   source: 
   subject: 
@@ -42657,3 +42657,70 @@ signatures:
   tags:
   - en
   - science
+- !ruby/struct:Signore::Signature
+  text: (╯°□°)╯︵ sʇsəʇ
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Coders are special. We are expected to know how to do things we’ve never done
+    before, estimate it and not punch the sales guy in the throat.
+  author: Neckbeard Hacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Idea: Olympics ALL THE TIME and war every four years.'
+  author: Pat Maddox
+  source: 
+  subject: 
+  tags:
+  - en
+  - sports
+  - war
+  - olympics
+- !ruby/struct:Signore::Signature
+  text: I found a bug in life where when you start eating blueberries you can’t stop.
+  author: Bret Sepulveda
+  source: 
+  subject: 
+  tags:
+  - en
+  - blueberries
+- !ruby/struct:Signore::Signature
+  text: Passwords are stored in a secure way. They’re only copied into plain text
+    when pasted automatically into a password reminder mail.
+  author: Tesco Customer Care
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - cryptography
+- !ruby/struct:Signore::Signature
+  text: ! 'My new IFTTT: if someone I know tweets about inbox zero then automatically
+    send them an email.'
+  author: Edward Aten
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘This new layer papers over my problem! :D’ → n months pass → ‘FFFFFFFUUUUUUUUUUUU’.
+    I’m pretty sure n is decreasing.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
