@@ -40538,7 +40538,7 @@ signatures:
   - tech
   - work
 - !ruby/struct:Signore::Signature
-  text: ! 'Okay, geeks, we got everyone saying ‘the cloud’. . Phase 2: get people
+  text: ! 'Okay, geeks, we got everyone saying ‘the cloud’. Phase 2: get people
     calling databases ‘the cylinder’.'
   author: Brandon Hays
   source: 
@@ -42724,3 +42724,129 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: In my mind, ‘We are passionate about our product!’ = put gloves on before
+    handling product.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Should take the DLR more often. I really like the rollercoaster bit by
+    West India Quay. More of that please.
+
+    If they could arrange for it to corkscrew in the Thames tunnel that would be good
+    too.'
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - London
+  - DLR
+- !ruby/struct:Signore::Signature
+  text: I’d like to see a relay programming competition where the code was handed
+    off at least five times.
+  author: Charles Lowell
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Don’t think about how to explain your app to a user. Instead, think about
+    how a user will explain it to another user.
+  author: Chris Sacca
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: When we say to decouple your code, we mean from other code and not from reality.
+    Sorry that was confusing.
+  author: Mark Imbriaco
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: You know what gets me up and excited to work in the morning? No, seriously,
+    do you know? Because I need some of that pretty bad.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: So Google has the 4.3.2.0/24 IP allocation and they’re not using a single
+    address. I’d give 4.3.2.1 to NASA for rocket launch livestreams.
+  author: Jonty Wareing
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - IP
+- !ruby/struct:Signore::Signature
+  text: Got email from LinkedIn thanking me for filling out out their ‘never contact
+    me by email again’ form, suggesting I follow them on Twitter.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - LinkedIn
+- !ruby/struct:Signore::Signature
+  text: Just spent one minute on a commit and three hours on the commit message.
+  author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I don’t normally work pro bono, but I am totally willing to help LinkedIn
+    develop an unsubscribe link for their emails that works.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - LinkedIn
+- !ruby/struct:Signore::Signature
+  text: ! 'A: WHAT IS THIS?
+
+    B: A method…
+
+    A: WHY DID YOU MAKE IT?
+
+    B: Because separation of–
+
+    A: NOPE BIG DESIGN UP FRONT THAT IS BAD AND STUPID'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Yo’ mamma’s so agile she had to take the SAT twice because she started off
+    by writing a failing test.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
