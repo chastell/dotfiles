@@ -40538,8 +40538,8 @@ signatures:
   - tech
   - work
 - !ruby/struct:Signore::Signature
-  text: ! 'Okay, geeks, we got everyone saying ‘the cloud’. Phase 2: get people
-    calling databases ‘the cylinder’.'
+  text: ! 'Okay, geeks, we got everyone saying ‘the cloud’. Phase 2: get people calling
+    databases ‘the cylinder’.'
   author: Brandon Hays
   source: 
   subject: 
@@ -42850,3 +42850,12 @@ signatures:
   - tech
   - programming
   - testing
+- !ruby/struct:Signore::Signature
+  text: Strasznie nam imponują wszyscy, którzy lansują się na „czytanie książek”.
+    Najbardziej ci, którzy potrafią to łączyć z jazdą na ostrym kole.
+  author: ! '@Muzealnicy'
+  source: 
+  subject: 
+  tags:
+  - pl
+  - hipsters
