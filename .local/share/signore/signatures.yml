@@ -42859,3 +42859,11 @@ signatures:
   tags:
   - pl
   - hipsters
+- !ruby/struct:Signore::Signature
+  text: ! 'The five TV networks: Apple, Netflix, Amazon, BitTorrent, and VPN.'
+  author: Jeffrey McManus
+  source: 
+  subject: 
+  tags:
+  - en
+  - television
