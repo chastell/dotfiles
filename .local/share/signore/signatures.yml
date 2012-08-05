@@ -42867,3 +42867,21 @@ signatures:
   tags:
   - en
   - television
+- !ruby/struct:Signore::Signature
+  text: We thought my 11-month-old son said ‘cat’ but it turned out to just be more
+    of his bullshit.
+  author: Paul Ford
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! 'LIFEHACK: Eat frosting with your hands if all your spoons are currently
+    tainted with heroin residue. Watch video >>'
+  author: Joshua Allen
+  source: 
+  subject: 
+  tags:
+  - en
+  - drugs
