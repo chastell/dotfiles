@@ -42885,3 +42885,22 @@ signatures:
   tags:
   - en
   - drugs
+- !ruby/struct:Signore::Signature
+  text: If you talk about ‘hiring the best’ but you only actually hire those willing
+    to move to {location}, you’re full of horseshit.
+  author: Jeff Atwood
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Every Olympic event should include one average person competing, for reference.
+  author: Scott Simpson
+  source: 
+  subject: 
+  tags:
+  - en
+  - sports
+  - olympics
