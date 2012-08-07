@@ -42904,3 +42904,25 @@ signatures:
   - en
   - sports
   - olympics
+- !ruby/struct:Signore::Signature
+  text: Need a 256-bit string to use as a key in a test? ‘Default value? Why not Zoidberg?’
+  author: Tony Arcieri
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'I can’t believe people still write games in C++. Baffling.
+
+    This may come as a surprise to many, but: It’s possible to create a new programming
+    language. You don’t have to use the one from 1969.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
