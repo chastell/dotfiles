@@ -42926,3 +42926,13 @@ signatures:
   - tech
   - programming
   - C++
+- !ruby/struct:Signore::Signature
+  text: Apple’s revenue is about 6 times NASA’s budget. My iPhone just froze for a
+    full second for no reason. Wonder whether these marsbots do that.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - Apple
+  - NASA
