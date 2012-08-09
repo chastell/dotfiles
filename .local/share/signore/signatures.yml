@@ -33350,7 +33350,7 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: ! '‘Who would DDOS Github?’
+  text: ! '‘Who would DDoS Github?’
 
     ‘CVS fans, I think.’'
   author: ! '@dotemacs'
@@ -42936,3 +42936,34 @@ signatures:
   - en
   - Apple
   - NASA
+- !ruby/struct:Signore::Signature
+  text: …as any certification, the certificate mostly certifies your cheque didn’t
+    bounce.
+  author: ! '@wfaler'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I don’t really think that it’s very accurate at this point to say that Xcode
+    quit ‘unexpectedly’.
+  author: Bob Ippolito
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Apple
+  - Xcode
+- !ruby/struct:Signore::Signature
+  text: On Mars, Curiosity sends back high-resolution photos. In Louisiana, the state
+    funds schools that use the Bible in their science curriculum.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
+  - religion
