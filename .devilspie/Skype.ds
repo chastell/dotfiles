@@ -1,7 +1,7 @@
 ; generated_rule Skype
 ( if 
 ( begin 
-( is ( application_name ) "Skype" )
+( contains ( application_name ) "Skype" )
 ) 
 ( begin 
 ( set_workspace 1 )
