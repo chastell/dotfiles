@@ -42967,3 +42967,21 @@ signatures:
   - en
   - science
   - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'TV idea: ‘Piers Morgan: My Britain’. Piers Morgan travels the length and
+    breadth of the UK meeting ordinary people who tell him to fuck off.'
+  author: ! '@ncguk'
+  source: 
+  subject: 
+  tags:
+  - en
+  - television
+- !ruby/struct:Signore::Signature
+  text: I keep a file called gotchas.txt of things that have bitten me in running
+    the site. It compresses really well because of all the profanity.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
