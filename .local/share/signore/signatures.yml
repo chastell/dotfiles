@@ -42985,3 +42985,71 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: No, no, everybody has it all wrong. YOLO is all about caution, because you
+    ONLY live once. Use the crosswalk. Eye protection. Flu shots.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'The completion of a single task begins with the sending of a thousand emails.
+    #enterprise'
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Baconham. Only the English could name a place after two kinds of cured pork
+    and then pronounce it as if they hadn’t.
+  author: Henry James
+  source: 
+  subject: 
+  tags:
+  - en
+  - bacon
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Making software is hard, but not for the reason most people think. It’s not
+    hard because math is hard, it’s hard because people are hard.
+  author: Cathy Shive
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘“Future Maven versions might no longer support building such malformed
+    projects”. Gawd, as far as software goes, Maven is really a jerk.’
+
+    ‘Maven won’t support malformed projects? Is Maven being retired?’'
+  author: Paolo Perrotta, Thom Bradford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Maven
+- !ruby/struct:Signore::Signature
+  text: Guess which org thought the most convenient way of accessing a doc is a zip
+    containing the same doc in 23 languages, but can’t get one only.
+  author: Xavier Dutoit
+  source: 
+  subject: 
+  tags:
+  - en
+  - EU
+- !ruby/struct:Signore::Signature
+  text: A couple of weeks ago I knew nothing about the Olympics, now I can’t wait
+    for next year’s.
+  author: Frankie Boyle
+  source: 
+  subject: 
+  tags:
+  - en
+  - sport
+  - olympics
