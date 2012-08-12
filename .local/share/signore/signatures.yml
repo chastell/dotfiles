@@ -6011,7 +6011,7 @@ signatures:
   - tech
   - programming
   - Ruby
-  - Ruby on Rails
+  - Rails
 - !ruby/struct:Signore::Signature
   text: Są dwie teorie. Część osób twierdzi, że za rzadko wychodzę z domu. Ja twierdzę,
     że za rzadko wychodzę z pracy.
@@ -6325,7 +6325,7 @@ signatures:
   - tech
   - programming
   - Ruby
-  - Ruby on Rails
+  - Rails
   - haiku
 - !ruby/struct:Signore::Signature
   text: When life hands you Stanisław Lem, make Stanisław Lemonade.
@@ -43053,3 +43053,11 @@ signatures:
   - en
   - sport
   - olympics
+- !ruby/struct:Signore::Signature
+  text: The four most overrated things in life are champagne, lobsters, anal sex,
+    and picnics.
+  author: Christopher Hitchens
+  source: 
+  subject: 
+  tags:
+  - en
