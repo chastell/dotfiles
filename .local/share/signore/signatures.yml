@@ -41962,7 +41962,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: ‘Dude, unless you’re using Iambic Pentameter, you’re not really writing’ –
     if writers argued like programmers do.
-  author: ‏@mcmoyer
+  author: ! '@mcmoyer'
   source: 
   subject: 
   tags:
@@ -43061,3 +43061,52 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Jedes mal, wenn jemand versucht mit einem Regex XML zu parsen, kriegt Noam
+    Chomsky Schluckauf.
+  author: ! '@zynisch'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - XML
+  - regexp
+- !ruby/struct:Signore::Signature
+  text: There is a product called ‘Social Igniter’ and I am so disappointed that it
+    does not do what the name says.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m going to write a long rant on how the Agda and Coq communities thinks
+    the Haskell community is a bunch of anything-goes hippies.
+  author: James Iry
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Agda
+  - Coq
+  - Haskell
+- !ruby/struct:Signore::Signature
+  text: Each morning I sit at the keyboard and think, ‘today I have the power to make
+    Pinboard the best it can be!’ Then I go look at cat pictures.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Na Fancy sticker na ścianę „stay hungry / stay foolish” za jedyne $37. Dawno
+    nie widziałem tak spójnej oferty.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
