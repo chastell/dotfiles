@@ -43110,3 +43110,15 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: TDD slows you down once. Coding without tests slows you down over and over
+    again.
+  author: Mathias Verraes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+  - TDD
