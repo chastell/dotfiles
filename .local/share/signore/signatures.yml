@@ -43122,3 +43122,107 @@ signatures:
   - programming
   - testing
   - TDD
+- !ruby/struct:Signore::Signature
+  text: ! 'Czy wspominałem już, że zchakowałem ochronę w pewnym budynku? Ochrona zadzwoniła
+    nie do tej firmy co szedłem, sekretarka firmy powiedziała, że mnie nie zna, ochrona
+    dała mi słuchawkę, powiedziałem „Jezu, Agnieszka, tu Marcin, niech oni mnie jakkolwiek
+    wpuszczą”. I wpuścili.
+
+    Potem się okazało, że są dokładnie dwie firmy w tym biurowcu, których sekretarki
+    mają na imię Agnieszka. Ta „moja” i ta „pomylona”.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - security
+- !ruby/struct:Signore::Signature
+  text: ! 'Wysłałem SMS-a o treści „Hej, masz jakieś plany na dziś wieczór? Mam buteleczkę
+    łiski i może byśmy jakieś anime zobaczyli?” do przyjaciela, który za kilka godzin
+    ma ślub.
+
+    Drogie Bravo, czy jestem złym człowiekiem?'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Homeopathy is ‘alternative medicine’ in roughly the same sense in which a
+    rabbit's foot is an ‘alternative insurance policy’.
+  author: Chris MacDonald
+  source: 
+  subject: 
+  tags:
+  - en
+  - homeopathy
+- !ruby/struct:Signore::Signature
+  text: Compulsory competitive team sports. If anyone subjected my kids to the abuse
+    I suffered at school over this, I’d kill them.
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+  - sports
+- !ruby/struct:Signore::Signature
+  text: Hey, I just cold called, and this is sleazy, but here’s my email. I’ll recruit
+    you, maybe?
+  author: Angry on Rails
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! '1. Go to HN.
+
+    2. Read the discussion about Textmate.
+
+    3. Get shocked anew that people use it for real and not just in screencasts.'
+  author: ! '@dotemacs'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Emacs
+  - TextMate
+- !ruby/struct:Signore::Signature
+  text: ! "Q. How many geeks does it take to ruin a joke? \nA. You mean nerd, not
+    geek. And not joke, but riddle. Proceed."
+  author: Steve Gerken
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Pinboard has a board of anti-advisers, people whose opinions I do the reverse
+    of. Sadly I can’t thank them, as they think they’re advisers.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I think I have fewer fucks to give over time and just allocate them to caremad
+    more and more. Seems good.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Inspired by Chaos monkey, I’m writing Caremad Monkey. Randomly swaps Bundler
+    and Isolate, Vim and Emacs, Perl and /dev/urandom, etc.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
