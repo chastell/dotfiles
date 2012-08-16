@@ -43226,3 +43226,20 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: If ghosts want someone out of their house they should just fuck with the wireless
+    connection.
+  author: Sarah Beattie
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: We’re definitely on track to hit the deadline, if you assume that we are tied
+    to the train track and the deadline is going to run us over.
+  author: Ryan Greenberg
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
