@@ -43243,3 +43243,12 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: ! '‘YouTube’s decision to encode its videos in HTML 5’ Hmm. Imagine if sports
+    presenters said: ‘Arsenal’s decision to play with kick-people’.'
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
