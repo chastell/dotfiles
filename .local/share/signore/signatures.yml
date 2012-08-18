@@ -43252,3 +43252,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: What if Oxygen makes our voice really deep… and Helium just brings it back
+    to normal?
+  author: Alan Garner
+  source: 
+  subject: 
+  tags:
+  - en
