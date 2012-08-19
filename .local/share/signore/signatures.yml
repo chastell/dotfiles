@@ -1380,14 +1380,6 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: It wasn’t until 3 minutes into this guy’s description of the $1000 operation
-    on his hamster that I realized he was saying hamstring.
-  author: Matthew Baldwin
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: ! '‘Thank-you, i-player, for being so much more understanding of my needs
     than I am. What I really need you to do when I’m LISTENING to the radio is to
     pause whenever I switch to another viewport.’
