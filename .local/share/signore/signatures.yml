@@ -43252,3 +43252,30 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: My code isn’t my baby. It’s my delinquent teenage son.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Linux users assume open-sourcing means a program will live forever; Mac users
+    assume it means the program is dead.
+  author: Dr Drang
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - open source
+- !ruby/struct:Signore::Signature
+  text: Konstrukcja ze spinaczy i gumek ułożona przez starszego specjalistę otrzymała
+    wyróżnienie na międzynarodowym biennale sztuki współczesnej.
+  author: ! '@Urzednicy'
+  source: 
+  subject: 
+  tags:
+  - pl
