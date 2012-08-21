@@ -43279,3 +43279,14 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: If you watch my last year backward, it’s about a hacker who erases web sites
+    and programs, returns his laptop to the store and finds a job.
+  author: Jb Evain
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - work
