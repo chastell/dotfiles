@@ -36858,10 +36858,10 @@ signatures:
   - en
   - Google+
 - !ruby/struct:Signore::Signature
-  text: We used to have Watir tests for the UI but they got lost/deprecated (like
-    Ryszard’s uncle who,  at the age of 11, got off the train in Siberia to buy a
-    sandwich, missed the train, then had to walk back to Poland alone over the course
-    of several years).
+  text: We used to have Watir tests for the UI but they got lost/deprecated (like
+    Ryszard’s uncle who, at the age of 11, got off the train in Siberia to buy a sandwich,
+    missed the train, then had to walk back to Poland alone over the course of several
+    years).
   author: Nick Allen
   source: 
   subject: 
@@ -43290,3 +43290,20 @@ signatures:
   - tech
   - programming
   - work
+- !ruby/struct:Signore::Signature
+  text: Ludzie, którzy wpisują sobie „MBA” w pole „nazwisko” na LinkedIn.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Napisałem w godzinę algorytm, który pobił pakiet optymalizacyjny za 50k USD.
+    Nie wiem co teraz, chyba się napiję.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - programming
