@@ -43307,3 +43307,76 @@ signatures:
   tags:
   - pl
   - programming
+- !ruby/struct:Signore::Signature
+  text: The ‘Ruby Community’ is the Woody Allen of programming languages, all neuroses
+    and internal monologues, but loveable and means well.
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I got 99 problems and all of them are luftballons.
+  author: ! '@jitka22'
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: Keeping mental track of a Pinboard-sized codebase is like trying to paint
+    a house in the dark with a flashlight. Doable, but you miss spots.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: When people tell me cloud will solve anything, inclined to distrust them.
+    Clouds don’t solve problems, just sync problems between computers.
+  author: Tom Morris
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - cloud
+- !ruby/struct:Signore::Signature
+  text: ! 'I wonder what’s worse: making lame jokes or not getting them?'
+  author: Florian Frank
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Wondering how many ‘OMG SOFTWARE PATENTS ARE STUPID’ rants are written on
+    Apple hardware.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - patents
+- !ruby/struct:Signore::Signature
+  text: Wow roosters are rude as fuck. Imagine waking up at 6am and just yelling as
+    loud as you could. What total cocks.
+  author: '000___000'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Be verbose when killing orphans.
+  author: Maciej Pasternacki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - devops
