@@ -43380,3 +43380,65 @@ signatures:
   - tech
   - programming
   - devops
+- !ruby/struct:Signore::Signature
+  text: ! 'I’m a mathematician: I deal with letters, not numbers.'
+  author: Sean Plott
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
+  - mathematics
+- !ruby/struct:Signore::Signature
+  text: ! '$ bundle exec --help
+
+    bundler: command not found: --help
+
+    *smashes everything*'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Bundler
+- !ruby/struct:Signore::Signature
+  text: ! 'Programming: spending four hours considering yourself quite clever, followed
+    by a short yet somber realization that you’re actually a moron.'
+  author: Tim Post
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Programming: spending four hours being clever and three weeks trying to
+    figure out what you wrote.'
+  author: Ed Weissman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: All these ignorant people critisicing Prince Harry’s behaviour. If you don’t
+    approve, just don't vote for him.
+  author: Adam Bloom
+  source: 
+  subject: 
+  tags:
+  - en
+  - monarchy
+- !ruby/struct:Signore::Signature
+  text: Rola healera w MMO jest taka sama jak basisty w zespole – zauważa się go dopiero
+    wtedy, gdy przestanie grać.
+  author: Lav
+  source: 
+  subject: 
+  tags:
+  - pl
+  - gaming
