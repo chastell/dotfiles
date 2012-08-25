@@ -43442,3 +43442,103 @@ signatures:
   tags:
   - pl
   - gaming
+- !ruby/struct:Signore::Signature
+  text: ! 'A new technical term: A ‘Dirk Gently Architecture’: everything in the code
+    is connected to everything else in mysterious ways. Not good.'
+  author: Nat Pryce
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: It was the best farm ever because it had a trampoline and a fuckton
+    of goats.'
+  author: Ashe Dryden
+  source: 
+  subject: 
+  tags:
+  - en
+  - goats
+- !ruby/struct:Signore::Signature
+  text: ! 'Morality is like water: organized religions have forgotten that their bottled
+    versions came from the mountains where anyone can find it.'
+  author: Evan Phoenix
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - morality
+- !ruby/struct:Signore::Signature
+  text: ! 'Enjoying ‘Growing Object-Oriented Software, Guided by Tests’, but would
+    prefer title: ‘How the Fuck Does Anyone Get Anything Done in Java?’'
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: Nie żebym się kreował na jakiegoś twardziela czy coś, ale właśnie odłączyłem
+    pamięć USB bez używania bezpiecznego usuwania sprzętu.
+  author: supaplex
+  source: 
+  subject: 
+  tags:
+  - pl
+  - USB
+- !ruby/struct:Signore::Signature
+  text: Was in a club on results day 11 years ago and the DJ said ‘hands in the air
+    if you’re celebrating GCSEs!’ Got thrown out for being underage.
+  author: Daisy Buchanan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Programmers who don’t get that language is illogical, complex and weighed
+    down with historical baggage is my new jam.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Watching the recent Twitter API policy moves is like watching an old friend
+    lose a battle with substance abuse.
+  author: ! '@kellan'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: ! 'If I had a parser, I’d parse in the morning. I’d parse in the evening,
+    all over this code.
+
+    I’d parse for freedom, I’d parse for justice. I’d parse for love between my brothers
+    and my sisters, all over this co oo ode.'
+  author: Michael Feathers
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - parsing
+- !ruby/struct:Signore::Signature
+  text: The more you understand computers the more scared you get and also no one
+    understands them.
+  author: ! '@shanley'
+  source: 
+  subject: 
+  tags:
+  - en
+  - computers
