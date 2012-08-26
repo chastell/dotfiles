@@ -43542,3 +43542,51 @@ signatures:
   tags:
   - en
   - computers
+- !ruby/struct:Signore::Signature
+  text: ! 'Fun trick: walk into a crowded building and yell ‘hey asshole!’, make note
+    of who turns around, pretend to scribble in a notebook, then leave.'
+  author: ! '@knifesex'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If you can afford an iPad, surely you can buy a device that allows you to
+    take pictures without looking like an idiot.
+  author: Łukasz Korecki
+  source: 
+  subject: 
+  tags:
+  - en
+  - iPad
+  - photography
+- !ruby/struct:Signore::Signature
+  text: we must resist the Super-ego’s imperative of ‘Enjoy!’ – who can really enjoy
+    programming in JavaScript?
+  author: PLT Žižek
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Agile is a system of values representing trust, transparency and realism.
+    Now think about why it ‘doesn’t work’ in many modern businesses.
+  author: James Holmes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Understanding QEMM jokes is pretty important if you’re a programmer. If you
+    missed the boat, just find a 386, a basement, and a year.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
