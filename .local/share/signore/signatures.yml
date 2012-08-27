@@ -30410,20 +30410,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ! 'I WILL NOT FAKE MY WAY THROUGH LIFE
-
-    I WILL NOT FAKE MY WAY THROUGH LIFE
-
-    I WILL NOT FAKE MY WAY THROUGH LIFE
-
-    I WILL NOT FAKE MY WAY THROUGH LIFE'
-  author: Bart Simpson
-  source: Simpsons 7F03
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
-- !ruby/struct:Signore::Signature
   text: ! 'I WILL NOT CUT CORNERS
 
     "  "    "   "   "   "
