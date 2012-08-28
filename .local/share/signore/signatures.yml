@@ -9331,7 +9331,7 @@ signatures:
   - Notes
 - !ruby/struct:Signore::Signature
   text: Pan z travelplanet.pl chce zaplanować ze mną moje najbliższe wakacje. Panie,
-    spieprzaj Pan!
+    spieprzaj pan!
   author: dyziu
   source: 
   subject: 
@@ -43576,3 +43576,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Wohle założyłam fajne weniu wczory na placu gwałciciela, Hipster Jugend. Zapraszam
+    do czekinowania.
+  author: praalka
+  source: 
+  subject: 
+  tags:
+  - pl
