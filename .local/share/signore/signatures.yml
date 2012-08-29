@@ -43584,3 +43584,24 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Rush Limbaugh blamed Obama for the Tampa hurricane. You do what you want,
+    but I’ll def vote for THE GUY WHO CAN CONTROL THE FUCKING WEATHER.
+  author: Mark Agee
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Can god create a Ruby project so bloated that even he can’t debug it? LOL,
+    of course he can, stupid.
+  author: Scott Gonyea
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - religion
