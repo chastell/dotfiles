@@ -43605,3 +43605,38 @@ signatures:
   - programming
   - Ruby
   - religion
+- !ruby/struct:Signore::Signature
+  text: Someone just came up to me and said ‘you look like that girl La Roux, but
+    you are much prettier than her’. Flattered and insulted all at once.
+  author: La Roux
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: Look. Look. All of you library developers assuming dates are Gregorian… we
+    put a robot on Mars. Again. Be afraid! Very afraid!
+  author: Dave Wilkinson II
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Cat is preparing for her audition for the new film ‘I Haven’t Been Fed Ever’.
+  author: Carol Nichols
+  source: 
+  subject: 
+  tags:
+  - en
+  - cats
+- !ruby/struct:Signore::Signature
+  text: Alquana poszła do sklepu po ogórki kiszone. Zagadka – czego NIE było w torbie
+    z zakupami Alquany po powrocie ze sklepu? Mózgu, robisz się nudny.
+  author: Alquana
+  source: 
+  subject: 
+  tags:
+  - pl
