@@ -21660,7 +21660,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ! '‘I got to expereince this a few years back at the big celtic fest/highland
+  text: ! '‘I got to experience this a few years back at the big celtic fest/highland
     games in Phoenix. They were doing a demonstration of various heavy weapons fielded
     by various scots regiments and even when the gatling gun was on steady fire you
     could hear a pipe band performing.’
@@ -43640,3 +43640,81 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Miesiąc temu zmieniłem w komórce wszystkie nicki na nazwiska. Do tej pory
+    nie wiem kim jest parę osób.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Someone complained that I took 3 days to write 3 lines of code. I told them
+    they could have had it in 1 day but it would have been 20 lines.
+  author: Nicole Sullivan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Beginner: Threads are hard.
+
+    Intermediate: Don’t fear multithreading.
+
+    Expert: Threads are hard.'
+  author: Damien Katz
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: The coder version of ‘I’'m actually really happy being single right now’ is
+    ‘I like coding in vi’.
+  author: Kelly Sommers
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ‘We took on this outstanding quantity of technical debt, but it’s fine because
+    we paid it off later.’ – Nobody, ever.
+  author: Zack Voase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Want someone to make an infographic program that’s really good, but makes
+    it very, very hard to draw circles.
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - infographics
+- !ruby/struct:Signore::Signature
+  text: ! "❤ [tmp] mkdir \U0001F63B\n❤ [tmp] cd \U0001F63B\n❤ [\U0001F63B] ls\n❤ [\U0001F63B]
+    touch \U0001F63B.meow\uFEFF"
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - shell
+- !ruby/struct:Signore::Signature
+  text: ! "alias \U0001F63B=cat"
+  author: Jarosław Śmiejczak
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - shell
