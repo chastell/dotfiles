@@ -43718,3 +43718,68 @@ signatures:
   - en
   - tech
   - shell
+- !ruby/struct:Signore::Signature
+  text: BEFORE you close a web page make sure you scroll up to the top, so it’s in
+    the right position for the next person.
+  author: Adam Kay
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I was doing thick-client apps *way* before it was cool. It was 2003 and I
+    couldn’t afford PHP hosting.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Most of the time, for most flavors of software, comments in your source are
+    the subtlest and most insidious brand of code duplication.
+  author: John Feminella
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - comments
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Oh, I’m being asked to estimate how long it’s going to take *them*
+    to do it? Hahahahahahaha.'
+  author: Andrew Cox
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: What you think of Oracle is even truer than you think it is.
+  author: Bryan M. Cantrill
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Oracle
+- !ruby/struct:Signore::Signature
+  text: I wish I had enough money to run Oracle instead of Postgres. I’d still run
+    Postgres, but I’d have a lot of cash.
+  author: Eugene Wallingford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Oracle
+  - PostgreSQL
+- !ruby/struct:Signore::Signature
+  text: I want an iPhone game based on Wipeout where I get to control the obstacle
+    course while little sims try to make it across.
+  author: Ryan Bates
+  source: 
+  subject: 
+  tags:
+  - en
