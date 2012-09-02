@@ -43783,3 +43783,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: A good developer should learn to exit every editor.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
