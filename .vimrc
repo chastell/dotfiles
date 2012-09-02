@@ -49,6 +49,7 @@ set scrolloff=7 sidescroll=1 sidescrolloff=10
 set showbreak=↪
 set showcmd
 set t_Co=256
+syntax sync minlines=256
 
 " tab-completion
 set completeopt=menu,longest
