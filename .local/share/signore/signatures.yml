@@ -41032,7 +41032,7 @@ signatures:
   - work
 - !ruby/struct:Signore::Signature
   text: Dostałem ofertę od firmy SEO. Ich strona ma PageRank 0. Zrobiłem aliasa do
-    ich konta pocztowego na jednej z moich domen  i prosiłem żeby skontaktowali się
+    ich konta pocztowego na jednej z moich domen i prosiłem, żeby skontaktowali się
     z kimś, kto potrzebuje natychmiast pomocy.
   author: opi
   source: 
@@ -43792,3 +43792,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Customs Officer: ‘What do you do?’ Me: ‘I’m a web designer.’ Officer: ‘What’s
+    the difference between relative and absolute?’ *stamp*'
+  author: Geri Coady
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
