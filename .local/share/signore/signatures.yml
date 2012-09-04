@@ -42514,8 +42514,8 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: ! "XML is a binary format, it combines the readability of a machine language
-    with the resource usage of a weather simulator.\uFEFF"
+  text: XML is a binary format, it combines the readability of a machine language
+    with the resource usage of a weather simulator.
   author: opi
   source: 
   subject: 
@@ -43801,3 +43801,12 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: iMessage fails randomly for two days. Email still works and never drops anything,
+    as always. Very cool innovation going on in computers.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
