@@ -92,6 +92,7 @@ nnoremap j          gj
 nnoremap k          gk
 nnoremap U          :syntax sync fromstart<enter>:redraw!<enter>
 nnoremap Y          Vy
+vnoremap p          pgvy
 
 " filetypes
 autocmd BufRead,BufNewFile *.install         set filetype=php
