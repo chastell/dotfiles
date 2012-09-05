@@ -43810,3 +43810,43 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Napisałem skrypt do backupu, który: 1. robi kopię pewnego katalogu 2. kasuje
+    backupy starsze niż 3 miesiące.
+
+    Pierwsza część się nie uruchomiła, zaś druga uruchomiła się w głównym katalogu,
+    kasując mi wszystkie pliki starsze niż 3 miesiące.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: The less you know about computers the more you want Microsoft!
+  author: 
+  source: Microsoft ad campaign, 1996
+  subject: 
+  tags:
+  - en
+  - tech
+  - Microsoft
+- !ruby/struct:Signore::Signature
+  text: ! 'W życiu większości rodziców w pewnym momencie nadchodzi TEN moment. U nas
+    nadszedł dziś…
+
+    …zaczął się i zakończył na pytaniu „tato, czy ja się WSZCZEPIŁAM w ściankę macicy?”'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: „Firma Hygienika SA, producent pieluch Bambino, nawiązała współpracę z aktorką
+    Anną Muchą, która zostanie twarzą marki.”
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
