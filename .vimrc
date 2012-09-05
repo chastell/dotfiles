@@ -102,9 +102,6 @@ autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
 autocmd BufRead,BufNewFile *.ru              set filetype=ruby
 autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
 
-" spell-check Git commits
-autocmd FileType gitcommit setlocal spell
-
 " help in vertical split
 autocmd FileType help wincmd L
 
