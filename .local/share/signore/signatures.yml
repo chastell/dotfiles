@@ -43850,3 +43850,109 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! '‘If you program name software, use my family as some test cases! My name
+    is James Edward Gray II. My wife’s name is Dana Ann Leslie Gray.’
+
+    ‘I once had a boss at Apple named Eagle Toranaga Marcia Houdini Jean-Luc Von Neuman
+    Bobby Burns.’'
+  author: James Edward Gray II, Josh Susser
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - names
+- !ruby/struct:Signore::Signature
+  text: Fighting pirating is a waste of time. Someone will either support me or not,
+    and I don’t consider it a loss.
+  author: Ryan Bates
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: Azul moon, tu que lefto mi standingero alone. Without con un dreamo en mi
+    corazon, without un amore que just para mi.
+  author: ! '@ElBloombito'
+  source: 
+  subject: 
+  tags:
+  - en
+  - lyrics
+- !ruby/struct:Signore::Signature
+  text: ! 'My two year-old just locked herself out of a room, went after an Allen
+    key in our garage, and triggered the release inside the lock.
+
+    She came out folding up the Allen key and yelling, ‘I got it!’'
+  author: James Edward Gray II
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! 'How to insert an image in a HTML document.
+
+    1995: https://raw.github.com/gist/3562666/9d29d02df3300f83db6721b2c2b3d054c17358e4/1995.html
+
+    2012: https://raw.github.com/gist/3562673/60344b5eb137edcf8ca0a71830a499eee2893878/2012.html'
+  author: Frank Denis
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTML
+- !ruby/struct:Signore::Signature
+  text: ! 'Mysql2::Error: MySQL server has gone away:
+
+    COME BACK YOU COWARD'
+  author: Luis Felipe Borjas
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - MySQL
+- !ruby/struct:Signore::Signature
+  text: My new flip phone learned how to say ‘fuck’ on the first try. It cost me $20.
+    My $800 Apple phone is incapable of learning ‘fuck’.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - iPhone
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: I hate it when new parents ask me who their baby looks like. It was born two
+    days ago, it looks like a fucking potato.
+  author: Miss Anthro Pissed
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! 'W setną rocznicę urodzin Johna Cage’a pracownicy Polskiego Radia otrzymali
+    następujący e-mail: „Sekcja Socjalna Wydziału Kadr i Polityki Personalnej uprzejmie
+    informuje, że organizuje wyjazd na grzybobranie”.'
+  author: Adam Suprynowicz
+  source: 
+  subject: 
+  tags:
+  - pl
+  - music
+- !ruby/struct:Signore::Signature
+  text: ! 'Matka od niedawna postanowiła prowadzić zdrowy tryb życia: postawiła mi
+    w pokoju jakiegoś krzaka co niby pochłania „promieniowanie” kompa. Przeżarło mu
+    wszystkie liście.'
+  author: Bop
+  source: 
+  subject: 
+  tags:
+  - pl
