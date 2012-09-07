@@ -43956,3 +43956,11 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I manage my stress with a regular regimen of vigorous panicking.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
