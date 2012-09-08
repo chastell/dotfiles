@@ -1,7 +1,7 @@
 alias a='ack-grep'
 alias backup='offlineimap; fusermount -u ~/.gvfs; rdiff-backup --print-statistics -v5 ~ /media/Arthur/X301.rdiff; beep -r 3'
 alias be='bundle exec'
-alias clive='clive -cf best'
+alias clive='clive -f best'
 alias computer,='sudo'
 alias cp1250='iconv -t cp1250 -f utf8'
 alias diff-side-by-side-changes='\diff --side-by-side --suppress-common-lines --width "`tput cols`"'
