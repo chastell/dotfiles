@@ -43964,3 +43964,15 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: Do folks think TDD says that when hey want to write a line of code, write
+    a test for that line of code, then write the code? Cuz no no no.
+  author: Angela West Harms
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+  - TDD
