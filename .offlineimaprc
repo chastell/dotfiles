@@ -13,4 +13,4 @@ localfolders = ~/Gmail
 type = Gmail
 remoteuser = chastell@chastell.net
 remotepass = …
-folderfilter = lambda foldername: foldername not in ['[Gmail]/Important']
+folderfilter = lambda foldername: foldername not in ['[Gmail]/Important', '[Gmail]/All Mail']
