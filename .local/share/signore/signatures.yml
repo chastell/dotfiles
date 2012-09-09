@@ -43976,3 +43976,29 @@ signatures:
   - programming
   - testing
   - TDD
+- !ruby/struct:Signore::Signature
+  text: I will not let Perfect be the enemy of the Good. But Great? Great can kick
+    Good’s ass any day.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Banach-Tarski and Hutch
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - math
+- !ruby/struct:Signore::Signature
+  text: Things get a lot easier when you realize hipsters are just lumberjack/flapper
+    cosplayers.
+  author: Nate Berkopec
+  source: 
+  subject: 
+  tags:
+  - en
+  - hipsters
