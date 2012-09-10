@@ -44002,3 +44002,14 @@ signatures:
   tags:
   - en
   - hipsters
+- !ruby/struct:Signore::Signature
+  text: Why yes, I did just SSH into the family computer and `say "Jacob, bring your
+    father some food."`
+  author: John Wilger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - parenting
+  - SSH
