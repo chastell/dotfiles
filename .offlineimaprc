@@ -2,15 +2,16 @@
 accounts = Gmail
 
 [Account Gmail]
-localrepository = Local
+localrepository  = Local
 remoterepository = Remote
 
 [Repository Local]
-type = Maildir
 localfolders = ~/Gmail
+type         = Maildir
 
 [Repository Remote]
-type = Gmail
-remoteuser = chastell@chastell.net
-remotepass = …
-folderfilter = lambda foldername: foldername not in ['[Gmail]/Important', '[Gmail]/All Mail']
+cert_fingerprint = …
+folderfilter     = lambda foldername: foldername not in ['[Gmail]/Important', '[Gmail]/All Mail']
+remotepass       = …
+remoteuser       = chastell@chastell.net
+type             = Gmail
