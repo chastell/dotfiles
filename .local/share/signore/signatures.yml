@@ -44013,3 +44013,88 @@ signatures:
   - tech
   - parenting
   - SSH
+- !ruby/struct:Signore::Signature
+  text: If we have data, let’s look at data. If all we have are opinions, let’s go
+    with mine.
+  author: Dan Ariely
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Accept: application/ruby+drama'
+  author: Andy Lindeman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - HTTP
+- !ruby/struct:Signore::Signature
+  text: ‘Requires a Facebook account’ is like ‘best viewed in Netscape 4’.
+  author: Andy Clarke
+  source: 
+  subject: 
+  tags:
+  - en
+  - Facebook
+- !ruby/struct:Signore::Signature
+  text: There is no ‘talent shortage’ – only a shortage of places where talent wants
+    to work.
+  author: Bob Marshall
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ! 'o_O recruiters: ‘We are a stealth startup with one of the leading products
+    in our space.’ HOW IS THIS POSSIBLE?'
+  author: Tony Arcieri
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Considering Batman and Iron Man’s superpowers are essentially being insanely
+    rich, you can’t help but be a little disappointed in Bill Gates
+  author: Howard Wolowitz
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Free troll idea: give someone a floppy disk and tell them ‘hold onto this
+    but please don’t look at it’.'
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: RT if the pervasive tragedy of human life compels you to blindly reach out
+    to strangers using packets of bytes mediated by corporations.
+  author: Brian Whitman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: ! 'I can’t state this enough: programmers don’t burn out on hard work, they
+    burn out on change-with-the-wind directives and not ‘shipping’.'
+  author: Mark Berry
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - work
