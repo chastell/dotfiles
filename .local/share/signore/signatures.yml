@@ -43701,7 +43701,7 @@ signatures:
   - infographics
 - !ruby/struct:Signore::Signature
   text: ! "❤ [tmp] mkdir \U0001F63B\n❤ [tmp] cd \U0001F63B\n❤ [\U0001F63B] ls\n❤ [\U0001F63B]
-    touch \U0001F63B.meow\uFEFF"
+    touch \U0001F63B.meow"
   author: opi
   source: 
   subject: 
@@ -44098,3 +44098,31 @@ signatures:
   - tech
   - programming
   - work
+- !ruby/struct:Signore::Signature
+  text: If you have an import function, but you don’t have an export function, and
+    you claim it’s too tough, you’re lying to people.
+  author: Jason Scott
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Found a cool Easter Egg on Google. If you type words into the search box,
+    it will FOREVER REMEMBER EVERY DETAIL OF YOUR CORPOREAL EXISTENCE.
+  author: Ted Nyman
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google
+  - privacy
+- !ruby/struct:Signore::Signature
+  text: ! '[URL shorteners] are like holding DNS underwater for four minutes.'
+  author: Jason Scott
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - DNS
