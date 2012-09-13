@@ -88,11 +88,13 @@ nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>p  gqip
 nnoremap <leader>r  :silent! wall<enter>:!rake<enter>
+nnoremap <leader>t= :Tab /=<enter>
 nnoremap <space>    :
 nnoremap j          gj
 nnoremap k          gk
 nnoremap U          :syntax sync fromstart<enter>:redraw!<enter>
 nnoremap Y          Vy
+vnoremap <leader>t= :Tab /=<enter>
 vnoremap p          pgvy
 
 " filetypes
