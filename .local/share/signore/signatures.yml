@@ -44126,3 +44126,12 @@ signatures:
   - en
   - tech
   - DNS
+- !ruby/struct:Signore::Signature
+  text: The word ‘phonetically’ doesn’t even start with an f. Stuff like this is why
+    aliens fly straight past us.
+  author: ProfessorQB
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
