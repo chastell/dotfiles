@@ -44135,3 +44135,14 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '$> grep -c ''die "aaaaargggghhhh"'' parse_script.pl
+
+    27 trafień, a.k.a. nauczę się kiedyś jakiegoś debuggera.'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - programming
