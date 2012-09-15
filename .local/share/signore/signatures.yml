@@ -44146,3 +44146,23 @@ signatures:
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: I wonder why wine pairings are limited to just food. Give me a nice dry red
+    for configuring LDAP, for example.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - wine
+  - LDAP
+- !ruby/struct:Signore::Signature
+  text: Has anyone ever manufactured a hat with attached neckbeard? I want to say
+    ‘I put on my robe and neckbeard hat’ without lying.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
