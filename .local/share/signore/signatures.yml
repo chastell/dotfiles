@@ -44166,3 +44166,35 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: W natłoku doskonałych decyzji umknęła mi jedna tragiczna.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Karta amnezji, 16 GB.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '— Co tak pieprznęło przy Arkadii?
+
+    — Może Mielżyńskiemu wywrócił się karton szampanów?'
+  author: Filip Tepper, reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Widziałem dziś coś co przypominało gigantyczny zombie walk, a okazało się
+    ecco waltkathonem czy jak to się tam zwie.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
