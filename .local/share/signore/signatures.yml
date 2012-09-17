@@ -23227,7 +23227,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Krakowski zjazd muzealników bardzo się udał. Zakończyliśmy spotkaniem integracyjnym,
     zarządzając wspólną drzemkę w sali obrad.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -23235,7 +23235,7 @@ signatures:
   - museums
 - !ruby/struct:Signore::Signature
   text: IPN, PKP i Poczta Polska – te trzy instytucje psuja wizerunek polskiego muzealnictwa.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -23554,7 +23554,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: „Władca Pierścieni” to w istocie piękna przypowieść o trudach muzealników,
     obronie i pozyskiwaniu skarbów dziedzictwa.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -23572,7 +23572,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Warsztaty muzealne dla dzieci były dobrym pomysłem do momentu, gdy zorientowaliśmy
     się, że dobrze bawią się na nich tylko starsi kustosze.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -23768,7 +23768,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Wódka u kumpli z Muzeum Techniki. Ścigamy się przez sale muzealne Polonezem
     Borewicza. Cieć, stary UB-ek, ma łzy w oczach.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -28219,7 +28219,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Podobno koledzy z Muzeum Techniki chodzą po salonach T-Mobile i wykupują z
     ich najnowszej oferty wszystkie te muzealne obiekty.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -28227,7 +28227,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Jak jeszcze raz jakiś smark zapyta nas na lekcji muzealnej, czy „kolekcjonujemy
     chwile ulotne jak ulotka” to nie ręczymy za siebie.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -28414,7 +28414,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Podobno scenarzysta „Dnia świstaka” zatrudnił się na tydzień w muzeum, aby
     złapać ducha narracji.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -28892,7 +28892,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Nasze twitty stukamy na maszynie, idą do sekretariatu, gdzie dyr. zatwierdza
     pieczątką, następnie sprawę opiniuje radca prawny i już są tu!
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -28901,7 +28901,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Jeden z kustoszy zwariował. Krzyczy, że nas wyzabija, jeśli zamiast Toshiby
     z Win7 nie dostanie z powrotem Łucznika z kolorowym tuszem!
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -28910,7 +28910,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Chcieliśmy opublikować dokumenty kompromitujące władze muzealne w Polsce,
     ale zorientowaliśmy się, że Twitter nie obsługuje mikrofilmów.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -31130,7 +31130,7 @@ signatures:
 
     Ponieważ obrazy olejne to podstawowa forma komunikacji z młodzieżą szkolną w polskim
     muzealnictwie. Jedna wizyta wystarczy im na całe życie.'
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -35488,7 +35488,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Piszemy powieść „Przygody nieustraszonego Muzealnika”, w której streścimy
     wszystkie nieprawdopodobne sny, które przyśniły nam się w Muzeum.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -35803,7 +35803,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Doradziliśmy dziś kustoszom, że ich zebrania będą miały większy sens jeśli
     zaczną obradować w kapturach.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -37846,7 +37846,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Gdy jest nam smutno z powodu naszej branży, przebieramy się za roznosicieli
     kanapek i idziemy obejrzeć, jak męczycie się w korporacjach.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -39122,7 +39122,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: ! 'Przykre: gdyby nie Noc Muzeów, przy okazji której wszyscy wariują, jakbyśmy
     byli centrum handlowym, majówka trwałaby u nas do końca miesiąca.'
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -40340,7 +40340,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Nabraliśmy starszych kustoszy, że hipsterzy to są byli zakonnicy, których
     wyrzucono ze wspólnoty za homoseksualizm.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -42831,7 +42831,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Strasznie nam imponują wszyscy, którzy lansują się na „czytanie książek”.
     Najbardziej ci, którzy potrafią to łączyć z jazdą na ostrym kole.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -44194,6 +44194,14 @@ signatures:
   text: Widziałem dziś coś co przypominało gigantyczny zombie walk, a okazało się
     ecco waltkathonem czy jak to się tam zwie.
   author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Za każdym razem, gdy włączacie telewizor, gdzieś na świecie umiera jeden pisarz
+    i rodzi się dwóch junior brand managerów.
+  author: Muzealnicy
   source: 
   subject: 
   tags:
