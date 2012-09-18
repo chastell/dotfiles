@@ -44206,3 +44206,131 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'Ameryka: tylko ona potrafi wykreować na ideał męskości opiekuna krów.'
+  author: dorszulec
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! '‘When I was a kid I thought “all rights reserved” meant “everything’s fine”.’
+
+    ‘Me too. I had a He-Man ruler where he beats up Skeletor in a short comic strip.
+    The last frame featured “all rights reserved”.’'
+  author: Aanand Prasad, Paul Dean
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: Hate the bridge, not the troll.
+  author: Steven Bristol
+  source: 
+  subject: 
+  tags:
+  - en
+  - trolling
+- !ruby/struct:Signore::Signature
+  text: Although it’s strictly true, I still wouldn’t advise walking into your bank
+    and telling everyone they’re all going to die.
+  author: John Roderick
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Yo dawg, I heard you like culture, so I put a counterculture in your subculture
+    so we could all be sad forever.
+  author: Robert Pitts
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Free product idea: a collar that shocks you whenever you say the words
+    ‘go ahead and’.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: My social marketing consultant told me I should end every tweet with a cliffhanger.
+    I turned to him and said, with steely glint in my eye
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m going to use the extra vertical space in my iPhone 5 to mine bitcoins.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - iPhone
+- !ruby/struct:Signore::Signature
+  text: I assume if atheists would storm an embassy every time a country disrespects
+    science – no embassy would be left.
+  author: Daniel Bovensiepen
+  source: 
+  subject: 
+  tags:
+  - en
+  - atheism
+  - religion
+- !ruby/struct:Signore::Signature
+  text: We can’t teach C++ anymore. It’s like trying to explain Lost now – you had
+    to be there. No one’s going to want to watch all 6 seasons.
+  author: Bojan Nastic
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: ! '‘Hello Eric, I’m a staffer looking for a PHP developer.’
+
+    ‘Not interested.’
+
+    ‘Do you have any friends?’
+
+    ‘No, it’s very sad.’
+
+    -click-'
+  author: Eric Steele
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
+  - work
+- !ruby/struct:Signore::Signature
+  text: Oddly reassuring that the new version of Xcode crashes like the old one. Cupertino
+    syndrome – like Stockholm syndrome, but shiny.
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Apple
+  - Xcode
+- !ruby/struct:Signore::Signature
+  text: ! 'Hey everyone! Just so you know: I just unpaused time. You shouldn’t have
+    noticed anything, since that was kind of the whole point.'
+  author: Fronx
+  source: 
+  subject: 
+  tags:
+  - en
+  - time
