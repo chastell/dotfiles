@@ -44334,3 +44334,31 @@ signatures:
   tags:
   - en
   - time
+- !ruby/struct:Signore::Signature
+  text: I like the range of users, from clergy to kink meme people. There are some
+    sets of users for whom every bookmark would be mutually offensive.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Happiest words I’ve written all month have been ‘I have checked and it’s not
+    my fault your work Pinboard account filled with gay porn’.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Conservatives: “those who benefit from the system without contributing”
+    is a giant, creaking strawman.’
+
+    ‘At first I read your tweet as: “Conservatives: those who benefit from the system
+    without contributing”.’'
+  author: James Coglan, Micah Johnston
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
