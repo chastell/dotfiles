@@ -97,6 +97,26 @@ nnoremap Y          Vy
 vnoremap <leader>t= :Tab /=<enter>
 vnoremap p          pgvy
 
+" fake '|' as text object
+nnoremap ca\| F\|c,
+nnoremap ci\| T\|c,
+nnoremap da\| F\|d,
+nnoremap di\| T\|d,
+nnoremap va\| F\|v,
+nnoremap vi\| T\|v,
+nnoremap ya\| F\|y,
+nnoremap yi\| T\|y,
+
+" fake '/' as text object
+nnoremap ca/ F/c,
+nnoremap ci/ T/c,
+nnoremap da/ F/d,
+nnoremap di/ T/d,
+nnoremap va/ F/v,
+nnoremap vi/ T/v,
+nnoremap ya/ F/y,
+nnoremap yi/ T/y,
+
 " filetypes
 autocmd BufRead,BufNewFile *.install         set filetype=php
 autocmd BufRead,BufNewFile *.md              set filetype=markdown
