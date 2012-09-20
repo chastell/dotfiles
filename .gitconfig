@@ -20,3 +20,5 @@
 [user]
   name = Piotr Szotkowski
   email = chastell@chastell.net
+[remote "origin"]
+	fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
