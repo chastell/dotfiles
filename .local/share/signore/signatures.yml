@@ -44362,3 +44362,12 @@ signatures:
   tags:
   - en
   - politics
+- !ruby/struct:Signore::Signature
+  text: Saying that morality comes from god is like saying that paychecks come from
+    Santa Claus.
+  author: Joshua McGee
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
