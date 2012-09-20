@@ -1,7 +1,7 @@
 alias a='ack-grep'
 alias backup='offlineimap; fusermount -u ~/.gvfs; rdiff-backup --print-statistics -v5 ~ /media/Arthur/X301.rdiff; beep -r 3'
 alias be='bundle exec'
-alias beep='play --no-show-progress /usr/share/sounds/purple/alert.wav gain -n'
+alias beep='play --no-show-progress --null -V0 synth pl C fade 0 0.3'
 alias clive='clive -f best'
 alias computer,='sudo'
 alias cp1250='iconv -t cp1250 -f utf8'
