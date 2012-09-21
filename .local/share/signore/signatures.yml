@@ -44401,3 +44401,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Read the assembly bootstrap code for GRUB and feel a sense of awe that you
+    can even see this tweet right now.
+  author: Joe Damato
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - GRUB
