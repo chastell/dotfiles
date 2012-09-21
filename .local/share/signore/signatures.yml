@@ -44371,3 +44371,33 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: The thing you’re working on now is familiar to you. That doesn’t make it good.
+    We don’t always make forward progress.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: W którym odkrylem nieznany komputer, który przełamał wszystkie zabezpieczenia
+    i uzyskał dostęp do naszego Wi-Fi. Wiedziony niezawodnym przeczuciem zeskanowałem
+    mu porty, zrobiłem os fingerprinting i namierzyłem go z dokładnością do 10 metrów,
+    co pozwoliło mi ustalić, że jest to mac mini na którym Joanna ogląda (rzekomo)
+    bajki.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: Wait, it was ‘the *purpose*-driven life’? Not ‘porpoise’? This changes everything.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
