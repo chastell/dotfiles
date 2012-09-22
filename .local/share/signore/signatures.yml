@@ -44412,3 +44412,20 @@ signatures:
   - tech
   - programming
   - GRUB
+- !ruby/struct:Signore::Signature
+  text: I admire your optimism, unknown-number-calling-me.
+  author: Carol Nichols
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Duck typing? More like honey badger typing.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
