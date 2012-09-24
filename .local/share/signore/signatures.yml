@@ -44429,3 +44429,36 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: Can you even imagine your life without the Space Shuttle? It’s like if they
+    stopped making Segways!
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: My efficiency is stored in a signed byte. Once I hit the top my next move
+    will render me apathetic.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: You know that kid at the arcade who’s just watching the demo and pressing
+    the buttons like they’re playing? That’s how i handle adulthood.
+  author: barnabus
+  source: 
+  subject: 
+  tags:
+  - en
+  - adulthood
+- !ruby/struct:Signore::Signature
+  text: They warned me hell was other people, but I didn’t realise it was you in particular.
+  author: James Eagle
+  source: 
+  subject: 
+  tags:
+  - en
