@@ -55,6 +55,7 @@ syntax sync minlines=256
 
 " tab-completion
 set completeopt=menu,longest
+set wildignorecase
 set wildmode=list:longest
 
 " misc
