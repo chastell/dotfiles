@@ -44462,3 +44462,23 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I took "git add -u . && commit -m 'Minor changes. Commit message skipped.'
+    && pull && rebase && push" and bound it to s because fuck you.
+  author: Ben Orenstein
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: com.sun.java.swing.plaf.nimbus.InternalFrameInternalFrameTitlePaneInternalFrameTitlePaneMaximizeButtonPainter
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
