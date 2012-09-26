@@ -1,6 +1,6 @@
 alias a='ack-grep'
-alias backup-to-arthur='offlineimap; fusermount -u ~/.gvfs; obnam --log /media/chastell/Arthur/Asus.obnam.log --repository /media/chastell/Arthur/Asus.obnam backup ~'
-alias backup-to-zaphod='offlineimap; fusermount -u ~/.gvfs; obnam --log /media/chastell/Zaphod/Asus.obnam.log --repository /media/chastell/Zaphod/Asus.obnam backup ~'
+alias backup-to-arthur='offlineimap; fusermount -u ~/.gvfs; obnam --exclude ~/.cache --log /media/chastell/Arthur/Asus.obnam.log --repository /media/chastell/Arthur/Asus.obnam backup ~'
+alias backup-to-zaphod='offlineimap; fusermount -u ~/.gvfs; obnam --exclude ~/.cache --log /media/chastell/Zaphod/Asus.obnam.log --repository /media/chastell/Zaphod/Asus.obnam backup ~'
 alias be='bundle exec'
 alias beep='play --no-show-progress --null -V0 synth pl C fade 0 0.3'
 alias clive='clive --format best'
