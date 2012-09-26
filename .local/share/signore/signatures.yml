@@ -44482,3 +44482,57 @@ signatures:
   - tech
   - programming
   - Java
+- !ruby/struct:Signore::Signature
+  text: I only talk to religious people on the door step if they agree to the possibility
+    of both of us changing our minds. All leave immediately.
+  author: Stephen Parry
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: I have met an encouraging number of people who have realised all programming
+    languages are terrible.
+  author: Gabriel Gironda
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I love it when nerds try to philosophize deeply about things, and instead
+    demonstrate that they are complete sociopaths.
+  author: John McDowall
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Look, if I *am* a Manchurian sleeper agent programmed to destroy the government,
+    can someone fucking activate me please.
+  author: Jon Blyth
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: This is a talk about lazy evaluation. Thank you. Are there any questions?
+  author: Bob Ippolito
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: A SYSTEM AND METHOD FOR AUTHORING WEAK SELF-REFERENTIAL JOKES BY SUFFIXING
+    A VAGUELY-DEFINED CONCEPT WITH THE PHRASE ‘AS A SERVICE’
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
