@@ -44536,3 +44536,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Someone has changed the indent spacing in this file. RELEASE THE KRAKEN.
+  author: I Am Devloper
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
