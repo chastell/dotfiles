@@ -44545,3 +44545,49 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: In a world of reliable data storage [thunder clap] One database dares to be
+    different [howling wind blows a candle out] Molngo Database.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MongoDB
+- !ruby/struct:Signore::Signature
+  text: DHH says you shouldn’t adopt complex technology stacks until you really need
+    them, which is why I don’t use Rails much.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rils
+- !ruby/struct:Signore::Signature
+  text: ! 'Airplane conversation:
+
+    ‘What’s your company’s name?’
+
+    ‘Destroy All Software.’
+
+    ‘Sounds like a virus.’
+
+    Then he put some tobacco in his mouth.
+
+    Then, two hours later:
+
+    ‘What’s the name of your company? Kill the Web?’
+
+    Now the lady behind me just commented on how fast I was programming dat computer.
+
+    ‘And you had the black screen. Not normal.’'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
