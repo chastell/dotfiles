@@ -44591,3 +44591,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Każda grecka litera o nieznanej nazwie otrzymuje roboczy kryptonim „fi”.
+  author: Orvudo
+  source: 
+  subject: 
+  tags:
+  - pl
+  - linguistics
