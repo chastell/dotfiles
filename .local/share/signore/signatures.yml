@@ -44599,3 +44599,33 @@ signatures:
   tags:
   - pl
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: It’s easier to pretend you’re doing Kanban than to pretend you’re doing Scrum.
+    That explains many Kanban adoptions.
+  author: Paolo Perrotta
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Flawed queue types: FISH – first in, still here.'
+  author: ! '@deathwarmedover'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Got an email from Microsoft, wanting to help ‘certify’ Minecraft for Win
+    8. I told them to stop trying to ruin the PC as an open platform.
+
+    I’d rather have Minecraft not run on Win 8at all than to play along. Maybe we
+    can convince a few people not to switch to Win 8 that way…'
+  author: Markus Persson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Microsoft
