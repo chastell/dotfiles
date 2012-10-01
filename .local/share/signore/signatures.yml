@@ -44629,3 +44629,14 @@ signatures:
   - en
   - tech
   - Microsoft
+- !ruby/struct:Signore::Signature
+  text: In C++, everytime someone writes ‘>> 3’ instead of ‘/ 8’, I bet the compiler
+    is like, ‘OH DAMN! I would have never thought of that!’
+  author: Jon Shiring
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
