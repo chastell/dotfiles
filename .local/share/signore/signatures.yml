@@ -5403,7 +5403,7 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Widziałem osobnika, który kupił Windows 7 Pro w pudełku płacąc gotówka bez
+  text: Widziałem osobnika, który kupił Windows 7 Pro w pudełku płacąc gotówką bez
     faktury, zawsze myślałem, że to miejski mit.
   author: Adam Hościło
   source: 
@@ -44640,3 +44640,11 @@ signatures:
   - tech
   - programming
   - C++
+- !ruby/struct:Signore::Signature
+  text: 10 year old son tried to cover up browsing tracks by closing all the tabs.
+    Look into history, 10 year old porn is Lego listings on eBay.
+  author: Karle Durante
+  source: 
+  subject: 
+  tags:
+  - en
