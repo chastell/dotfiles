@@ -44648,3 +44648,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Pretty sure there was once someone who understood the computer but he looked
+    at Rails and that was that.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
