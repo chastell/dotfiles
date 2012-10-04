@@ -44659,3 +44659,14 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: ‘I love Ruby. We’ve glued a third leg onto this duck, but the code that expects
+    a normal duck remains unaffected.’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
