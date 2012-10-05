@@ -44670,3 +44670,13 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: I step back, and breathe deeply. Before me stands a veritable multitude of
+    biblically smooth yaks, shivering in the autumnal dusk.
+  author: Simon Coffey
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
