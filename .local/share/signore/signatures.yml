@@ -44680,3 +44680,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'We accidentally invented AirB&B a decade ago: guests turned up at our sysadmin’s
+    house having booked his test hotel on our site.'
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - webdevelopment
