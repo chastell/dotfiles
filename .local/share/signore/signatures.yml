@@ -44690,3 +44690,13 @@ signatures:
   - en
   - tech
   - webdevelopment
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: It’s a Jesus bug. You think you’ve got it nailed-down, but it comes
+    back 3 days later.'
+  author: Tom Sulston
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
