@@ -44700,3 +44700,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Whoever dies with the most data wins.
+  author: Kent Beck
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
