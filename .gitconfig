@@ -14,11 +14,12 @@
 [push]
   default = current
 
+[remote "origin"]
+  fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
+
 [rerere]
   enabled = 1
 
 [user]
   name = Piotr Szotkowski
   email = chastell@chastell.net
-[remote "origin"]
-	fetch = +refs/pull/*/head:refs/remotes/origin/pr/*
