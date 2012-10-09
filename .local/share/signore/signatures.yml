@@ -44708,3 +44708,74 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: I wish I could have known earlier that you have all the time you’ll need right
+    up to the day you die.
+  author: William Wiley
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The USA is the IE of the world.
+  author: Fake Glen Maddern
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Say ‘Single Sign-on’ again…
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Browser to jakaś gówniana choroba Internetu rodem z lat 80., którą Führerfaux
+    próbuje zwalczyć pluginami.
+  author: spin
+  source: HS WAW
+  subject: 
+  tags:
+  - pl
+  - tech
+  - web
+- !ruby/struct:Signore::Signature
+  text: People are just baby ghosts.
+  author: crystalline bitch
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Yo dawg I heard you like callbacks, yo dawg I heard you like, yo dawg I heard
+    you, yo dawg I heard, yo dawg I, yo dawg, yo.
+  author: Bro McCann
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: A European guy invented Git, and called things ‘branches’. CouchDB is American,
+    so the same thing is called ‘conflict’.
+  author: Jason Smith
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
+  - CouchDB
+- !ruby/struct:Signore::Signature
+  text: Why do restaurant starters always come in quantities that are coprime with
+    the number of eaters?
+  author: Tom Insam
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
