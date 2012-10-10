@@ -44779,3 +44779,43 @@ signatures:
   tags:
   - en
   - food
+- !ruby/struct:Signore::Signature
+  text: Rather than flog a dead horse, a good Haskeller knows how to abstract over
+    different kinds of beatings, the nature of death, and horsiness.
+  author: Bryan O’Sullivan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
+- !ruby/struct:Signore::Signature
+  text: Before smashing a bug consider that they basically don’t have any idea what
+    is going on ever.
+  author: a frandly ghost
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Idea for GitHub bot: bot that comments on Node project commits, first posting
+    an answer and then a couple of minutes later the question.'
+  author: Ben Griffiths
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - GitHub
+  - Node.js
+- !ruby/struct:Signore::Signature
+  text: RAM is cheap, beauty is priceless.
+  author: James Hunt
+  source: 
+  subject: on recursion
+  tags:
+  - en
+  - tech
+  - programming
