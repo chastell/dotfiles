@@ -38300,7 +38300,7 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: If you’ve never spoken ‘computer, end program’ out loud theres still a chance
+  text: If you’ve never spoken ‘computer, end program’ out loud there’s still a chance
     your whole life has been a holodeck simulation.
   author: ! '@dreadhole'
   source: 
@@ -44815,6 +44815,47 @@ signatures:
   author: James Hunt
   source: 
   subject: on recursion
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Wstać o 2:30, puścić siedemnaście commitów, które naprawiają większość
+    błędów, o 6:08 polać sobie ginu z tonikiem, dwa plasterki limonki. #życieprogramisty'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - work
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Half of programming is naming; half is figuring out responsibility boundaries;
+    and half is rewriting because you named your god-object wrong.
+  author: Max Howell
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Seems like (mockist) TDD leads to designing objects which don't appear to
+    need tests, but not writing tests leads to objects that do.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: Your periodic reminder that DON’T FUCKING CONSTRUCT QUERY STRINGS BY HAND.
+  author: James Coglan
+  source: 
+  subject: 
   tags:
   - en
   - tech
