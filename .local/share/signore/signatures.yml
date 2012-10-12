@@ -44860,3 +44860,78 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Companies say they want people with a passion for clean code and then the
+    first time you punch a guy for using tabs they’re all ‘WTF DUDE!’
+  author: GonzoHacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Enjoy getting email asking ‘what if something happens to you??’ How deep philosophical
+    waters do you need me to wade into for $9.88?
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘Enjoying this story about how Steve Jobs wasn’t just an asshole in one
+    way, but in every way: http://goo.gl/YCiXS’
+
+    ‘On the other hand, he *did* name a computer after the daughter he was neglecting.
+    #BestDadEver’
+
+    ‘Performa is a creepy name for a daughter.’'
+  author: Pinboard, Anil Dash
+  source: 
+  subject: 
+  tags:
+  - en
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: The market is ripe for disruption! Cloud-based, SaaS Vim-instances you can
+    run on any computer with Internet connection!
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: Life is all about perspective. The sinking of the Titanic was a miracle to
+    the lobsters in the ship’s kitchen.
+  author: ! '@ozlifeadvice'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '>> def method_missing(n, *a, &b); send(methods.min_by { |m| levenshtein(n.to_s,
+    m.to_s) }, *a, &b); end
+
+    >> p [1, 2, 3].elngth 3
+
+    It’s fine.'
+  author: Gary Bernhard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Sorry, you lost me at ‘proprietary’.
+  author: Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
