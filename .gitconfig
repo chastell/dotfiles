@@ -11,6 +11,9 @@
   user = chastell
   token = …
 
+[help]
+  autocorrect = 1
+
 [push]
   default = current
 
