@@ -19,12 +19,14 @@ Bundle 'fugitive.vim'
 Bundle 'gitv'
 Bundle 'matchit.zip'
 Bundle 'rails.vim'
+Bundle 'koron/nyancat-vim'
 Bundle 'surround.vim'
 Bundle 'tComment'
 Bundle 'textobj-rubyblock'
 Bundle 'textobj-user'
 Bundle 'unimpaired.vim'
 Bundle 'vim-rails'
+Bundle 'visSum.vim'
 
 " end Vundle setup
 filetype plugin indent on
