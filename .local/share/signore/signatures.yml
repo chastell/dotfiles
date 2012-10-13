@@ -44935,3 +44935,18 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: FEAR! Fuck everything and run!
+  author: Jakob Mattsson
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'DRINKING GAME: Sit down with a book and a nice glass of
+    wine. Every time you feel a bit thirsty, take a sip.'
+  author: WaterstonesOxfordSt
+  source: 
+  subject: 
+  tags:
+  - en
