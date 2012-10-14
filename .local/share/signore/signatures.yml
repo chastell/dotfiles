@@ -44943,10 +44943,48 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ! 'DRINKING GAME: Sit down with a book and a nice glass of
-    wine. Every time you feel a bit thirsty, take a sip.'
+  text: ! 'DRINKING GAME: Sit down with a book and a nice glass of wine. Every time
+    you feel a bit thirsty, take a sip.'
   author: WaterstonesOxfordSt
   source: 
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Denormalizing your table for performance is totally fine until, y’know, fucking
+    anything changes.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - databases
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: We should offer vanity SHAs.'
+  author: Wynn Netherland
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: It’s likely that ryanair is the worst airline in existance. I hope to live
+    long enough to boicott them forever.
+  author: Katrina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+  - airlines
+- !ruby/struct:Signore::Signature
+  text: Just learned that <b> isn’t for bullshit and <i> isn’t for irony… apparently
+    I’ve been misreading/mistyping HTML for some time.
+  author: John Regehr
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTML
