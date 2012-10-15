@@ -44988,3 +44988,39 @@ signatures:
   - en
   - tech
   - HTML
+- !ruby/struct:Signore::Signature
+  text: Angular JS’s documentation doesn’t show up in Google because it’s one big
+    dynamic page. That’s all you need to know about Angular JS.
+  author: Kevin Burke
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I think there’s a tech bubble but it’s not about money.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'SGML #yolo'
+  author: Mark A. Matienzo
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SGML
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: You can’t throw a rock in this town without hitting a TechCrunch blogger,
+    so make sure you throw it hard.'
+  author: William Vambenepe
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - TechCrunch
