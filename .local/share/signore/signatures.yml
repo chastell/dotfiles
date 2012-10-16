@@ -29752,16 +29752,6 @@ signatures:
   - en
   - RPG
 - !ruby/struct:Signore::Signature
-  text: A guzik między innymi społeczeństwo amerykańskie między innymi obchodzi obalenie
-    tego…
-  author: płk Tadeusz Sieńko
-  source: przysposobienie obronne
-  subject: 
-  tags:
-  - pl
-  - education
-  - Staszic
-- !ruby/struct:Signore::Signature
   text: Oni są za inteligentni żeby się parali robolami.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -45024,3 +45014,13 @@ signatures:
   - en
   - tech
   - TechCrunch
+- !ruby/struct:Signore::Signature
+  text: Matz is nice so we act like DHH.
+  author: ! '@rbxbx'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
