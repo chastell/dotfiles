@@ -45024,3 +45024,72 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! '— Ktoś ma pomysła, kogo polecić?
+
+    — Nie wierzę, że użyłeś tej formy.
+
+    — Człowieko małego wiaru!'
+  author: rysiek, antoszka
+  source: HS WAW OT
+  subject: 
+  tags:
+  - pl
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Let’s let people configure this client library using environment variables.’
+    #stabstabstab'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'Your periodic notice that if your library reads ARGV or ENV I will send
+    the police to your house.
+
+    Bonus points if your library mutates ARGV or ENV. *Special* police for you!'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Your periodic reminder that if you write a client library with a single global
+    shared config object I will find you and do bad things.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'Don’t touch $LOAD_PATH or $: – you’re making shit suck for everyone.
+
+    Also, this is what a shebang looks like: #!/usr/bin/env ruby'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: There is no such thing as ‘getting an estimate right’.
+  author: Marcin Floryan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - work
