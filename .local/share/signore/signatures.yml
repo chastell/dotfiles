@@ -45093,3 +45093,28 @@ signatures:
   - tech
   - programming
   - work
+- !ruby/struct:Signore::Signature
+  text: Miało być „ekstra!”, ale telefon wysłał „Edyta!” To najciekawsza zmiana od
+    czasu, kiedy „Beatko” zmieniał na „cebulo”.
+  author: Adam Suprynowicz
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: If ‘anti-porn’ is just handy shorthand for ‘anti-exploitative and sexist porn’,
+    then I guess I’m anti-book, anti-movie, and anti-speech.
+  author: Cliff Pervocracy
+  source: 
+  subject: 
+  tags:
+  - en
+  - porn
+- !ruby/struct:Signore::Signature
+  text: This eastern time thing makes me feel like I’m waking up and charging into
+    the day at the very vanguard of the American Internet.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
