@@ -45118,3 +45118,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Ah the joy and simplicity of C. Segfault == test fail.’
+
+    ‘That brings back fond memories of programming assembler without memory protection.
+    Messing up = reboot.’'
+  author: Joseph Wilk, Lennart Fridén
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
