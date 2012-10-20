@@ -45130,3 +45130,21 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'If you’re wondering why no one makes coats of arms anymore, it’s because
+    Nunavut won: https://upload.wikimedia.org/wikipedia/en/c/cd/Coat_of_Arms_of_Nunavut.png'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: C preprocessor directives were the original hashtags.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C
