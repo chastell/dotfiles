@@ -16428,22 +16428,6 @@ signatures:
   - tech
   - IRC
 - !ruby/struct:Signore::Signature
-  text: ! '‘Maybe we should name our releases for the characters found in a children
-    animation movie.’
-
-    ‘Maybe someone will make a children’s animated movie with characters based on
-    Ubuntu release code-names.’
-
-    ‘Seriously dude, that movie will *not* be appropriate for children. No way.’'
-  author: Daniel Robitaille, Steve Alexander, Jeff Waugh
-  source: sounder
-  subject: 
-  tags:
-  - en
-  - tech
-  - Debian
-  - Ubuntu
-- !ruby/struct:Signore::Signature
   text: Ciekawe czy wszystkie dzieci dostaną w święta prezenty od tej małpy w czerwonym?
   author: mangold
   source: 
@@ -45148,3 +45132,13 @@ signatures:
   - tech
   - programming
   - C
+- !ruby/struct:Signore::Signature
+  text: Why do porn sites have a share to Google+ option? I don’t want my friends
+    knowing I use Google+.
+  author: Rory Mo-Ran
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google+
+  - porn
