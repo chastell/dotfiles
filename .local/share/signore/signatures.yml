@@ -45142,3 +45142,14 @@ signatures:
   - en
   - Google+
   - porn
+- !ruby/struct:Signore::Signature
+  text: The skylines lit up at dead of night, the air-conditioning systems cooling
+    empty hotels in the desert and artificial light in the middle of the day all have
+    something both demented and admirable about them. The mindless luxury of a rich
+    civilization, and yet of a civilization perhaps as scared to see the lights go
+    out as was the hunter in his primitive night.
+  author: Jean Baudrillard
+  source: 
+  subject: 
+  tags:
+  - en
