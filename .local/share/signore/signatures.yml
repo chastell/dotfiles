@@ -44594,7 +44594,7 @@ signatures:
   text: ! 'Got an email from Microsoft, wanting to help ‘certify’ Minecraft for Win
     8. I told them to stop trying to ruin the PC as an open platform.
 
-    I’d rather have Minecraft not run on Win 8at all than to play along. Maybe we
+    I’d rather have Minecraft not run on Win 8 at all than to play along. Maybe we
     can convince a few people not to switch to Win 8 that way…'
   author: Markus Persson
   source: 
@@ -45150,6 +45150,53 @@ signatures:
     out as was the hunter in his primitive night.
   author: Jean Baudrillard
   source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Note to foreign programmers: American speed limit signs display kilometers-per-hour
+    (in hexadecimal).'
+  author: ! '@bmcnett'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'I spent a week on a cruise ship reading papers on distributed systems and
+    operating systems. Main conclusion: Fuck the things that exist.
+
+    We need to fix the language, the process model, and the kernel, and none can be
+    done without doing all three.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ‘Drama’ is just ‘people being upset’, when someone says they’re always surrounded
+    by drama and they just ignore it, it starts to make sense that their strategy
+    might be backfiring.
+  author: 
+  source: xkcd
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I told my son that in the pre-mobile phone days, our phone hung on the kitchen
+    wall. He said, ‘Wow. Pretty awkward for watching porn.’
+  author: ! '@buck4itt'
+  source: 
+  subject: 
+  tags:
+  - en
+  - porn
+- !ruby/struct:Signore::Signature
+  text: Want to see amateurs in home-made crowns pretend to open kindergardens? barelyregal.com
+  author: 
+  source: Oglaf
   subject: 
   tags:
   - en
