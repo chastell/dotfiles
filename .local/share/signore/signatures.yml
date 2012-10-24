@@ -45200,3 +45200,91 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Ralph Johnson defines architecture as ‘decisions you wish you could get right
+    early in a project’. I just typo’d that as ‘delusions…’.
+  author: Nat Pryce
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Is ‘lifehacking’ a way for adult male nerds to acquire basic life skills from
+    each other in a nurturing environment without being ridiculed?
+  author: Skeleanor Robertson
+  source: 
+  subject: 
+  tags:
+  - en
+  - lifehack
+- !ruby/struct:Signore::Signature
+  text: ‘US East is down’ is the ‘my dog ate my homework’ of cloud computing.
+  author: Jim Lindley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - AWS
+- !ruby/struct:Signore::Signature
+  text: Another day, another EC2 outage avoided because I accidentally chose the wrong
+    region in 2010.
+  author: Michael Koziarski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - AWS
+- !ruby/struct:Signore::Signature
+  text: I wonder how many mushroom clouds it would take for AWS to use their red ‘Service
+    disruption’ icon rather than the ‘Performance issues’ one.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - AWS
+- !ruby/struct:Signore::Signature
+  text: My favorite AWS status is the green marker with little ‘info’ icon next to
+    it. An outage is just a form of uptime you don't understand yet.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - AWS
+- !ruby/struct:Signore::Signature
+  text: ! 'Failover (n.): Ensuring, through careful design, that a failure in one
+    component will propagate smoothly and quickly to any related components.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Are Node.js apps on EC2 still up despite EBS outage because of non-blocking
+    I/O? Is that how it works?
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - AWS
+  - Node.js
+- !ruby/struct:Signore::Signature
+  text: 99 problems but they were all stored on AWS so who knows what is or ain’t
+    one.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - AWS
