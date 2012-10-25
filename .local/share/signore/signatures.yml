@@ -16982,7 +16982,7 @@ signatures:
   - work
 - !ruby/struct:Signore::Signature
   text: The problem with defending the purity of the English language is that English
-    is about as pure as a cribhouse whore. We don’t just borrow words;on occasion,
+    is about as pure as a cribhouse whore. We don’t just borrow words; on occasion,
     English has pursued other languages down alleyways to beat them unconscious and
     rifle their pockets for new vocabulary.
   author: James D. Nicoll
@@ -45288,3 +45288,57 @@ signatures:
   - en
   - tech
   - AWS
+- !ruby/struct:Signore::Signature
+  text: ! 'Schwarmintelligenz, die, fem.: Theorie, dass wenn ein blindes Huhn auch
+    mal ein Korn findet, viele blinde Hühner mehrere Körner finden.'
+  author: Florian Frank
+  source: 
+  subject: 
+  tags:
+  - de
+- !ruby/struct:Signore::Signature
+  text: Use ‘rm’ to test if a file existed.
+  author: Jan-Piet Mens
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Great. I knew a girl in high school who had three nipples and now I’m explaining
+    to coworkers how THAT comes up in casual conversation.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I really hope Google doesn’t base my future searches on what I just did to
+    Google Images.
+  author: ! '@gmcintire'
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google
+- !ruby/struct:Signore::Signature
+  text: ! 'Worked a printing floor once. There’s two kinds of machines: ones that
+    will OBVIOUSLY tear your arm off, and ones that hide and wait.'
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - printing
+- !ruby/struct:Signore::Signature
+  text: ! 'Apple, 2001: ‘AND IT’S UNIX INSIDE! :D’
+
+    Apple, 2002-?: [systematically breaks every good thing in Unix]'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+  - UNIX
