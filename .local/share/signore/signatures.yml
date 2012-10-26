@@ -45342,3 +45342,35 @@ signatures:
   - tech
   - Apple
   - UNIX
+- !ruby/struct:Signore::Signature
+  text: ! 'BREAKING: A company that makes shit products and has an asshole CEO just
+    pulled a dick move. Everyone baffled.'
+  author: Mislav Marohnić
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Beginning to think that OS X and brew are an elaborate troll by bitter Gentoo
+    enthusiasts.
+  author: Will Thompson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+  - OS X
+- !ruby/struct:Signore::Signature
+  text: WOW! Your religion, country, and sports team are the greatest in the world?
+    And you just happened to be born into them? WHAT are the ODDS?
+  author: John Kovalic
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - sports
+  - patriotism
