@@ -45374,3 +45374,36 @@ signatures:
   - religion
   - sports
   - patriotism
+- !ruby/struct:Signore::Signature
+  text: Find it fix it test it break it fix it test it re-submit it.
+  author: Elliott Kember
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: So tickled by the fact that Delta paid to accelerate a strawberry to 550 mph
+    and raised it six miles in the air so I could eat it.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The problem with Twitter is that there’s so much passive-aggressive negativity
+    from certain terrible people who know who they are.
+  author: izs
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: Degaussing my moral compass.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
