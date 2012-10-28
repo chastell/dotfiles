@@ -45407,3 +45407,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: When you are run DROP DATABASE you are have of many problem but Big Data is
+    not of one of them.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
