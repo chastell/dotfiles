@@ -45416,3 +45416,23 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Arabic teacher yesterday: ‘so did you safely return to al-Qaeda?’ Took
+    a moment to remember it means ‘base’, as in, did I get back home ok.
+
+    All the scary terrist words have friendly meanings in Arabic. qaeda = base, hamas
+    = enthusiasm, fatah = opening, hezbullah = party of god.'
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: It’s some kind of red flag when people write me about a tweet turning them
+    off my service forever, and I can’t figure out which tweet it was.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
