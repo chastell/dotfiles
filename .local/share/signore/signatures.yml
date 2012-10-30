@@ -40438,19 +40438,6 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: ! 'Just remembered that Heroku stores your password locally in plain text.
-
-    Oh, the password is SHAd. My passwords are long and random; I assumed it was my
-    actual password. Still do not approve.'
-  author: Gary Bernhardt
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Heroku
-  - security
-- !ruby/struct:Signore::Signature
   text: ! 'JOIN `vehicles`.`vehicles` ON `vehicles`.vehicles.vehicle_id = `vehicles`.vehicles_sites.vehicle_id
 
     I reckon this query is about vehicles.'
@@ -45432,6 +45419,14 @@ signatures:
   text: It’s some kind of red flag when people write me about a tweet turning them
     off my service forever, and I can’t figure out which tweet it was.
   author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Slow and steady wins the race, unless it’s one of those weird races that puts
+    an emphasis on speed.
+  author: Tim Siedell
   source: 
   subject: 
   tags:
