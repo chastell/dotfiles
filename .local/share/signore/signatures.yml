@@ -45431,3 +45431,20 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: For my 5000th tweet I will reveal the secret to my devastating good looks,
+    famed intellectual achievements and dazzling wit. Basically you j
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m better at estimating things than probably 40 or 50 billion people.
+  author: Randy Tayler
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
