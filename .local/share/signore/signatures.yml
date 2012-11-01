@@ -45448,3 +45448,12 @@ signatures:
   - en
   - tech
   - work
+- !ruby/struct:Signore::Signature
+  text: Worrying that Disney will ruin Star Wars is like worrying that a second iceberg
+    will dive down to hit the Titanic.
+  author: Zach Weinersmith
+  source: 
+  subject: 
+  tags:
+  - en
+  - Star Wars
