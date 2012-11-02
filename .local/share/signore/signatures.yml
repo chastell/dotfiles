@@ -45457,3 +45457,11 @@ signatures:
   tags:
   - en
   - Star Wars
+- !ruby/struct:Signore::Signature
+  text: Brands ‘doing social’ like to make statements, then ask you a question to
+    elicit responses. What things make *you* sound like a robot idiot?
+  author: Kim Plowright
+  source: 
+  subject: 
+  tags:
+  - en
