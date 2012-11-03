@@ -35515,7 +35515,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: W naszym konkursie na „Chomika roku” wygrywa kustosz, który zaczął katalogować
     fiszki, na których jego poprzednicy katalogowali zbiory.
-  author: ‏‏@Muzealnicy
+  author: ! '@Muzealnicy'
   source: 
   subject: 
   tags:
@@ -39934,7 +39934,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: The best thing about alcohol hand gel in hospitals isn’t the hygiene, but
     that everyone walks around like they’re hatching a dastardly plan.
-  author: ‏@justinkb
+  author: ! '@justinkb'
   source: 
   subject: 
   tags:
@@ -40939,7 +40939,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: You just know the tastiest animals never made it off of Noah’s Ark.
-  author: ‏@Jesus_M_Christ
+  author: ! '@Jesus_M_Christ'
   source: 
   subject: 
   tags:
@@ -41452,7 +41452,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: I hate being bipolar, it’s fantastic!
-  author: ‏@AthenaOriana
+  author: ! '@AthenaOriana'
   source: 
   subject: 
   tags:
@@ -42233,7 +42233,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: The Star Trek universe happens when you put scientists in charge. The Star
     Wars universe happens when you put politicians in charge.
-  author: ‏@thagler
+  author: ! '@thagler'
   source: 
   subject: 
   tags:
@@ -42362,7 +42362,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Tn IT head for a Fortune 500 company is explaining to me how IPv6 is unnecessary
     because ‘they’ll probably give in and issue more IPv4 addresses’.
-  author: ‏@me_irl
+  author: ! '@me_irl'
   source: 
   subject: 
   tags:
@@ -42428,7 +42428,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: die drei ßßß und die kaputte shifttaste.
-  author: ‏@der_handwerk
+  author: ! '@der_handwerk'
   source: 
   subject: 
   tags:
@@ -42487,7 +42487,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: You can get ideas anywhere-while driving, in the shower, drifting off to sleep-anywhere
     where you can’t easily write them down.
-  author: ‏@nedroid
+  author: ! '@nedroid'
   source: 
   subject: 
   tags:
@@ -44931,7 +44931,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: It’s likely that ryanair is the worst airline in existance. I hope to live
+  text: It’s likely that Ryanair is the worst airline in existance. I hope to live
     long enough to boicott them forever.
   author: Katrina Owen
   source: 
@@ -45465,3 +45465,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'To do: Kneipe namens „Meeting“ eröffnen.
+
+    „Kann nicht, bin im Meeting!“'
+  author: nutellagangbang
+  source: 
+  subject: 
+  tags:
+  - de
