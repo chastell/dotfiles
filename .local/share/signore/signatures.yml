@@ -45474,3 +45474,13 @@ signatures:
   subject: 
   tags:
   - de
+- !ruby/struct:Signore::Signature
+  text: There’s a big difference between designing for everything that *will* happen
+    and designing for everything that *might* happen.
+  author: Kent Beck
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
