@@ -45494,3 +45494,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Fact: short, bite-sized ‘facts’ that society tries to instill in you are
+    mostly misleading, misinterpretations, or downright fabrications.'
+  author: Mislav Marohnić
+  source: 
+  subject: 
+  tags:
+  - en
