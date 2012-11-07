@@ -45502,3 +45502,21 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Stages of protocol adoption:
+
+    1. Use third party solution
+
+    2. Write your own client
+
+    3. Write your own server
+
+    4. Drink self to sleep every night'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - protocols
