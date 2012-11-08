@@ -45520,3 +45520,13 @@ signatures:
   - tech
   - programming
   - protocols
+- !ruby/struct:Signore::Signature
+  text: I wish Red Hat had a face so I could light it on fire and punch it until the
+    server room Halon triggered and I choked to sweet, sweet death.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Red Hat
