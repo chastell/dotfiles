@@ -45539,3 +45539,14 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Discovering pseudonymous twitterers that I follow were at the same gig/film/whatever
+    as me really spooks me out for some reason.
+
+    It’s like when you realize as a child that teachers have a life outside school.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
