@@ -45530,3 +45530,12 @@ signatures:
   - en
   - tech
   - Red Hat
+- !ruby/struct:Signore::Signature
+  text: I like how it was a superhighway before it became a cloud. I hope it’s an
+    aquarium next, with dolphins and squid. because hey why not.
+  author: Giles Bowkett
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
