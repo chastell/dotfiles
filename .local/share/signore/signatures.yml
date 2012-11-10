@@ -45550,3 +45550,13 @@ signatures:
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: The code’s on fire and there’s no automated test suite and the logs are muddy
+    with a thousand lonely exceptions and a dark wind blows.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
