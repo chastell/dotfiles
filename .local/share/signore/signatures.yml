@@ -45560,3 +45560,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Redacted Yahoo can redacted redacted in a redacted redacted. Piece of redacted
+    redacted. You redacted redacted OAuth, redacted redacted.
+  author: Blaine
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - OAuth
+  - Yahoo
