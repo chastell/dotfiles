@@ -45571,3 +45571,12 @@ signatures:
   - tech
   - OAuth
   - Yahoo
+- !ruby/struct:Signore::Signature
+  text: My write in candidate is ' OR 1=1; DROP TABLE VOTES--
+  author: Ben Ten (0xA)
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SQL
