@@ -33192,7 +33192,7 @@ signatures:
   - tech
   - GitHub
 - !ruby/struct:Signore::Signature
-  text: I want to write a github crawler bot that removes the words ‘just’ and ‘simply’
+  text: I want to write a GitHub crawler bot that removes the words ‘just’ and ‘simply’
     from your READMEs.
   author: Jeff Casimir
   source: 
@@ -45580,3 +45580,13 @@ signatures:
   - en
   - tech
   - SQL
+- !ruby/struct:Signore::Signature
+  text: ! '‘What happens to unused concession/victory speeches? Does someone archive
+    them, or do they get destroyed?’
+
+    ‘Sent to speechless children in Africa.’'
+  author: Avdi Grimm, Jeff Casimir
+  source: 
+  subject: 
+  tags:
+  - en
