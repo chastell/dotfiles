@@ -45590,3 +45590,21 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'So confused: Romney didn’t win even though all those people were praying
+    for it to happen. What could it mean?'
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Current status: have funny riddle that starts out SOUNDING horribly racist,
+    but punchline is cute. Ask riddle. Skype drops call. FFFFUUUUUUU'
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
