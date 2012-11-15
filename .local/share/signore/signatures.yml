@@ -12250,7 +12250,7 @@ signatures:
   - procrastination
 - !ruby/struct:Signore::Signature
   text: ! 'Want to fall in love with PostgreSQL by reading just one page of the documentation?
-    Easy: http://www.postgresql.org/docs/9.0/interactive/datatype.html'
+    Easy: http://www.postgresql.org/docs/current/interactive/datatype.html'
   author: James Edward Gray II
   source: 
   subject: 
@@ -45604,6 +45604,24 @@ signatures:
   text: ! 'Current status: have funny riddle that starts out SOUNDING horribly racist,
     but punchline is cute. Ask riddle. Skype drops call. FFFFUUUUUUU'
   author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Just got pitched by a startup that wants to bring the joy of filling out time-tracking
+    forms into your social life. Summon the meteors.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Oh, right, the *other* bullet proof sales technique is to grotesquely over-flatter
+    one’s audience. But you’re far too smart to fall for that.
+  author: James Coglan
   source: 
   subject: 
   tags:
