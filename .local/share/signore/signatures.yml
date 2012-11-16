@@ -45626,3 +45626,21 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘I’ve always wondered… if corporations are humans, why do they never get
+    sentenced to death?’
+
+    ‘Because they’re not alive; zombies!’
+
+    ‘Well, then. There’s only one solution: GUNS.’
+
+    ‘That’s not very European of you.’
+
+    ‘Guns don’t kill people. Zombies kill people. Guns kill zombies. It’s the same
+    in Europe.’'
+  author: Katrina Owen, Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
