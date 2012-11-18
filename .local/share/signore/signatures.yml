@@ -45644,3 +45644,14 @@ signatures:
   tags:
   - en
   - politics
+- !ruby/struct:Signore::Signature
+  text: The init system was invented in a British computer science lab to answer ‘it’s
+    running, init?’.
+  author: Daniel Schauenberg
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Unix
+  - init
