@@ -45655,3 +45655,28 @@ signatures:
   - tech
   - Unix
   - init
+- !ruby/struct:Signore::Signature
+  text: Outside of a dog, a book is man’s best friend. Inside of a dog, knowledge
+    manifests itself in radiant dreams that shimmer like the wild sun.
+  author: bandit
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Życie nie polega na tym, żeby mówiąc zawsze pamiętać, co się ma do powiedzenia,
+    tylko na tym, żeby w momentach gdy się o tym zapomina, mówić dalej i nie pozwolić
+    sobie przerwać.
+  author: 
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Denial as a service.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
