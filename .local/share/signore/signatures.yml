@@ -45680,3 +45680,21 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Namawiam Joannę do napisania do Mikołaja listu w którym będzie takie lego
+    jakim bym się pobawił.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: ! 'Hater is go for hate, but Yahoo Mail is still #1 in Czechoslovakia.'
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Yahoo
