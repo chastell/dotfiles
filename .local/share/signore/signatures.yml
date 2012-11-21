@@ -29332,7 +29332,7 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: ! 'Zaskakujący fakt: gry robię wycenę leżąc na łóżku w nowych butach, idzie
+  text: ! 'Zaskakujący fakt: gdy robię wycenę leżąc na łóżku w nowych butach, idzie
     mi ciut łatwiej.'
   author: Ameba
   source: 
@@ -45698,3 +45698,21 @@ signatures:
   - en
   - tech
   - Yahoo
+- !ruby/struct:Signore::Signature
+  text: I mix metaphors like Tom Cruise in Batman.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - movies
+- !ruby/struct:Signore::Signature
+  text: After all if Apple are going to maintain a walled garden they could make an
+    effort to keep the fucking snakes out.
+  author: Jeff Minter
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
