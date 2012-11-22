@@ -45716,3 +45716,11 @@ signatures:
   - en
   - tech
   - Apple
+- !ruby/struct:Signore::Signature
+  text: Sitting in Auckland airport with the confident serenity of a man who purchased
+    the right plug adapters and then checked them in his luggage.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
