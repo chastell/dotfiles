@@ -45724,3 +45724,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If you usin’ forking, I feel bad for you son. You got 99 processes and a load
+    average of 1.
+  author: Mike Perham
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
