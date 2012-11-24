@@ -45734,3 +45734,23 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ‘Hi, I noticed you are attractive and in a relationship, but how about dating
+    someone who can’t get a date without my help?’ – tech recruiter.
+  author: Evan Farrar
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Mostly makes no sense to call languages/runtimes ‘scalable’. Scalability is
+    a property of data architectures and protocols.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
