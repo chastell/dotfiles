@@ -45754,3 +45754,82 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: We need to get past the idea that Rails is an app framework that wraps your
+    domain model. Rails is a web framework that wraps your application.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Czasem myślę, że jak smutny jestem to to wina ruskiej manipulacji świadomością.
+  author: Gattuso
+  source: 
+  subject: 
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Dla ludzi poniżej 18 roku życia Internet powinien być tylko do odczytu.
+  author: Rafał
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Internet
+- !ruby/struct:Signore::Signature
+  text: ‘fsync = off’ is the ‘assume a spherical cow’ of performance tuning.
+  author: Scott Parkerson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: OH GOD GNU BRACE STYLE KILL IT KILL IT KILL IT
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Troll like no one’s reading.
+  author: Brandon Keene
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Videotaping an eclipse is like videotaping your first sexual experience. Just
+    let yourself go and enjoy and let the experts tape it for you.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Behold the guy who removed the executable bit from /usr on his laptop on a
+    Monday morning.
+  author: Mislav Marohnić
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Random ≠ each value will appear the same number of times (when number of
+    draws < ∞). Some people just cannot grasp this. #frustration'
+  author: Irina Dumitrascu
+  source: 
+  subject: 
+  tags:
+  - en
+  - math
