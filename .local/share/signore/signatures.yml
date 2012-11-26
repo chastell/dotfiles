@@ -45833,3 +45833,56 @@ signatures:
   tags:
   - en
   - math
+- !ruby/struct:Signore::Signature
+  text: ‘I’ve been thinking so much about confirmation bias lately, I’ve started seeing
+    it everywhere.’
+  author: Gabriel Handford
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’d rather live in the alternate universe in which generals got promoted for
+    having sex and had to resign if they killed people.
+  author: Jon Schwarz
+  source: 
+  subject: 
+  tags:
+  - en
+  - military
+- !ruby/struct:Signore::Signature
+  text: ‘It can be a little bit difficult to secure the connection’ says this site
+    using JSON-P + MD5.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: A cool thing about knowing even a little bit of crypto is that I’m now terrified
+    about using the Internet.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: Connescence of everything.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ‘I am so happy to hear that you received your order from our store!’
+  author: Jeff Kreeftmeijer
+  source: 
+  subject: 
+  tags:
+  - en
