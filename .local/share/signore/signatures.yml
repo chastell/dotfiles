@@ -45886,3 +45886,164 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'App’s name: HandBrake. App’s icon: a pineapple and a cocktail. App’s tagline:
+    ‘Now with 21 essential vitamins and minerals’. Open source.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - open source
+- !ruby/struct:Signore::Signature
+  text: Coming to understand that Canada is just an unrolled Australia that has been
+    placed in the freezer.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Australia
+  - Canada
+- !ruby/struct:Signore::Signature
+  text: Is always disk space issue unless you are follow best practice of have database
+    in RAM.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
+- !ruby/struct:Signore::Signature
+  text: One time, I went online to check my email and when I looked up twelve years
+    had passed.
+  author: Neal Brennan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Hey, guys! Guys. Listen. I found this new agile tool! It’s called ‘writing
+    shit down in a list, then fucking doing them one by one’.
+  author: Andrew Vos
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - productivity
+- !ruby/struct:Signore::Signature
+  text: <json:array name="phoneNumbers"> <json:string>212 555-1111</json:string> <json:string>212
+    555-2222</json:string>
+  author: Elotente
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JSON
+  - XML
+- !ruby/struct:Signore::Signature
+  text: alias fucking='sudo'
+  author: fronx
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - shell
+- !ruby/struct:Signore::Signature
+  text: I tried explaining optimization to my mother. She talked about fitting programs
+    into 64K of core and I got the hell off her lawn.
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Heh, Travelocity. ‘Please allow 5-10 days for your unsubscribe request to
+    be processed.’ Picturing artisanal processing facility in Ozarks.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Those grinning idiots are morning people, friend, and they made the coffee
+    for you. Fake some respect.
+  author: Tim Siedell
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'JVM: a platform for polyglot language deployment. Includes an example language,
+    ‘Java’, mostly used to demo pitfalls and anti-patterns.'
+  author: Howard M. Lewis Ship
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+  - JVM
+- !ruby/struct:Signore::Signature
+  text: Love is not saying anything but knowing you’re both thinking about cool and
+    fast trains.
+  author: wolf puppy
+  source: 
+  subject: 
+  tags:
+  - en
+  - trains
+- !ruby/struct:Signore::Signature
+  text: Gonna make a screencast series where I just scream at the computer for ten
+    minutes once a week.
+  author: Jack Nagel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Stupid English. We have 900 words for money but not ‘close friend’. I bet
+    German would have a rad one, like ‘lebenslangenlieberfreund’.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: If you think the Church of England’s position on women is ignorant and anachronistic,
+    you should check out where they stand on supernatural beings.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - Church of England
+- !ruby/struct:Signore::Signature
+  text: Thanks to computers, the word ‘oath’ just looks wrong to me now.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - OAuth
+- !ruby/struct:Signore::Signature
+  text: Only just finding out now that ‘boobytrap’ backwards is ‘partyboob’. How long
+    have you guys known about this?
+  author: dat aß
+  source: 
+  subject: 
+  tags:
+  - en
+  - lingustics
