@@ -46047,3 +46047,163 @@ signatures:
   tags:
   - en
   - lingustics
+- !ruby/struct:Signore::Signature
+  text: ! '‘Think of a machine that washes both clothes and dishes – it’s unlikely
+    to do both well.’
+
+    ‘That’s called an ActiveRecord object.’'
+  author: Jan Dudek
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+  - ActiveRecord
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: these tests run so long, they must by really good.'
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: The only reason I get to program all the time is because all technology is
+    total shit.
+  author: 
+  source: 
+  subject: Will Roe
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If your conscience tells you that women shouldn’t be bishops, what you have
+    isn’t actually a conscience. It may be a scorpion or some twigs.
+  author: Nathaniel Tapley
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: ! '(* MAIN PROGRAM *)
+
+    [code]
+
+    (* SUBROUTINES *)
+
+    [code]
+
+    --CONVERT CREATION DATE TO UNIX FORMAT
+
+    [unspeakable horrors]'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '‘The Men Who Stare at Callbacks’: four engineers, free to choose any language
+    to solve problems with, end up picking JavaScript. Now in IMAX.'
+  author: Vicent Martí
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: The problem with movies *dodges lasers* is that they lack realism *french
+    kisses a supermodel* I just want to relate? *overcomes depression*
+  author: Accidental B
+  source: 
+  subject: 
+  tags:
+  - en
+  - cinematography
+- !ruby/struct:Signore::Signature
+  text: ‘As of late 2012, the FreeBSD Ports Project is in the process of migrating
+    revision control systems from CVS to Subversion.’ Oh god.
+  author: Ben Hoskings
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - FreeBSD
+  - CVS
+  - Subversion
+- !ruby/struct:Signore::Signature
+  text: It was the busta rhymes, it was the wursta rhymes.
+  author: nice_mustard®
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+  - literature
+- !ruby/struct:Signore::Signature
+  text: ! 'Things I feel silly for not knowing before:
+
+    1) The Beach Boys recorded an album as late as 2012.
+
+    2) There is no such place as Kokomo.'
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: What’s the opposite of ‘adult’ content? ‘Family-friendly’. Think about it.
+  author: Mislav Marohnić
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: It’s touching how many bug reports about some specific bookmark ask me not
+    to judge them. People, I’m like a doctor, I have seen it all.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I particularly like that platypuses are so badass they lack nipples. Mom just
+    SWEATS MILK for a while.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - platypus
+- !ruby/struct:Signore::Signature
+  text: ! 'Old Australian cassowary recipe: ‘the meat should be cooked with a stone
+    in the pot: when the stone is ready to eat, so is the cassowary’.'
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: I’m starting to see *why* most languages don’t have a formal operational semantics
+    *picks up fragments of brain, stuffs them back in ears*
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
