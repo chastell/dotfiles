@@ -46207,3 +46207,21 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: There are three hard things in programming – naming, cache invalidation, and
+    consistent capitalizing of ‘ID’ throughout a code base.
+  author: Kevin Dente
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! '„Dzień dobry, chciałem się dowiedzieć, czy mam z panem przyjemność.” #niewiemjaktootagować'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - linguistics
