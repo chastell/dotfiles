@@ -46225,3 +46225,13 @@ signatures:
   tags:
   - pl
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: In startup we are pass stage of infrastructure as code and we are now work
+    on infrastructure as bug.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
