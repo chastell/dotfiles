@@ -46235,3 +46235,39 @@ signatures:
   - en
   - tech
   - devops
+- !ruby/struct:Signore::Signature
+  text: You can write Java, just fire up Eclipse and hit tab a lot. I think if you
+    hit tab enough Eclipse will write Eclipse.
+  author: EWDurbin
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: ':%s/TODO/YOLO/g'
+  author: jleedev‌
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Vim
+- !ruby/struct:Signore::Signature
+  text: Seriously, what kind of sociopath leaves voicemails these days?
+  author: William Fowler
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'You can’t do anything with anybody’s body to make it dirty to me. Six people,
+    eight people, one person – you can do only one thing to make it dirty: kill it.
+    Hiroshima was dirty.'
+  author: Lenny Bruce
+  source: 
+  subject: 
+  tags:
+  - en
