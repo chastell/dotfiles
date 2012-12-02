@@ -46271,3 +46271,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Connascence of name and position are an order of magnitude apart, IMO. Changing
+    a name is ‘hey, I bet my editor can do this for me’. Changing position is ‘I’d
+    rather go do a hundred push-ups in the rain’.
+  author: Adam Keys
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
