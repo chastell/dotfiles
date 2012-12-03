@@ -46282,3 +46282,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Reminder that you used to be able to say ‘gcc -o foo foo.c’ and have a
+    working program. Now: XCode.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C
