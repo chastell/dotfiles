@@ -46293,3 +46293,89 @@ signatures:
   - tech
   - programming
   - C
+- !ruby/struct:Signore::Signature
+  text: Już nie mogę patrzeć na dyskusje o krzakach w mailach. Komputery są tak zaawansowane,
+    że niedługo w ogóle nie będzie można pisać.
+  author: Fixxer
+  source: HS WAW OT
+  subject: 
+  tags:
+  - pl
+  - tech
+  - email
+- !ruby/struct:Signore::Signature
+  text: ! 'Daily life of a programmer: THIS IS AWESOME. Fuck everything. OH MAN, CODING!
+    Why is everything broken? YES, MAKING STUFF. Argh, bugsbugsbu'
+  author: Ricardo Mendes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Imagine there’s a guy at work everybody hates. He gets PROMOTED. Would you
+    suddenly LOVE him? OF COURSE NOT. The Rudolph song is BOLLOCKS.
+  author: October Jones
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Weekend is just another word for “fuck it, you need to ship it”.’
+
+    ‘This is bad and wrong.’
+
+    ‘There should be a stronger word for that. BAONG? WROAD?’'
+  author: opi, Tomash
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: ‘You can see the code for yourself, just replace .php with .txt’
+  author: Rebecca Murphey
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
+- !ruby/struct:Signore::Signature
+  text: Buddy, Francis Bacon, Roger Bacon, all those guys are dead and we still have
+    bacon. I don’t think you have to worry about it.
+  author: Katt WilliamsFerrell
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: OH MY GOD YOU GUYS IT’S AWFUL EVERYTHING SUCKS AND I’M WORTHLESS AND oh wait
+    I forgot to eat lunch be right back
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘No-one *else* gives a fuck that our OAuth implementation is buggy as shit,
+    so why don’t you fuck off?’ – Facebook
+
+    Reminder: Facebook returns application/x-www-form-urlencoded as text/plain on
+    success and application/json as text/javascript on failure.
+
+    Apparently that ‘may be due to an implementation issue’. Bunch of fuckfaces.
+
+    Facebook’s tried to hire me about 3 times. Tip: not giving a shit about API quality
+    doesn’t tend to impress programmers.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Facebook
