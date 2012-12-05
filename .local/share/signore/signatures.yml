@@ -44802,7 +44802,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: Seems like (mockist) TDD leads to designing objects which don't appear to
+  text: Seems like (mockist) TDD leads to designing objects which don’t appear to
     need tests, but not writing tests leads to objects that do.
   author: Peter Jaros
   source: 
@@ -46248,7 +46248,7 @@ signatures:
   - Java
 - !ruby/struct:Signore::Signature
   text: ':%s/TODO/YOLO/g'
-  author: jleedev‌
+  author: jleedev
   source: 
   subject: 
   tags:
@@ -46379,3 +46379,19 @@ signatures:
   - tech
   - programming
   - Facebook
+- !ruby/struct:Signore::Signature
+  text: Every now and then your brain gifts you with the thought, ‘oh, that’s right,
+    I don’t actually give a fuck about this’. Treasure it.
+  author: Your Life Coaches
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m pretty sure most of the people I really admire eat straight out of the
+    ice cream carton, too.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
