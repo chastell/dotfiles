@@ -46395,3 +46395,49 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If you think HashWithIndifferentAccess is a good idea, I want to fight you
+    in a cage match.
+  author: Lee Edwards
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'My favorite productivity tip: sit down and do a bunch of work.'
+  author: Johnnie Manzari
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Pomyśleć, że jeszcze jakieś 10 lat temu czytywałem Chipa z zapartym tchem.
+    Ponieważ ja przez ten czas chyba niewiele zmądrzałem to wnioski nasuwają się jednoznaczne.
+  author: Maksymilian Bujok
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - journalism
+  - Chip
+- !ruby/struct:Signore::Signature
+  text: Jeszcze nie minęła 11, a juz miałem trzy sarkazmy.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Dostrzegam wysoką korelację między punktacją z kolokwium a tym czy ktoś jest
+    w stanie czytelnie napisać swoje własne nazwisko.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - university
