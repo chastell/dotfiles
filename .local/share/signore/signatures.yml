@@ -46441,3 +46441,56 @@ signatures:
   tags:
   - pl
   - university
+- !ruby/struct:Signore::Signature
+  text: ‘Master does not appear to give me the naturalist unicorns I desire’ – work
+    conversation.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Today I heard Facebook doesn’do much unit testing. IMAGINE MY SURPRISE.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+  - Facebook
+- !ruby/struct:Signore::Signature
+  text: DONTCHA WISH YOUR GIRLFRIEND WAS uninterested in competitive beauty standards
+    that undermine the solidarity women need to end patriarchy.
+  author: Pony Pony Tangerina
+  source: 
+  subject: 
+  tags:
+  - en
+  - feminism
+- !ruby/struct:Signore::Signature
+  text: ! 'Web companies: when few people report a security problem, it’s because
+    almost no-one in this industry understands security. Listen to them.
+
+    Circular logic of closing a bug because not enough people reported it: what do
+    you expect? You wrote the code and *you* didn’t notice it.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - progrmming
+  - security
+- !ruby/struct:Signore::Signature
+  text: ! '$ mkdir bin
+
+    $ mv computer bin/'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
