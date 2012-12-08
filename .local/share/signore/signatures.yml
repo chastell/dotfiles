@@ -43633,7 +43633,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: The coder version of ‘I’'m actually really happy being single right now’ is
+  text: The coder version of ‘I’m actually really happy being single right now’ is
     ‘I like coding in vi’.
   author: Kelly Sommers
   source: 
@@ -46494,3 +46494,22 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Twitter app crashed five times in a row. Good thing they won’t let other people
+    make clients.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: DOMAIN LANGUAGE MOTHER****ER, DO YOU SPEAK IT?
+  author: Avdi Grimm
+  source: Ruby Parley
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
