@@ -46513,3 +46513,22 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Reminder that you don’t get to call software small just because most of its
+    code is in other packages.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If your pitch doesn’t end with ‘…and the cops can’t do shit’ then your startup
+    idea sucks.
+  author: Neil Sarkar
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
