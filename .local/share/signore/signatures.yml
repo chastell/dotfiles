@@ -46532,3 +46532,18 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘Anytime a GitHub issue is linked on Hacker News/Reddit it should auto-close
+    and block future comments.’
+
+    ‘No, no, leave it open for four hours, then perma-ban every new commenter during
+    the honey-pot period.’'
+  author: Alex Gaynor, Michael Koziarski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GitHub
+  - Hacker News
+  - Reddit
