@@ -46547,3 +46547,13 @@ signatures:
   - GitHub
   - Hacker News
   - Reddit
+- !ruby/struct:Signore::Signature
+  text: Software dev is one of the few professions where I can hear the smartest people
+    I know will continually say ‘I’m an idiot’. Day in/day out.
+  author: Rob Sullivan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
