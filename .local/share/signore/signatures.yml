@@ -46557,3 +46557,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: export EDITOR=/bin/rm
+  author: Alex Alexandrov
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
