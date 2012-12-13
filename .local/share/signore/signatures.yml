@@ -46565,3 +46565,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'All Natural numbers are interesting. Proof: suppose some aren’t. Then there’s
+    a smallest uninteresting number. That’s interesting. =><= QED.'
+  author: Andrej Karpathy
+  source: 
+  subject: 
+  tags:
+  - en
+  - mathematics
