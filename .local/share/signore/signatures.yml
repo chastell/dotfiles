@@ -33737,7 +33737,7 @@ signatures:
 
     — Ta.
 
-    — Ja też, śmiałem się z żartu, potem się ziorentowałem, że był o mnie.'
+    — Ja też, śmiałem się z żartu, potem się zorientowałem, że był o mnie.'
   author: Dora, kok0$, asvo
   source: 
   subject: 
@@ -46574,3 +46574,23 @@ signatures:
   tags:
   - en
   - mathematics
+- !ruby/struct:Signore::Signature
+  text: ‘You have dishonored the clan. Sent from my iPhone.’
+  author: steen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - iPhone
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: ! 'My favorite new word of the day: farpotshket. A Yiddish word meaning ‘ruined
+    as a result of attempts to fix a minor imperfection’.'
+  author: Joseph Pred
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+  - Yiddish
