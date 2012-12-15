@@ -46594,3 +46594,172 @@ signatures:
   - en
   - linguistics
   - Yiddish
+- !ruby/struct:Signore::Signature
+  text: ! 'Iron Man, Iron Man,
+
+    does whatever an iron can.
+
+    Steams a shirt, any size.
+
+    Presses pants, also ties
+
+    LOOK OUT, here comes the Iron Man.'
+  author: Paul Pridham
+  source: 
+  subject: 
+  tags:
+  - en
+  - Spider-Man
+- !ruby/struct:Signore::Signature
+  text: That awkward moment when you do git commit and you see nano editor.
+  author: Piotr Solnica
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: Everywhere I look, I see people falling prey to confirmation bias. Just as
+    I suspected.
+  author: Noah Gray
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘Welcome Guest [Sign Out]’
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Remember how, by 2004, Windows was SUPER janky – always weird stuff like flickering,
+    etc.? And Macs were the opposite? Guess what happened.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - OS X
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Some men just want to watch the cache invalidate.
+  author: cz
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I’d like to give special honors to the Heroku toolbelt for breaking Unix in
+    a way that I don’t think I’ve ever seen in 15 years of Unixing.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Heroku
+  - Unix
+- !ruby/struct:Signore::Signature
+  text: Five days straight too sick to even open a laptop. If any of you practice
+    voodoo I just want to say I am so sorry for whatever I did.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Tempted to charge a penalty fee to people who sign up for Pinboard believing
+    that it’s Pinterest. I’m thinking maybe $450.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: An entrepreneur is someone who steals office supplies from home and brings
+    them to work.
+  author: Auren Hoffman
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: ‘When you type it sounds like you’re angry at the alphabet.’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ‘org.apache.fop.layoutmgr.BlockStackingLayoutManager.getNextKnuthElements’
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Java
+- !ruby/struct:Signore::Signature
+  text: ! '‘A true gauge of performance is whether our customers would recommend us
+    to others. Are we living up to our promise of Fanatical Support®?’
+
+    Rackspace support so fanatical® that they ask me how they’re doing even though
+    I don’t use their service.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - support
+  - Rackspace
+- !ruby/struct:Signore::Signature
+  text: So cold. Your nipples are harder than Jason Statham. Co-op is a long walk.
+    Fuck cooking. Treat yourself. Mangal 2.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: ! 'Put your hands on your head. Not just on top; encase your cranium with
+    your hands. That’s you. All of you is in there.
+
+    The rest of you is just bum and glands and stuff. All of your personality and
+    memory is in your brain. You can wrap your hands all round it.
+
+    Your heart is just a replaceable muscle bag. It gets a fuckoff set of ribs as
+    protection. YOU just get 2 mm of skull. SKUUUULL. Aaaaargh'
+  author: Messy Pantsmas
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The Church of England defending the sanctity of marriage is the punchline
+    to a joke 500 years in the making.
+  author: Rob Beschizza
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - Church of England
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: ‘Their tears of anguish sustain me’ is not the answer to any interview
+    question about how you handle working in places with bad morale.'
+  author: jerrykuch
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
