@@ -46558,14 +46558,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: export EDITOR=/bin/rm
-  author: Alex Alexandrov
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-- !ruby/struct:Signore::Signature
   text: ! 'All Natural numbers are interesting. Proof: suppose some aren’t. Then there’s
     a smallest uninteresting number. That’s interesting. =><= QED.'
   author: Andrej Karpathy
@@ -46763,3 +46755,20 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: export EDITOR=`which rm`
+  author: Giuseppe Rota
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: When software’s technical debt is not paid, bugs come and break its legs.
+  author: Ron Jeffries
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
