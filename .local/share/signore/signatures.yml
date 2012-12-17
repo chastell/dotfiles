@@ -46772,3 +46772,19 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: <tr><ol><ol><ol><ol>
+  author: Łukasz Kliś
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTML
+- !ruby/struct:Signore::Signature
+  text: ! 'For lease: a jolly good fellow.'
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
