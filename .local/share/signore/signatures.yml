@@ -46788,3 +46788,37 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Oraz stałem się wyznawcą Inbox 20. To jest optymalna liczba maili, której
+    utrzymywanie nie powoduje otrzymywania kolejnych.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Kot tak smutny, że nad miską ma plakat Happysadu.
+  author: elpanda
+  source: 
+  subject: 
+  tags:
+  - pl
+  - cats
+  - music
+  - Happysad
+- !ruby/struct:Signore::Signature
+  text: If there was an award for most pessimistic, I probably wouldn’t even be nominated.
+  author: Jom Gaffigan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: For someone so concerned with marriage licenses, God sure was focused on dinosaurs
+    for 180 million years.
+  author: Ari Scott
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
