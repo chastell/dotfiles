@@ -46822,3 +46822,20 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'There will come a point, decades from now, when people begin to revere
+    ‘traditional’ software development techniques.
+
+    Grade II listed software. Software planning permission. Software restoration.
+
+    People will insist on building software in early Schemes and Smalltalk and C and
+    PL/1 to preserve traditional craft.
+
+    PHP is the Bakelite of programming languages.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
