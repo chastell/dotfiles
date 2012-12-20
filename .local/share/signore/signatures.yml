@@ -46839,3 +46839,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: I wish I could take the original author of autoconf/automake out for a drink
+    & some nice conversation. Then flush their head in the toilet.
+  author: Evan Phoenix
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
