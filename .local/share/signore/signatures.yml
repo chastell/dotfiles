@@ -46859,3 +46859,30 @@ signatures:
   - tech
   - programming
   - Unix
+- !ruby/struct:Signore::Signature
+  text: W SMS-ie użyję polskich znaków – niech myśli, że mi się powodzi i stać mnie
+    na takie szaleństwa.
+  author: koko
+  source: 
+  subject: 
+  tags:
+  - pl
+  - SMS
+- !ruby/struct:Signore::Signature
+  text: ! 'New book: ‘Poor Self-Concept for Dummies’.'
+  author: Michael D. Hill
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Yo dawg I heard you like databases so I put 3,915 JSON objects into a MySQL
+    LONGTEXT field.
+  author: Sheeri K. Cabral
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MySQL
+  - JSON
