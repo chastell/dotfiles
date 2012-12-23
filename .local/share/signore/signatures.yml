@@ -41852,7 +41852,7 @@ signatures:
   - en
   - Star Wars
 - !ruby/struct:Signore::Signature
-  text: After reading the http://App.net  materials I wish I could somehow donate
+  text: After reading the App.net materials I wish I could somehow donate
     a large, negative sum of money.
   author: Maciej Cegłowski
   source: 
@@ -46886,3 +46886,44 @@ signatures:
   - tech
   - MySQL
   - JSON
+- !ruby/struct:Signore::Signature
+  text: If your API eventually results in me having to talk to biz dev people, it
+    isn’t an API, it’s bullshit and you can go fuck yourself.
+  author: Tom Morris
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - API
+- !ruby/struct:Signore::Signature
+  text: Today’s complexity, O(shit!), brought to you by the traveling failsman.
+  author: John Muellerleile
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Something some of you won’t know about programming: in the Ruby community,
+    one of our celebrities is a cat.
+
+    The cat belongs to a guy whose blog about programming is called ‘Tender Lovemaking’.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: My philological studies have satisfied me that a gifted person ought to learn
+    English (barring spelling and pronouncing) in thirty hours, French in thirty days,
+    and German in thirty years.
+  author: Mark Twain
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
