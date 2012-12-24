@@ -41852,8 +41852,8 @@ signatures:
   - en
   - Star Wars
 - !ruby/struct:Signore::Signature
-  text: After reading the App.net materials I wish I could somehow donate
-    a large, negative sum of money.
+  text: After reading the App.net materials I wish I could somehow donate a large,
+    negative sum of money.
   author: Maciej Cegłowski
   source: 
   subject: 
@@ -46927,3 +46927,12 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: If you pair ‘log in’ with ‘log off’, or ‘log on’ with ‘log out’, I will report
+    you to the appropriate law enforcement authorities.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
