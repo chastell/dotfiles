@@ -46936,3 +46936,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Reminder that happiness is a human construct and animals in nature are
+    constantly afraid and spending every calorie on finding food/escaping.
+
+    Humans basically beat the game and are now dicking around in noclip mode.'
+  author: Katie Tiedrich
+  source: 
+  subject: 
+  tags:
+  - en
