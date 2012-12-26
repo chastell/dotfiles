@@ -46946,3 +46946,19 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'stash it, pop it, grep it, move it,
+
+    config, prune it, format-patch it,
+
+    add it, reset, add it, show it,
+
+    git help reflog, pull --rebase it,'
+  author: Robb
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
