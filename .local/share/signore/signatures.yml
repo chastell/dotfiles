@@ -46962,3 +46962,15 @@ signatures:
   - tech
   - programming
   - Git
+- !ruby/struct:Signore::Signature
+  text: ! 'Parents: ‘You’re right, Santa isn’t real.’
+
+    Lydia Brooks: ‘Oh, so God is made up too! That makes sense.’
+
+    Parents: ‘Oh NO NO NO NO NO.’'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
