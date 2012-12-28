@@ -46974,3 +46974,21 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: ! 'Please contribute to my kickstarter to get a comma for Bed Bath & Beyond.
+    Stretch goal: over $300,000 gets a second or Oxford comma.'
+  author: adam
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'There are 10 types of people in the world: those who understand binary,
+    and those who don’t, and those who weren’t expecting a base 3 joke.'
+  author: Kevin Fox
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
