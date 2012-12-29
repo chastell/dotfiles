@@ -46992,3 +46992,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Don’t bring a pony to a unicorn fight, son.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
