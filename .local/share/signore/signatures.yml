@@ -47000,3 +47000,50 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: I, Claudius, Robot
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - books
+- !ruby/struct:Signore::Signature
+  text: Thor’s hold-out-hand-and-hammer-flies-to-it-from-anywhere superpower, but
+    for pizza.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - books
+- !ruby/struct:Signore::Signature
+  text: I’ve decided to not reinvent the wheel but rather use pandoc for the documentation
+    of my new ORM.
+  author: Magnus Holm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - ORM
+- !ruby/struct:Signore::Signature
+  text: ! '‘Regards, [image of the words “customer service” in a script font, with
+    visible JPEG artifacting]’
+
+    Annual revenue of this company: $9b.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Light the fires of caremad, my friends, for we ride tonight.
+  author: Phillip Bowden
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
