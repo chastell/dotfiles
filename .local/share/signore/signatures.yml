@@ -23381,7 +23381,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: How many seconds are there in a year? If I tell you there are 3.155 × 10^7,
+  text: How many seconds are there in a year? If I tell you there are 3.155×10⁷,
     you won’t even try to remember it. On the other hand, who could forget that –
     to within half a percent – π seconds is a nanocentury.
   author: Tom Duff
@@ -42963,7 +42963,7 @@ signatures:
   - programming
 - !ruby/struct:Signore::Signature
   text: ! '‘“Future Maven versions might no longer support building such malformed
-    projects”. Gawd, as far as software goes, Maven is really a jerk.’
+    projects.” Gawd, as far as software goes, Maven is really a jerk.’
 
     ‘Maven won’t support malformed projects? Is Maven being retired?’'
   author: Paolo Perrotta, Thom Bradford
@@ -47047,3 +47047,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Do hipsters have a term for other hipsters that are doing it wrong? Like ‘Nouveau
+    Ennui’ or something?
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - hipsters
+  - linguistics
