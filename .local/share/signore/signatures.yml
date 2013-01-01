@@ -23381,9 +23381,9 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: How many seconds are there in a year? If I tell you there are 3.155×10⁷,
-    you won’t even try to remember it. On the other hand, who could forget that –
-    to within half a percent – π seconds is a nanocentury.
+  text: How many seconds are there in a year? If I tell you there are 3.155×10⁷, you
+    won’t even try to remember it. On the other hand, who could forget that – to within
+    half a percent – π seconds is a nanocentury.
   author: Tom Duff
   source: 
   subject: 
@@ -47057,3 +47057,11 @@ signatures:
   - en
   - hipsters
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: ‘Son, *puts hand on shoulder* you know, sometimes *puts another hand on your
+    should* life just *puts third hand on shoulder*’
+  author: Halili Hanif
+  source: 
+  subject: 
+  tags:
+  - en
