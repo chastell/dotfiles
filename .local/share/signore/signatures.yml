@@ -47065,3 +47065,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: In 2013 I’m moving to Portland, so I can raise my own chickens and manage
+    my own memory.
+  author: Hipster Hacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
