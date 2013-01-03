@@ -47074,3 +47074,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: No, YOU’RE a monoid in the category of endofunctors.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
