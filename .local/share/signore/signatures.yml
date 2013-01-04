@@ -46063,7 +46063,7 @@ signatures:
   - Rails
   - ActiveRecord
 - !ruby/struct:Signore::Signature
-  text: ! 'OH: these tests run so long, they must by really good.'
+  text: ! 'OH: These tests run so long, they must by really good.'
   author: Filip Tepper
   source: 
   subject: 
@@ -47083,3 +47083,10 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! '*bites an onion* damn this apple is so indie'
+  author: taylor swift quotes
+  source: 
+  subject: 
+  tags:
+  - en
