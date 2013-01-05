@@ -47090,3 +47090,30 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Porn paints a extremely unrealistic picture of how quickly you can get a plumber
+    over to your house.
+  author: Adam Hess
+  source: 
+  subject: 
+  tags:
+  - en
+  - porn
+- !ruby/struct:Signore::Signature
+  text: My goal in life is to turn WTF into a transitive verb. ‘Stand back, I’m about
+    to WTF this.’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Saw someone with a T-shirt that said Truth + God = Life. I hope they realised
+    it therefore follows Truth = Life - God. Do the maths, people!
+  author: Jean-Marc Reymond
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
