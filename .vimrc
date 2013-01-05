@@ -61,6 +61,7 @@ set wildignorecase
 set wildmode=list:longest
 
 " misc
+let NERDTreeHijackNetrw = 1
 let NERDTreeQuitOnOpen = 1
 let g:ctrlp_working_path_mode = 0
 let g:rubytest_cmd_example = "ruby %p -n '/%c/'"
