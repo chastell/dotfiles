@@ -47117,3 +47117,40 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: The opt-out will be implemented using ‘a web-based notice form’. Over in a
+    corner, robots.txt is crying quietly to itself.
+  author: James Grimmelmann
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Schrödinger’s Capybara
+  author: Jeremy Raines
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Capybara
+- !ruby/struct:Signore::Signature
+  text: Just crashed a server SO spectacularly that I couldn’t decide if I should
+    say ‘I’m losing my touch’ or ‘I still got it! AT-CHA-CHA-CHAAA!’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: If there is indeed only ‘One Direction’, I pray it’s headed upwards towards
+    the unforgiving, scorching Sun.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
