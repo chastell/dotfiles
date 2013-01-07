@@ -47154,3 +47154,29 @@ signatures:
   tags:
   - en
   - music
+- !ruby/struct:Signore::Signature
+  text: This weather makes me so happy! I could just do something really nice today
+    like give staff a raise or free kebabs to customers. But no.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Losing faith in your delivery halfway through telling a joke, so opting to
+    just explain what the punch line was going to be and why.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! "How often do you have status meetings? \nManager: Hardly ever: once a week.\nProgrammer:
+    Constantly: once a week."
+  author: Ed Weissman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
