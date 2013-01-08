@@ -47171,8 +47171,11 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ! "How often do you have status meetings? \nManager: Hardly ever: once a week.\nProgrammer:
-    Constantly: once a week."
+  text: ! 'How often do you have status meetings?
+
+    Manager: Hardly ever: once a week.
+
+    Programmer: Constantly: once a week.'
   author: Ed Weissman
   source: 
   subject: 
@@ -47180,3 +47183,37 @@ signatures:
   - en
   - tech
   - work
+- !ruby/struct:Signore::Signature
+  text: ! 'Best definition of burnout ever: ‘your mind refusing to permit you to work,
+    because it has seen what happens when it lets you work’.'
+  author: Steve Streeting
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - burnout
+- !ruby/struct:Signore::Signature
+  text: Discovering a wet spoon has recently entered the sugar, and vowing not to
+    have guests round again for a while.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: When one of us dies, I’m going to get a dog.'
+  author: Katrina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Declaring yourself quite chuffed, to indicate you’re the most pleased you’ve
+    ever been.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
