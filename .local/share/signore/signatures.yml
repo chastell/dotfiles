@@ -47217,3 +47217,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Hi, welcome to Ruby. I can’t have a reasonable conversation because I’m a)
+    caremad b) too important c) a wizard from beyond space & time.
+  author: Giles Bowkett
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
