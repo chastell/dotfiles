@@ -47227,3 +47227,40 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: What if random boners are actually ninja hand-jobs?
+  author: urmindblown
+  source: 
+  subject: 
+  tags:
+  - en
+  - sex
+- !ruby/struct:Signore::Signature
+  text: What if we were all once zombies, and there was a human apocalypse?
+  author: urmindblown
+  source: 
+  subject: 
+  tags:
+  - en
+  - zombies
+- !ruby/struct:Signore::Signature
+  text: 85% of people reading this will not find the the mistake in this A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z.
+  author: urmindblown
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'Uwierzyłem w propagandę i pomyślałem, że napisanie w PowerShellu jednolinijkowca
+    wyświetlającego zaplanowane zadania, które mogą wybudzić komputer z uśpienia to
+    jak przechadzka po parku.
+
+    Błąd. Park jest zamknięty a *na terenie obiektu po jego zamknięciu przebywa pies*.'
+  author: Maciej Chojnacki
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - PowerShell
