@@ -47264,3 +47264,13 @@ signatures:
   - pl
   - tech
   - PowerShell
+- !ruby/struct:Signore::Signature
+  text: One of the best features of Rails is how you need a working database connection
+    for everything.
+  author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
