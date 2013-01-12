@@ -47274,3 +47274,100 @@ signatures:
   - en
   - tech
   - Rails
+- !ruby/struct:Signore::Signature
+  text: Look if you don’t want to know I’m wearing Batman underwear, don’t ask me
+    leading questions like ‘how is your day going?’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'ObjectSpace.each { |o| o.define_method(:==) { |other| o.inspect == other.inspect
+    } }
+
+    how are you doing'
+  author: Tom Crayford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: My phone just skipped because I typed in a text box. I’m sorry for typing,
+    phone. That’s hard work for only 1,000,000,000 cycles per second.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Raisin hell and raisin’ hell are incredibly different.
+  author: Sex Carl
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Just remembered I’m a program running on sparks in a lump of slime, which
+    answers the question of how well I’m going to sleep tonight.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! "Kidnappers: Your last wish before execution? \nManager: A final status
+    meeting.\nSalesman: To show my PowerPoint.\nProgrammer: Kill me first."
+  author: Ed Weissman
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: The true heroes of the Internet Age. They argue on Twitter so you don’t have
+    to. The Few. The Chosen. The Caremad.
+  author: Brandon Burton
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: Text is great because you can just stop listening to someone without having
+    to tell them to shut up.
+  author: Chris Wanstrath
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Noticing someone smiling at you and immediately assuming there’s something
+    terribly wrong with your face.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Mangal 2 the musical, loosely based on a true story, about a restaurant that
+    cares about its customers and food. Loosely.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Ludzie nie powinni rodzić dzieci, tylko powinni adoptować sobie istniejące,
+    np. z Etiopii. No chyba, że byłyby to rasowe dzieci, np. bardzo białe, czy coś.
+
+    (Tak, czytam dyskusję o rozmnażaniu kotów.)'
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
