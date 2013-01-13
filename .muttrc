@@ -22,7 +22,7 @@ unignore From: Reply-To: To: Cc: Subject: Date:
 macro index,pager \# '<save-message>=[Gmail]/Bin<enter><enter>'
 macro index,pager a  '<save-message>=~arch<enter><enter>'
 macro index,pager b  '<enter-command>toggle sidebar_visible<enter>'
-macro index,pager ga '<change-folder>=[Gmail]/All%20Mail<enter>'
+macro index,pager ga '<change-folder>=~arch<enter>'
 macro index,pager gd '<change-folder>=[Gmail]/Drafts<enter>'
 macro index,pager gi '<change-folder>=INBOX<enter>'
 macro index,pager gt '<change-folder>=[Gmail]/Sent%20Mail<enter>'
