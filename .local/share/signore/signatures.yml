@@ -47400,3 +47400,36 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'We only hire rock stars. We only hire chessboxing masters. We only hire
+    Great Old Ones with five years’ experience awakened from slumber.
+
+    Check out our office: foosball, catered lunches, massage, awesome view of downtown
+    R’lyeh.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Saying ‘look, I’m not going to argue with you about this any longer’ to subtly
+    indicate you’ve realised you’re wrong.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I use emacs and vi. I say it like ‘I speak English and Spanish’. Why do people
+    hear it like ‘I eat pizza and babies’?
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - editors
+  - Vim
+  - Emacs
