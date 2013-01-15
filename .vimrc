@@ -137,3 +137,6 @@ autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
 
 " autoremove Fugitive buffers
 autocmd BufReadPost fugitive://* set bufhidden=delete
+
+" trim trailing whitespace
+" autocmd BufWritePre * :%s/\s\+$//e
