@@ -33183,15 +33183,6 @@ signatures:
   - programming
   - Java
 - !ruby/struct:Signore::Signature
-  text: GitHub is the worst dating site ever.
-  author: David Hoang
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - GitHub
-- !ruby/struct:Signore::Signature
   text: I want to write a GitHub crawler bot that removes the words ‘just’ and ‘simply’
     from your READMEs.
   author: Jeff Casimir
@@ -47433,3 +47424,13 @@ signatures:
   - editors
   - Vim
   - Emacs
+- !ruby/struct:Signore::Signature
+  text: Let’s pause to remember how lucky we are that Thompson and Ritchie went to
+    a one-month dev bootcamp, then created Unix at a startup weekend.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
