@@ -140,3 +140,7 @@ autocmd BufReadPost fugitive://* set bufhidden=delete
 
 " trim trailing whitespace
 " autocmd BufWritePre * :%s/\s\+$//e
+
+" mark 80 and 120+ columns
+highlight ColorColumn ctermbg=235 guibg=#222222
+let &colorcolumn="80,".join(range(120,999),",")
