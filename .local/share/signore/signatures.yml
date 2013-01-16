@@ -47434,3 +47434,29 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Whoever decided the button to close a window should be next to the button
+    to quit an entire app: I hate you with the fire of a thousand suns.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - UI
+- !ruby/struct:Signore::Signature
+  text: The thing where you use find/perl to do a search/replace and corrupt your
+    .git directory.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: SHOUT OUT TO ALL MY PEEPS WITH HANGOVERS WOOOOOOOOO
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
