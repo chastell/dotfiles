@@ -47460,3 +47460,53 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'You have a problem. You think: I’ll solve it asynchronously. Now you have
+    problems. two'
+  author: Nat Pryce
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'A friend buys a bunch of stuff, then becomes a petulant dick about whether
+    he’s going to pay for it.
+
+    Oh, wait, I meant ‘The Congress’.'
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Ruby is a DSL for turning cargo culting into podcasts.'
+  author: Mike Moore
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: ! 'Exception Exception KeyErrorKeyError: : KeyError(140023699502848,)KeyError(14002
+    3699502848,) in in <module ''threading''> #threading'
+  author: Marcin Kulik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I guess what I’m saying is, I shouldn’t be surprised when I hit my 10,000
+    hours and realize I’ve accidentally mastered yak barbering.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
