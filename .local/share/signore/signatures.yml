@@ -33100,7 +33100,7 @@ signatures:
   - programming
   - JavaScript
 - !ruby/struct:Signore::Signature
-  text: Valentine’s  day is bullshit. Our DNA demands we fuck each other, so if you
+  text: Valentine’s Day is bullshit. Our DNA demands we fuck each other, so if you
     need a holiday to talk your wife into screwing you, it’s over.
   author: 
   source: Shit My Dad Says
@@ -47510,3 +47510,30 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Jestem na Blipie, z Tomashem na IRC-u, czytam comp.lang.python, ma być nowy
+    GiTS, Nirvana zaraz wyda singiel pewnie.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Ludzie są dziwni. Pomogłem na szybko przestawić coś w DNS dla pewnego projektu,
+    dziś już jestem załączony do CC: z „może Emil poprawi”.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: W którym wywołałem oburzenie na siłowni mówiąc kolegom, że nie jem codziennie
+    gotowanego kurczaka. A potem konsternacyjkę mówiąc, że przychodzę tam zasadniczo
+    dlatego, że mi to robi dobrze na mózg.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
