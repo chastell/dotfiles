@@ -47537,3 +47537,177 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Grab the nearest person by the shoulders and SHAKE THEM HARD and shout ‘SUDO
+    KNOWS ABOUT RUBYOPT WHAT IS GOING ON IN THIS WORLD’
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Are distributed writes hard? Please answer alphabetically by your last name.
+  author: Chris Ford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Nothing helps me unwind after a long day of sitting in front of a computer
+    like spending all night sitting in front of a computer…
+  author: Truebe
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Type I civilisation uses energy of their entire planet. Type II of their sun.
+    Type III of their galaxy. Type IV writes software that works.
+  author: Jason Gorman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Node.js: a sophisticated technology for making stack traces emanate from
+    the callee backwards.'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Node.js
+- !ruby/struct:Signore::Signature
+  text: Rails is kamikaze.
+  author: moonpolysoft
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: ! '‘We were going to measure traffic growth and plan capacity but then dhh
+    tweeted it was premature optimisation.’
+
+    ‘We were going to model the problem but then a dude was like fuck it it’s all
+    just text.’
+
+    ‘The requirements suggested that we decouple the UI from the databas but a man
+    said that Was Wrong.’'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: I missed that memo where you’re supposed to hate on technology. I’m still
+    here for you, technology. Let’s be friends forever.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Yes Facebook, I’d love to come work with the people that routinely dismiss
+    security bugs I go to the trouble of reporting!
+
+    I’d love to work with the people that can’t implement the OAuth 2.0 spec correctly
+    despite being the principal authors of it!'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - Facebook
+- !ruby/struct:Signore::Signature
+  text: Lying in a star shape for a bit and laughing after slipping over, to let everyone
+    know you’re fine with what just happened.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The biggest problem with Radiohead’s hit 1997 album ‘OK Computer’ is that
+    there’s a category error in its title.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘“PEM_read_RSA_PUBKEY() reads the PEM format. PEM_read_RSAPublicKey() reads
+    the PKCS#1 format.”’
+
+    ‘Is there something about this state of affairs you find to be less than ideal?’'
+  author: James Golick, Jay Feldblum
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Oh we can’t regulate guns because it treads on your liberties? Tell me more
+    about how we must regulate marriage and vaginas.
+  author: Haley F
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Rails is omakase. Node is street food. Perl is teenage angst. Lisp is a doorknob.
+    I am an orange scorpion. This acid is amazing.
+  author: Tom Dale
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Six inches into the eight-inch submarine I hit a pocket of mayo. This (and
+    every winter) is how Canadian children learn perserverance.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: If I had a dollar for everytime I got distracted, I wish I had some ice cream.
+  author: Mike Połtyn
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Deciding against a bag of crisps, as you only have a tenner and don’t wish
+    to cause any bother.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
