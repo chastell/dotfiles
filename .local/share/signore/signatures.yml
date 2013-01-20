@@ -47711,3 +47711,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: WELCOME TO DEVOPS ADVENTURE! YOU ARE STANDING INSIDE AWS. NEARBY IS AN ANGRY
+    ELB. THERE ARE SOME SSH KEYS ON THE GROUND.
+  author: Tim Dysinger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
