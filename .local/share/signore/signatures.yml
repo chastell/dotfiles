@@ -47721,3 +47721,32 @@ signatures:
   - en
   - tech
   - devops
+- !ruby/struct:Signore::Signature
+  text: alias yolo='git commit -am "DEAL WITH IT" && git push -f origin master'
+  author: potch
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
+- !ruby/struct:Signore::Signature
+  text: I’m not mad at JavaScript; I just want to hug it until it stops breathing,
+    that’s all. I just have so much AFFECTION to express to it.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Panicking in a sandwich shop and allowing a distressingly odd combination
+    of fillings to happen.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
