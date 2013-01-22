@@ -35506,7 +35506,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: W naszym konkursie na „Chomika roku” wygrywa kustosz, który zaczął katalogować
     fiszki, na których jego poprzednicy katalogowali zbiory.
-  author: ! '@Muzealnicy'
+  author: Muzealnicy
   source: 
   subject: 
   tags:
@@ -47750,3 +47750,29 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ‘Police say the fire may have been caused by a n00b trying to install two
+    versions of Node.js at the same time.’
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Node.js
+- !ruby/struct:Signore::Signature
+  text: A w ogóle to zawiesiłem się dzisiaj na zdaniu „wyreguluj wysokość wałków”.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Zaraz wydrukuję ten kod i go zrefaktoryzuję nożem.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - programming
