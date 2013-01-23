@@ -47776,3 +47776,36 @@ signatures:
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Be the confirmation bias you want to see in the world.
+  author: Andrew Clay Shafer
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s time I came clean. I used the Konami Code no less than 100 times between
+    1988-1992. I’m sorry, fans. I’m sorry, Oprah.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - sports
+  - games
+- !ruby/struct:Signore::Signature
+  text: When life gives you lemons, fuck computers.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Hoping your friend finishes their story so you don’t have to miss your bus
+    stop.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
