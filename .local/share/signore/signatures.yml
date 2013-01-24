@@ -47809,3 +47809,22 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I thought ‘I’ll just check Twitter’, but managed to get distracted on the
+    way there.
+  author: Katrina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: I bet if we got these neckbeards laid more in the 70’s, we’d have better options
+    parsing in POSIX shell today.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - POSIX
