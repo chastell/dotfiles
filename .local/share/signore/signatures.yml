@@ -47828,3 +47828,36 @@ signatures:
   - en
   - tech
   - POSIX
+- !ruby/struct:Signore::Signature
+  text: ! '     <Zły> Kto normalny robi ticket tylko po to by napisać że coś działa jak powinno? Ja się pytam KTO???
+
+         <opi> Ja zawsze dzwonię po karetkę powiedzieć im jak się dobrze czuję.
+
+    <chastell> To ten świetny projekt, w którym byłeś wcześniej, czy ten świetny do którego idziesz?
+
+      <imanel> Spokojnie: u nas nie ma ticketów potwierdzających że coś działa.
+
+      <imanel> Ale za to czasem są pytające się co to za funkcjonalność.
+
+         <Zły> Aha, ticket zaczyna sie od „hoooray”…
+
+      <Tomash> Ciesz się, biorę taki zawsze ponad CRITICAL URGENT SITE DOWN.
+
+         <opi> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU
+
+         <Zły> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU hoooray!'
+  author: 
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Jak ktoś mi mówi, że jestem niespełnionym copywriterem, to czuję sie jak kobieta,
+    której powiedziano, że jest niespełnioną dziwką.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
