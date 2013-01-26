@@ -47861,3 +47861,73 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Gary Numan is 13 days older than Gary Oldman. I don’t even know what to believe
+    any more.
+  author: Isabel Zed Tee
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: We’re so lucky that 76% of our customers were raised by wolves and don’t know
+    what Twitter is. If they saw half the shit written here, fuck.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Yep, we do MVC. Inside the V there’s a smaller MVC. Inside that V? Another
+    MVC. And in that V? Russian doll MVCeption all the way down.’
+
+    ‘Yeah, but we cash the dolls so it’s fast.’'
+  author: Gary Bernhardt, Tom Crayford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MVC
+- !ruby/struct:Signore::Signature
+  text: ! 'Liz: ‘How much do those blue balls weigh?’
+
+    Me: ‘Two pounds, but they weigh heavy on a man’s soul.’
+
+    *CW on Skype desperately slaps mute button.*'
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The room I’ve rented in Paris is called PETITE DOUBLE STANDARD.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Remember when it used to be a brilliant troll to suggest mounting swapfile
+    on a ramdisk? And then we all got SSDs? Pwnt, is what I’m saying.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SSD
+- !ruby/struct:Signore::Signature
+  text: ! 'TCP/IP Internetworking With `gawk'' Next: Preface, Previous: (dir), Up:
+    (dir) This file documents the networking features in GNU Awk (gawk)
+
+    P R O G R A M C O M P U T E R S
+
+    gonna do some internetworking using a thing that does text substitution or something?
+    not sure, no one knows how it or anything else works'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
