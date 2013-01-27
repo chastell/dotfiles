@@ -22959,8 +22959,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: pan w sklepie mówił, że ma jedno z najlepszych w polsce białych win. że nie
-    będzie najlepsze to się spodziewałem, ale że nie jest białe, to zaskoczenie.
+  text: Pan w sklepie mówił, że ma jedno z najlepszych w polsce białych win. Że nie
+    będzie najlepsze to się spodziewałem, ale że nie jest białe to zaskoczenie.
   author: reuptake
   source: 
   subject: 
@@ -47931,3 +47931,51 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Our lamb are treated as humanely as possible (prior to slaughter). They’re
+    privately educated, part of Amnesty, read GQ. Then killed.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: Let’s rename it o_OP.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - OOP
+- !ruby/struct:Signore::Signature
+  text: ! '1) Sit in toddler seat of a shopping cart.
+
+    2) Tip over til feet touch the ground.
+
+    3) Stand up.
+
+    You’re now a grocery turtle. No one can stop you.'
+  author: hell_homer
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'How I buy beer: Take beer and diapers to cashier. Don’t have enough cash
+    for both. Put back diapers.'
+  author: Ali Spagnola
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'Medications I took too late in the day for them to be fully effective:
+    Ritalin,'
+  author: Randy Tayler
+  source: 
+  subject: 
+  tags:
+  - en
