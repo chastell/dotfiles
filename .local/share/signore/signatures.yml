@@ -47979,3 +47979,52 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Some people see things as they are and ask why. I see things as they never
+    were and scream YOU GET OUT OF HERE SPACE KANGAROO I CAN SEE YOU.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘So, you’e the author of our highly complicated business software? My e-mail
+    is not working, can you fix it?’
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: I have never once strengthened my core, what does this mean. What does this
+    make me incapable of doing.
+  author: a frandly ghost
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: People in the tech press calling me a ‘Silicon Valley venture capitalist’
+    should note that ‘San Francisco venture socialist’ is less wrong.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘[''10'',''10'',''10'',''10'',''10''].map(parseInt) → [10, NaN, 2, 3,
+    4]’
+
+    ‘This can’t be real.’
+
+    ‘Q: How many arguments does a function take? A: WHO CARES NOT JAVASCRIPT.’'
+  author: jleedev, Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
