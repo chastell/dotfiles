@@ -48014,8 +48014,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ! '‘[''10'',''10'',''10'',''10'',''10''].map(parseInt) → [10, NaN, 2, 3,
-    4]’
+  text: ! '‘[''10'',''10'',''10'',''10'',''10''].map(parseInt) → [10, NaN, 2, 3, 4]’
 
     ‘This can’t be real.’
 
@@ -48028,3 +48027,12 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Napisałem sobie rzeczy do zrobienia przez weekend. Napisałem sobie przy nich
+    optymistyczne godziny. Posumowałem słupki. Wyszło 86 h.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
