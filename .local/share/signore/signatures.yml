@@ -48036,3 +48036,11 @@ signatures:
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: Nervously hoping not to be seen trying the cashpoint by the person who just
+    told you it isn’t working.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
