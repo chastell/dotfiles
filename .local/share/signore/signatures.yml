@@ -48044,3 +48044,28 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: My phone wants to autocorrect ‘lambdas’ to ‘lambada’.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'Turned my PC on today. Java requested elevated rights out of nowhere. Thankfully
+    I have no sense of personal security so I clicked ‘ok’.
+
+    It said it needed to update. It downloaded a downloader. It asked me if I wanted
+    to install a toolbar. Then it downloaded the actual update.
+
+    Then it told me how great Java is, suggesting it might be used in my car. I fucking
+    hope not.'
+  author: Jake Archibald
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Java
