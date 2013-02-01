@@ -48069,3 +48069,34 @@ signatures:
   - en
   - tech
   - Java
+- !ruby/struct:Signore::Signature
+  text: Stoically accepting your role as a doorman to an unexpectedly long queue of
+    people.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jak uśmiechać się bez złośliwości?
+  author: Muzealnicy
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Software project 1) On time 2) On budget 3) With quality. You can not able
+    pick any.
+  author: DevOps Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Napisałbym maila do kogoś, ale wiem, że oddzwoni zamiast odpisać.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
