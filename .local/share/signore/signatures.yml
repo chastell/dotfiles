@@ -48100,3 +48100,13 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: Hahaha reading commit history of one of my projects. Commit 2 of 1247, > 5
+    yrs ago says ‘the bulk of the work is done’.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
