@@ -48110,3 +48110,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: For every person you’ll upset by swearing, there’ll be a hundred cringing
+    when you use weasel words like ‘frick’. Just say fuck.
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
