@@ -48119,3 +48119,11 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Being an adult means knowing you can have cake for every meal, but choosing
+    not to have cake for every meal because you’re too drunk to eat.
+  author: ! '@Schmoodles'
+  source: 
+  subject: 
+  tags:
+  - en
