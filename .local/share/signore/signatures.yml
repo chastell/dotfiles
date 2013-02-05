@@ -48127,3 +48127,24 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! 'I was going to tweet a screenshot of my iPhone completely failing, but
+    it spontaneously reboots whenever I try to crop the image.
+
+    Just imagine what would have to happen for a computer to reliably reboot itself
+    in response to editing an image.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - iPhone
+- !ruby/struct:Signore::Signature
+  text: 37, the age at which Grace Hopper joined the Navy, learned logic and later
+    invented the compiler. You’re never too old to define yourself.
+  author: Command Line Magic
+  source: 
+  subject: 
+  tags:
+  - en
