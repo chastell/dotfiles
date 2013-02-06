@@ -48148,3 +48148,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I’m emitting like 8 Bernhardts / m³ of caremad right now.
+  author: Trek Glowacki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
