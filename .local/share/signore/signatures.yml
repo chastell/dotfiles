@@ -48156,3 +48156,37 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Dev: It works on my machine, just not on the server.
+
+    Me: Ok, backup your mail. We’re putting your laptop into production.'
+  author: Oisin (x0n) Grehan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: „feministki anazlizujące pornografię”, fajna litrówka wyszła.
+  author: Królowa Nocy
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Matz is nice so all serialized data is nice.'
+  author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Every zoo is a petting zoo if you’re not a sissy.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
