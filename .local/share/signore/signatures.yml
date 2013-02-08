@@ -23679,15 +23679,6 @@ signatures:
   - pl
   - sport
 - !ruby/struct:Signore::Signature
-  text: To ciekawe, że Chińczyk nie ma nawet skośnych oczu. Może pochodzi z innego
-    regionu? Ale on nie ma nawet imienia.
-  author: Lucjan Olszewski
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
   text: Prostowanie nieprawdy w felietonach Ziemkiewicza jest jak fotografowanie piasku
     na Saharze. Mało odkrywcze, ale trudno się oprzeć pokusie.
   author: Wojciech Orliński
@@ -48190,3 +48181,17 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘I’ll just check the Ruby documentation for this…’
+
+    *clicks*
+
+    *BATS FLY OUT OF MONITOR IN A CLOUD OF DUST*'
+  author: EHH
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
