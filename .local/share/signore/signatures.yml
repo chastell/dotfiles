@@ -48195,3 +48195,20 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: Naukowcy ostatnio odkryli, że wąż który kusił Ewę był jednym końcem przyczepiony
+    do Adama.
+  author: Isztwan
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Monopoly to replace the iron with a cat. No word on whether they’ll replace
+    the game itself with one that doesn’t make you hate your family.
+  author: David Malki
+  source: 
+  subject: 
+  tags:
+  - en
+  - Monopoly
