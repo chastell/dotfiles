@@ -9286,16 +9286,6 @@ signatures:
   - GSoC
   - Fortran
 - !ruby/struct:Signore::Signature
-  text: ! 'lepiej pić z butelki Kleina
-
-    niż głosować na McCaina'
-  author: szarex
-  source: 
-  subject: 
-  tags:
-  - pl
-  - politics
-- !ruby/struct:Signore::Signature
   text: ! '— Dlaczego nie odebrałeś telefonu jak dzwoniłam, co było ważniejszego ode
     mnie?
 
@@ -9376,15 +9366,6 @@ signatures:
   - en
   - cinematography
   - horror
-- !ruby/struct:Signore::Signature
-  text: Tomorrow when they ask people who they voted for it’ll probably STILL be ‘Obama’
-    51%, ‘McCain’ 42%, and ‘Don’t Know’ 7%.
-  author: Matthew Baldwin
-  source: 
-  subject: on November 4th, 2008
-  tags:
-  - en
-  - politics
 - !ruby/struct:Signore::Signature
   text: A lot of developers (and this is most prevalent in the Web 2.0 world) walk
     balls-first into any given task, assuming that scalability is going to be issue
@@ -43292,8 +43273,8 @@ signatures:
   - en
   - patents
 - !ruby/struct:Signore::Signature
-  text: Wow roosters are rude as fuck. Imagine waking up at 6am and just yelling as
-    loud as you could. What total cocks.
+  text: Wow roosters are rude as fuck. Imagine waking up at 6 am and just yelling
+    as loud as you could. What total cocks.
   author: '000___000'
   source: 
   subject: 
@@ -48212,3 +48193,71 @@ signatures:
   tags:
   - en
   - Monopoly
+- !ruby/struct:Signore::Signature
+  text: ! 'OH: Every time I do `source ~/.bash_profile` I’m reminded of that time
+    you accidentally did `source ~/.bash_history`.'
+  author: Nelson Gauthier
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'Long-suffering Comcast users in Memphis: good news is Pinboard should be
+    reachable. Bad news is, you’re still in Memphis, using Comcast.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Pinboard
+  - Comcast
+- !ruby/struct:Signore::Signature
+  text: ! '‘Fun fact: in our society it is easier to get access to hardcore porn than
+    scientific publications.’
+
+    ‘I like to think of that as saying awesome things about porn and not sad things
+    about academia.’'
+  author: Christian Strippel, Bob Nystrom
+  source: 
+  subject: 
+  tags:
+  - en
+  - porn
+  - science
+- !ruby/struct:Signore::Signature
+  text: ! 'Glick’s Law: Every piece of startup advice has an opposite and equally
+    plausible piece of startup advice.'
+  author: Jonathan Glick
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! '‘I saw this in Amsterdam. It is a 17th century Shame Flute. It was affixed
+    to the necks of bad musicians.’ http://i.imgur.com/cOFw0zn.jpg
+
+    ‘We need a shame keyboard.’'
+  author: Danny Baker, Nat Pryce
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ! 'a) Oh, I have an idea!
+
+    b) Wow, the first 10% of executing it was fun!
+
+    c) Whelp, real life.
+
+    d) Fuck!
+
+    e) Oh, I have an idea!'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
