@@ -48261,3 +48261,44 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: fck vwls
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: ! 'Computer scientist: idempotence
+
+    Software engineer: constraint=unique key
+
+    Web developer: onclick.disable()
+
+    My bank: ‘don’t submit twice’'
+  author: Kenn White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ! 'The key to learning JavaScript: this is an elaborate hoax. The preceding
+    statement may operate at multiple levels.'
+  author: Adam Keys
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: I prefer the Cambridge comma. You’ve probably never heard of it,
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
