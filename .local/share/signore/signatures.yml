@@ -40508,8 +40508,8 @@ signatures:
   - de
   - politics
 - !ruby/struct:Signore::Signature
-  text: Perform your best screencast take in months; forget to press record first.
-    ‪#LIFEHACKS‬ ‪#AWEZOME‬ ‪#SUPERKEWL‬
+  text: ! 'Perform your best screencast take in months; forget to press record first.
+    #LIFEHACKS #AWEZOME #SUPERKEWL'
   author: Gary Bernhardt
   source: 
   subject: 
@@ -48302,3 +48302,29 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Not quibbling with the unexpectedly high price, despite being certain your
+    choices fully adhere to the rules of the Meal Deal.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Can we stop with the ‘stop arguing and ship’ meme? The reason you’re not writing
+    GOTOs in BASIC is because we stopped to argue for a bit.
+  author: Tom Dale
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I recharged my cigarette, blocked a sex robot from my timeline, and followed
+    an astronaut. Then I wrote a science fiction story.
+  author: Ken MacLeod
+  source: 
+  subject: 
+  tags:
+  - en
