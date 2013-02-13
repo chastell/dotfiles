@@ -48328,3 +48328,22 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ! '‘Once again a ride on the streetcar makes me wonder if some people use
+    enough cologne to be flammable.’
+
+    ‘Only one way to find out.’'
+  author: Kurt Sussman, Sam Livingston-Gray
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s only a ‘deadline’ if your project will die failing to meet it. Otherwise
+    it’s just a sadline. I’m going to call them that from now on.
+  author: Liz Keogh
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
