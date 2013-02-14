@@ -48347,3 +48347,16 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: Node.js has its own DHH but he’s distributed acorss multiple people for redundancy/webscaling
+    reasons.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - JavaScript
+  - Node.js
