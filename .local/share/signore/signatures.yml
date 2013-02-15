@@ -48360,3 +48360,13 @@ signatures:
   - Ruby
   - JavaScript
   - Node.js
+- !ruby/struct:Signore::Signature
+  text: Out of 98,569 words in my /usr/share/dict/words, one pair has a CRC32 collision.
+    The pair is ‘codding’ and ‘gnu’.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
