@@ -48370,3 +48370,40 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ‘You sit on a throne of hubris inside a fortress of regret.’
+  author: Rein Henrichs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Well-designed objects approach functions.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: The joy of plugging headphones into a mac and listening to 12 minutes of ‘mail
+    sent’ sounds that queued up somewhere.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Let me just sell my house, divorce my wife, abandon my friends so I can go
+    to work in your city. NOT.
+  author: Robert Pankowecki
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
