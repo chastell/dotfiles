@@ -48407,3 +48407,62 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: I am interacting with a Salesforce product. I may end up murdering someone,
+    possibly myself.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Salesforce
+- !ruby/struct:Signore::Signature
+  text: (Kindly remember that if, unprompted, you tell someone about your system for
+    getting organized, you are no better than a vegan.)
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘I’m going on my Windows/OS X computer to tell everyone how LGPL-licensed
+    WebKit creates proprietary vendor lock-in.’
+  author: Christian Johansen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - WebKit
+- !ruby/struct:Signore::Signature
+  text: ! 'Roses are red
+
+    Violets are blue
+
+    OMG
+
+    STFU'
+  author: Ryan North
+  source: 
+  subject: 
+  tags:
+  - en
+  - poetry
+- !ruby/struct:Signore::Signature
+  text: I was going to wear my ‘beer is my life’ shirt today ’cause it’s pink & cute
+    but realized it may not the best choice for parent-teacher confs.
+  author: Sara Nutter
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some days the yak shaves you.
+  author: Jai Hirsch
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
