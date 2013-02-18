@@ -30735,20 +30735,6 @@ signatures:
   - en
   - Simpsons
 - !ruby/struct:Signore::Signature
-  text: ! 'I WILL NOT DEFAME NEW ORLEANS
-
-    I WILL NOT DEFAME NEW ORLEANS
-
-    I WILL NOT DEFAME NEW ORLEANS
-
-    I WILL NOT DEFAME NEW ORLEANS'
-  author: Bart Simpson
-  source: Simpsons 9F01
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
-- !ruby/struct:Signore::Signature
   text: Jeśli chodzi o moją opinię tego pisma…
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
