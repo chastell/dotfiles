@@ -48466,3 +48466,27 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: It seems people who don’t understand code think having a penis makes me a
+    better coder. Do they think I type with it? I do not understand.
+  author: tef
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Entering into mild panic if unable to pick the correct amount of change from
+    your hand within three seconds.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Twoja twarz, kiedy wychodzący przed tobą z domu handlowego zamyślony mężczyzna
+    szukając dłonią za plecami uchwytu na drzwiach znajduje twoje genitalia.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
