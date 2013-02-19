@@ -34386,7 +34386,7 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: No matter what your app does, your biggest competitor is probably one of the
-    following 1) Email/Gmail 2) Word/Excel/Google Docs 3) Apathy.
+    following 1) email/Gmail, 2) Word/Excel/Google Docs, 3) apathy.
   author: Des Traynor
   source: 
   subject: 
@@ -48472,6 +48472,14 @@ signatures:
   text: Twoja twarz, kiedy wychodzący przed tobą z domu handlowego zamyślony mężczyzna
     szukając dłonią za plecami uchwytu na drzwiach znajduje twoje genitalia.
   author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Dowiaduję się o naturze ludzkiej takich rzeczy, że chciałbym oddać legitymację
+    homo sapiens.
+  author: reuptake
   source: 
   subject: 
   tags:
