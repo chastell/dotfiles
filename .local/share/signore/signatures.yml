@@ -48484,3 +48484,28 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I wonder what awful things they must do back home to French men who don’t
+    wear a stupid scarf while traveling abroad.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ! 'My three greatest character flaws:
+
+    1. Procrastination'
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Telling the doctor you’re feeling a bit better so as not to question their
+    treatment plan.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
