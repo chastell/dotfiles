@@ -48509,3 +48509,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I’ve looked at so much food porn that now I can only get hungry when I see
+    the really weird stuff like french fries in a pink envelope.
+  author: Not Food Network
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+  - porn
