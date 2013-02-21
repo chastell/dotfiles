@@ -88,6 +88,7 @@ nnoremap <c-m>      :cp<enter>
 nnoremap <c-n>      :cn<enter>
 nnoremap <s-down>   O<esc><down>
 nnoremap <leader>b  :CtrlPBuffer<enter>
+nnoremap <leader>f  :CtrlPTag<enter>
 nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>p  gqip
