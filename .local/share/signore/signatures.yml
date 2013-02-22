@@ -48519,3 +48519,33 @@ signatures:
   - en
   - food
   - porn
+- !ruby/struct:Signore::Signature
+  text: I put two pics of myself into one of those ‘what would your baby look like’
+    generators and it gave me a picture of a tractor. Scared and crying.
+  author: sreegs
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You can turn any data into big data by exporting it to XML.
+  author: ! '@sohm'
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - XML
+- !ruby/struct:Signore::Signature
+  text: ! 'OH:
+
+    ‘You can’t do that with Test Driven Development.’
+
+    ‘No, YOU can’t do that with Test Driven Development.’'
+  author: Katrina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
