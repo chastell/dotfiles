@@ -44,7 +44,7 @@ set formatprg=lovely-rufus nojoinspaces
 " GUI
 colorscheme torte
 let loaded_matchparen = 1
-set guifont=Ubuntu\ Mono\ 12 guioptions-=m guioptions-=T
+set guifont=Ubuntu\ Mono\ 15 guioptions-=m guioptions-=T
 set list listchars=extends:»,nbsp:_,precedes:«,tab:▸\ ,trail:·
 set nowrap
 set scrolloff=7 sidescroll=1 sidescrolloff=10
