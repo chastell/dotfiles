@@ -77,6 +77,7 @@ set splitbelow splitright
 set ttyfast
 set undodir=/tmp//
 set undofile
+set winwidth=79
 
 " mappings
 let mapleader = ','
