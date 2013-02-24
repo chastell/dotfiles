@@ -48608,3 +48608,31 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: HOLY CRAP FIREFOX YOU’RE CHECKING PLUGIN COMPATIBILITY?!! THAT’S EXCITING
+    I’M SO GLAD YOU TOLD ME!!!
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Firefox
+- !ruby/struct:Signore::Signature
+  text: Pinboard, of course, does not have an annual staff retreat. Pinboard knows
+    only ATTACK
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - Pinboard
+- !ruby/struct:Signore::Signature
+  text: Being resigned to living your entire life without ever experiencing the taste
+    of the last biscuit.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
