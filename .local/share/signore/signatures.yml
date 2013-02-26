@@ -9329,16 +9329,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: |-
-    — A może Biały Flejm – panie proszą panów?
-    — Panie się nie nadają, bo zazwyczaj coś merytorycznie starają się dodać.
-  author: Cezary G. Cerekwicki i Michał Gancarski
-  source: pl.pregierz
-  subject: 
-  tags:
-  - pl
-  - gender
-- !ruby/struct:Signore::Signature
   text: Ten klient pocztowy jest martwy! Nie, on tylko śpi! Dlaczego jest przybity
     do taskbara? Żeby nie spadł! Halllllo! Halllllo! Evo! Wstawaj, ptaszku. *jeb*
     *jeb* This, my good lad, is what I call a dead MUA.
@@ -27592,7 +27582,7 @@ signatures:
   - education
 - !ruby/struct:Signore::Signature
   text: |-
-    „„Proszę mi wytłumaczyć dlaczego funkcja działa dokładnie tak jak stoi w dokumentacji, której nie przeczytałam? Dodałam trzecie zgłoszenie w tym temacie ponieważ brzydzę się odpowiadania w wątku. Kompletnie nie rozumiem czemu nie mogę wydrukować widoku, który nie jest do wydruku. Odmawiam też używania znajdującego się obok guzika »Wydruk«.
+    „Proszę mi wytłumaczyć dlaczego funkcja działa dokładnie tak jak stoi w dokumentacji, której nie przeczytałam? Dodałam trzecie zgłoszenie w tym temacie ponieważ brzydzę się odpowiadania w wątku. Kompletnie nie rozumiem czemu nie mogę wydrukować widoku, który nie jest do wydruku. Odmawiam też używania znajdującego się obok guzika »Wydruk«.
     Wszystkie e-maile w sprawie mojego kompletnego braku zrozumienia załączę do szefów żeby się Pan bał strasznie.”
     Parafrazując ostatnie dwa dni.
   author: opi
@@ -47442,3 +47432,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘It’s just one more reminder that when you say “nahhh, I’ll just hack that” it ends up in production for years.’
+    ‘The bitter pill is that if you don’t say that, it often doesn’t end up in production at all.’
+  author: Steve Klabnik, MenTaLguY
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
