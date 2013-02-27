@@ -47443,3 +47443,69 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    My breakpoint brings all the code to a halt,
+    and it’s like, ‘(lldb) ’,
+    and I’m like ‘it’s better than yours’,
+    and it’s like, ‘invalid comman
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: …and I stood up, the whole TED audience looking at me, and I said ‘listen,
+    bro, if it ain’t about kebabs I don’t wanna know’.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: Any dog under 50 lbs is a cat and cats are pointless.
+  author: Ron Swanson
+  source: 
+  subject: 
+  tags:
+  - en
+  - dogs
+  - cats
+- !ruby/struct:Signore::Signature
+  text: If you make a web app, consider using JavaScript to emulate interaction design
+    patterns popular in Windows 95.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Call me old-fashioned but- *collapses into a pile of primordial slime and
+    slips back into the sea*
+  author: A Mean Crow
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    With Pinboard I have created a Marxist utopia in which the workers control the means of procrastination.
+    Hoisting the red flag… in a few minutes.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Sitting awkwardly for your whole journey to accommodate the staggering leg
+    spread of the gentleman beside you.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
