@@ -47509,3 +47509,19 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Podobno będzie ustawa, że wszyscy fanboje Apple muszą nosić opaski z jabłkiem.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Kurwiu, co dzwonisz do mnie z mBanku, nie przedstawiaj się „moja godność Kowalski
+    Jan”.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
