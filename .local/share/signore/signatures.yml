@@ -47525,3 +47525,11 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: „W związku z obchodzoną dekadą Franza Kafki pański wniosek skierowano do dalszej
+    realizacji.”
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
