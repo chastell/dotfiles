@@ -47533,3 +47533,11 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: 'My cabbie: ‘The Pope is wrong to resign.’ (Thoughtful pause.) ‘You do that
+    job until you die.’ (Thoughtful pause.) ‘They should kill him.’'
+  author: Mark Harris
+  source: 
+  subject: 
+  tags:
+  - en
