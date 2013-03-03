@@ -47541,3 +47541,43 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ‘C compiler cannot create executables.’ You had ONE JOB.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+- !ruby/struct:Signore::Signature
+  text: If we can’t settle on 1, TRUE, YES, true, True or JSON::true as the idiomatic
+    ‘true’, we don’t deserve high level languages.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    I wonder why email never banned third party clients like Twitter did? The company that owns it must not like money. Isn’it illegal?
+    It’s almost as if private, centralized control of communications infrastructure fucks everything up.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: ‘The Office québécois de la langue française recommends the spelling “tofou”
+    for what is in France “tofu”.’
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
