@@ -47581,3 +47581,73 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: The real trick is to get the table to flip itself.
+  author: Coda Hale
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Fucking hell, everywhere I look I see ‘Jamie’s Italian’. We get it, bro, you’re
+    Italian. I’m Turkish. Wanna fight? Tesco Dalston, Sun 4pm.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: Some people don’t like kebabs. And that’s ok. But should they have the right
+    to vote? It’s an interesting topic.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: In the time Microsoft took to port IE 10 from Windows 8 to Windows 7, Google
+    Chrome had roughly six major releases for 5+ platforms.
+  author: Pascal Hartig
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Microsoft
+  - IE
+  - Chrome
+- !ruby/struct:Signore::Signature
+  text: 'OH: Fuck off, I’m the one with people skills here.'
+  author: Tomash
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You wouldn’t `brew install` a car.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ‘It would be horrible for me to take comfort in your news, but I’m a horrible
+    person so this is working really well for me.’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Hmm, just paid for Pinboard – seems like a cool service but kind of put off by whoever tweets for them. Unprofessional to say the least.’
+    ‘This Twitter account was hacked months ago but the Pinboard guy is too lazy to reclaim it.’
+  author: Parker, Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Pinboard
