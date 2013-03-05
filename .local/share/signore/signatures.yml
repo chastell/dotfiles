@@ -7273,13 +7273,6 @@ signatures:
   - comics
   - religion
 - !ruby/struct:Signore::Signature
-  text: Są dni, że pędzę przed siebie jak dziki ślimak.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Gmach główny UWr nie zrobił mi przez trzy tygodnie przelewu, gdyż – usiądźcie
     wygodnie – nie mieli prądu. Kurtyna.
   author: DrYoung
@@ -47651,3 +47644,35 @@ signatures:
   tags:
   - en
   - Pinboard
+- !ruby/struct:Signore::Signature
+  text: Zdecydowanie odmawiam walki na rozum z osobą nieuzbrojoną.
+  author: Piotr Kucharski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘My imaginary friend Jess and I had always been close, but as I grew older my mind became weighted by reality and she no longer came to play.’
+    ‘I misread that as “Jesus” and “he” and said “wow, heavy”.’
+  author: Very Short Story, David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: At this point I don’t even bother putting the table the right way up again.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’m gonna meet up with one of these dudes looking for ‘discreet adult fun’
+    with a book about set theory and make them so mad.
+  author: great times online
+  source: 
+  subject: 
+  tags:
+  - en
