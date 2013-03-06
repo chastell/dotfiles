@@ -26820,15 +26820,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Polecam psa, to co prawda zwierzę, ale nie lata, za to telewizor lata, jak
-    pies zobaczy muchę, która lata, a mimo to nie jest papugą.
-  author: Jacek Popławski
-  source: pl.news.nowe-grupy
-  subject: 
-  tags:
-  - pl
-  - Usenet
-- !ruby/struct:Signore::Signature
   text: If you’re going to add 5 seconds to the test startup time, you might as well
     just delete all the tests. Same effect, less labor.
   author: Avdi Grimm
@@ -47672,6 +47663,14 @@ signatures:
   text: I’m gonna meet up with one of these dudes looking for ‘discreet adult fun’
     with a book about set theory and make them so mad.
   author: great times online
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Being unable to turn and walk in the opposite direction without first taking
+    out your phone and frowning at it.
+  author: Very British Problems
   source: 
   subject: 
   tags:
