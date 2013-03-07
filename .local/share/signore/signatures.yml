@@ -47675,3 +47675,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: The job of a filesystem is to lie to you about how the hardware works because
+    if you knew you’d be too afraid to write to it.
+  author: Mikeal
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
