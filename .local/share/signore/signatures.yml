@@ -47684,3 +47684,53 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    I don’t call it hard coding. I call it zeroconf.
+    As in ‘I zeroconf’d the connection strings into the UserRepository class’.
+  author: Nat Pryce
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ‘Man United vs Real’ is also the story of human history.
+  author: '@TheTweetOfGod'
+  source: 
+  subject: 
+  tags:
+  - en
+  - sports
+- !ruby/struct:Signore::Signature
+  text: JVM-based languages are just a crutch for people who can’t write JVM byte
+    code by hand.
+  author: Matthew Nielsen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JVM
+- !ruby/struct:Signore::Signature
+  text: ‘I did Java before it was cool’ – every Java developer, ever, still to this
+    day. But desperately hoping…
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+- !ruby/struct:Signore::Signature
+  text: You get to heaven and your phone’s battery is at 3% and there’s no electricity
+    up in there.
+  author: ☾lil ☾weedy ☾
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
