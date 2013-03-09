@@ -47734,3 +47734,38 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: 'This makes me happy: 357686312646216567629137 is prime and remains so after
+    removing any number of digits from the left.'
+  author: wallingf
+  source: 
+  subject: 
+  tags:
+  - en
+  - math
+- !ruby/struct:Signore::Signature
+  text: |-
+    If I get one more email explaining how shuttering a service I use is furthering some ‘mission’, I’m going to start force choking founders.
+    ‘We were providing too much value as Posterous, so we’ve moved over to Twitter. Say, that’s a nice TweetDeck you're using…’
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Spaniard to a Korean after hearing that she’s been in London for five years:
+    ‘Five years without weather?’'
+  author: dotemacs
+  source: 
+  subject: 
+  tags:
+  - en
+  - weather
+- !ruby/struct:Signore::Signature
+  text: Write someone a program and frustrate them for a day. Teach someone to program
+    and frustrate them for a lifetime.
+  author: nperez
+  source: 
+  subject: 
+  tags:
+  - en
