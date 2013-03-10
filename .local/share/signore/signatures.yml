@@ -47769,3 +47769,17 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    I might be Just x
+    Or Nothing, baby
+    When you’re in Haskell
+    You’d…
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
