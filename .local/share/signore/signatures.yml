@@ -1463,7 +1463,7 @@ signatures:
   - pl
 - !ruby/struct:Signore::Signature
   text: Używam ostatnio „:-)” jako znaku sarkazmu. Działa fantastycznie. „Och, dziękuję
-    za tą cenną uwagę. Odmieniła moje życie. :-)”
+    za tę cenną uwagę. Odmieniła moje życie. :-)”
   author: opi
   source: 
   subject: 
@@ -47783,3 +47783,13 @@ signatures:
   - tech
   - programming
   - Haskell
+- !ruby/struct:Signore::Signature
+  text: The one where your commit message says ‘typo’ but what you meant was ‘I didn’t
+    even run this code once’.
+  author: Alex Gaynor
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
