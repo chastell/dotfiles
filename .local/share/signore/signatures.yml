@@ -47793,3 +47793,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Type errors, never happen to me.’
+    Watch them NPE and get NoMethodErrors as they work.
+    ‘Those aren’t TYPE errors. I just messed up.’
+  author: Dave Fayram
+  source: 
+  subject: 
+  tags:
+  - en
+  - programming
