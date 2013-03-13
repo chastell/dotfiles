@@ -47804,3 +47804,60 @@ signatures:
   tags:
   - en
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    Happiness is finding 301 GB of deletable files on an uncomfortably full server.
+    Sadness, presumably, is realizing an hour later why they were indispensible.
+    Fortunately my core business skill is apologizing.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: …and I said to the old lady waiting for her takeaway ‘you can take away our
+    kebabs, but you’ll never take our spirit!’ She looked startled.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Customer: I’m allergic to wheat, dairy and nuts, what can I order?
+    Me: A Prosecco. It’s a miracle you’re alive, let’s fucking celebrate.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: 'OH: That’s UTFist, you ASCIIsts!'
+  author: Łukasz Korecki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - encodings
+- !ruby/struct:Signore::Signature
+  text: 'OH: I’m sorry, but Mercurial is the Dvorak of version control systems.'
+  author: Hilary Mason
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘WTF is “trolling”??’
+    ‘Please use irony tags.’
+    ‘“Tags”?’
+  author: Neven Mrgan, Christina Wodtke
+  source: 
+  subject: 
+  tags:
+  - en
