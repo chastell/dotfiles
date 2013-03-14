@@ -47861,3 +47861,10 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Home sewing is killing fashion!
+  author: 
+  source: IT Crowd
+  subject: 
+  tags:
+  - en
