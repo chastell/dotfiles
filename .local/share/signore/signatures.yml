@@ -47868,3 +47868,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'Just found out the Finnish term for grammar Nazi is pilkunnussija. Direct
+    translation: comma fucker. You’re welcome.'
+  author: '@Skychasing'
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
