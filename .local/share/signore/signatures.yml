@@ -47877,3 +47877,15 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: OSX, a great OS for developers! Oh you wanted a recent OpenSSL? A recent Ruby
+    version? What, you want a compiler too? A *working* compiler?
+  author: Chris White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Apple
+  - OS X
