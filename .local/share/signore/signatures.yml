@@ -47889,3 +47889,90 @@ signatures:
   - programming
   - Apple
   - OS X
+- !ruby/struct:Signore::Signature
+  text: Is it possible that I forgot to deploy the change I wish to see in the world?
+  author: Alice Bartlett
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: 'RubyGems 2.0.3: ‘When installing RubyGems on JRuby, the standard library
+    is no longer deleted’ – sounds like a feature to me.'
+  author: Theo
+  source: 
+  subject: 
+  tags:
+  - en
+  - programming
+  - Ruby
+  - RubyGems
+- !ruby/struct:Signore::Signature
+  text: 'OH: If I wanted to hang out with adorable four-year-olds, I’d get a job at
+    GitHub.'
+  author: Sam Livingston-Gray
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: First thing I do on every new server is to rename root to ruth.
+  author: Mathias Meyer
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
+- !ruby/struct:Signore::Signature
+  text: You may object to eating animals but you spend all day working in an office
+    and they spend it lounging about in a field doing fuck all.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: rake current:status:precompile
+  author: Tomash
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Thanks to the awesome little microphone icon in Chrome for iPad, I’ve done
+    a million searches for ‘what wait no what’s happening stop’.
+  author: Giles Bowkett
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Just had a hipster reserve a table under the name ‘Insomnia’. This shit’s
+    getting out of hand.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - hipsters
+- !ruby/struct:Signore::Signature
+  text: Thanks to kanban’s clear leading indicators, the team started polishing their
+    resumes three weeks earlier in the project than usual.
+  author: Paul Klipp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - kanban
