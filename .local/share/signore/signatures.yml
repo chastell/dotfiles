@@ -47976,3 +47976,19 @@ signatures:
   - tech
   - programming
   - kanban
+- !ruby/struct:Signore::Signature
+  text: |-
+    Text on websites is getting better and better as typography in modern browsers advances.
+    Just
+    kidding
+    this
+    site
+    is
+    respon-
+    sive.
+  author: Sean Sperte
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
