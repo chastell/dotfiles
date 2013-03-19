@@ -47992,3 +47992,31 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: School is the only place where collaboration is called ‘cheating’.
+  author: walterbender
+  source: 
+  subject: 
+  tags:
+  - en
+  - education
+- !ruby/struct:Signore::Signature
+  text: |-
+    Watching Dave Winer is fascinating – he’s like a surfer with a killer instinct for where the next wave will be, and a lead surfboard.
+    Who else could spend fifteen years working on feed readers and completely fail to capitalize on Google Reader going down?
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - RSS
+- !ruby/struct:Signore::Signature
+  text: Reading tweets by candlelight to get a sense for how it must have been in
+    the middle ages.
+  author: Chris Wilson
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
