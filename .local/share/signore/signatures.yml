@@ -45308,7 +45308,7 @@ signatures:
   - tech
   - Twitter
 - !ruby/struct:Signore::Signature
-  text: DOMAIN LANGUAGE MOTHER****ER, DO YOU SPEAK IT?
+  text: DOMAIN LANGUAGE, MOTHERFUCKER, DO YOU SPEAK IT?
   author: Avdi Grimm
   source: Ruby Parley
   subject: 
@@ -48020,3 +48020,34 @@ signatures:
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: Going offline in a mo, as we’re having fibre.  After that, I’ll just be able
+    to *think* stuff onto the screen, I’m told.
+  author: Steven Flower
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s not that Clojure/Lisp has a lot of parentheses. It’s just that we removed
+    everything else.
+  author: Alex Miller
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+  - Clojure
+- !ruby/struct:Signore::Signature
+  text: Actual ninja misreads job posting, infiltrates SF web startup, slaughters
+    27 brogrammers, leaves after failing to locate World Class Ruby.
+  author: JP LeBreton
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - Ruby
