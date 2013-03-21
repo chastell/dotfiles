@@ -48051,3 +48051,51 @@ signatures:
   - tech
   - work
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: 'Guys I found the best Google Reader alternative: throw all your computers
+    into the river and come with me to start a new life in the North.'
+  author: Adrian Chen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Google Reader
+- !ruby/struct:Signore::Signature
+  text: |-
+    If you’re thinking of joining Pinboard, there has literally never been a time like now.
+    These aren’t just empty words. These are empty words backed by token gestures.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: If our universe was a simulation you could totally tell. There’d be things
+    like a fastest possible speed or a smallest possible size or a lowest possible
+    temperature, or events wouldn’t actually be computed until they were observed
+    by a player (you know, for computational efficiency).
+  author: Sean Ansorge
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Discovered Prius design flaw today. You can start the car with keys on the roof instead of inside the car. Then you can drive for many miles.
+    Also note; The car will, of course, continue to run until you reach your destination and discover the keys didn’t stay on top of the car.
+  author: Aaron Baer
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: „Morgen kommt ein Kunde vorbei, also bitte alle Hosen anziehen.“
+  author: Rin
+  source: 
+  subject: 
+  tags:
+  - de
+  - tech
+  - work
