@@ -40781,7 +40781,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: I’m at a thing. I yell ‘NERD’. Everyone turns around. ‪#techlife‬
+  text: 'I’m at a thing. I yell ‘NERD’. Everyone turns around. #techlife'
   author: Carol Nichols
   source: 
   subject: 
@@ -48099,3 +48099,12 @@ signatures:
   - de
   - tech
   - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    — Czy Dokument Wymagań mogę zrobić czcionką Comic Sans MS?
+    — Maciek, pewnie Cię zaskoczę, ale możesz. Możesz także nie robić go wcale. Życie to fabularny sandbox.
+  author: maciej.j, offowy
+  source: 
+  subject: 
+  tags:
+  - pl
