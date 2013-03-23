@@ -48108,3 +48108,20 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: 'wymień tradycyjne polskie wartości: 6 stopni celsjusza, zachmurzenie 100%,
+    ciśnienie 960'
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Poland
+- !ruby/struct:Signore::Signature
+  text: ona niańczy dla mnie.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - parenting
