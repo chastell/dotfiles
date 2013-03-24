@@ -48125,3 +48125,115 @@ signatures:
   tags:
   - pl
   - parenting
+- !ruby/struct:Signore::Signature
+  text: |-
+    BRHMS
+    RCHMNNV
+  author: chilly gonzales
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: 'German word of the day: Speicherverwürfelung (Address Space Layout Randomization)'
+  author: Florian Gilcher
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: LMAO if you shadenfreude.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Good morning everyone!
+    *opens HN and Twitter*
+    NOPE
+    *closes HN and Twitter, throws computer out window*
+  author: Tom Dale
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: FAILING TESTS WHICH PASS WHEN RUN IN ISOLATIOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOONNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: It has been 7,665 days since the last FORTRAN community drama.
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - FORTRAN
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘It has been 7,665 days since the last FORTRAN community drama.’
+    ‘You obviously don’t work in academia.’
+  author: Reg Braithwaite, Hrishi Mittal
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - FORTRAN
+- !ruby/struct:Signore::Signature
+  text: We stand behind our product, because it’s really, really dangerous to stand
+    in front of.
+  author: the government man
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Trying to figure out a mail rule for auto-pushing messages to the bottom whenever
+    anyone writes in to *bump* their earlier email. So whenever I get a *bump*, my
+    Pavlovian reaction is ‘better drop everything and work on that mail rule’. Unlikely
+    to be what you wanted.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I’ve been loving my Pomodoro. I set it for 25 minutes. When it rings, I work
+    for 5 minutes, then reset it. Getting so much done.
+  author: Woody Zuill
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+  - productivity
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Software is really hard.’
+    ‘Maybe we should call it…
+    ( •_•)
+    ( •_•)>⌐■-■
+    (⌐■_■)
+    …hardware?’
+  author: Steve Klabnik, Łukasz Korecki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
