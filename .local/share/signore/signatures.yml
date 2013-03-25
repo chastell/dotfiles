@@ -48237,3 +48237,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: 'Seriously, who’s gonna notice if you reuse a nonce just once? #YOLO'
+  author: YOLO Crypto
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
