@@ -48246,3 +48246,12 @@ signatures:
   - en
   - tech
   - security
+- !ruby/struct:Signore::Signature
+  text: Remember that time you updated all those database entries by accident? Datomic
+    doesn’t.
+  author: Richard Schneeman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
