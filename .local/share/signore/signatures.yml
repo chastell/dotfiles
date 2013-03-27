@@ -48255,3 +48255,38 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Hast thou a probleme? Ywis, Ich shal resolve yt. Wacche wel nowe my hooke
+    the while my deejaye doth revolve yt.
+  author: Chaucer Doth Tweet
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
+- !ruby/struct:Signore::Signature
+  text: I notice my page timer pretends to have picosecond resolution. That’s about
+    the time it takes light to cross the first pixel in a bookmark.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Cool, turns out the Google-provided Ruby API gem doesn’t actually work against
+    the Google-provided API server. Top notch stuff, guys.
+  author: William Morgan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Google
+- !ruby/struct:Signore::Signature
+  text: If you want to catch a bus you have to *think* like a bus.
+  author: Alison Agosti
+  source: 
+  subject: 
+  tags:
+  - en
