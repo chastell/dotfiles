@@ -48290,3 +48290,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Girl, look at that body.’
+    ‘Girl, look at that body.’
+    ‘Girl, look at that body.’
+    WHY IS LMFAO EVEN AT THIS CRIME SCENE
+  author: Seagull de Gallo
+  source: 
+  subject: 
+  tags:
+  - en
+  - music
