@@ -19,7 +19,6 @@ hdr_order From: Reply-To: To: Cc: Subject: Date:
 ignore *
 unignore From: Reply-To: To: Cc: Subject: Date:
 
-macro index,pager \# '<save-message>=[Gmail]/Bin<enter><enter>'
 macro index,pager a  '<save-message>=~arch<enter><enter>'
 macro index,pager b  '<enter-command>toggle sidebar_visible<enter>'
 macro index,pager ga '<change-folder>=~arch<enter>'
