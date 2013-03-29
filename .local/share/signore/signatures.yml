@@ -47547,7 +47547,7 @@ signatures:
   - programming
 - !ruby/struct:Signore::Signature
   text: |-
-    I wonder why email never banned third party clients like Twitter did? The company that owns it must not like money. Isn’it illegal?
+    I wonder why email never banned third party clients like Twitter did? The company that owns it must not like money. Isn’t it illegal?
     It’s almost as if private, centralized control of communications infrastructure fucks everything up.
   author: Gary Bernhardt
   source: 
@@ -48302,3 +48302,11 @@ signatures:
   tags:
   - en
   - music
+- !ruby/struct:Signore::Signature
+  text: They say to try not to be the smartest person on your team but this is ridiculous.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
