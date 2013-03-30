@@ -40024,7 +40024,7 @@ signatures:
   - programming
   - testing
 - !ruby/struct:Signore::Signature
-  text: Turns out theres a Nyan Cat Vim plugin. Looks like I’m changing my text editor.
+  text: Turns out there’s a Nyan Cat Vim plugin. Looks like I’m changing my text editor.
   author: Ryan Bibby
   source: 
   subject: 
@@ -48310,3 +48310,11 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: Repeatedly pressing the door button on the train before it’s illuminated,
+    to assure your fellow commuters you have the situation in hand.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
