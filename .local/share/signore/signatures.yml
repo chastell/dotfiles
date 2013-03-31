@@ -48318,3 +48318,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Skype said it’s going to make my experience better and then it updated itself.
+    Why lie?
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Skype
