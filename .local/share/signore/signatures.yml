@@ -48328,3 +48328,12 @@ signatures:
   - en
   - tech
   - Skype
+- !ruby/struct:Signore::Signature
+  text: So let me get this straight, when I put a guy’s flesh in my mouth at church
+    it’s ‘communion’ but when I do it at a truck stop it’s a sin.
+  author: lawblob
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
