@@ -48337,3 +48337,28 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: |-
+    $ ack --cpp '\bint\b|\buint\b\S*_t' v8 | wc -l
+       21998
+    share your toys, jerk
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+  - JavaScript
+  - V8
+- !ruby/struct:Signore::Signature
+  text: And then Jesus said, when I get back, I’d better not see any eggs. I don’t
+    care what you do, paint ’em, hide ’em, just get rid of them.
+  author: Scott Hanselman
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - Easter
