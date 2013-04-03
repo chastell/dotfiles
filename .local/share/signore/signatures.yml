@@ -48362,3 +48362,14 @@ signatures:
   - en
   - religion
   - Easter
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Iterators are too hard for most programmers.’ ‘PUT/DELETE are too hard for most programmers.’ ‘Promises are too hard for most programmers.’
+    I’ve seen ‘most programmers’ rise to the occasion before, I’m sure they can again.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
