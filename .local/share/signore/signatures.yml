@@ -48373,3 +48373,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: I można mówić, prosić, a oni swoje. Jak se zmieniliście kalendarz na juliański,
+    to teraz się nie dziwcie, że macie zimę w kwietniu.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
+  - weather
+  - calendar
