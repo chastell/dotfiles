@@ -48383,3 +48383,13 @@ signatures:
   - pl
   - weather
   - calendar
+- !ruby/struct:Signore::Signature
+  text: |-
+    My favorite todo list app:
+    $ touch ~/Desktop/book-pdx-hotels
+  author: Zach Holman
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
