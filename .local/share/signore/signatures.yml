@@ -20445,6 +20445,7 @@ signatures:
   source: 
   subject: 
   tags:
+  - pl
   - work
 - !ruby/struct:Signore::Signature
   text: |-
@@ -48393,3 +48394,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Today Tom Crayford told me about some code he *liked*. I suggested we start
+    a ‘Yay computers’ meme. Then we both laughed.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
