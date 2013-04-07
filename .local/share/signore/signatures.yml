@@ -48404,3 +48404,10 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Juche Couture
+  author: nrrd
+  source: 
+  subject: 
+  tags:
+  - en
