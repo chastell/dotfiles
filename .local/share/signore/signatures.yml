@@ -48411,3 +48411,92 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: As a kid, I wish I had known that adults are basically just taller idiots.
+  author: Eliza Bayne
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Every time I start to think JavaScript might be a good language, I remember
+    how it sorts arrays and compares values for equality.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: If I could change one thing about Silicon Valley, it would be to make VC =
+    Viet Cong again.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Paris is the Paris of things that other things are the thing of.
+  author: Dan Wineman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'To center a div, you set ‘text-align: center’ on its parent and ‘display:
+    inline-table’ on the div. People do this with a straight face.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - CSS
+- !ruby/struct:Signore::Signature
+  text: 'You haven''t coded in Ruby until you’vSegmentation fault: 11'
+  author: Jessica Kerr
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: You ever wonder why you have just one key with an exclamation mark on it?
+    That’s the amount you can use.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Anyone have experience with the mouse freezing in Ubuntu? My trackpad is becoming increasingly unresponsive, need to restart to fix it.’
+    ‘Recompile your kernel.’
+    ‘Can’t tell if serious or trolling.’
+    ‘Me neither.’
+  author: James Coglan, Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Linux
+  - Ubuntu
+- !ruby/struct:Signore::Signature
+  text: |-
+    λ
+    KEEP CALM
+    and
+    CURRY ON
+  author: Ian Eure
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
