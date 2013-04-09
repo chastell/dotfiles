@@ -48500,3 +48500,20 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Be the meta-narrative you want to see in the world.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Mistyped ‘conundrum’ and autocorrect suggested ‘comonad rum’, which frankly
+    sounds like a really good time.
+  author: Patrick Thomson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
