@@ -48517,3 +48517,21 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'LIFEHACK: I have gotten in the habit of doing all of my day-to-day coding
+    on a whiteboard. When interview time comes, I absolutely kill it.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: asyncs async gonna
+  author: Ari Rizzitano
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
