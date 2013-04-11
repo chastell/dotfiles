@@ -31095,17 +31095,6 @@ signatures:
   - pl
   - copyright
 - !ruby/struct:Signore::Signature
-  text: One of the greatest things about working on OSS is people appreciate your
-    work. Hard to get in proprietary.
-  author: Justin Ko
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - open source
-- !ruby/struct:Signore::Signature
   text: Only after the Internet has been censored, the last civil right eroded, and
     freedom of thought taken away will we realize that the middle ages weren’t actually
     that great.
@@ -48535,3 +48524,23 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: "I hate hipsters.\nTheir smug faces, vegan diet, tiny feet & sawdust bedding.
+    \nNo wait. \nHamsters. I hate hamsters."
+  author: erizabef
+  source: 
+  subject: 
+  tags:
+  - en
+  - hipsters
+- !ruby/struct:Signore::Signature
+  text: when(record).gets(:called, :with => :method).then_it(:should => return_with(:a,
+    :fluent => DSL).that{`&+#{@$`%+NO CARRIER
+  author: David Copeland
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
