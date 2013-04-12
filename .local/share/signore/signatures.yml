@@ -48544,3 +48544,13 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: CVE-2013-1855 is omakase
+  author: shitdhhsays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
