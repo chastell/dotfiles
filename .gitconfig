@@ -9,6 +9,9 @@
 [color]
   ui = auto
 
+[gist]
+  private = true
+
 [github]
   user = chastell
   token = …
