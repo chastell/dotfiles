@@ -14,14 +14,14 @@
   token = …
 
 [help]
-  autocorrect = 1
+  autocorrect = true
 
 [push]
   default = current
 
 [rerere]
-  enabled = 1
+  enabled = true
 
 [user]
-  name = Piotr Szotkowski
   email = chastell@chastell.net
+  name = Piotr Szotkowski
