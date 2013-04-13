@@ -48011,7 +48011,7 @@ signatures:
   - en
   - Twitter
 - !ruby/struct:Signore::Signature
-  text: Going offline in a mo, as we’re having fibre.  After that, I’ll just be able
+  text: Going offline in a mo, as we’re having fibre. After that, I’ll just be able
     to *think* stuff onto the screen, I’m told.
   author: Steven Flower
   source: 
@@ -48554,3 +48554,14 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: Imagine a programming language where triggering a stack overflow doesn’t show
+    a traceback. That language is Ruby. People do work in it.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - progamming
+  - Ruby
