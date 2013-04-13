@@ -14,7 +14,7 @@
 
 [github]
   user = chastell
-  token = …
+  password = …
 
 [help]
   autocorrect = true
