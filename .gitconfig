@@ -3,6 +3,7 @@
   ci = commit
   co = checkout
   lg = log --abbrev-commit --date=relative --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'
+  pr = !sh -c 'git fetch origin pull/$0/head:pr-$0 && git co pr-$0'
   st = status --branch --short
 
 [color]
