@@ -7521,7 +7521,7 @@ signatures:
     are blocked for containing politically incriminating material!
   author: Glenn Greenwald
   source: 
-  subject: 
+  subject: on WikiLeaks
   tags:
   - en
   - politics
@@ -41244,7 +41244,7 @@ signatures:
   - tech
   - IPv6
 - !ruby/struct:Signore::Signature
-  text: At this age I don’t schedule things, I just do them to make sure they actually
+  text: ‘At this age I don’t schedule things, I just do them to make sure they actually
     get done.’ – man who is 95 years old.
   author: Dr Nic
   source: 
@@ -48637,3 +48637,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Remember to try out App.net if you want to use Twitter but only with boring
+    white software developers who don’t have a sense of humor.
+  author: Jon Hendren
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - App.net
