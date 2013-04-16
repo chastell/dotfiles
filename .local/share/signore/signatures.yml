@@ -48647,3 +48647,25 @@ signatures:
   - en
   - tech
   - App.net
+- !ruby/struct:Signore::Signature
+  text: Data stored in simple data formats that you understand. This is the only thing
+    that is safe. Non-programmers have no options, as usual.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    validates :total_price, :numericality => {:only_integer => true }
+    static typing is dum lol we don’t need it
+    I originally wrote ‘integer_only’ instead of ‘only_integer’. It silently swallowed the typo. YEAAAaaaAAAHhhh
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
