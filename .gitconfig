@@ -8,6 +8,9 @@
 [color]
   ui = auto
 
+[diff]
+  algorithm = patience
+
 [gist]
   private = true
 
