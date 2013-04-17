@@ -1,4 +1,5 @@
 [alias]
+  br = branch
   ci = commit
   co = checkout
   lg = log --abbrev-commit --date=relative --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'
