@@ -48669,3 +48669,15 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: Moral certainty is always a sign of cultural inferiority. The more uncivilized
+    the man, the surer he is that he knows precisely what is right and what is wrong.
+    All human progress, even in morals, has been the work of men who have doubted
+    the current moral values, not of men who have whooped them up and tried to enforce
+    them. The truly civilized man is always skeptical and tolerant, in this field
+    as in all others. His culture is based on ‘I am not too sure’.
+  author: H. L. Mencken
+  source: 
+  subject: 
+  tags:
+  - en
