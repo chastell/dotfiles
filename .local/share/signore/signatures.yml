@@ -48681,3 +48681,10 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Shower like nobody is watching.
+  author: OhNoSheTwitnt
+  source: 
+  subject: 
+  tags:
+  - en
