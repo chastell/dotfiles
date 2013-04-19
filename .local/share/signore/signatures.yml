@@ -48688,3 +48688,128 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Heroku uses ActionDispatch::Static to serve files in production’
+    *picks up phone*
+    Hi Ikea I need some new tables
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Heroku
+- !ruby/struct:Signore::Signature
+  text: just use hadoop for your asset pope line
+  author: Tom Crayford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘This would be easier if people stopped building build tools that did *both* CSS and JS. They have different needs.’
+    ‘Yeah, CSS has integers. And JavaScript needs them.’
+  author: James Coglan, Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - CSS
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: '2013: Facebook makes phones, Apple makes maps, Google makes glasses.'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: man from 3 years ago frozen in time and wakes up to discover everyone gave
+    up on using ogg vorbis, screams himself into a coma
+  author: vrunt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ‘I’ before ‘E’ except when there’s a feisty heist on weird beige foreign neighbours
+    reinventing protein at their leisure.
+  author: Lucy Carter
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: |-
+    Oh, job ads: ‘strong desire to problem solve with a keen focus on strategic scope’. Perfect! My focus on strategic scope is the keenest.
+    People are always like ‘that Ben dude is SUPER into strategic scope huh?’
+  author: Ben Orenstein
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    Oh, job ads: ‘strong desire to problem solve with a keen focus on strategic scope’. Perfect! My focus on strategic scope is the keenest.
+    People are always like ‘that Ben dude is SUPER into strategic scope huh?’
+    I use the perfect focus of my strategic scope to hit targets thousands of milestones away.
+  author: Ben Orenstein
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: '#define ASSERT(msg, cond) // TODO'
+  author: John Van Enk
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - C
+- !ruby/struct:Signore::Signature
+  text: |-
+    Customer: Are you ‘gay-friendly’?
+    Bro, we’re so gay-friendly that you could practically adopt our 4 year old Kazakh waiter for £3 an hour.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Silly Con Valley
+  author: Łukasz Korecki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: This week’s ‘Most disturbing class on my classpath’ award goes to… akka.actor.dungeon.TerminatedChildrenContainer
+  author: Matt Russell
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Why does this site default to birthyear 1995? Children shouldn’t – – – oh
+    my gods
+  author: '@0xabad1dea'
+  source: 
+  subject: 
+  tags:
+  - en
