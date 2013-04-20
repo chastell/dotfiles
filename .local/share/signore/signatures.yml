@@ -48813,3 +48813,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: There are no bonus points for programming on hard mode. Shipping software
+    that works as intended is the only goal.
+  author: Jamie Gaskins
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
