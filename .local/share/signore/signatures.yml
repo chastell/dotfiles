@@ -19804,7 +19804,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: ‘A series of regular expressions’? Like, ‘I have a series of problems so I
-    will use a series of regexps’? Now you have O(n^2) problems.
+    will use a series of regexps’? Now you have O(n²) problems.
   author: Rein Henrichs
   source: 
   subject: 
@@ -35524,7 +35524,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If you want something in your life that’s always excited to see you, but you
     don’t like dogs, consider a poorly-placed hot air hand dryer.
-  author: anand Prasad
+  author: Aanand Prasad
   source: 
   subject: 
   tags:
@@ -48823,3 +48823,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: After the Titanic sank, rich people got their revenge by spending the last
+    hundred years melting all the icebergs.
+  author: Mike Drucker
+  source: 
+  subject: 
+  tags:
+  - en
