@@ -48831,3 +48831,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I don’t hear anybody screaming about the 3rd amendment. Or the 16th, which
+    is actually kinda surprising.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
