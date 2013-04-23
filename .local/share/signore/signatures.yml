@@ -48839,3 +48839,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If it walks like an array, and quacks like an array, and you’re in JavaScript,
+    then you still have no idea.
+  author: hjdivad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
