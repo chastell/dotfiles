@@ -48850,3 +48850,11 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: I find a great amount of comfort in the scientific worldview. Once I realized
+    I was not part of the control group so many things made sense.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
