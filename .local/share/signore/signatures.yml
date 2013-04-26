@@ -48869,3 +48869,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'OH: In Soviet Haskell, I/O waits for you.'
+  author: Matt Heitzenroder
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
