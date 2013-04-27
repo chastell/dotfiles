@@ -48879,3 +48879,11 @@ signatures:
   - tech
   - programming
   - Haskell
+- !ruby/struct:Signore::Signature
+  text: What if firemen acted like policemen and just drove around shooting water
+    at anyone who looked like they might catch on fire.
+  author: Nathan Buckley
+  source: 
+  subject: 
+  tags:
+  - en
