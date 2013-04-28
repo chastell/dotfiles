@@ -48887,3 +48887,10 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: delta male
+  author: Łukasz Korecki
+  source: 
+  subject: 
+  tags:
+  - en
