@@ -48894,3 +48894,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Animals are far more terrifying than monsters because A. they are the same
+    thing as monsters and B. they live everywhere around you.
+  author: the ghost of stuart
+  source: 
+  subject: 
+  tags:
+  - en
