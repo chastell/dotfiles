@@ -7388,15 +7388,6 @@ signatures:
   - en
   - religion
 - !ruby/struct:Signore::Signature
-  text: Nie potrafię określić, jak się czuję, ale zamiast zwykłych jajek kupiłam jajka
-    zielonóżki kuropatwianej. Kawy.
-  author: Lilarouge
-  source: 
-  subject: 
-  tags:
-  - pl
-  - coffee
-- !ruby/struct:Signore::Signature
   text: Some people, when confronted with a problem, think, ‘I know, I’ll give up
     Freedom 0’. Now they have two problems.
   author: Mark Pilgrim
@@ -48902,3 +48893,22 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Pinboard API v3 will have just two endpoints, '/symbol' and '/move_tape'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Pinboard
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Have you found your friends on Delicious? Connect with Facebook or Twitter to build your own bookmarking network.’
+    ‘Finding your friends on Delicious is like finding your friends in a burning building.’
+  author: Delicious, Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Pinboard
