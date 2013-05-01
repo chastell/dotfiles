@@ -48912,3 +48912,13 @@ signatures:
   tags:
   - en
   - Pinboard
+- !ruby/struct:Signore::Signature
+  text: North of the Wall we only code in Vim.
+  author: Wojtek Kruszewski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Vim
+  - Game of Thrones
