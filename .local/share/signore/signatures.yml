@@ -48922,3 +48922,22 @@ signatures:
   - tech
   - Vim
   - Game of Thrones
+- !ruby/struct:Signore::Signature
+  text: Just had my first pull request on GitHub merged. He didn’t even comment. Romance
+    is dead.
+  author: Jose Ibanez
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: There should be a summer camp for anti-vaccine parents and their kids, maybe
+    in Borneo.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
