@@ -48941,3 +48941,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Writing ‘good luck’ without an exclamation mark on a colleague’s leaving card,
+    to show just how much you detested their presence.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
