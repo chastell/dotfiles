@@ -48949,3 +48949,10 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: people who can fall asleep quickly freak me out don’t they have thoughts
+  author: Conor Tripler
+  source: 
+  subject: 
+  tags:
+  - en
