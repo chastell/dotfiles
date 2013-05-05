@@ -15826,14 +15826,6 @@ signatures:
   - pl
   - sex
 - !ruby/struct:Signore::Signature
-  text: Na serwisach muzycznych jak piszę, że jestem z Polski, to ludzie pytają, jak
-    mi wysłać jedzienie.
-  author: Mieszko
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: My wife and I, lying in bed, trying to hold hands and being thwarted by our
     matching carpel tunnel wrist splints.
   author: Greg Knauss
@@ -48956,3 +48948,51 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If it walks like an array, and quacks like an array, and you’re in JavaScript,
+    then you still have no idea.
+  author: hjdivad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: ‘We’re sorry, this video is not available in your area. We’re training you
+    to enjoy the convenience of BitTorrenting ad-free content.’
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - copyright
+- !ruby/struct:Signore::Signature
+  text: Artisan, bespoke, farm-to-table JSON.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JSON
+- !ruby/struct:Signore::Signature
+  text: Allow me to donate this slogan to any evanescent startup with no business
+    model beyond acquisition. ‘We’ll make you the star in rm -rf *’
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: 'Of all the terrible comments on HN, this one really takes the cake: ‘I’m
+    a long time user of Times New Roman in Xcode.’'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
