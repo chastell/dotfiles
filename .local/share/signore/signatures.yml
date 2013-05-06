@@ -48996,3 +48996,41 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ♫ take me down to concurrency city where green pretty is grass the girls the
+    and are ♫
+  author: Dana Contreras
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I have become convinced that the authors of CSS positioning originally inhabited
+    a 73-dimensional space. I want to help them return there.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - CSS
+- !ruby/struct:Signore::Signature
+  text: Contemplating violence after seeing ‘de-complect’ used instead of ‘simplify’.
+  author: Glenn Vanderburg
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: ULTRASCHALLSCHRAUBENDREHER FÖRDERN TERRORISMUS UND SIND DIE EINZIGE BRANCHE,
+    DIE STEUERN ZAHLEN SOLLTE! EXTERMINIEREN!
+  author: NEOLIBERALER DALEK
+  source: 
+  subject: 
+  tags:
+  - de
+  - Doctor Who
+  - politics
