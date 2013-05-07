@@ -49034,3 +49034,13 @@ signatures:
   - de
   - Doctor Who
   - politics
+- !ruby/struct:Signore::Signature
+  text: |-
+    Monday, what are you doing?
+    MONDAY.
+    STAHP.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
