@@ -23956,14 +23956,6 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: Never trust any complicated cocktail that remainds perfectly clear until the
-    last ingredient goes in, and then immediately clouds.
-  author: Terry Pratchett
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Jak ktoś ma pecha, to złamie ząb podczas seksu oralnego.
   author: Szymon Sokół
   source: 
@@ -49044,3 +49036,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Sorry, we were unable to load a message from our sponsors.’
+    No worries Hulu. We’ll get though this difficult time together. It’be fine.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - Hulu
