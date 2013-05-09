@@ -3918,15 +3918,6 @@ signatures:
   - pl
   - Pratchett
 - !ruby/struct:Signore::Signature
-  text: Pożegnałem się z dolną szóstką. Dentystka była 2x ode mnie młodsza, 2x lżejsza
-    i 2x bardziej gadatliwa. Czułem potworne nasilenie syndromu sztokholmskiego.
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-  - dentistry
-- !ruby/struct:Signore::Signature
   text: Kiedyś miałem taki pomysł, żeby zrobić serial, który w całości składa się
     z rekurencyjnych „w następnym/poprzednim odcinku”. Ale potem się okazało, że J.
     J. Abrams ukradł mi pomysł i nakręcił Losta.
@@ -9594,15 +9585,6 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Nikt nie zwrócił mi uwagi, że przesłany miesiąc temu raport zawierał tylko
     komunikat błędu z bazy danych. Czyżby nikt ich nie czytał? Nie może być…
-  author: Zuzanka
-  source: 
-  subject: 
-  tags:
-  - pl
-  - work
-- !ruby/struct:Signore::Signature
-  text: Sformułowanie „do zadań zespołu należą wewnętrzne testy penetracyjne” budzi
-    mój niepokój.
   author: Zuzanka
   source: 
   subject: 
@@ -28059,15 +28041,6 @@ signatures:
   - pl
   - museum
 - !ruby/struct:Signore::Signature
-  text: Chcieliśmy opublikować dokumenty kompromitujące władze muzealne w Polsce,
-    ale zorientowaliśmy się, że Twitter nie obsługuje mikrofilmów.
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
-  - museum
-- !ruby/struct:Signore::Signature
   text: Just discovered git rebase --interactive --autosquash. Holy shit. Will never
     again need to do any work.
   author: Tom Stuart
@@ -42637,7 +42610,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: |-
     ‘If you program name software, use my family as some test cases! My name is James Edward Gray II. My wife’s name is Dana Ann Leslie Gray.’
-    ‘I once had a boss at Apple named Eagle Toranaga Marcia Houdini Jean-Luc Von Neuman Bobby Burns.’
+    ‘I once had a boss at Apple named Robert Irwin Berstein Eagle Toranaga Marcia Houdini Jean-Luc Von Neuman Bobby Burns.’
   author: James Edward Gray II, Josh Susser
   source: 
   subject: 
@@ -49039,10 +49012,50 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: |-
     ‘Sorry, we were unable to load a message from our sponsors.’
-    No worries Hulu. We’ll get though this difficult time together. It’be fine.
+    No worries Hulu. We’ll get though this difficult time together. It’ll be fine.
   author: Steve Klabnik
   source: 
   subject: 
   tags:
   - en
   - Hulu
+- !ruby/struct:Signore::Signature
+  text: |-
+    Is it an IRC channel on another network? Is it then name of a Ruby method? Is it an ironic hashtag?
+    <WE MAY NEVER KNOW!>
+  author: Elliott Cable
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - IRC
+  - Twitter
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: What reformers have to understand is that theyre never going to get anywhere
+    without radicals and revolutionaries to betray.
+  author: David Graeber
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘utf8 or gtfo’
+    ‘Accept-Encoding: gtfo/stfu’
+  author: James Coglan, Scott Vokes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - UTF-8
+- !ruby/struct:Signore::Signature
+  text: The shock of lifting an index finger from the steering wheel to thank a fellow
+    driver and not receiving an acknowledgment finger in return.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
