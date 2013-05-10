@@ -49059,3 +49059,19 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: People change and forget to tell each other.
+  author: Lillian Hellman
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: High five if you ever actually had to tune your HIMEM.SYS settings. Down low
+    if you ever used QEMM. Both hands if you even remember NetRoom.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
