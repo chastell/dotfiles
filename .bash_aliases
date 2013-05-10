@@ -1,6 +1,6 @@
 alias a='ack-grep'
-alias backup-to-arthur='offlineimap; fusermount -u ~/.gvfs; rdiff-backup --exclude ~/.cache --print-statistics --verbosity 5 ~ /media/chastell/Arthur/Asus.rdiff'
-alias backup-to-zaphod='offlineimap; fusermount -u ~/.gvfs; rdiff-backup --exclude ~/.cache --print-statistics --verbosity 5 ~ /media/chastell/Zaphod/Asus.rdiff'
+alias backup-to-arthur='offlineimap; rdiff-backup --exclude ~/.cache --print-statistics --verbosity 5 ~ /media/chastell/Arthur/Asus.rdiff'
+alias backup-to-zaphod='offlineimap; rdiff-backup --exclude ~/.cache --print-statistics --verbosity 5 ~ /media/chastell/Zaphod/Asus.rdiff'
 alias be='bundle exec'
 alias beep='play --no-show-progress --null -V0 synth pl C fade 0 0.3'
 alias clive='clive --format best'
