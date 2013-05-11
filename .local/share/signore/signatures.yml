@@ -49075,3 +49075,82 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ‘Would you like to make Internet Explorer your default browser?’ Are you on
+    crack, computer?
+  author: Aaron Levie
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - IE
+- !ruby/struct:Signore::Signature
+  text: The travel agency for my Tunisia trip is named ‘One Way Travel’.
+  author: Charles Nutter
+  source: 
+  subject: 
+  tags:
+  - en
+  - travel
+- !ruby/struct:Signore::Signature
+  text: What idiot named them rap battles instead of diss appointments?
+  author: Gavin Pivott
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Once we colonise other planets, some current uses of the word ‘global’ are
+    going to seem anachronistic and parochial – e.g., ‘global variable’.
+  author: Sam Stokes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Saying ‘I’ve tasted better’, to indicate that every other thing you’ve ever
+    tasted has tasted better.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Incidentally I found out on reliable evidence today you can drive some Googlers
+    insane by calling it ‘Google Glasses’.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Glass
+- !ruby/struct:Signore::Signature
+  text: I tried to use Hadoop once but my data wasn’t big enough.
+  author: Thom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: 'Good fun: trying to log back into your machine after pair programming with
+    a dvorak user.'
+  author: Patrick Huesler
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Lunar Logic can’t apply for an agile audit because team leads are supposed
+    to complete a survey first. We don’t have team leads…
+  author: Paul Klipp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - agile
