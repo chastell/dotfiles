@@ -1943,7 +1943,7 @@ signatures:
   - opera
 - !ruby/struct:Signore::Signature
   text: |-
-    — Czy ktoś tu oglądał „Aavalon”? Słyszałem o nim bardzo skrajne opinie. Jedni twerdzą, że to niesamowite dzieło…
+    — Czy ktoś tu oglądał „Aavalon”? Słyszałem o nim bardzo skrajne opinie. Jedni twierdzą, że to niesamowite dzieło…
     — Mają rację.
     — …inni, że kompletna chała.
     — Również mają rację, nawet bardziej, niż tamci.
@@ -49154,3 +49154,11 @@ signatures:
   - en
   - tech
   - agile
+- !ruby/struct:Signore::Signature
+  text: I’m not in CS because I like computers. It’s that I don’t trust them and want
+    to keep an eye on those fuckers.
+  author: Wm. Caylee Hogg
+  source: 
+  subject: 
+  tags:
+  - en
