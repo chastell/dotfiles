@@ -5922,16 +5922,6 @@ signatures:
   - work
   - relationships
 - !ruby/struct:Signore::Signature
-  text: Ze startupów zgłoszonych do Startup Fest najbardziej zauroczył mnie hellbuzz.com
-    i hasło w JS.
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-  - tech
-  - JavaScript
-- !ruby/struct:Signore::Signature
   text: Korporacja. Praca jest bezpieczna, ale łatwo się zabić.
   author: elpanda
   source: 
@@ -23301,14 +23291,6 @@ signatures:
   text: Ta akcja była piękna - drybling przez całe boisko, piwot, to zawieszenie przeciwnika
     w koszu – fantastyczne!
   author: Włodzimierz Szaranowicz
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
-  text: Czasem jest tak, że spotka się dwóch zawodników i łódka zaczyna płynąć.
-  author: Ryszard Stadniuk
   source: 
   subject: 
   tags:
@@ -49162,3 +49144,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ‘You either die a Jerry or live long enough to see yourself become Tom.’
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - Tom and Jerry
