@@ -23565,22 +23565,6 @@ signatures:
   - en
   - politics
 - !ruby/struct:Signore::Signature
-  text: To jest zawodniczka, która z karabinem potrafi zrobić wszystko.
-  author: Jacek Kosmatko
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
-  text: A Karolak ma na imię Piotr, za co przepraszamy.
-  author: Krzysztof Hołyński
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
   text: Nie będę komentował tego zagrania, ale zdarza się najlepszym.
   author: Andrzej Zydorowicz
   source: 
@@ -49152,3 +49136,12 @@ signatures:
   tags:
   - en
   - Tom and Jerry
+- !ruby/struct:Signore::Signature
+  text: If you have time to debate on message boards whether ‘startup’ entails ‘seeking
+    rapid growth’, the answer is never going to affect you.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
