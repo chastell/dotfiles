@@ -49145,3 +49145,91 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Imperative shell, jisx0301 core.
+  author: Thom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: People don’t believe Lord of the Rings actually happened, which is an insult
+    to the people of New Zealand and its admittedly bizarre history.
+  author: Dave Callan
+  source: 
+  subject: 
+  tags:
+  - en
+  - Lord of the Rings
+- !ruby/struct:Signore::Signature
+  text: Like the Wehrmacht, I have arrived in Warsaw earlier than expected and feeling
+    great.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Pretend like you’re twenty years older and got the option to go back in time
+    and re-live the previous twenty years: go.'
+  author: Mary Kobayashi
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Two style tips:
+    1. If part of your ‘bittersweet’ announcement is that you’re deleting everyone’s data, then it’s just regular ‘bitter’.
+    2. Fuck you for selling out if you pretended to be a business and asked people to rely on you for long-term storage of their data.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Using my Mac to make an Ubuntu install DVD. Would make the Win 8 box dig its
+    own grave but it already broke the handle off its toy shovel.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ubuntu
+  - Windows
+  - OS X
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Looking forward to the next Ubuntu release, Suffering Sysadmin.’
+    ‘I’m still on Nervous Neckbeard.’
+  author: Pinboard, Samuel Wade
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ubuntu
+- !ruby/struct:Signore::Signature
+  text: 'My Windows 8 review: Startup. Scream. Click ‘Desktop’. Sigh and relax. Hit
+    Windows key. Scream.'
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Windows 8
+- !ruby/struct:Signore::Signature
+  text: 'OH: The point at which you’re recompiling Bash is the point at which you
+    should realize you’ve made some poor life decisions.'
+  author: Pete Cheslock
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Bash
