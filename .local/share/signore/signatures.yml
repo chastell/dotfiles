@@ -49233,3 +49233,13 @@ signatures:
   - en
   - tech
   - Bash
+- !ruby/struct:Signore::Signature
+  text: It’s a twisted cosmic joke that in order to shave a yak one must first forge
+    a razor from scratch.
+  author: fogus
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
