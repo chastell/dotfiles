@@ -49243,3 +49243,73 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Aw, what a way to cap off a big day. I just got a response to a FOIA request
+    I sent the FBI in 2006. 743 pages, every one withheld in full.
+  author: Marcia Hofmann
+  source: 
+  subject: 
+  tags:
+  - en
+  - FBI
+- !ruby/struct:Signore::Signature
+  text: 3 year old pulls magazine rack down onto herself, panic and tears, mother’s
+    first reaction is a spanking. Sometimes I love Poland.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: Sometimes, I want to troll about something, but I know the person involved
+    and don’t want to hurt their feelings. Must have fewer friends.
+  author: Thom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘If I had three cats I’d name them Marxism, Leninism, and Meowism.’
+    ‘The other night I had a dream that you rewrote Lean In as Lenin.’
+  author: Steve Klabnik, Ashe Dryden
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some of my unborn children are insufferable teenagers by now. ‘I didn’t ask
+    to be born!’ And so you weren’t, you little shit.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - parenting
+- !ruby/struct:Signore::Signature
+  text: As a user, I would like to use the back button in my browser.
+  author: Dan Williams
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: 'US law in a nutshell: ‘The term commodity means wheat, cotton, rice, corn,
+    […26 more…] and all other goods and articles, except onions.’'
+  author: Patrick Collison
+  source: 
+  subject: 
+  tags:
+  - en
+  - law
+- !ruby/struct:Signore::Signature
+  text: Speeding up to pass a pavement hog, then feeling you must keep up the uncomfortably
+    fast pace until at least a mile away.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
