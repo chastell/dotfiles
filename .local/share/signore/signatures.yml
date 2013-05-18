@@ -49313,3 +49313,72 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'Remember kids: GOOG is the new MSFT. Don’t get involved.'
+  author: Sarah Mei
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google
+- !ruby/struct:Signore::Signature
+  text: Bringing out the three-step jog across the forecourt, to show you’ll be paying
+    for your petrol as soon as humanly possible.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    I get about one email a week asking what happens if I die. Susie, the world’s greatest philosophers and thinkers can’t answer that!
+    I do know that people are more likely to mourn and remember me if I take all their data to Heaven.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I could probably make a fair bit of money on Twitter by opening a dozen parentheses
+    and having followers ‘sponsor’ me to close them.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: Looking away so violently as someone nearby enters their PIN that you accidentally
+    dislocate your neck.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: What middle class first and foremost means is, if you see a policeman, do
+    you feel safer, or do you feel less safe?
+  author: David Graeber
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Ray Kurzweil ate a tab of amazing acid one sunny day in 1973 and tech talk
+    audiences have been paying the price ever since.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The greatest trick the devil ever pulled was convincing the world that JavaScript
+    is ‘fast’, ‘functional’ and ‘not that bad’.
+  author: Phill MV
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
