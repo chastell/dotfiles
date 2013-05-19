@@ -49382,3 +49382,10 @@ signatures:
   - en
   - tech
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: 'Comic book request: Doctor Panzerfaustus.'
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
