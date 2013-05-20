@@ -49389,3 +49389,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: The hyper-local, artisanal slow software movement. Single origin git repositories
+    only.
+  author: Dan Fried
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
