@@ -49399,3 +49399,66 @@ signatures:
   - en
   - tech
   - Git
+- !ruby/struct:Signore::Signature
+  text: I am personally going to deny cyborg enhancements to any dude I catch telling
+    women they can’t do what they want to their own bodies.
+  author: rstevens 3.01
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Free cop show plots:
+    • perp immediately turns himself in
+    • entire dept. quits
+    • detective can’t find case file anywhere
+    • no crime that week
+  author: blake
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Inviting someone to a party, then providing a list of reasons not to come
+    in case they don’t fancy it.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I asked the audience how many people wanted to be happy and fulfilled, and
+    half the hands went up.  This is another reason I love Poland.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Poland
+- !ruby/struct:Signore::Signature
+  text: Ceiling Dijkstra is watching you JavaScript.
+  author: Brian McKenna
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Startup culture is only interested in the glass ceiling to the extent it allows
+    them to take upskirt photos.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Think of it as juicing an ugly fruit.
+  author: 
+  source: Oglaf
+  subject: 
+  tags:
+  - en
+  - sex
