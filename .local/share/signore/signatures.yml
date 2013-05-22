@@ -25694,8 +25694,10 @@ signatures:
   - games
 - !ruby/struct:Signore::Signature
   text: |-
-    Kto znieważy carbonarę ordynarnie, bez pardonu,
-    Ten durszlakiem zbierze cięgi w Polskiej Izbie Makaronu.
+    Kto znieważy carbonarę
+    ordynarnie, bez pardonu,
+    ten durszlakiem zbierze cięgi
+    w Polskiej Izbie Makaronu.
   author: Foochatek
   source: 
   subject: 
@@ -43970,7 +43972,7 @@ signatures:
   - AWS
 - !ruby/struct:Signore::Signature
   text: My favorite AWS status is the green marker with little ‘info’ icon next to
-    it. An outage is just a form of uptime you don't understand yet.
+    it. An outage is just a form of uptime you don’t understand yet.
   author: Pinboard
   source: 
   subject: 
@@ -49462,3 +49464,18 @@ signatures:
   tags:
   - en
   - sex
+- !ruby/struct:Signore::Signature
+  text: Pretty cool how every calendar says ‘W T F’ at the top, how do they know.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The anxious bewilderment when clocking the stranger deciding to join the queue
+    at your side rather than behind you.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
