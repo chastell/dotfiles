@@ -49479,3 +49479,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'Colleague telling other colleague he triple quotes: ‘Just one character but
+    three quotes. You have to use both shift keys.’'
+  author: Mike MacCana
+  source: 
+  subject: 
+  tags:
+  - en
+  - typography
