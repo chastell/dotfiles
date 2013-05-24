@@ -49488,3 +49488,21 @@ signatures:
   tags:
   - en
   - typography
+- !ruby/struct:Signore::Signature
+  text: ‘Copying and pasting requires the free Google Drive web app.’ No it doesn’t.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: What you must understand is that Git is a sharp knife and the handle is also
+    a knife, and each side contains more knives, fractally.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
