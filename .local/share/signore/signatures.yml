@@ -16530,14 +16530,6 @@ signatures:
   - pl
   - relationships
 - !ruby/struct:Signore::Signature
-  text: 'Ostatnio rozkminiałem czy są kameleony daltoniści. Kładziesz go na zielonym
-    – a on jeb: czerwony.'
-  author: chudy
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: 'Freelancer na pytanie „kiedy w końcu kurwa będzie zrobione?” odpowiada: „nie
     wiem kiedy, w tygodniu nie ma opcji chyba, a w weekend zależy od pogody”.'
   author: Jacek Karaszewski
@@ -17369,13 +17361,6 @@ signatures:
   - en
   - tech
   - PAM
-- !ruby/struct:Signore::Signature
-  text: Ale się wczoraj dobrze bawiłem, opowiadają mi właśnie…
-  author: BiQ
-  source: 
-  subject: 
-  tags:
-  - pl
 - !ruby/struct:Signore::Signature
   text: No, ja wiem, wygrzewanie kabla ma znaczenie, odkurzacz na takim kablu lepiej
     oddaje środek z delikatnym podkreśleniem góry na częstotliwości stojanów silnika.
@@ -49506,3 +49491,10 @@ signatures:
   - en
   - tech
   - Git
+- !ruby/struct:Signore::Signature
+  text: You can’t spell DRM without ‘oh for fuck’s sake’.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
