@@ -25074,16 +25074,6 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: |-
-    — A znacie pozycję „na kruka”?
-    — Na kruka, powiadasz…
-  author: Malgorzatta, Mariusz Kruk
-  source: pl.soc.seks.moderowana
-  subject: 
-  tags:
-  - pl
-  - sex
-- !ruby/struct:Signore::Signature
   text: 'Przychodzi informacja o awarii w Czernobylu, a jakaś staruszka na to: „tak,
     tak, w dobrach u Sapiehów zawsze był bałagan”. Podobno autentyczne.'
   author: Paweł Pluta
@@ -49498,3 +49488,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If data have structure store Postgres. If data no have structure store Hadoop.
+    If data no have value store Mongo.
+  author: Big Data Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - PostgreSQL
+  - Hadoop
+  - MongoDB
