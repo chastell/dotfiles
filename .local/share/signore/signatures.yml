@@ -25378,15 +25378,6 @@ signatures:
   - pl
   - cinematography
 - !ruby/struct:Signore::Signature
-  text: Słuchajcie, a naprawdę jest jakieś duszpasterstwo dziennikarzy? I każda grupa
-    zawodowa ma swoje? Chciałbym kiedyś posłuchać z ciekawości mszy dla programistów.
-  author: Wojciech Orliński
-  source: pl.rec.fantastyka.sf-f
-  subject: 
-  tags:
-  - pl
-  - religion
-- !ruby/struct:Signore::Signature
   text: Ja natomiast przesyłam energię za pośrednictwem Internetu. Kto ze mną dyskutuje
     ten dostaje dużo energii, śmiałości, zadowolenia i czuje się swietnie.
   author: Expert
@@ -45381,7 +45372,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: |-
     ‘A true gauge of performance is whether our customers would recommend us to others. Are we living up to our promise of Fanatical Support®?’
-    Rackspace support so fanatical® that they ask me how they’re doing even though I don’t use their service.
+    Rackspace support is so fanatical® that they ask me how they’re doing even though I don’t use their service.
   author: Pinboard
   source: 
   subject: 
@@ -49500,3 +49491,24 @@ signatures:
   - PostgreSQL
   - Hadoop
   - MongoDB
+- !ruby/struct:Signore::Signature
+  text: |-
+    (•_•)
+    <)  )╯ all the Smalltalk coders
+     /  \
+     
+     (•_•)
+    \(  (> all the Smalltalk coders
+     /  \
+     
+    (•_•)
+    <)  )╯ OOP OOP OOP
+     /  \
+  author: James Ladd
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
