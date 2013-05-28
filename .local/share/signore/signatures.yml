@@ -49512,3 +49512,72 @@ signatures:
   - tech
   - programming
   - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: Email from historious warning my data will be deleted because I haven’t logged
+    in for a while. This is why I don’t stress about competitors.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: P = NP if N = 1.
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+  - math
+- !ruby/struct:Signore::Signature
+  text: (![]+[])[+[]]+(![]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]];
+  author: Marcus Lagergren
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘YOU WOULDN’T DOWNLOAD A CAR’
+    ‘Pretty sure I would.’
+    ‘YOU WOULDN’T DOWNLOAD A ZOO’
+    ‘Holy fuck that sounds awesome!’
+  author: TechnicallyRon
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Genders are like cars, everyone keeps telling me I abso need one and I keep
+    going ‘I LIVE IN SAN FRANCISCO’
+  author: Okay so I like bears
+  source: 
+  subject: 
+  tags:
+  - en
+  - gender
+- !ruby/struct:Signore::Signature
+  text: 'OH: If I was in a room with Stalin, Hitler, the Rails asset pipeline, and
+    a gun with 2 bullets, I’d shoot the asset pipeline and then myself.'
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
+  - asset pipeline
+- !ruby/struct:Signore::Signature
+  text: Telling an atheist they can get into heaven is like telling a vegan they can
+    eat a unicorn.
+  author: Tony T
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - atheism
