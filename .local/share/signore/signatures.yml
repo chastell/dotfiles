@@ -49581,3 +49581,13 @@ signatures:
   - en
   - religion
   - atheism
+- !ruby/struct:Signore::Signature
+  text: kurde, jakie to w ogóle są czadowe zwierzęta. całe ciuchy w ćwiekach i wpierdalają
+    mięso, głównie w formie owadów nielubianych przez człowieka. totalnie zostałem
+    fanem!
+  author: Tomash
+  source: 
+  subject: o jeżach
+  tags:
+  - pl
+  - hedgehogs
