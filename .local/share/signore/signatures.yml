@@ -49591,3 +49591,99 @@ signatures:
   tags:
   - pl
   - hedgehogs
+- !ruby/struct:Signore::Signature
+  text: When a German dives into a sentence, you won’t see him again until he emerges
+    at the other end with the verb between his teeth.
+  author: Mark Twain
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: And this, of course, evaluates to the string ‘fail’. (![]+[])[+[]]+(![]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]];
+  author: Marcus Lagergren
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: unit tests – AND SO CAN YOU
+  author: CommitsFromLastNight
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: 'Hobby: creating bug tickets, waiting for people to find out about my home
+    directory – which happens to contain spaces, stars and newlines.'
+  author: Michael Grünewald
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Did you fight in the GIF wars, Grandpa?’
+    ‘Sure did son, I straight punched a jiffer in the face, soft J my ass! “It ain’t JRAPHICS!” I yelled.’
+  author: Dan Carrol
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GIF
+- !ruby/struct:Signore::Signature
+  text: I was once sent a huge word corpus by Brian Whitman in plain text format and
+    now it shows up in every single search I do in GMail. ♥
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - GMail
+- !ruby/struct:Signore::Signature
+  text: |-
+    Pinboard-themed brunch in Stockholm this Saturday. Your chance to explain to me how sugar-cured herring is not a crime against humanity.
+    You know what sugar-curing cures herring of? It cures it of being edible.
+    ‘Hey, let’s sit out the Second World War and also turn the tastiest fish in the sea into an abomination before God!’ – guess who.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Sweden
+- !ruby/struct:Signore::Signature
+  text: Dear all websites ever. My day phone is my evening phone is my home phone
+    is my cell phone. Sincerely, 2013
+  author: Corrin Foster
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The easiest way to vertically center something in CSS is to close your laptop
+    and go to the bar.
+  author: Ben Bleikamp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - CSS
+- !ruby/struct:Signore::Signature
+  text: There _is_ a shadowy cabal of powerful men who kill people with the weather.
+    They’re called climate change deniers.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - climate
