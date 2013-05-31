@@ -6401,17 +6401,6 @@ signatures:
   - pl
 - !ruby/struct:Signore::Signature
   text: |-
-    — Najstraszniejsza rzecz jaką widziałeś?
-    — Niewymierność w mianowniku.
-  author: Tosia, Kower
-  source: 
-  subject: 
-  tags:
-  - pl
-  - science
-  - mathematics
-- !ruby/struct:Signore::Signature
-  text: |-
     wiersze bez rymu,
     życie bez planu, kropki bez i.
   author: Miłosz Biedrzycki
@@ -40781,16 +40770,6 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: Loved it when Github used to say ‘hardcore forking action…’ $100M in funding
-    later it says ‘forking repository’.
-  author: Julia H. Grace
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - GitHub
-- !ruby/struct:Signore::Signature
   text: So the Jesus lovers protesting at Comic Con are angry because it’s a sin to
     celebrate fantastical stories with mythical heroes? Hm.
   author: Simon Helberg
@@ -49687,3 +49666,54 @@ signatures:
   tags:
   - en
   - climate
+- !ruby/struct:Signore::Signature
+  text: The umlaut mines in Pomerania are the oldest in the world, active since Hanseatic
+    times. Sadly the market is flooded with cheaper diaereses.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: Tuesday. Rain everywhere. Your boss is being a dick because deep down he hates
+    his genitals. Cheer up, douchebag. Treat yourself to a kebab.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: People look horrified when I describe the various ways a cat can severely
+    injure a toddler, mostly because I’m laughing the whole time.
+  author: Damn Dirty Ape
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Danish washing machine has a ‘cowboytøj’ setting and a little green light
+    marked SLUT.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: '*sea captain violently shakes first mate* WAKE UP MATEY THE KRAKEN IS UPON
+    US ‘What’s a kraken sir!?’ NOT MUCH WHATS A-CRACKIN’ WITH U'
+  author: zachary
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I wish more people would implement exponential fuckoff.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
