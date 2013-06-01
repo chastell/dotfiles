@@ -49717,3 +49717,62 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Code is like poetry; most of it shouldn’t have been written.
+  author: David Jacobs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I did’t choose debug life. Debug life chose me.
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Come to think of it, the French Revolution was just one big, long hackathon.
+  author: Evgeny Morozov
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Pick up artists and garbage men should switch names.
+  author: Ceej
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Looking into having your hands surgically removed after waving at someone
+    who was waving at someone behind you.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: '12 smoke alarms, interconnected. One battery dies, they all chirp. 12 9V
+    batteries: $18. Box of shotgun shells: $6. Just thinking out loud.'
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Free startup idea: a machine that shocks web developers whenever they make
+    a DOM event take more than 50 ms to complete.'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
