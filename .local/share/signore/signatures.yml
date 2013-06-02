@@ -49776,3 +49776,31 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I love how last night’s tough problem turns into this morning’s clever trick.’
+    ‘Usually it’s the other way around.’
+  author: Kent Beck, Josh Susser
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: It’s weird that pirates would go from shore to shore looking for buried treasure
+    when the real treasure was in the friendship they were making.
+  author: swasdicka
+  source: 
+  subject: 
+  tags:
+  - en
+  - pirates
+- !ruby/struct:Signore::Signature
+  text: What if car horns are just cars’ G-Spots and their honks are screams of pleasure?
+  author: lou-zer
+  source: 
+  subject: 
+  tags:
+  - en
+  - cars
