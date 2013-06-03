@@ -49804,3 +49804,30 @@ signatures:
   tags:
   - en
   - cars
+- !ruby/struct:Signore::Signature
+  text: |-
+    My Mexican waiter put my food down in front of another white lady who looked nothing like me. I get it now.
+    Oh wait that’s not my waiter.
+  author: Adrienne Airhart
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Sweet dreams are made of cheese, who am I to diss a Brie.
+  author: Anna-Siobhan Wilcox
+  source: 
+  subject: 
+  tags:
+  - en
+  - cheese
+  - music
+- !ruby/struct:Signore::Signature
+  text: The point of a strong Polish military is so we can go down to an honorable
+    defeat, rather than surrendering a week earlier with no losses.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - Poland
