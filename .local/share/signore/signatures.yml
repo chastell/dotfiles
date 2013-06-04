@@ -5131,15 +5131,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Popatrzmy na to inaczej… Policzkowanie gościa z Samoobrony jest chamstwem
-    i prostactwem. Kulturalny człowiek kazałby stangretowi wybatożyć kmiota.
-  author: Darek
-  source: 
-  subject: pl.pregierz
-  tags:
-  - pl
-  - politics
-- !ruby/struct:Signore::Signature
   text: Zalogowałem się przez SSH do tabletu w kieszeni żeby ściszyć muzykę, która
     gra przez słuchawki.
   author: opi
@@ -11881,15 +11872,6 @@ signatures:
   - tech
   - PostgreSQL
 - !ruby/struct:Signore::Signature
-  text: ☑ Saddam Hussein ☑ Osama Bin Laden ☐ Internet Explorer.
-  author: Filip Tepper
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Internet Explorer
-- !ruby/struct:Signore::Signature
   text: We used to think that if we knew one, we knew two, because one and one are
     two. We are finding that we must learn a great deal more about ‘and’.
   author: Sir Arthur Eddington
@@ -15694,16 +15676,6 @@ signatures:
   tags:
   - en
   - religion
-- !ruby/struct:Signore::Signature
-  text: Before dotProject, it was sex and drugs and rock ’n’ roll… Now it’s just the
-    drugs.
-  author: 
-  source: dotProject T-shirt
-  subject: 
-  tags:
-  - en
-  - tech
-  - dotProject
 - !ruby/struct:Signore::Signature
   text: Women are about as likely to cuss as men – don’t do a double-take if you cuss
     in front of a woman. If she’s read any of the kernel code (notably arch/sparc/),
@@ -22256,15 +22228,6 @@ signatures:
   subject: 
   tags:
   - en
-- !ruby/struct:Signore::Signature
-  text: Dzięki uprzejmości panów murarzy za oknem, przerobiłam hity tego lata. Większość
-    znam już na pamięć, a co więcej i gorzej niektóre podśpiewuję.
-  author: Karolina Grodecka
-  source: 
-  subject: 
-  tags:
-  - pl
-  - music
 - !ruby/struct:Signore::Signature
   text: Feeling lazier than the guy who made the Polish flag.
   author: 
@@ -49831,3 +49794,12 @@ signatures:
   tags:
   - en
   - Poland
+- !ruby/struct:Signore::Signature
+  text: 'One thing I’ve learned in running interviews: skip the horseshit CS puzzles
+    and just pair program. Did you laugh and get things done? Hire.'
+  author: Alan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
