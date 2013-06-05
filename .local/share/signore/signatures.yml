@@ -16261,14 +16261,6 @@ signatures:
   - pl
   - chaos
 - !ruby/struct:Signore::Signature
-  text: Kiedy wyciągnąłem odkurzacz to roztocza poumierały ze zdziwienia.
-  author: adaś
-  source: 
-  subject: 
-  tags:
-  - pl
-  - chaos
-- !ruby/struct:Signore::Signature
   text: Jesus loves you. And look what happened to him.
   author: Marduk Kurios
   source: 
@@ -22541,15 +22533,6 @@ signatures:
   tags:
   - pl
   - cinematography
-- !ruby/struct:Signore::Signature
-  text: Zawsze, gdy mówię słowo „megalomania”, to mam ten dreszczyk emocji, czy nie
-    nazwę kogoś wielbicielem muzyki…
-  author: Ania
-  source: 
-  subject: 
-  tags:
-  - pl
-  - linguistics
 - !ruby/struct:Signore::Signature
   text: 'Smith & Wesson: The original point and click interface.'
   author: 
@@ -49803,3 +49786,51 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ‘Tourists Go Home’ graffiti in Barcelona. Choosing to read it as a wistful
+    observation, rather than a redundant instruction.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Web designers: that thing where a little box pops up in the lower right corner
+    when I scroll to the bottom of the article? Don’t do that.'
+  author: Matthew Skala
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: MongoDB VP describes MySQL co-founder as ‘technical mastermind’, irony black
+    hole consumes the world.
+  author: Thom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MongoDB
+  - MySQL
+- !ruby/struct:Signore::Signature
+  text: Dreaming of the day when Polish shopkeepers stop treating coins as a precious
+    life force to be hoarded at all costs.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - Poland
+- !ruby/struct:Signore::Signature
+  text: MOST SCALA CODES READS LIKE HASKELL FANFIC!!!
+  author: PLT HULK
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Skala
+  - Haskell
