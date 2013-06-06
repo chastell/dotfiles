@@ -17569,15 +17569,6 @@ signatures:
   - food
   - tofu
 - !ruby/struct:Signore::Signature
-  text: Thousands of years ago the Egyptians worshipped cats as gods. Cats have never
-    forgotten this.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - cats
-- !ruby/struct:Signore::Signature
   text: There is no nonsense so gross that society will not, at some time, make a
     doctrine of it and defend it with every weapon of communal stupidity.
   author: Robertson Davies
@@ -49834,3 +49825,19 @@ signatures:
   - programming
   - Skala
   - Haskell
+- !ruby/struct:Signore::Signature
+  text: The easiest religion to troll is Atheism.
+  author: Marttin Wefail
+  source: 
+  subject: 
+  tags:
+  - en
+  - atheism
+- !ruby/struct:Signore::Signature
+  text: 'Things that would have blown my child mind: there will be a space station
+    too lame to talk about, and Star Wars movies too lame to see.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
