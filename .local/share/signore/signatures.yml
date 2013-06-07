@@ -22437,14 +22437,6 @@ signatures:
   - pl
   - museums
 - !ruby/struct:Signore::Signature
-  text: IPN, PKP i Poczta Polska – te trzy instytucje psuja wizerunek polskiego muzealnictwa.
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
-  - museums
-- !ruby/struct:Signore::Signature
   text: Hipsterjugend.
   author: Filip Tepper
   source: 
@@ -27818,15 +27810,6 @@ signatures:
   - pl
   - education
   - Staszic
-- !ruby/struct:Signore::Signature
-  text: Twoja twarz kiedy dowiadujesz się, że Guns N’ Roses wystąpi w Polsce. Na Stadionie
-    Miejskim. W Rybniku.
-  author: czerski
-  source: 
-  subject: 
-  tags:
-  - pl
-  - music
 - !ruby/struct:Signore::Signature
   text: Don’t shoot, it’s me.
   author: 
@@ -49841,3 +49824,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: We used to go to Hackers On Planet Earth to learn about memory management
+    and process scheduling, but now we have no HOPE, no cache, and no jobs.
+  author: Paul Ford
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
