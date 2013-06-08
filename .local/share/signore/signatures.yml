@@ -25001,17 +25001,6 @@ signatures:
   - pl
 - !ruby/struct:Signore::Signature
   text: |-
-    — Być może to uzmysłowi Panu Tomaszowi Surmaczowi, że nie jest panem i władcą polskich grup Usenetu.
-    — A kto to jest ten Surmacz?
-    — Pan i władca polskich grup Usenetu.
-  author: Maciek Uhlig, Harry, Paweł Pluta
-  source: pl.internet.polip
-  subject: 
-  tags:
-  - pl
-  - Usenet
-- !ruby/struct:Signore::Signature
-  text: |-
     — Irak nie jest w stanie sam się wyżywić.
     — Podobnie jak Korea Płn. Tylko widzisz, trzeba sie zdecydować. Albo krzyczymy „Pomocy!”, albo krzyczymy „Wy sk…!”. Na okrzyki „Pomocy wy sk…!” ja osobiście reaguję negatywnie.
   author: Robert, Stanisław Witold Czarnecki
@@ -25079,18 +25068,6 @@ signatures:
   tags:
   - pl
   - Usenet
-- !ruby/struct:Signore::Signature
-  text: |-
-    — Krótki opis: Grupa dyskusyjna fanów skoków narciarskich.
-    — Jakiś bardziej pomysłowy krótki opis by się przydał…
-    — MAŁYSZ GUROM! SCHMIDT PARÓWA!
-  author: Tadeusz, Jarek Hirny, Asia Jędrychowska
-  source: pl.news.nowe-grupy
-  subject: dyskutując o ewentualnej grupie pl.rec.sport.skoki
-  tags:
-  - pl
-  - Usenet
-  - sport
 - !ruby/struct:Signore::Signature
   text: |-
     — Czasami słyszę jakiś dziwny dźwięk z przodu samochodu. Dźwięk pojawia się przy dużej prędkości – powyżej 110 km/h ale nie zawsze – nie wiem od czego to zależy. Dźwięk jest wysokiej częstości, bardzo cichutki, czasami przypomina syczenie.
@@ -49833,3 +49810,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: My new hero is the girl on the bus who, when told to smile by a creeper dude,
+    propped up the corners of her mouth with both middle fingers.
+  author: matt
+  source: 
+  subject: 
+  tags:
+  - en
