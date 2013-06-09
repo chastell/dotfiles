@@ -49818,3 +49818,38 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Can’t believe the people who force-feed prisoners held without trial and operate
+    secret torture facilities would snoop on my Facebook feed.
+  author: Maciej Cegłowski
+  source: 
+  subject: on NSA
+  tags:
+  - en
+  - NSA
+- !ruby/struct:Signore::Signature
+  text: wiecie, że jedna firma może być jednocześnie Gazelą Biznesu i Gepardem BIznesu?
+    dziwneto.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: „Nie będę miał wakacji, ale nie żałuję. Dla mnie to coś nowego. Wyzwanie —
+    przyznał Jędrzejczyk, który ma zarabiać około 100 tys. euro miesięcznie.”
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: |-
+    omg, nowy mbank
+    learning kurwe mnie czeka
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - mBank
