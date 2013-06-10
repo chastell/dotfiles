@@ -49853,3 +49853,49 @@ signatures:
   tags:
   - pl
   - mBank
+- !ruby/struct:Signore::Signature
+  text: 'BREAKING: To combat the storage of information on US citizens, 10gen have
+    offered the NSA a free MongoDB installation and support contract.'
+  author: Hacker News Tips
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - NSA
+  - MongoDB
+- !ruby/struct:Signore::Signature
+  text: In democratic USA TV watches you.
+  author: Adrian Pacała
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I see you smiling at each other, construction workers. Looks like what you’re
+    really building on this beautiful sunny day… is a friendship.
+  author: Søren Twerkegaard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘Unlike all the other sciences, math…’ STOP RIGHT THERE YOU’RE ARRESTED FOR
+    CRIMES AGAINST THINKING
+  author: Thom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - science
+  - math
+- !ruby/struct:Signore::Signature
+  text: jak mam być miły, skoro niemiły dla mnie jest styczeń, luty, marzec, kwiecień,
+    maj, czerwiec, lipiec, październik, listopad i grudzień?
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
