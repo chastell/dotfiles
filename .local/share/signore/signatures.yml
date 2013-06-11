@@ -821,15 +821,6 @@ signatures:
   - en
   - food
 - !ruby/struct:Signore::Signature
-  text: 'Google Trends says CiviCRM is as popular as blueberry pancakes. Woo! Next
-    up: waffles!'
-  author: Wes Morgan
-  source: 
-  subject: 
-  tags:
-  - en
-  - CiviCRM
-- !ruby/struct:Signore::Signature
   text: My get-up-and-go has got up and gone.
   author: Tim Bray
   source: 
@@ -11888,16 +11879,6 @@ signatures:
   tags:
   - en
   - religion
-- !ruby/struct:Signore::Signature
-  text: If Usenet is anarchy, IRC is a paranoid schizophrenic after six days on speed.
-  author: Chris Saunderson
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - IRC
-  - Usenet
 - !ruby/struct:Signore::Signature
   text: The people inovlved in the crypto debate are all intelligent, honorable and
     pro-escrow, but they never possess more than two of these qualities at once.
@@ -49899,3 +49880,50 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: ruby -e 'def a;10.times{puts " "*rand(79)+"*"};end;99.times{a;puts " "*34+"Happy
+    New Year";a;sleep 0.1;puts "\e[2J"}'
+  author: Camille Roux
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Obama says ‘Nobody is listening to your telephone calls’. That’s some cold
+    shit to say, Obama!
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Sometimes we know what we have to do, but we lack the courage to do it. Let us learn from Mary how to make decisions, trusting in the Lord.’
+    ‘Not like Mary had much of a choice after the Lord got her up the duff, is it mate?’
+  author: Pope Francis, Thom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: At least designers must have a clear conscience as it seems the NSA doesn’t
+    employ any.
+  author: Andrew White
+  source: 
+  subject: 
+  tags:
+  - en
+  - NSA
+- !ruby/struct:Signore::Signature
+  text: BIRDS. Stand closer together at dawn. That way you won’t have to fucking shout.
+  author: The Bath Bird
+  source: 
+  subject: 
+  tags:
+  - en
+  - birds
