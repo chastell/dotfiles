@@ -49927,3 +49927,14 @@ signatures:
   tags:
   - en
   - birds
+- !ruby/struct:Signore::Signature
+  text: The Smalltalk stepping debugger appeared in 1976. Soon we can celebrate the
+    40th anniversary of not having caught up.
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
