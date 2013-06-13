@@ -23085,16 +23085,6 @@ signatures:
   - en
   - HHGG
 - !ruby/struct:Signore::Signature
-  text: Gdyby nie skłonność do zapisania bramki na swoje konto, Milan mógł prowadzić
-    już 3:1.
-  author: Dariusz Szpakowski
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-  - football
-- !ruby/struct:Signore::Signature
   text: Mówię państwu, to jest naprawdę niezwykła dziewczyna. Dwie ostatnie noce spędziła
     poza wioską.
   author: Włodzimierz Szaranowicz
@@ -26535,16 +26525,6 @@ signatures:
   tags:
   - en
   - poetry
-- !ruby/struct:Signore::Signature
-  text: Grupa pl.rec.zwierzaki, tak samo zresztą jak inne grupy w hierarchii pl.*,
-    jest grupą kierowaną przez wielkie korporacje, to one zdecydowały, że telewizor
-    nie jest uważany za zwierzę, to one mówią nam – masz telewizor? to nie masz zwierzęcia!
-  author: Jacek Popławski
-  source: pl.news.nowe-grupy
-  subject: 
-  tags:
-  - pl
-  - Usenet
 - !ruby/struct:Signore::Signature
   text: 'Przez pierwsze kilka pięter ładnie, potem nie trzyma poziomu. Ale wybucha
     ładnie niezależnie od stylu lotu. To może zaproponujmy definicję: zwierzę to papuga
@@ -49938,3 +49918,138 @@ signatures:
   - tech
   - programming
   - Smalltalk
+- !ruby/struct:Signore::Signature
+  text: Just realized that ‘National Security Agency’ (NSA) literally translates to
+    the German ‘Ministerium für Staatssicherheit (Stasi).
+  author: Klaus Trainer
+  source: 
+  subject: 
+  tags:
+  - en
+  - NSA
+- !ruby/struct:Signore::Signature
+  text: When all you have are first world problems, everything looks like an Instagram.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Less Herman Goering, more German herring.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: My cab driver asked me what I did for a living and I said ‘programmer’. He
+    said, ‘I used to do that. Does anybody still remember Lisp?’
+  author: Liza Daly
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: 'Father’s Day: if he left you as a 6 year old, surprise him on FB by inviting
+    him here this Sunday. Don’t turn up. We’ll be waiting for him.'
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Feeling your life lacks excitement, so dunking your biscuit for an irresponsibly
+    long time.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Starting to believe that whoever stole my debit card from the communal mailboxes has also stolen my 11 author’s copies of ‘Understanding Computation’.
+    Fine by me as long as they fucking read them.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘More and more data retention. More and more racist parties in Europe. Data stored today will be used differently tomorrow. Think ahead.’
+    ‘That depends, surely, on who/what presides over the data and what their intentions are.’
+    ‘The nazis went to the synagogues to get their registries of jews. The intentions to store it was all good, the result was horrifying.’
+  author: Peter Sunde, Joseph Black
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If you’re on a date and you realize you’re on a date, you are now lucid dating.
+    And you can do anything.
+  author: bobo
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Jira is what would happen if GitHub said ‘yes’ to its customers all the time.
+  author: Ted Dziuba
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Jira
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: Programmers Against More Software
+  author: Ryan Tomayko
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ‘Buy a fog machine and run it in the datacenter so when you open the door
+    fog spills out and you can be like WELCOME TO THE CLOUD.’
+  author: benjamin dilzraeli
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: 'My online bank can export transaction history in 6 formats. None of them
+    is properly formatted and all cause parsing errors. #enterprise'
+  author: Michał Szajbe
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I was reading some product recommendations and they seemed good and then it
+    said ‘TextMate’ and now my phone is in the courtyard somewhere.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - TextMate
+- !ruby/struct:Signore::Signature
+  text: Remember when the test for CSS rendering was ‘draw this smiley face’ and MS
+    was like ‘LOL fuck you’ for five years? Is that still a thing?
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - CSS
+  - Internet Explorer
