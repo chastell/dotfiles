@@ -2030,14 +2030,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: 'Powiem tyle: w walce z Polską Służbą Zdrowia nie ma wygranych ani przegranych,
-    są tylko cudownie ocaleni.'
-  author: DrYoung
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Plac zabaw w porze wietrzenia wózków. Trochę kurwa dramat.
   author: Lilarouge
   source: 
@@ -27148,14 +27140,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Podobno koledzy z Muzeum Techniki chodzą po salonach T-Mobile i wykupują z
-    ich najnowszej oferty wszystkie te muzealne obiekty.
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Jak jeszcze raz jakiś smark zapyta nas na lekcji muzealnej, czy „kolekcjonujemy
     chwile ulotne jak ulotka” to nie ręczymy za siebie.
   author: Muzealnicy
@@ -50053,3 +50037,13 @@ signatures:
   - tech
   - CSS
   - Internet Explorer
+- !ruby/struct:Signore::Signature
+  text: I have an unspoken premise that the NSA has copies of root CAs’ private keys.
+    I see no reason why we shouldn’t expect this.
+  author: jacobian
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - NSA
