@@ -20,7 +20,7 @@
   password = …
 
 [help]
-  autocorrect = true
+  autocorrect = 1
 
 [merge]
   conflictstyle = diff3
@@ -29,7 +29,7 @@
   default = current
 
 [rerere]
-  enabled = true
+  enabled = 1
 
 [user]
   email = chastell@chastell.net
