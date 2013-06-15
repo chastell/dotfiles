@@ -50047,3 +50047,43 @@ signatures:
   - en
   - tech
   - NSA
+- !ruby/struct:Signore::Signature
+  text: In 2005 I drunkenly released a dumb hack. It was called RSpec. You are victims
+    on one of the biggest trolls ever committed. You’re welcome.
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - RSpec
+- !ruby/struct:Signore::Signature
+  text: Before you diagnose yourself with depression, first make sure that you are
+    not, in fact, surrounded by Oracle products.
+  author: Douglbutt MacArthur
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Oracle
+- !ruby/struct:Signore::Signature
+  text: 'My first religious beard encounter: car with a bunch of bearded fellas drives
+    up to me and they all shout ‘shalom’. I shout back ‘UNIX’.'
+  author: Jan Lehnardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Before you marry a person you should first make them use a computer with slow
+    Internet to see who they really are.
+  author: Peter Klesken
+  source: 
+  subject: 
+  tags:
+  - en
