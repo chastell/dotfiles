@@ -50087,3 +50087,96 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I heard that GitHub is going to add an embedded music player so that you can
+    stop, collaborate and listen.
+  author: Aaron Patterson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GitHub
+- !ruby/struct:Signore::Signature
+  text: 'I hate having to think about this. Dynamic languages: either return [x, y]
+    or nil. Haskell: Maybe (Int, Int). C: ┐(´ー｀)┌'
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: A gem author has a problem. He thinks ‘I know, I’ll just write a WARNING to
+    stdout’. Now he has two problems because I’m going to kill him.
+  author: Ben Orenstein
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - gems
+- !ruby/struct:Signore::Signature
+  text: <"Français"> expected but was <"FranÃ§ais">.
+  author: Lennart Koopmann
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - UTF-8
+- !ruby/struct:Signore::Signature
+  text: I ate vegan food today so now I kind of understand why they’re so grumpy all
+    the time.
+  author: Tyson
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+  - vegans
+- !ruby/struct:Signore::Signature
+  text: EarthLink used to allow only alphanumerical characters in passwords, because
+    punctuation was hard for reps to pronounce when telling user passwords over the
+    phone.
+  author: Josh Susser
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: |-
+    [->(){ puts {yo:'hi'} }, ->(){ puts({yo:'hi'}) }].each_with_index{|p,i| puts "#{i}:\n#{RubyVM::InstructionSequence.disasm(p)}\n"}
+    #rubby
+  author: Gabriel Gironda
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: If it walks like a duck and quacks like a duck it could be time to cut back
+    on the meds.
+  author: Kelly
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - OOP
+- !ruby/struct:Signore::Signature
+  text: Patrzę na pióropusze drzew i prześladuje mnie myśl, że to one są tak naprawdę
+    ważne.
+  author: DrYoung
+  source: 
+  subject: 
+  tags:
+  - pl
