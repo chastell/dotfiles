@@ -50180,3 +50180,25 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: 'W formatujących młode umysły czytankach takie sytuacje opisywane są schematem
+    służącym przełamywaniu tzw. lenistwa: obrotowe krzesło Jasia skrzypi od miesiąca,
+    więc Jaś z tatą odwracają krzesło, wpuszczają kropelkę oliwy – i krzesło już nie
+    skrzypi. Pomyśl, Jasiu – mówi tata – warto naprawić szkodę, póki mała; i idą na
+    zupę pomidorową, którą mama warząchwią rozlewa z wazy do talerzy, co widać przez
+    otwarte drzwi. W rzeczywistości takie skrzypiące krzesło rozkręcisz raz, mechanizm
+    w środku okaże się nadspodziewanie złożony, wpuścisz WS-50 tu i ówdzie, zetrzesz
+    nadmiar, skręcisz, usiądziesz, wstaniesz, rozkręcisz, wpuścisz tam i owam, zetrzesz,
+    skręcisz, rozkręcisz, zaczniesz kombinować jakby tu jednocześnie siedzieć na krześle
+    i zaglądać pod siedzenie; w końcu z udziałem lusterka, smartfonu i żony namierzysz
+    ocierające się o siebie powierzchnie, w przerażającej, ginekologicznej pozycji
+    uda ci się wlać trochę smaru do cylindra sprężyny wrotnej, skręcisz, usiądziesz
+    – i to mógłby być nawet jakiś triumf, gdyby nie łuszcząca się od rozpuszczalnika
+    bejca na podłodze i prawdziwie męski aromat WS-50, od którego nie uwolnisz się
+    przez tydzień. I taka jest właśnie prawda, synku: wygrasz czy nie wygrasz – nigdy
+    nie wiesz. A ręce po łokcie upierdolisz zawsze.'
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
