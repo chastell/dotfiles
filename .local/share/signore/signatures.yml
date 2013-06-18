@@ -3544,14 +3544,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: The duck sauce contains ‘vegetable stabilizer’ which sounds ominous. I mean,
-    how unstable are vegetables?
-  author: jzahn
-  source: asr
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: 'Once upon a time a young rabbinical student went to hear three lectures by
     a famous rabbi. Afterwards he told his friends: ‘The first talk was brilliant,
     clear and simple. I understood every word. The second was even better, deep and
@@ -8161,16 +8153,6 @@ signatures:
   tags:
   - en
   - dreams
-- !ruby/struct:Signore::Signature
-  text: 'Open source error messages are awesome: Irssi: Window is immortal, if you
-    really want to close it, say /WINDOW IMMORTAL OFF'
-  author: Gregory Brown
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Irssi
 - !ruby/struct:Signore::Signature
   text: Someone’s complaining because we’ve hit their API 27,000 times in the last
     48 hours. I’m not sure they understand computers.
@@ -33112,17 +33094,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: Any else think that HashWithIndifferentAccess should just return ‘whatever’
-    for any key?
-  author: Paul Wilson
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
-- !ruby/struct:Signore::Signature
   text: 'My phone is telling me that the high today is 48, the low is 50, and it’s
     currently 37. Related: computers control markets and fly planes.'
   author: Chris Ashworth
@@ -50198,6 +50169,40 @@ signatures:
     przez tydzień. I taka jest właśnie prawda, synku: wygrasz czy nie wygrasz – nigdy
     nie wiesz. A ręce po łokcie upierdolisz zawsze.'
   author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: 'Superman: Man of Steel – A strong jawed young white man matures into his
+    hereditary privilege and enforces his morality on everyone he can.'
+  author: Klaus Derati
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If you’re headed for the elevator with an umbrella and you don’t use the umbrella
+    tip to push the button then why is life?
+  author: Joss Whedon
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Imagine having a housemate who refuses to lock the front door.
+    That’s anyone you’ve ever confided in who says they have ‘nothing to hide’.
+  author: Merlin Mann
+  source: 
+  subject: 
+  tags:
+  - en
+  - privacy
+- !ruby/struct:Signore::Signature
+  text: Świat by wiele stracił gdyby nie Internet. Wiesz, ile faili się zmarnowało
+    w średniowieczu? Ile hejtu poleciało w Młodej Polsce?
+  author: zenon246
   source: 
   subject: 
   tags:
