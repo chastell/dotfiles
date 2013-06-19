@@ -30665,15 +30665,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: 'Strasznie trudno wymyślić ironiczny tytuł dziennika. Dwa najlepsze zostały
-    już zajęte: Prawda i Fakt.'
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-  - journalism
-- !ruby/struct:Signore::Signature
   text: Obawiam się, że wygrywa wolność.
   author: Tadeusz Cymański
   source: 
@@ -50207,3 +50198,12 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I asked my fiancée if she knew who Knuth is and she replied, ‘it’s the guy
+    whose books you haven’t actually read’. Touché.
+  author: Matthijs Hollemans
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
