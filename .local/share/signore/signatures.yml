@@ -13404,15 +13404,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Cats seem to go on the principle that it never does any harm to ask for what
-    you want.
-  author: Joseph Wood Krutch
-  source: 
-  subject: 
-  tags:
-  - en
-  - cats
-- !ruby/struct:Signore::Signature
   text: Being a sysadmin is like hitting yourself in the head with a brick. Eventually
     it doesen’t hurt too bad and you actually look forward to it, because the more
     it happens, the less it hurts.
@@ -50207,3 +50198,50 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Receiving an email ending in ‘regards’ and wondering what you've done to cause
+    so much anger.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I love stateless systems.’
+    ‘Don’t they have drawbacks?’
+    ‘Don’t what have drawbacks?’
+  author: qntm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: 'OH: Last Friday I shipped some bugs to production.'
+  author: Łukasz Korecki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: If there was a currency backed by schadenfreude it would be absolutely exploding
+    right now.
+  author: Adrian Chen
+  source: 
+  subject: 
+  tags:
+  - en
+  - Bitcoin
+- !ruby/struct:Signore::Signature
+  text: Having everything you ever said, ever wrote online captured by a secret all-seeing
+    eye armed with killer drones forever is dystopia.
+  author: David Heinemeier Hansson
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+  - PRISM
