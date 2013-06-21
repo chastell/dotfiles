@@ -11791,7 +11791,7 @@ signatures:
   - tech
   - admin
 - !ruby/struct:Signore::Signature
-  text: And if you really want to find out what someone's made of, have him work through
+  text: And if you really want to find out what someone’s made of, have him work through
     Loelliger’s ‘Threaded Interpreted Languages’.
   author: Peter da Silva
   source: 
@@ -50245,3 +50245,82 @@ signatures:
   - en
   - politics
   - PRISM
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘All the best dates I’ve been on involved board games.’
+    ‘Porn cave?’
+    ‘…No.’
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - sex
+- !ruby/struct:Signore::Signature
+  text: Getting stuck holding a door and watching forlornly as your friends disappear
+    over the horizon.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Fedora libertarians complaining it’s unfair they can’t get laid: DUDE THE
+    MARKET DECIDED. It says no.'
+  author: Amber Eeeeeee
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'My favorite commit messages from these projects: ‘merp’, and ‘trying’. The
+    latter occurred many times.'
+  author: Karina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    1993: WWW.
+    2004 (11 years later): Web 2.0.
+    2015 (11 years later): we wrote everything in javascript and literally nothing works sorry lol
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - WWW
+- !ruby/struct:Signore::Signature
+  text: Feeling you’re having an out-of-body experience as you quietly watch someone
+    making you the wrong sandwich.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Printed out my bitcoins, buried them in the backyard JIC the S goes D.
+  author: Scott Simpson
+  source: 
+  subject: 
+  tags:
+  - en
+  - Bitcoin
+- !ruby/struct:Signore::Signature
+  text: Problem now is when I’m working in shared code that uses lots of double quoted
+    strings without interpolation, the file gets lit up with subtle warning squiggleys.
+    (So naturally, I do what any experienced dev does and I re-format everything to
+    my personal liking, delete any dot files specific to other editors, change all
+    of the tests to rspec and commit without a message.)
+  author: Chris Morris
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
