@@ -47820,16 +47820,6 @@ signatures:
   - programming
   - testing
 - !ruby/struct:Signore::Signature
-  text: It has been 7,665 days since the last FORTRAN community drama.
-  author: Reg Braithwaite
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - FORTRAN
-- !ruby/struct:Signore::Signature
   text: |-
     ‘It has been 7,665 days since the last FORTRAN community drama.’
     ‘You obviously don’t work in academia.’
@@ -50324,3 +50314,68 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: 'Devs take note: I just asked the plumber if they had any idea how long it
+    would take. ‘We have no way to predict that’ was scoffed back.'
+  author: Christopher Sexton
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+- !ruby/struct:Signore::Signature
+  text: Chuckling after missing a step, despite a powerful suspicion you’ve just shattered
+    your knee.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Restarted my computer and it started playing some awesome hip hop. Can’t find
+    the app that’s doing it. Not sure I mind.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Inheritance is for sharing behavior, not data structures. STI binds your logic
+    even closer to ActiveRecord, fuck that shit man.
+  author: Hubert Łępicki
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Look, I love Heroku. Good people and great tech. All I’m saying is it should
+    be shut down so people who shouldn’t deploy apps can’t.
+  author: Ruby Hipster
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Heroku
+- !ruby/struct:Signore::Signature
+  text: |-
+    „Mami, warum wird alles abgesperrt, wenn sich Obama durch Berlin bewegt?“
+    „Weil er der gefährlichste Mensch der Welt ist, Liebes.“
+  author: Der Wurfschuh
+  source: 
+  subject: 
+  tags:
+  - de
+  - politics
+  - Obama
+- !ruby/struct:Signore::Signature
+  text: Totalnie wybierałbym knajpy z nalepką „nie podajemy Kropli Beskidu”.
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - food
