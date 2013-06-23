@@ -50379,3 +50379,84 @@ signatures:
   tags:
   - pl
   - food
+- !ruby/struct:Signore::Signature
+  text: 'git commit -am "$(fortune)" #winning'
+  author: Alan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
+- !ruby/struct:Signore::Signature
+  text: |-
+    This episode of Capybara/Poltergeist hair-pulling was sponsored by 127.0.0.1 not being whitelisted in Google Maps API key.
+    And Now for Something Completely Different: a man with three memory leaks.
+  author: Wojtek Kruszewski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Just realised that ‘changing the wallpaper’ on you ‘desktop’ makes no sense
+    at all.
+  author: Dan North
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Went through the process of figuring out S/MIME certificates for encrypting email. Yeah, no one will do that, PRISM is safe.’
+    ‘(Those that understand crypto) ∩ (Those that understand UX) = ∅’
+  author: Michael Koziarski, Mike Perham
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - crypto
+- !ruby/struct:Signore::Signature
+  text: Sign up now for my seminar, ‘How to make a fortune from a single tweet’, at
+    the early bird exclusive price of $499.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'My hobby: replying to emails from human beings with the word ‘UNSUBSCRIBE’.'
+  author: Bryan Woods
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Computer Science is a young science, in that science means a series of educated
+    guesses, and young means the guesses aren’t very good yet.
+  author: Brandon Hays
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Immigration, a lexicon. You’re a ‘migrant’ when you’re very poor; ‘immigrant’
+    when you’re not so poor; and ‘expat’ when you’re rich.
+  author: Laila Lalami
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    For fuck’s sake… If you’re a library author, you have NO VALID REASON to not respect -w.
+    No. You’re wrong.
+    No you.
+  author: Ryan Davis
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
