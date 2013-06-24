@@ -50460,3 +50460,12 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: I went to a robotics talk. They got all excited about getting a light to blink,
+    illustrating exactly why I got out of embedded systems.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
