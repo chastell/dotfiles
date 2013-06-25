@@ -8558,14 +8558,6 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: „Wtaj Ewa, można bez końca się spierać, czy lepszy jest żwirek zbrylający
-    się czy niezbrylający, naturalny czy syntetyczny.” Srsly?
-  author: Evva
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: orzeł zwisły
   author: Lilarouge
   source: 
@@ -23304,15 +23296,6 @@ signatures:
   tags:
   - en
   - HHGG
-- !ruby/struct:Signore::Signature
-  text: Nasz narciarz wypadł dobrze, ale wcześnie – już na pierwszych bramkach.
-  author: Witold Domański
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-  - skiing
 - !ruby/struct:Signore::Signature
   text: Przed tym meczem Gaze trafił 32 z 30 rzutów wolnych. To doskonały wynik.
   author: Piotr Sobczyński
@@ -50469,3 +50452,26 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: 'Games I would play: a DDR-themed DDR, where you dance to the greatest hits
+    of disco-era East Germany.'
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Imagine if you had the persistence and the drive of the Adobe Reader Updater.
+  author: joewengert
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Oops! I remembered the wrong 90s
+  author: Bryan Lee O’Malley
+  source: 
+  subject: 
+  tags:
+  - en
