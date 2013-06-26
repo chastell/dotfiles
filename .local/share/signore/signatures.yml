@@ -50475,3 +50475,71 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Honest question: how does 10gen make money? Training, consulting, and support?’
+    ‘Hedge fund that trades on the likelihood an individual write will succeed.’
+  author: Evan Phoenix, Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MongoDB
+- !ruby/struct:Signore::Signature
+  text: Not wishing to tell someone they’ve misheard you, so simply soldiering into
+    a completely different topic of conversation.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Cegłowski’s primality algorithm: paste the candidate prime into Google. If
+    you get results, it’s not big enough for cryptographic use.'
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - math
+- !ruby/struct:Signore::Signature
+  text: Rails is not that. Rails is omakase. A team of racing car drivers picked out
+    the ingredients.
+  author: Thom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: Obvious troll is obvious. Sadly he’s also Mayor of London.
+  author: Alice Bell
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: 'Scariest thing about Jurassic Park: single dev deploying ‘2 million lines
+    of code’ directly into production environment WITH DINOSAURS.'
+  author: Gary Johnson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - movies
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘How do I cloud?’
+    ‘Transcode all of your personal data into proprietary formats, delete the originals, and delete the new ones slowly at random.’
+  author: Aman Gupta, Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
