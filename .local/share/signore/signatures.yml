@@ -50543,3 +50543,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Jutro awansuję do klasy średniej, przychodzi pani posprzątać.
+    Posprzątanie przed jej przyjściem zajęło nam pół dnia.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
