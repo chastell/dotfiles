@@ -25264,17 +25264,6 @@ signatures:
   - docs
   - sex
 - !ruby/struct:Signore::Signature
-  text: A benchmark is like sex. Everybody wants it, everybody is sure of how to do
-    it, but nobody can agree on how to compare performance.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - sex
-- !ruby/struct:Signore::Signature
   text: Software is like sex, it’s better when it’s free.
   author: 
   source: 
@@ -50552,3 +50541,15 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: |-
+    1974: 8080 CPU.
+    1979: SCHEME-79 chip with hardware GC.
+    2013: hundreds of inefficient software GCs running on n-GHz 8080 CPUs.
+    cool industry
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
