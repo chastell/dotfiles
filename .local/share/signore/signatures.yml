@@ -1341,16 +1341,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: There are days in admin’s life one wishes for a painless, fast death. This
-    is one of those.
-  author: rysiek
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - admin
-- !ruby/struct:Signore::Signature
   text: Gdzie te czasy kiedy koledzy pamiętali SN do Windows 98 SE. I ciągle te słodkie
     kłamstwa, że I Agree.
   author: opi
