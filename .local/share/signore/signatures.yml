@@ -50543,3 +50543,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: The person who invented marriage was creepy as hell, like ‘hey, yo, I love
+    you so much I’m gonna get the government involved so you can’t leave’.
+  author: Grumpy Cat
+  source: 
+  subject: 
+  tags:
+  - en
+  - marriage
