@@ -50552,3 +50552,12 @@ signatures:
   tags:
   - en
   - marriage
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘How to confuse a German: tell them you grew up in a house with three women, but pee standing up.’
+    ‘While you’re telling them? I think that would confuse everyone.’
+  author: Tom Thanet, Murray Steele
+  source: 
+  subject: 
+  tags:
+  - en
