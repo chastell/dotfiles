@@ -50561,3 +50561,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ‘The Shining’ is my favorite documentary about what happens when you don’t
+    have an Internet connection.
+  author: braden graeber
+  source: 
+  subject: 
+  tags:
+  - en
