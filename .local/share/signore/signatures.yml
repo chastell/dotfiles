@@ -903,16 +903,6 @@ signatures:
   - sex
   - IRC
 - !ruby/struct:Signore::Signature
-  text: I wish salesforce.com would stop referring to themselves as ‘the cloud’. ‘Foggy
-    walled garden’, maybe.
-  author: Wes Morgan
-  source: 
-  subject: 
-  tags:
-  - en
-  - SalesForce
-  - CiviCRM
-- !ruby/struct:Signore::Signature
   text: 'Recenzja dnia – Tatarak: „Wróciłam z kina wkurwiona; Krystyna Janda jest
     ode mnie starsza ponad dwa razy, a dałabym się pochlastać, żeby mieć takie nogi
     jak ona” – czyli Wajdzie na stare lata udało się zrobić film wzbudzający emocje
@@ -7835,15 +7825,6 @@ signatures:
   - pl
   - religion
 - !ruby/struct:Signore::Signature
-  text: bardzo mi się podoba, kiedy dostaję z bao.pl zniżkę na restaurację i zaraz
-    linijkę niżej zniżkę na zabieg odchudzający.
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-  - food
-- !ruby/struct:Signore::Signature
   text: W kosmosie nikt nie usłyszy jak sprzątasz.
   author: DrYoung
   source: 
@@ -8999,17 +8980,6 @@ signatures:
   - pl
   - tech
   - Unix
-- !ruby/struct:Signore::Signature
-  text: Had a dream where Samuel L. Jackson was correcting people’s Ruby documentation.
-    I should get out more.
-  author: Steve Eley
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Ruby
-  - cinematography
 - !ruby/struct:Signore::Signature
   text: Why use GitHub when you can simply publish your code like this? http://www.sanmayce.com/Fastest_Hash/
   author: William Morgan
@@ -50569,3 +50539,29 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: So there’s monogamy, vanilla and waterfall; and on the other end there’s poly,
+    kink and agile…
+  author: Sumana Harihareswara
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: My 7 year old found a box of 3.5″ disks in my office, he said (and I quote)
+    ‘are they like a collecting card game from Victorian times?’
+  author: Richard Davey
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: programming is so good and software is so bad
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
