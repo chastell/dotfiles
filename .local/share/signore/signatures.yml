@@ -32662,7 +32662,7 @@ signatures:
   - Haskell
   - PHP
 - !ruby/struct:Signore::Signature
-  text: hope someone disrupts higher education within the next ten years so I can
+  text: Hope someone disrupts higher education within the next ten years so I can
     blow my kids’ college fund on something fun instead.
   author: Ian McAllister
   source: 
@@ -50565,3 +50565,26 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Humans are the only animals that have children on purpose with the exception
+    of guppies, who like to eat theirs.
+  author: P. J. O’Rourke
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    1. Stop
+    2. Close your eyes
+    3. Think of a world with no kebabs
+    4. Open your eyes
+    5. Why are you crying?
+    6. There is no such world
+    7. Relax.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
