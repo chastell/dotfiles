@@ -50588,3 +50588,135 @@ signatures:
   tags:
   - en
   - food
+- !ruby/struct:Signore::Signature
+  text: 'OH: I’m the Technical Debt Fairy. If you leave technical debt under your
+    pillowcase at night I hire away your best developers.'
+  author: Michael Pearson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: EU leaders ‘outraged’ at USA spying revealed by Snowden, display their gratitude
+    by denying him sanctuary and shutting airspace to asylum.
+  author: Conor Thomas
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: alias :baller :caller
+  author: Aaron Patterson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Everyday I’m bundlin’
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: 'OH: Today I learned that Jira is named after Gojira/Godzilla, which makes
+    sense, because it is a monster that destroys things I love.'
+  author: adamjodonnell
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Jira
+- !ruby/struct:Signore::Signature
+  text: Concentrating to within an inch of your life on the pre-flight safety briefing,
+    to compensate for those ignoring it.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Immuteability: The property of functional programmers that prevents them
+    from shutting up about pure functional programming.'
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: I’m less surprised that the US government is tapping all communications than
+    I am that there was a successful large government IT project.
+  author: Dr Bunsen Honeydew
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Deciding to spice up the morning by filling the kettle slightly past the recommended
+    level, then thinking better of it.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    class Object; alias_method :&, :method; end
+    closes = dates.map &asset&:close_price_on_date
+    I will call it the pretzel bun.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: A PM at Quora emailed me to ask why I like Medium. I said I’d be happy to
+    answer their question but first please log in and download my app.
+  author: Dana McCallum
+  source: 
+  subject: 
+  tags:
+  - en
+  - Quora
+- !ruby/struct:Signore::Signature
+  text: (((((((((((((((((((((((((((((((((　͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡  ))))))))))))))))))))))))))))))))))
+  author: Glitchr
+  source: 
+  subject: 
+  tags:
+  - en
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: In love with complexity and hate refactoring?  Test your private methods.
+  author: David Copeland
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
+- !ruby/struct:Signore::Signature
+  text: 0 == "0" evaluates to true, 0 == "" also evaluates to true, but "0" == ""
+    is false in JavaScript. Because fuck logic.
+  author: Mateusz Lenik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
