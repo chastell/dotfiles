@@ -5559,15 +5559,6 @@ signatures:
   - pl
   - politics
 - !ruby/struct:Signore::Signature
-  text: „Kochaj wszystkich. Ufaj niewielu. Bądź gotów do walki, ale jej nie wszczynaj.”
-    Szekspir nie miał na myśli weekendu z awariami Netii, ale do wykorzystania.
-  author: Ania
-  source: 
-  subject: 
-  tags:
-  - pl
-  - work
-- !ruby/struct:Signore::Signature
   text: Boże, dałeś gust, daj i możliwości.
   author: elpanda
   source: 
@@ -22382,14 +22373,6 @@ signatures:
     — No to musimy sprawdzić, czy to prawda…
     — To prawda.
   author: Ania, chastell
-  source: 
-  subject: 
-  tags:
-  - pl
-  - food
-- !ruby/struct:Signore::Signature
-  text: Nie lepię bałwanków z kanapeczek od ładnych paru lat.
-  author: Ania
   source: 
   subject: 
   tags:
@@ -50719,4 +50702,29 @@ signatures:
   - en
   - tech
   - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: When choose database remember Cassandra good in write, HBase good in read,
+    Mongo good in delete.
+  author: Big Data Borat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - databases
+  - Cassandra
+  - HBase
+  - MongoDB
+- !ruby/struct:Signore::Signature
+  text: CoffeeScript is what happens when you look at the top row of your keyboard
+    and think, ‘Hey! JavaScript isn’t using some of those!’
+  author: Paul Battley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - CoffeeScript
   - JavaScript
