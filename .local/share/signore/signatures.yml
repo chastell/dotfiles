@@ -50728,3 +50728,192 @@ signatures:
   - programming
   - CoffeeScript
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Hash#kvetch
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: Slowly reversing your slight forward lean and smile after your joke goes unheard
+    by the taxi driver.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Happy Independence Day to all American Pinboard users. Remember that only ceaseless vigilance can keep the British hegemon from our shores.
+    Canada is a chilling reminder of what would have happened if there had been no Declaration of Independence.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Spodobało mi się określenie „zdecydował się kontynuować karierę poza strukturami
+    firmy”. To jak to jest w Polsce? 15% zdecydowało się kontynuować karierę poza
+    strukturami firmy, a jakieś 5% poza strukturami Polski?
+  author: reuptake
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    Idę ulicą rozważając jakiś problem. Nagle zauważam, że coś wisi na przewodach elektrycznych. Buty? Może torba foliowa? Żałuję, że nie mam okularów i sięgam ręką po telefon, którego funkcję zoom wykorzystuję często jako lornion.
+    Na przewodach siedzą ptaki. Mój mózg robi fikołek i przeprowadzam ze sobą wewnętrzny dialog:
+    — Co?
+    — Co?
+    — Ptaki siedzą na przewodach.
+    — To nie ma sensu, prąd ich nie razi?
+    — Ptaki siedzą na przewodach.
+    — W życiu nie widziałem ptaków w takim miejscu!
+    — Co?
+    Tu chyba wrzuciłem dwójkę bo nagle przypomniałem sobie, że zwykle siedzą. To, że osoby takie jak ja mogą operować urządzeniami groźniejszymi od małej, plastykowej łyżeczki uważam za błąd legislatorów. A to, że się sam ubieram i trafiam do drzwi w kilku próbach uważam za cud.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: This doctor’s waiting room has Beethoven 6 playing, approximately 20 dB too
+    quiet to enjoy it properly. Sickening.
+  author: Tom Thanet
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Recruiter then explicitly says that the job doesn’t involve violating civil liberties, so I’m going to guess Palantir?
+    (If your recruiters feel the need to mention that the job doesn’t involve violating civil liberties, maybe you have an image problem.)
+  author: Matthew Garrett
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: I just realised that Uncle Sam has the initials US and now I feel dumb.
+  author: E Crosby-McCullough
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Wonders of language: in Polish, the Twitter setting for ‘do not track’ is
+    the same as the phrase ‘nonherring’. Really.'
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘bro do u even-’
+    i do, bro
+    ‘and bro, do u even?’
+    *wipes tears of happiness*
+    yes bro… i do!
+    i pronounce u bro and bro, u may now fist bump
+  author: Ahole Alex
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ‘Please choose another password to create your account. The password you attempted
+    is already used by user JENKINS.’
+  author: Mikko Hypponen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
+- !ruby/struct:Signore::Signature
+  text: As a dual citizen of the USA and the EU, I am in a unique position to spy
+    on my own faxes.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: So you mean that bit where a dude was forced to seek refuge in totalitarian
+    countries to flee a Nobel peace prize winner actually happened‽
+  author: Morten Heiberg
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'OH: Signing up for an Oracle account. ‘Batman’ is a valid occupation, but
+    my password doesn’t meet their strict validation rules.'
+  author: Ernie Miller
+  source: 
+  subject: 
+  tags:
+  - en
+  - Oracle
+- !ruby/struct:Signore::Signature
+  text: Progressive enterprise IT dept. renounces waterfall, adopts avalanche.
+  author: Hacker News Onion
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Enterprise CTO not impressed by pair programming.
+    ‘We often have hundreds of developers working on the same thing.’
+  author: Hacker News Onion
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Novice programmers swear when they get stuck. Expert programmers swear every
+    fucking second.
+  author: Hacker News Onion
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: HOLY COW! THE FCC IS GOING TO BAN SONGS AS RINGTONES! IT'S THE BEST DAY EVER!
+    …and then I woke up.
+  author: Randy Tayler
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'OH: ‘We should use wordoid to make method names!’ ← worst idea ever'
+  author: Katrina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: 'Big Data, n.: the belief that any sufficiently large pile of shit contains
+    a pony with probability approaching 1.'
+  author: James Grimmelmann
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
