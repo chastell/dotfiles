@@ -50917,3 +50917,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Daddy, how is software made?’
+    ‘Well, when a programmer loves an idea very much they stay up all night and then push to GitHub the next day.’
+  author: Sam Kottler
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
