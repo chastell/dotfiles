@@ -50927,3 +50927,14 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Głupia domena z serwerem 20 giga na OVH to 170 PLN rocznie, in b4 serwery w hackerspace niedługo na rurce 100 Mbit. A tu kurwa Google.
+    To jak seks z psem w katedrze rzymskokatolickiej podczas mszy. Nie wypada.
+  author: spin
+  source: 
+  subject: o Google Groups
+  tags:
+  - pl
+  - tech
+  - Google
