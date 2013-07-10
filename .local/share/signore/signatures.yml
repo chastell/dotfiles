@@ -50938,3 +50938,23 @@ signatures:
   - pl
   - tech
   - Google
+- !ruby/struct:Signore::Signature
+  text: |-
+    — A hakerzy w jaki sposób podejmują decyzje, które dotyczą ich społeczności?
+    — Ciągniemy losy. Ten kto przegra jest wieszany pod sufitem i lejemy go po jajach kijem do palanta. Musi wykrzyczeć który z uczestników ma przestać bić i jego zdanie wygrywa. Zwykle wygrywa xirdal. Cicha woda.
+  author: Andy Lange, spin
+  source: HS WAW OT
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: |-
+    dzisiaj w biurze jak w kościele
+    cicho i mówi się szeptem
+    sanktuarium kodu
+  author: detomastah
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
