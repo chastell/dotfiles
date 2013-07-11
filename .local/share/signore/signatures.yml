@@ -1800,15 +1800,6 @@ signatures:
   - tech
   - open source
 - !ruby/struct:Signore::Signature
-  text: Każdego dnia obnoszę się ze swoją orientacją seksualną i jakoś nikomu to nie
-    przeszkadza.
-  author: czesio
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sex
-- !ruby/struct:Signore::Signature
   text: Java is a DSL for converting large XML files into stack traces.
   author: Manoj Mathai
   source: 
@@ -10358,7 +10349,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: |-
     You write with ease to show your breeding,
-    But easy writing ’s curst hard reading.
+    But easy writing’s curst hard reading.
   author: Richard Brinsley Sheridan
   source: 
   subject: 
@@ -34352,14 +34343,6 @@ signatures:
   - tech
   - programming
   - testing
-- !ruby/struct:Signore::Signature
-  text: Doradziliśmy dziś kustoszom, że ich zebrania będą miały większy sens jeśli
-    zaczną obradować w kapturach.
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
 - !ruby/struct:Signore::Signature
   text: Some people, when confronted with a security problem, think ‘I know, I’ll
     further couple my controllers to my models’. Now they have Rails.
