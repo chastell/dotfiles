@@ -50941,3 +50941,30 @@ signatures:
   tags:
   - pl
   - work
+- !ruby/struct:Signore::Signature
+  text: Ale muszę przyznać, tupet masz na superglue do kości czaszki, Winnetou po
+    kursach u doktora House’a by nie oskalpował. Nadajesz się, synu, do polityki.
+    Zapleć więc zatem na zadzie warkoczyki i ruszaj do boju, walcz, hulaj, wojuj,
+    a głosy betonu będą zaraz twoje. Ja się już kurwa niczego nie boję. Ojczyzny mi
+    szkoda nieco, i płaczę, choć nie tacy jak ty już ją brali ruchacze.
+  author: spin
+  source: HS WAW OT
+  subject: do Andy’ego Lange’a
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Wczoraj podpisałem się Email.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Religions are basic guidelines of how to live for addicts & sociopaths who
+    need that kind of stuff.
+  author: Sarah Silverman
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
