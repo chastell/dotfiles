@@ -50968,3 +50968,20 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: You call it happiness. I call it Anxiety Deficit Disorder.
+  author: Nein.
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A bug is like a really awesome magic trick you performed for yourself without
+    realizing it.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
