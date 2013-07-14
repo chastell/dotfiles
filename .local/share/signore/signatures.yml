@@ -50985,3 +50985,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ‘[That method] is a figment of my imagination. Which is terrifying because
+    there is production code in the wild running on that figment.’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
