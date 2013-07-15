@@ -50995,3 +50995,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: In the restaurant world Jamie Oliver is Tesco’s, and Mangal 2 is that poor
+    farmer who grows chives and fuck Jamie Oliver is my point.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
