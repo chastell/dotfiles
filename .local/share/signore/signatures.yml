@@ -51004,3 +51004,15 @@ signatures:
   tags:
   - en
   - food
+- !ruby/struct:Signore::Signature
+  text: 'OH: If I could go back in time, punch myself in the face, and say ‘don’t
+    lean JavaScript, learn C’, my life would be so much better.'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+  - C
