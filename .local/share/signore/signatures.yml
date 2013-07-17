@@ -51016,3 +51016,12 @@ signatures:
   - programming
   - JavaScript
   - C
+- !ruby/struct:Signore::Signature
+  text: Many Greek mathematicians started at 2 (1 wasn’t a number). Fuck an off by
+    1 error, their whole mathematics was off by 2. So damn fresh.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - math
