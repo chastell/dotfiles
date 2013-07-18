@@ -51025,3 +51025,15 @@ signatures:
   tags:
   - en
   - math
+- !ruby/struct:Signore::Signature
+  text: |-
+    Multiply the preventable bug count due to a tool’s shortcomings times number of users. Name a tool scoring higher than JavaScript.
+    Flash? Sharepoint? Excel? You guys know how many users Facebook and Twitter have, right? I’m even skeptical of C.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
