@@ -51037,3 +51037,20 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    Happy faces are allowed in Ruby:
+    >> :D
+    => :D
+    But cats are not allowed:
+    >> :3
+    SyntaxError: compile error
+    Speciesism at its absolute WORST.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
