@@ -29823,14 +29823,6 @@ signatures:
   - pl
   - museums
 - !ruby/struct:Signore::Signature
-  text: Remember when we made those New Year’s resolutions? Haha, we were so young
-    and idealistic back then.
-  author: Matthew Baldwin
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: |-
     How many lines of Java would it take to do this?
     obj.class.superclass.public_instance_methods(false).sort
@@ -51054,3 +51046,12 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: Requested a hard disk image from a customer, they just sent me an actual picture
+    of the hard disk. I’m now reluctant to ask for logs.
+  author: Andy Pandy
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
