@@ -51055,3 +51055,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ‘Three meetings a day keep the progress away.’
+  author: Vincent Oord
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
