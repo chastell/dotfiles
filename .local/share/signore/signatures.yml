@@ -51063,3 +51063,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: You know it’s Berlin when you check in at some public place on Foursquare
+    and the number one tip is in a language you don’t speak.
+  author: The Konstantin
+  source: 
+  subject: 
+  tags:
+  - en
+  - Berlin
