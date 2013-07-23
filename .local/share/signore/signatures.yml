@@ -51072,3 +51072,13 @@ signatures:
   tags:
   - en
   - Berlin
+- !ruby/struct:Signore::Signature
+  text: Przestańcie kłamać o tym, że MF zadłużył każdego Polaka na 10 tys zł. Przyjdzie
+    PiS i powie kto jest Polakiem a kto nie. Wtedy policzymy.
+  author: Bartek Bryczkiewicz
+  source: 
+  subject: 
+  tags:
+  - pl
+  - politics
+  - PiS
