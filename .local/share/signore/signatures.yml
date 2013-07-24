@@ -21929,14 +21929,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Like all women, she believed that rest and pleasure were bad for men.
-  author: Fritz Leiber
-  source: Swords and Ice Magic
-  subject: 
-  tags:
-  - en
-  - gender
-- !ruby/struct:Signore::Signature
   text: 'And now, a little song about Git: Die die die die die die die die die die
     die die in a fire. Sung to the tune of whatever the hell you want.'
   author: Avdi Grimm
@@ -51082,3 +51074,14 @@ signatures:
   - pl
   - politics
   - PiS
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Here’s how you can tell someone is a programmer: do they have an opinion on time zones?’
+    ‘Interviewer asked me what my ideal job was. I said “Destroy Capitalism”. Then asked if I had other plans. “Destroy Timezones”.’
+  author: Steve Klabnik, tef
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
