@@ -51085,3 +51085,63 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    99 little bugs in the code
+    99 little bugs in the code
+    Take one down, patch it around
+    117 little bugs in the code
+  author: Alex Shchepetilnikov
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: 'Remember techies: when you hear politicians talking crap about things you
+    know about, this is also how they talk about the things you don’t.'
+  author: Paul Leader
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Keeping my fingers crossed that Elon Musk’s hyperloop is a thing where you
+    put on Google glass, climb on a Segway, and are fired into space.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: apt-break --subtle
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - apt-get
+- !ruby/struct:Signore::Signature
+  text: 'OH: In Ruby you can put razor blades on a donut. Then you treat it like a
+    pair of scissors.'
+  author: Jessica Kerr
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: nic dzisiaj nie zrobiłem, za to z 10 razy odpaliłem testy. aż w końcu przeszły.
+    programowanie na siłę.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - programming
