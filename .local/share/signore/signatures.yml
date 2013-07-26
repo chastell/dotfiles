@@ -51145,3 +51145,30 @@ signatures:
   - pl
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    You are surrounded by a herd of yaks.
+    > inventory
+    You are carrying:
+        a razor,
+        the last shred of your sanity.
+    > drop sanity
+  author: Charles Miller
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    Roses are red
+    Violets are blue
+    It is pitch black
+    You are likely to be eaten by a grue
+  author: Dave Conrad
+  source: 
+  subject: 
+  tags:
+  - en
+  - Zork
