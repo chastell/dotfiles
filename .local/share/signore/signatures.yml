@@ -51172,3 +51172,22 @@ signatures:
   tags:
   - en
   - Zork
+- !ruby/struct:Signore::Signature
+  text: Every time a nerd types the phrase ‘correlation does not equal causation’,
+    an angel punches itself in the face. Maybe just a coincidence.
+  author: Jeremy Raines
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Netflix have a Chaos Monkey to expose flaws in their systems, but I’ve been
+    able to outsource this crucial cloud service to Hetzner. Thanks!
+  author: ಠmgtbh
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Hetzner
