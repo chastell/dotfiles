@@ -51191,3 +51191,25 @@ signatures:
   - en
   - tech
   - Hetzner
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘So I guess “I hate turbolinks” is the new “I hate the asset pipeline”?’
+    ‘*whisper*Can we still hate the asset pipeline though?*whisper*’
+    ‘OH MY HEAD YE—*startles, looks around warily* *whisper*oh my head yes*whisper*’
+  author: David Brady, Ricardo Mendes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: If the asset pipeline has taught us anything, it’s that turbolinks has the
+    potential to go from something awful and broken to just awful.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
