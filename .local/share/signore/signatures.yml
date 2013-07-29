@@ -46277,7 +46277,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘So, you’e the author of our highly complicated business software? My e-mail
+  text: ‘So, you’re the author of our highly complicated business software? My e-mail
     is not working, can you fix it?’
   author: opi
   source: 
@@ -51213,3 +51213,20 @@ signatures:
   - en
   - tech
   - Rails
+- !ruby/struct:Signore::Signature
+  text: Watching two grown men play with features on new phones is like viewing some
+    futuristic mating dance.
+  author: Sondra Koster
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: A good way to creep out your co-workers is to keep a nicely framed picture
+    of the CEO on your desk.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
