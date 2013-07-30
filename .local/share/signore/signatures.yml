@@ -14149,15 +14149,6 @@ signatures:
   - en
   - piracy
 - !ruby/struct:Signore::Signature
-  text: The great thing about TCP jokes is that you always get them.
-  author: Aza Raskin
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - TCP
-- !ruby/struct:Signore::Signature
   text: If your knees aren’t green by the end of the day, you ought to seriously re-examine
     your life.
   author: Calvin
@@ -29748,14 +29739,6 @@ signatures:
   - en
   - tech
   - programming
-- !ruby/struct:Signore::Signature
-  text: Giving up coffee for a few days. If you don’t hear back, avenge my death.
-  author: Brian McFee
-  source: 
-  subject: 
-  tags:
-  - en
-  - coffee
 - !ruby/struct:Signore::Signature
   text: 'BREAKING: Random blogger discovers the reason why Linux will not succeed.
     Generously describes the discovery even though nobody asked.'
@@ -51230,3 +51213,15 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    describe 'private methods' do
+    ಠ_ಠ
+  author: Leo Cassarani
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
