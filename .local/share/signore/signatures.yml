@@ -51225,3 +51225,11 @@ signatures:
   - tech
   - programming
   - testing
+- !ruby/struct:Signore::Signature
+  text: People in rubber monster suits leave the film studio and attack the real city,
+    punching the buildings with rubber fists, very little damage.
+  author: wolf puppy
+  source: 
+  subject: 
+  tags:
+  - en
