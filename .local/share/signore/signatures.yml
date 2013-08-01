@@ -4561,15 +4561,6 @@ signatures:
   - pl
   - tech
 - !ruby/struct:Signore::Signature
-  text: Organizacja CIPA podsumowała wyniki sprzedaży aparatów w pierwszych miesiącach
-    tego roku. Sytuacja nie wygląda najlepiej.
-  author: 
-  source: Fotopolis
-  subject: 
-  tags:
-  - pl
-  - photography
-- !ruby/struct:Signore::Signature
   text: 'W UK są dwa rodzaje pogody: funny (nie pada, ale może zacząć w każdej chwili)
     i traditional (pada cały czas).'
   author: Spotter
@@ -51233,3 +51224,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'OH: Sufficiently advanced C++ is indistinguishable from trolling.'
+  author: Sommer Panage
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
