@@ -51234,3 +51234,55 @@ signatures:
   - tech
   - programming
   - C++
+- !ruby/struct:Signore::Signature
+  text: Hack me like one of your French URLs.
+  author: emily horne
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I went to check a new message, and it turned out it was a recording of my
+    friend masturbating. I’d like to encourage this.
+  author: Eric Ingrum
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: describe 'mocks and stubs are connected correctly' do
+  author: Florian Gilcher
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - testing
+- !ruby/struct:Signore::Signature
+  text: In Soviet Russia ┬─┬ ︵ /(.□. \）
+  author: Rein Henrichs
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Your first programming language can be anything, so long as your second makes
+    you wonder what the fuck is wrong with the first.
+  author: Pookleblinky
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: ‘You can’t compare apples and oranges.’ — people who don’t know how comparisons
+    work.
+  author: Teju Cole
+  source: 
+  subject: 
+  tags:
+  - en
