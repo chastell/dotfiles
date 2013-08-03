@@ -51286,3 +51286,104 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: kawa z chemexa, muza z bandcampa, wąsy spod nosa.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: And yooooou get a downvote. And yoooou get a downvote. And yoooou get a downvote.
+    Shhh. It’s ok. *pat pat* It’s a meritocracy.
+  author: wilkie
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - meritocracy
+- !ruby/struct:Signore::Signature
+  text: Dealing with a queue-jumper by tutting as quietly as possible.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Some day, in the distant future, I’ll learn to stop reading the word ‘biotech’
+    in Snoop Dogg’s voice.
+  author: brianmcfee
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - science
+- !ruby/struct:Signore::Signature
+  text: |-
+    How to make a kebab at home:
+    1) Buy lamb
+    2) Light a BBQ
+    3) Realise you have no garden
+    4) Everyone is burning
+    5) Death
+    OR
+    Come to Mangal 2.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: ‘We are not your average colocation provider. We have what others covet… a
+    colo to cloud hybrid solutions.’ = grip wallet with both hands
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: The HTTP (Harrowing Time Trial Protocol) API (Arrogant Programmer Interface)
+    is RESTful (RESource Transfer-ful) JSON (Just Some Objects Not).
+  author: jake
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTTP
+  - API
+  - REST
+  - JSON
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Just realized I’ve been wearing my Basho shirt on backwards, but Riak is so reliable that it held up we even under those adverse conditions.’
+    ‘You’ll get it right eventually.’
+  author: Steve Klabnik, Jesse Cooke
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Riak
+- !ruby/struct:Signore::Signature
+  text: What if I’m not good enough to have impostor syndrome?
+  author: Corey Ehmke
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: '‘The Schroedinger’s Dave experiment works like this: David Brady is in a
+    box. Hooray! Keep it closed.’'
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
+  - Ruby Rogues
