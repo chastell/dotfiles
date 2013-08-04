@@ -51387,3 +51387,136 @@ signatures:
   - tech
   - Ruby
   - Ruby Rogues
+- !ruby/struct:Signore::Signature
+  text: 2,000,000,000 cycles per second, 8,000,000,000 bytes of RAM, 12,000,000 bytes
+    per second of bandwidth, and you’re showing a loading screen.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Open a page in Chrome. Click your mouse wheel down, then up. Your scroll position
+    is one pixel off from its starting point. You’re welcome.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Chrome
+- !ruby/struct:Signore::Signature
+  text: Gas prices don’t seem so bad once you realize you’re buying explosive liquid
+    dinosaurs.
+  author: Andrew Kane
+  source: 
+  subject: 
+  tags:
+  - en
+  - gas
+- !ruby/struct:Signore::Signature
+  text: ‘When silently creating a dot directory in ~, I should add a README so people
+    know what the hell my directory is.’ — No programmer, ever.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Ruby: at 2.0, and still has error messages like ‘unexpected kEND, expecting $end’.
+    If you know what that means, then a Japanese man has stolen a significant amount of your brain time.
+  author: Thom Thanet
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: 'Favorite headline today: ‘Yelp inches slowly toward profitability, losing
+    just $878,000 in one quarter’. High fives for team Yelp!'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Yelp
+- !ruby/struct:Signore::Signature
+  text: ‘Okay, just get it working again as soon as you can. I depend on this quite
+    a bit.’ Well, that changes everything! Putting my beer down.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Trying to look at it as less of a network routing problem, and more of a network
+    routing OPPORTUNITY.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Site is fine and seems to be reachable from Europe. Best workaround right
+    now is to go to Europe.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Looks like the network itself is unreachable, turning on the nerd signal and
+    pointing it at clouds.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Deutsche sollten keine Witze darüber machen, dass das britische Staatsoberhaupt
+    eine seltsam gekleidete Dame ohne Politikverständnis ist.
+  author: Jana Van Lynden
+  source: 
+  subject: 
+  tags:
+  - de
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I can’t decide if people who wear pajamas in public have given up on life
+    or are living it to the fullest.
+  author: '@BillMurray'
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'OH: British REST: Where the server takes responsibility for everything and
+    returns a 500 regardless of whose fault it is.'
+  author: Mark Needham
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - REST
+- !ruby/struct:Signore::Signature
+  text: |-
+    An instructional guide to using Git submodules:
+    1. Don’t.
+  author: masukomi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
