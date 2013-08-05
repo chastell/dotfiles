@@ -8696,15 +8696,6 @@ signatures:
   - Vim
   - Emacs
 - !ruby/struct:Signore::Signature
-  text: San Francisco’s weather is like a mean, pretty, bipolar girl with a pickup
-    truck. Every time you’re ready to give up? Hey. Pickup truck.
-  author: Merlin Mann
-  source: 
-  subject: 
-  tags:
-  - en
-  - San Francisco
-- !ruby/struct:Signore::Signature
   text: When installing updates, instead of giving fuzzy, pseudo-technical messages,
     like ‘optimizing the components for current installation’, they should quote poetry,
     one verse per step. Good song lyrics would work, too.
@@ -26047,16 +26038,6 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Przy jej zakładaniu współpracowało i konsultacji udzielało i nad jej sukcesem
     pracowało grono 50 amerykańskich administratorów.
-  author: Expert
-  source: pl.news.admin
-  subject: o swojej grupie alt.jacek
-  tags:
-  - pl
-  - Usenet
-- !ruby/struct:Signore::Signature
-  text: Uzyskała zbyt dużą popularność i stąd te trudności w uzyskaniu dostępu. Wkrótce
-    będzie trudniej się na nią dostać, czytać i ściągać niż jakąkolwiek stronę WWW
-    zza Atlantyku.
   author: Expert
   source: pl.news.admin
   subject: o swojej grupie alt.jacek
@@ -51520,3 +51501,43 @@ signatures:
   - en
   - tech
   - Git
+- !ruby/struct:Signore::Signature
+  text: 'When robots rule Earth they’ll make kebabs, but they will miss one key ingredient:
+    love. Joking, it will be delicious. Team Robot. Fuck humans.'
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+- !ruby/struct:Signore::Signature
+  text: Ten minutes ago I disabled Varnish. Now we have no jobs, no hope and no c—*is
+    killed by sniper*
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    The non-existent --> operator in C++ that works as intended:
+    while (x --> 0)  printf("%d ", x);
+  author: Panos Ipeirotis
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+- !ruby/struct:Signore::Signature
+  text: The word ‘RESTful’, when talking about web APIs, is a portmanteau of the acronyms
+    ‘REST’ and ‘STFU’. The L stands for ‘LOL’.
+  author: Jamie Gaskins
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - REST
