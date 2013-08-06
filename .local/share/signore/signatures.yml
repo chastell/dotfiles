@@ -51541,3 +51541,24 @@ signatures:
   - en
   - tech
   - REST
+- !ruby/struct:Signore::Signature
+  text: People who think it’s a good idea to underpay developers have obviously never
+    seen Jurassic Park.
+  author: HTeuMeuLeu
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    terminal windows → terminal tabs → tmux panes → tmux windows → Vim tabs → Vim splits → Vim buffers
+    it’s fine
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Vim
+  - tmux
