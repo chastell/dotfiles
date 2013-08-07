@@ -51562,3 +51562,14 @@ signatures:
   - tech
   - Vim
   - tmux
+- !ruby/struct:Signore::Signature
+  text: I met an Amish programmer. I asked, isn’t using advanced technology against
+    your religion? He said, Ja, that’s why we code in PHP.
+  author: GonzoHacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
