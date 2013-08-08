@@ -51573,3 +51573,19 @@ signatures:
   - tech
   - programming
   - PHP
+- !ruby/struct:Signore::Signature
+  text: My late mother used to advise ‘A gentleman never gives offence accidentally’,
+    and I would add ‘…or goes around in public proclaiming whom he’s plonking’.
+  author: Rick Moen
+  source: linux-elitists
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: one size fists all.
+  author: Filip Tepper
+  source: 
+  subject: 
+  tags:
+  - en
