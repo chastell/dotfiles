@@ -51589,3 +51589,22 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: It’d be interesting to see how public opinion would change if liability to
+    death penalty was contingent on having registered support of it.
+  author: Etats Enomena
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s kinda weird that every JS library is about 100 KB minified, no matter
+    what it’s doing.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
