@@ -51608,3 +51608,16 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: 'To było może rok temu. Miałem taki moment podczas koncertu, otworzyłem swoje
+    serce i powiedziałem: „Panie Boże, oddaje ci swoje dłonie, swoje ciało i teraz
+    ty graj. Jestem całkowicie twój.” I patrzyłem na te swoje dłonie na klawiaturze,
+    czekając na to, co się zdarzy, i przez dobrych pięć minut nie wydarzyło się nic.
+    I wtedy pomyślałem: „Panie Boże, jesteś naprawdę wspaniałym Bogiem, ale na fortepianie
+    to ty grasz chujowo, więc może na fortepianie to będę grał ja.”'
+  author: Leszek Możdżer
+  source: 
+  subject: 
+  tags:
+  - pl
+  - music
