@@ -51621,3 +51621,12 @@ signatures:
   tags:
   - pl
   - music
+- !ruby/struct:Signore::Signature
+  text: Tried explaining Twitter to my dad, but his ‘why would you want to do that?’
+    argument was pretty bulletproof.
+  author: Will Phillips
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
