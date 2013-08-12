@@ -51630,3 +51630,11 @@ signatures:
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: Quick reminder that we use the same word for both your life’s ambitions AND
+    the crazy nonsense bullshit your brain imagines while you sleep.
+  author: Avery Edison
+  source: 
+  subject: 
+  tags:
+  - en
