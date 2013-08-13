@@ -51638,3 +51638,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Obama the Strong Leader fights terror with drones, secret courts, and surveillance.
+    Obama the Heartless Dictator provides free healthcare.
+  author: Reg Braithwaite
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
