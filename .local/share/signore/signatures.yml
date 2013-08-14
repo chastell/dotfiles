@@ -51647,3 +51647,13 @@ signatures:
   tags:
   - en
   - politics
+- !ruby/struct:Signore::Signature
+  text: If it doesn’t have a keyboard, I feel that my thoughts are being forced out
+    through a straw.
+  author: Joey Hess
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - keyboard
