@@ -20883,18 +20883,6 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: The PROPER way to handle HTML postings is to cancel the article, then hire
-    a hitman to kill the poster, his wife and kids, and fuck his dog and smash his
-    computer into little bits. Anything more is just extremism.
-  author: Paul Tomblin
-  source: asr
-  subject: 
-  tags:
-  - en
-  - tech
-  - email
-  - HTML
-- !ruby/struct:Signore::Signature
   text: That being done, all you have to do next is call free() slightly less often
     than malloc(). You may want to examine the Solaris system libraries for a particularly
     ambitious implementation of this technique.
@@ -48998,7 +48986,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: I asked the audience how many people wanted to be happy and fulfilled, and
-    half the hands went up.  This is another reason I love Poland.
+    half the hands went up. This is another reason I love Poland.
   author: Pinboard
   source: 
   subject: 
@@ -51657,3 +51645,12 @@ signatures:
   - en
   - tech
   - keyboard
+- !ruby/struct:Signore::Signature
+  text: My mom keeps calling Game of Thrones ‘Kings ’n’ Things’ and it’s infuriating
+    how much of a better title that is.
+  author: Josh Macedo
+  source: 
+  subject: 
+  tags:
+  - en
+  - Game of Thrones
