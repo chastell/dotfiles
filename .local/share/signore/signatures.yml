@@ -49541,7 +49541,7 @@ signatures:
   - en
   - NSA
 - !ruby/struct:Signore::Signature
-  text: wiecie, że jedna firma może być jednocześnie Gazelą Biznesu i Gepardem BIznesu?
+  text: wiecie, że jedna firma może być jednocześnie Gazelą Biznesu i Gepardem Biznesu?
     dziwneto.
   author: reuptake
   source: 
@@ -51654,3 +51654,12 @@ signatures:
   tags:
   - en
   - Game of Thrones
+- !ruby/struct:Signore::Signature
+  text: |-
+    My last phone fell in a mop bucket four years ago and I haven’t replaced it. ‘Waiting for it to dry.’ So people know what they’re up against.
+    If I was serious about making phone calls again, I’d probably at least take that phone out of the bucket.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
