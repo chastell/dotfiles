@@ -51663,3 +51663,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I didn’t expect ‘git commit --amen’ to work, but to quote Leonard Cohen, hallelujah.
+  author: chromatic
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
