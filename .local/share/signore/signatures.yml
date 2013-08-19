@@ -51681,3 +51681,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: ‘This app loads slow and is sluggish, but I love the abstractions and the
+    beautiful layer code!’ – no user, ever.
+  author: Thomas Fuchs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
