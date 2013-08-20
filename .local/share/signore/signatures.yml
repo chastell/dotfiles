@@ -51691,3 +51691,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Day two of no caffeine. Rage and tremors subsiding. I can finally think clearly
+    again, which is good because I got a LOT of bodies to hide now.
+  author: Dave Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - coffee
