@@ -51700,3 +51700,13 @@ signatures:
   tags:
   - en
   - coffee
+- !ruby/struct:Signore::Signature
+  text: ‘Eternal Sunshine of the Threadless Mind’. A romantic comedy starring Jim
+    Carrey as Yukihiro Matsumoto.
+  author: Vicent Martí
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
