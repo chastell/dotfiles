@@ -42302,7 +42302,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If we have data, let’s look at data. If all we have are opinions, let’s go
     with mine.
-  author: Dan Ariely
+  author: Jim Barksdale
   source: 
   subject: 
   tags:
@@ -51710,3 +51710,12 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: I like to think that as long as I’m busy I age slower, like Linux processes.
+  author: Matthias Viehweger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Linux
