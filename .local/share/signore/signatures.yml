@@ -51719,3 +51719,14 @@ signatures:
   - en
   - tech
   - Linux
+- !ruby/struct:Signore::Signature
+  text: |-
+    I have now seen evil
+    #define if(x) if ((x) && (rand() < RAND_MAX * 0.99))
+  author: Jeffrey Goldberg
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
