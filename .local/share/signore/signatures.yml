@@ -51730,3 +51730,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    Yesterday, half-asleep: what a great idea, I need to write it down.
+    My brain: You’ll remember, it’s so good!
+    Today, brain: mastrtolle2013
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
