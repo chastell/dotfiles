@@ -51740,3 +51740,10 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Two fucks diverged in a wood, and I— I took the one not given.
+  author: Shanley
+  source: 
+  subject: 
+  tags:
+  - en
