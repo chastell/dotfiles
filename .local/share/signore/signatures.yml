@@ -51747,3 +51747,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Why is ‘sandbox’ the preferred metaphor for ‘inescapable container for possibly
+    evil agents’? What kind of playgrounds are y’all visiting?
+  author: Nick Mathewson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
