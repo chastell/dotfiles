@@ -51756,3 +51756,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: My rule is that I don’t argue with libertarians for free. If they want my
+    attention they can pay for it.
+  author: tef
+  source: 
+  subject: 
+  tags:
+  - en
+  - libertarianism
+  - politics
