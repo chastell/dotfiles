@@ -51766,3 +51766,13 @@ signatures:
   - en
   - libertarianism
   - politics
+- !ruby/struct:Signore::Signature
+  text: A QA engineer walks into a bar. Runs into a bar. Crawls into a bar. Dances
+    into a bar. Tiptoes into a bar. Rams into a bar. Jumps into a bar.
+  author: David Burns
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - QA
