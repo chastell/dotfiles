@@ -51776,3 +51776,17 @@ signatures:
   - en
   - tech
   - QA
+- !ruby/struct:Signore::Signature
+  text: |-
+    Creative process:
+    1) This is going to be awesome
+    2) This is hard
+    3) This is terrible
+    4) I’m terrible
+    5) Hey, not bad
+    6) That was awesome
+  author: Kazu Kibuishi
+  source: 
+  subject: 
+  tags:
+  - en
