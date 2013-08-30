@@ -51790,3 +51790,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Nobody ever gave me NOTHIN except for the entrenched systemic advantages of
+    my race class and gender expression and also all this money.
+  author: Tim Pratt
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
