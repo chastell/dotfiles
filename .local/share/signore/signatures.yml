@@ -51799,3 +51799,11 @@ signatures:
   tags:
   - en
   - politics
+- !ruby/struct:Signore::Signature
+  text: Can you imagine if humans ever met a post-timezones species? We’d be so embarrassed.
+  author: Alex Gaynor
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
