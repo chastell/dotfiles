@@ -51807,3 +51807,15 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘varnishlog, could you give me the requests with statuscode 500?’
+    ‘All requests with any statuscode you say? Sure thing, there you go!’
+    thank’s
+  author: Josep M. Bach
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Varnish
