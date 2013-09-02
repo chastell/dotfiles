@@ -51819,3 +51819,10 @@ signatures:
   - en
   - tech
   - Varnish
+- !ruby/struct:Signore::Signature
+  text: Making sure your hotel room is spotless in preparation for the maid’s arrival.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
