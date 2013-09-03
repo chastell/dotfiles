@@ -51826,3 +51826,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Wouldn’t it be nice if hospitals and schools were fully funded and the military
+    had to have cake sales to buy bombs?
+  author: Jayne Smalley
+  source: 
+  subject: 
+  tags:
+  - en
