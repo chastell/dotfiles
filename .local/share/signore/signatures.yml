@@ -51834,3 +51834,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'English emails from Japan have this dreamlike/eerie quality. Reserving a
+    room in a hotel – the signature: ‘We have been expecting you.’'
+  author: Florian Hanke
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
