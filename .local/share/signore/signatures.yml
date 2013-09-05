@@ -51843,3 +51843,14 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: After days of muttering about weak typing in JavaScript I discover that in
+    Python '12' > 30 so I guess I should shut up.
+  author: Damian Cugley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
+  - Python
