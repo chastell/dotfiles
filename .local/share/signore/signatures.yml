@@ -51854,3 +51854,13 @@ signatures:
   - tech
   - JavaScript
   - Python
+- !ruby/struct:Signore::Signature
+  text: Codes, like jokes, aren’t better when you have to explain, repeat, or justify
+    them.
+  author: Adam Keys
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
