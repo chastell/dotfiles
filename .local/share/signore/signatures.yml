@@ -51864,3 +51864,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'For those born since we left: you struggle with 1 GB RAM & 64 GB iPhones,
+    while we’re still running strong on 16 kB & 64 MB of 8-track tape memory!'
+  author: NASAVoyager2
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
