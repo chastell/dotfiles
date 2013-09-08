@@ -51873,3 +51873,14 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: That moment when you search for a song on your non-DRM player and realize
+    you bought it on iTunes and everyone who said not to was right.
+  author: Charles Nutter
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - music
+  - DRM
