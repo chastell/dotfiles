@@ -51884,3 +51884,12 @@ signatures:
   - tech
   - music
   - DRM
+- !ruby/struct:Signore::Signature
+  text: |-
+    P-L-A-N   A-H-E-A
+    #badknuckletattoos
+  author: Harpsichord Megazord
+  source: 
+  subject: 
+  tags:
+  - en
