@@ -51893,3 +51893,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Mishearing somebody’s name on the second time of asking, meaning you must
+    now avoid them forever.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
