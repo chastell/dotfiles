@@ -51901,3 +51901,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Za każdym razem jak widzę że coś będzie w GTK, to mi się szerszenie w dupie lęgną. Bo założenia pięknie i cacy, a potem SRU GTK i już wiesz że będzie obsysało tak bardzo, że wciągnie kupę razem z dywanem.
+    Może to samo założenie? że floaties, przeźroczystości, i inne dzikie węże z chujami tryskającymi fluorescencyjną lemoniadą? I się przyciskiem u góry zamyka, obok maksymalizuje, i jest jeszcze jeden przycisk co nie robi nic, żeby było jak w windowsie? I prąciepanieborze to usunąć?
+  author: spin
+  source: HS WAW OT
+  subject: 
+  tags:
+  - en
+  - tech
+  - GTK
