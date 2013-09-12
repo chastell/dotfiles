@@ -25118,18 +25118,6 @@ signatures:
   - programming
   - Smalltalk
 - !ruby/struct:Signore::Signature
-  text: Attention, Sinatra::Base will be renamed to Sinatra::UBERKLASSE in 1.3.2 and
-    1.2.8.
-  author: Konstantin Haase
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
-  - Sinatra
-- !ruby/struct:Signore::Signature
   text: |-
     ‘Going to be the first white guy to die from hyperthermia in beautiful Nice, France, which is less beautiful when your balls freeze off.’
     ‘In Europe we have this crazy new invention we call clothes.’
@@ -49672,7 +49660,7 @@ signatures:
   - Smalltalk
 - !ruby/struct:Signore::Signature
   text: Just realized that ‘National Security Agency’ (NSA) literally translates to
-    the German ‘Ministerium für Staatssicherheit (Stasi).
+    the German ‘Ministerium für Staatssicherheit’ (Stasi).
   author: Klaus Trainer
   source: 
   subject: 
@@ -51912,3 +51900,14 @@ signatures:
   - en
   - tech
   - GTK
+- !ruby/struct:Signore::Signature
+  text: |-
+    In b4 GIMP w tiling wm. To jak cerowanie dupy dratwą. Czemu dupę cerujesz? Bo nie lubię srać. Czemu dratwą? Bo mi trudno igłą bez okularów. A nie boli cię? Boli jak skurwysyn. To czemu cerujesz? Tyle już wycierpiałem, szkoda żeby na marne poszło.
+    Srsly te devy od gimpa to jakaś sitwa.
+  author: spin
+  source: HS WAW OT
+  subject: 
+  tags:
+  - en
+  - tech
+  - GIMP
