@@ -51911,3 +51911,11 @@ signatures:
   - en
   - tech
   - GIMP
+- !ruby/struct:Signore::Signature
+  text: On this solemn day let us vow to fly the planes of compassion and brotherhood
+    into the twin towers of hatred and intolerance.
+  author: Maciej Cegłowski
+  source: 
+  subject: on September 11th, 2013
+  tags:
+  - en
