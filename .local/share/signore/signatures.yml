@@ -51919,3 +51919,14 @@ signatures:
   subject: on September 11th, 2013
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'Oh Berlin. Guy looking at me strange, walking past, then telling his girlfriend:
+    ‘That’s the Sinatra maintainer.’'
+  author: The Konstantin
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Sinatra
+  - Berlin
