@@ -51930,3 +51930,13 @@ signatures:
   - tech
   - Sinatra
   - Berlin
+- !ruby/struct:Signore::Signature
+  text: 'OH: What if the NSA is responsible for PHP?'
+  author: Markus Schirp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - NSA
+  - PHP
