@@ -51950,3 +51950,16 @@ signatures:
   - en
   - tech
   - Bond
+- !ruby/struct:Signore::Signature
+  text: |-
+    Wait, you have to declare function types in Haskell? How is this different from C?
+    Haskell has IO, C has const. Potato, potatoe. JavaScript > C && C == Haskell => JavaScript > Haskell. Can’t argue with logic, folks.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Haskell
+  - C
+  - JavaScript
