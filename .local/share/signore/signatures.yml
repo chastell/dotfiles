@@ -36128,15 +36128,6 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: I’m calling the next open source project ZOMBIE PIGEON. Doesn’t matter what
-    it will be doing.
-  author: Marcin Bunsch
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-- !ruby/struct:Signore::Signature
   text: Obrona Cywilna jest odpowiedzialna za ruchy wojsk w jedną i w drugą stronę.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -51963,3 +51954,11 @@ signatures:
   - Haskell
   - C
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: We are the livestock of plants and trees, which feed us and give us air knowing
+    that we will soon die and feed them.
+  author: Night Vale podcast
+  source: 
+  subject: 
+  tags:
+  - en
