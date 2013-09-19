@@ -51962,3 +51962,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'OH: Matthew, Marketing, Luke, and John.'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
