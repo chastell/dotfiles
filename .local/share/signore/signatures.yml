@@ -51970,3 +51970,13 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: 'Campaign For British English on the Internet website advises: ‘This site
+    uses biscuits. By using the site you consent to our use of biscuits.’'
+  author: AngryShopMan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - linguistics
