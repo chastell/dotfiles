@@ -50572,7 +50572,7 @@ signatures:
   - en
   - Lisp
 - !ruby/struct:Signore::Signature
-  text: In love with complexity and hate refactoring?  Test your private methods.
+  text: In love with complexity and hate refactoring? Test your private methods.
   author: David Copeland
   source: 
   subject: 
@@ -51980,3 +51980,14 @@ signatures:
   - en
   - tech
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: |-
+    — kfsw, jak twoja żona ma na imię?
+    — Poufne.
+    — Ładnie. Z francuskiego?
+  author: Mimin96, kfsw, Horix
+  source: 
+  subject: 
+  tags:
+  - pl
+  - IRC
