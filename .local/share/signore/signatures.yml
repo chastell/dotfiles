@@ -43162,7 +43162,8 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: |-
     >> def method_missing(n, *a, &b); send(methods.min_by { |m| levenshtein(n.to_s, m.to_s) }, *a, &b); end
-    >> p [1, 2, 3].elngth 3
+    >> p [1, 2, 3].elngth
+    3
     It’s fine.
   author: Gary Bernhard
   source: 
@@ -47895,7 +47896,7 @@ signatures:
   - tech
   - CSS
 - !ruby/struct:Signore::Signature
-  text: 'You haven''t coded in Ruby until you’vSegmentation fault: 11'
+  text: 'You haven’t coded in Ruby until you’vSegmentation fault: 11'
   author: Jessica Kerr
   source: 
   subject: 
@@ -51991,3 +51992,13 @@ signatures:
   tags:
   - pl
   - IRC
+- !ruby/struct:Signore::Signature
+  text: As a reminder, if you’re standing in line for an iPhone, there are loads of
+    non-profit organizations where you can volunteer your time.
+  author: Joe McCann
+  source: 
+  subject: 
+  tags:
+  - en
+  - Apple
+  - iPhone
