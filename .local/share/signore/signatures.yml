@@ -52002,3 +52002,12 @@ signatures:
   - en
   - Apple
   - iPhone
+- !ruby/struct:Signore::Signature
+  text: 'Great point made in son’s college orientation re sex/safety/respect/etc:
+    ‘Consent is really too low a bar. Hold out for enthusiasm.’'
+  author: Rachel Vail
+  source: 
+  subject: 
+  tags:
+  - en
+  - sex
