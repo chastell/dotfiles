@@ -51228,7 +51228,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘You can’t compare apples and oranges.’ — people who don’t know how comparisons
+  text: ‘You can’t compare apples and oranges’ — people who don’t know how comparisons
     work.
   author: Teju Cole
   source: 
@@ -52011,3 +52011,14 @@ signatures:
   tags:
   - en
   - sex
+- !ruby/struct:Signore::Signature
+  text: A common fallacy is to assume authors of incomprehensible code will somehow
+    be able to express themselves lucidly and clearly in comments.
+  author: Kevlin Henney
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - comments
