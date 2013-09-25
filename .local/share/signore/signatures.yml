@@ -52022,3 +52022,11 @@ signatures:
   - tech
   - programming
   - comments
+- !ruby/struct:Signore::Signature
+  text: is it just me or are there any other anagrams of em
+  author: bread
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
