@@ -52030,3 +52030,13 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: 'OH: I wonder what it’s like to work at a software company that employs people
+    who understand software.'
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
