@@ -52049,3 +52049,13 @@ signatures:
   - en
   - tech
   - Quora
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘What does gayarrow.png do in my repo?’
+    ‘It’s grayarrow.png, you moron.’
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
