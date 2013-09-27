@@ -52040,3 +52040,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'OH: Quora is the spiritual successor to Experts-Exchange.'
+  author: Tomash
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Quora
