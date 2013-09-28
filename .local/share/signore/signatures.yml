@@ -52059,3 +52059,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: ‘We’re only looking to hire the best’ – we have no idea how to help our employees
+    develop and we’re shit at training and mentoring.
+  author: tef
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
