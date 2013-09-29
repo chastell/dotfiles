@@ -52069,3 +52069,12 @@ signatures:
   - en
   - tech
   - work
+- !ruby/struct:Signore::Signature
+  text: Pondering a lightning talk in which I swig repeatedly from a bottle of Jack
+    Daniels and click through slides of shitty code, weeping.
+  author: Chris Whitworth
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
