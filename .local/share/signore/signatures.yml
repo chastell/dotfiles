@@ -16965,17 +16965,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: 'If your bug tracking system has emoticon images, you’re doing it wrong. See
-    also: JIRA.'
-  author: Wojtek Ogrodowczyk
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - JIRA
-  - emoticons
-- !ruby/struct:Signore::Signature
   text: Tak kaszlnąłem, że mi się jedna zakładka od Chrome’a oderwała.
   author: reuptake
   source: 
@@ -52078,3 +52067,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: If watermelon exists why don’t airmelon, firemelon & earthmelon exist? The
+    elemelons.
+  author: Taufeeq Jaffer
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
