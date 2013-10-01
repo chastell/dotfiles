@@ -52076,3 +52076,12 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Lies, damn lies and comments.
+  author: Katrina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
