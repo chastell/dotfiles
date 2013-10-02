@@ -52085,3 +52085,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Next time you feel scared to do something, just think, ‘well, if Internet
+    Explorer is brave enough to ask to be my default browser…’
+  author: I Am Developer
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - IE
