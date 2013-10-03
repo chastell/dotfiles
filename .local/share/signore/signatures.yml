@@ -1151,7 +1151,7 @@ signatures:
   - relationships
 - !ruby/struct:Signore::Signature
   text: Lata drugiej młodości spędzał na agresywnym refactoringu.
-  author: spotter
+  author: Spotter
   source: 
   subject: 
   tags:
@@ -42786,7 +42786,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: Someone has changed the indent spacing in this file. RELEASE THE KRAKEN.
-  author: I Am Devloper
+  author: I Am Developer
   source: 
   subject: 
   tags:
@@ -52095,3 +52095,14 @@ signatures:
   - en
   - tech
   - IE
+- !ruby/struct:Signore::Signature
+  text: 'OH: I just don’t know how JRuby is so fast; I mean the source code is very
+    readable.'
+  author: chendo
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JRuby
