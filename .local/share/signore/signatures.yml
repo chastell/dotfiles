@@ -52106,3 +52106,11 @@ signatures:
   - tech
   - programming
   - JRuby
+- !ruby/struct:Signore::Signature
+  text: Find out in life what it is that you don’t do well. And then don’t do those
+    things.
+  author: The Richard
+  source: 
+  subject: 
+  tags:
+  - en
