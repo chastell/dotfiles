@@ -52114,3 +52114,47 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    — Jebani miejscowi listonosze są tak bezczelni, że wrzucają awizo do jebanej skrzynki, a nawet nie sprawdzają czy jest ktoś w domu.
+    — Zejdź i mu wpierdol. Jak wezwie policję, to pokażesz awizo, że Cię nie było.
+  author: TxC, labeleq
+  source: 
+  subject: 
+  tags:
+  - pl
+  - post
+- !ruby/struct:Signore::Signature
+  text: 'Płynęliśmy wczoraj po koncercie w dół Monciaka i gdzieś na wysokości szaletów
+    z bocznej uliczki wypadła cała gromada młodziutkich, rozchichotanych dziewcząt:
+    różki, różdżki, „ej, zoba tych”, wieczór panieński w rozkwicie. Uśmiechnęliśmy
+    się być może uprzejmie, trudno się nie uśmiechnąć – a tu jedna, ośmielona, na
+    ten uśmiech zaczyna pruć w moją stronę jak torpeda nadziei: że ona ma takie zadanie,
+    żeby jakiemuś mężczyźnie sprzedać gumę za pięć złotych. I na potwierdzenie wyciąga
+    prosząco łapkę z prezerwatywą uznanej marki, fabrycznie zapakowaną; a oczy ma
+    jak ten kot ze Shreka. I to jest ten rodzaj sytuacji, że artycha po dżobie nie
+    ma moralnego prawa choćby się zająknąć, nie mówiąc o targowaniu, tylko sięga do
+    kieszeni. Jaka eksplozja entuzjazmu! „Hura!” – krzyczą wszystkie, a ta moja najgłośniej
+    – i już ją jakieś inne pytają rozgorączkowane: „jak to zrobiłaś, ej, jak go przekonałaś?”,
+    a jedna przez drugą przekrzykują się jaki jestem świetny i jaki super. Jak się
+    czułem? Jak święty Franciszek pośród ptactwa. I wtedy ta moja pyta jeszcze retorycznie,
+    czy możemy sobie zrobić razem zdjęcie, cyk! cyk! cyk! błyskają flesze, a panna
+    mi daje soczystego całusa. Łał, naprawdę łał, co za wieczór. Gdyby mi ktoś wcześniej
+    powiedział, że da się wybrnąć z sytuacji „tu są zdjęcia na których całuje cię
+    jakaś pinda, a to jest kondom z kieszeni marynarki” to bym nie uwierzył.'
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Try freezing one of your Ruby objects on creation. Then fix all the errors.
+    Your design will probably be way better.
+  author: Chris Parsons
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
