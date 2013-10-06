@@ -52158,3 +52158,12 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: You are now running on reserve anger. You need to connect your computer to
+    Twitter. If you don’t, you will become happy in a few minutes.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
