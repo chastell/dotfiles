@@ -52167,3 +52167,15 @@ signatures:
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: |-
+    Thank god I have tests.
+    Oh, no, wait, that one was me. Thank me I have tests.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
