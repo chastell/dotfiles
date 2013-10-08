@@ -52179,3 +52179,19 @@ signatures:
   - tech
   - programming
   - testing
+- !ruby/struct:Signore::Signature
+  text: Geht mit Gott, aber geht. Und vor allem, nehmt Gott mit.
+  author: Katja Dathe
+  source: 
+  subject: 
+  tags:
+  - de
+  - religion
+- !ruby/struct:Signore::Signature
+  text: 'Tech talk template: I don’t know what I’m doing, and here’s how.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
