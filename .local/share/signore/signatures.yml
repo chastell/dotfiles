@@ -52195,3 +52195,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    *Man walks into a bar covered in kiss marks*
+    haha yeah well you should see the other guy
+  author: Much too chainz
+  source: 
+  subject: 
+  tags:
+  - en
