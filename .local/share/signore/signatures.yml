@@ -52204,3 +52204,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'OH: Today we received a screenshot in a Word document of a terminal window
+    catting a log file.'
+  author: Kristian Glass
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
