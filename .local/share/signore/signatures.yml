@@ -43120,7 +43120,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: |-
-    ‘Enjoying this story about how Steve Jobs wasn’t just an asshole in one way, but in every way: http://goo.gl/YCiXS’
+    ‘Enjoying this story about how Steve Jobs wasn’t just an asshole in one way, but in every way: <http://goo.gl/YCiXS>’
     ‘On the other hand, he *did* name a computer after the daughter he was neglecting. #BestDadEver’
     ‘Performa is a creepy name for a daughter.’
   author: Pinboard, Anil Dash
@@ -52213,3 +52213,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    A vegan girl told me that, ‘if you eat beef, you’re basically a velociraptor’.
+    In what world is that not totally awesome.
+  author: Trent Seely
+  source: 
+  subject: 
+  tags:
+  - en
