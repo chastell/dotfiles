@@ -52222,3 +52222,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    If you’re required to fill out a time sheet, I have open sourced mine. Feel free to use.
+    PROJECT#: WORK. DESCRIPTION: Worked. HOURS: 40.
+  author: Ed Weissman
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
