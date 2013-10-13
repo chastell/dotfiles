@@ -52232,3 +52232,13 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: Whenever offered SEO services over spam, I reply with ‘I’ll google for “SEO”
+    and click the first link, which will be your company’.
+  author: Roy Tomeij
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SEO
