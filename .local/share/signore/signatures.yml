@@ -52242,3 +52242,14 @@ signatures:
   - en
   - tech
   - SEO
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Shitty commit messages are basically a gigantic middle finger to coworkers you haven’t met yet.’
+    ‘Fuck those people.’
+  author: Alan, Jason Dixon
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
