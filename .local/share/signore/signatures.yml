@@ -52253,3 +52253,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘You’ve got an interesting accent. Subtle. I can’t place it.’
+    ‘It’s text-to-speech… I was raised by smartphones.’
+  author: Patrick Ewing
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
