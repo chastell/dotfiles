@@ -52263,3 +52263,11 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Randomly chuckling while having your hair washed, despite being unable to
+    hear a word the hairdresser is saying.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
