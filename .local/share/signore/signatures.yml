@@ -52271,3 +52271,17 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I’m saying the GPL is seen as anti-commerce, not that it *is*, though there’s no doubt in my mind its *author* can be rather hostile to commerce.’
+    ‘That’s an odd claim to make, given that RMS funded the FSF/GNU project in the early days through sales of EMACS tapes. I’d say he's got more sales under his belt than you probably do, tough guy.’
+    ‘Fine, he’s not hostile to commerce, he just uses terminology that scares corporations.’
+    ‘Well stop my beating heart. Can you imagine the NERVE of that guy?’
+  author: Tony Godshall, Teh Entar-Nick
+  source: linux-elitists
+  subject: 
+  tags:
+  - en
+  - tech
+  - GPL
+  - rms
