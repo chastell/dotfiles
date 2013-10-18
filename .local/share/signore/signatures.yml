@@ -52285,3 +52285,20 @@ signatures:
   - tech
   - GPL
   - rms
+- !ruby/struct:Signore::Signature
+  text: |-
+    „Marihuana prowadzi do homoseksualizmu, a przez to do AIDS” (Carlton Turner, doradca narkotykowy Białego Domu, 1986 rok)
+    doradca narkotykowy to ten co doradza co wziąć?
+  author: gjm
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: ahahahaa i just saw someone on a citybike run into someone wearing google
+    glass what a great time to be alive
+  author: L Ǝ spooky word O И
+  source: 
+  subject: 
+  tags:
+  - en
