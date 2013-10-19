@@ -52305,3 +52305,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I Forth <3
+  author: Dana McCallum
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Forth
