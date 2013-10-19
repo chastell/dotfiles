@@ -69,7 +69,7 @@ signatures:
     I always saw Linux as the smart bookish chick who dresses frumpy, doesn’t put too much effort into how she looks and seems kind of plain at first, and she busts your balls a bit when you try to initiate a relationship, but then when you get to know her she lets her hair out and unbuttons her shirt a bit and DOOOINNNGGG! Keeper. And none of your friends know how hot she really is.
     Of course she’s very sarcastic, it’s up to you whether you see that as a good thing or a bad thing.
   author: GameboyRMH
-  source: /.
+  source: "/."
   subject: 
   tags:
   - en
@@ -200,8 +200,8 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: '#Złamatka zachęca do spożycia świeżych szparagów, twierdząc, że są to gotowane
-    tasiemce.'
+  text: "#Złamatka zachęca do spożycia świeżych szparagów, twierdząc, że są to gotowane
+    tasiemce."
   author: Lilarouge
   source: 
   subject: 
@@ -324,7 +324,7 @@ signatures:
   - sex
   - BDSM
 - !ruby/struct:Signore::Signature
-  text: „Egzamin był tak trudny, że nie mogłem nawet znaleźć sali.”
+  text: "„Egzamin był tak trudny, że nie mogłem nawet znaleźć sali.”"
   author: elpanda
   source: 
   subject: 
@@ -511,7 +511,7 @@ signatures:
   - tech
   - security
 - !ruby/struct:Signore::Signature
-  text: „Kodeks marketingu szeptanego” to jak „Zasadzy przyjaznego terroryzmu”.
+  text: "„Kodeks marketingu szeptanego” to jak „Zasadzy przyjaznego terroryzmu”."
   author: Siwa
   source: 
   subject: 
@@ -580,7 +580,7 @@ signatures:
   - pl
   - culture
 - !ruby/struct:Signore::Signature
-  text: „zapraszamy na pokaz inteligentnych kosiarek ogrodowych”
+  text: "„zapraszamy na pokaz inteligentnych kosiarek ogrodowych”"
   author: kya
   source: 
   subject: 
@@ -655,7 +655,7 @@ signatures:
   - pl
   - tech
 - !ruby/struct:Signore::Signature
-  text: // sometimes I believe compiler ignores all my comments
+  text: "// sometimes I believe compiler ignores all my comments"
   author: 
   source: 
   subject: 
@@ -777,8 +777,8 @@ signatures:
   - programming
   - Adobe
 - !ruby/struct:Signore::Signature
-  text: „Idiotów na świecie jest mało. Ale są tak sprytnie rozstawieni, że spotyka
-    się ich na każdym kroku.”
+  text: "„Idiotów na świecie jest mało. Ale są tak sprytnie rozstawieni, że spotyka
+    się ich na każdym kroku.”"
   author: elpanda
   source: 
   subject: 
@@ -848,7 +848,7 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: '„Zostawić wszystko w cholerę” sezon 4, odc. 10: „Apogeum”.'
+  text: "„Zostawić wszystko w cholerę” sezon 4, odc. 10: „Apogeum”."
   author: reuptake
   source: 
   subject: 
@@ -1186,8 +1186,8 @@ signatures:
   - music
   - politics
 - !ruby/struct:Signore::Signature
-  text: ‘My friends tell me that I have a tendency to point out problems without offering
-    solutions, but they never tell me what I should do about it.’
+  text: "‘My friends tell me that I have a tendency to point out problems without
+    offering solutions, but they never tell me what I should do about it.’"
   author: kodz
   source: 
   subject: 
@@ -1416,7 +1416,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: CCTV didn’t so much prevent crime as document it in a grainy, not really admissible
     as evidence kind of way.
-  author: '@ninjabiscuit'
+  author: "@ninjabiscuit"
   source: 
   subject: 
   tags:
@@ -1457,7 +1457,7 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: '#Sonisphere Jestem na miejscu, czarna ramona, długie włosy.'
+  text: "#Sonisphere Jestem na miejscu, czarna ramona, długie włosy."
   author: Filip Tepper
   source: 
   subject: 
@@ -1849,7 +1849,7 @@ signatures:
   - programming
   - open source
 - !ruby/struct:Signore::Signature
-  text: ‘Dr John A. Zoidberg’. Bet you didn’t know that.
+  text: "‘Dr John A. Zoidberg’. Bet you didn’t know that."
   author: Markus Prinz
   source: 
   subject: 
@@ -2285,7 +2285,7 @@ signatures:
   - tech
   - Subversion
 - !ruby/struct:Signore::Signature
-  text: ‘…his condom budget raised eyebrows with university auditors’ http://nyti.ms/bYhPAZ
+  text: "‘…his condom budget raised eyebrows with university auditors’ http://nyti.ms/bYhPAZ"
   author: Paul Battley
   source: 
   subject: 
@@ -3067,7 +3067,7 @@ signatures:
   - cynicism
   - work
 - !ruby/struct:Signore::Signature
-  text: ‘Smile’, they said, ‘life could be worse’. So I did and it was.
+  text: "‘Smile’, they said, ‘life could be worse’. So I did and it was."
   author: 
   source: 
   subject: 
@@ -3171,7 +3171,7 @@ signatures:
   - en
   - love
 - !ruby/struct:Signore::Signature
-  text: ‘Hi {firstname}… You have been carefully chosen as a key customer’
+  text: "‘Hi {firstname}… You have been carefully chosen as a key customer’"
   author: Paul Battley
   source: 
   subject: 
@@ -3425,8 +3425,8 @@ signatures:
   - war
   - cynicism
 - !ruby/struct:Signore::Signature
-  text: ‘The best thing for being sad’, replied Merlyn, beginning to puff and blow,
-    ‘is to learn something’.
+  text: "‘The best thing for being sad’, replied Merlyn, beginning to puff and blow,
+    ‘is to learn something’."
   author: T. H. White
   source: The Once and Future King
   subject: 
@@ -3624,8 +3624,8 @@ signatures:
   - pl
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘There’s a tendency among the press to atrribute the creation of a game to
-    a single person’, says Warren Spector, creator of Thief and Deus Ex.
+  text: "‘There’s a tendency among the press to atrribute the creation of a game to
+    a single person’, says Warren Spector, creator of Thief and Deus Ex."
   author: IGN
   source: 
   subject: 
@@ -4118,8 +4118,8 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że wpadł do mnie Wiadomy Bohdan, pożyczyć kasety magnetofonowe.
-    Ja marudziłem, że wody z hydrantu nie da się sortować alfabetycznie.
+  text: "Śniło mi się, że wpadł do mnie Wiadomy Bohdan, pożyczyć kasety magnetofonowe.
+    Ja marudziłem, że wody z hydrantu nie da się sortować alfabetycznie."
   author: opi
   source: 
   subject: 
@@ -4184,8 +4184,8 @@ signatures:
   - pl
   - sanity
 - !ruby/struct:Signore::Signature
-  text: '„Możliwe działania niepożądane: […] Donoszono o przypadkach całkowitej utraty
-    wzroku.” no zobacz. dobre te leki.'
+  text: "„Możliwe działania niepożądane: […] Donoszono o przypadkach całkowitej utraty
+    wzroku.” no zobacz. dobre te leki."
   author: maz
   source: 
   subject: 
@@ -4239,7 +4239,7 @@ signatures:
   - en
   - kids
 - !ruby/struct:Signore::Signature
-  text: Śniła mi się czarna A500.
+  text: "Śniła mi się czarna A500."
   author: opi
   source: 
   subject: 
@@ -4318,8 +4318,8 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że dostałem na prezent zepsutego laptopa i listwę z ośmioma
-    gniazdkami. Jak się cieszyłem z tej listwy! Wstaję, a to tylko sen. Dzień popsuty.
+  text: "Śniło mi się, że dostałem na prezent zepsutego laptopa i listwę z ośmioma
+    gniazdkami. Jak się cieszyłem z tej listwy! Wstaję, a to tylko sen. Dzień popsuty."
   author: opi
   source: 
   subject: 
@@ -4422,11 +4422,12 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: „Inna rzecz, że oczekiwanie od ateistów rozsądku też specjalnie rozsądne nie
-    jest, bo na przykład uważają oni, że trzeba postępować moralnie, chociaż, prawdę
-    mówiąc, nie bardzo wiadomo właściwie dlaczego” – sorry, ale dla mnie pan Michalkiewicz
-    jest spalony chociażby tym zdaniem. Jeśli jego tylko wiara w boga powstrzymuje
-    przed byciem chujem, to może niech on lepiej faktycznie w tego boga wierzy.
+  text: "„Inna rzecz, że oczekiwanie od ateistów rozsądku też specjalnie rozsądne
+    nie jest, bo na przykład uważają oni, że trzeba postępować moralnie, chociaż,
+    prawdę mówiąc, nie bardzo wiadomo właściwie dlaczego” – sorry, ale dla mnie pan
+    Michalkiewicz jest spalony chociażby tym zdaniem. Jeśli jego tylko wiara w boga
+    powstrzymuje przed byciem chujem, to może niech on lepiej faktycznie w tego boga
+    wierzy."
   author: Sober
   source: 
   subject: 
@@ -4764,8 +4765,8 @@ signatures:
   - science
   - math
 - !ruby/struct:Signore::Signature
-  text: …it was as if its architects were given a perfectly good hammer and gleefully
-    replied, ‘neat! with this hammer, we can build a tool that can pound in nails’.
+  text: "…it was as if its architects were given a perfectly good hammer and gleefully
+    replied, ‘neat! with this hammer, we can build a tool that can pound in nails’."
   author: Alex Papadimoulis
   source: 
   subject: 
@@ -4884,7 +4885,7 @@ signatures:
   - books
   - literature
 - !ruby/struct:Signore::Signature
-  text: ← Emil | Weekend →
+  text: "← Emil | Weekend →"
   author: opi
   source: 
   subject: 
@@ -4939,10 +4940,10 @@ signatures:
   - pl
   - Creative Commons
 - !ruby/struct:Signore::Signature
-  text: „To trochę tak, jakby Lord Vader poprosił Luke’a Skywalkera o wygłoszenie
+  text: "„To trochę tak, jakby Lord Vader poprosił Luke’a Skywalkera o wygłoszenie
     mowy motywacyjnej do żołnierzy Imperium” – właśnie skończyłem trzygodzinny wykład
     o internecie, otwartych modelach biznesowych i otwartej edukacji dla pracowników
-    WSiP.
+    WSiP."
   author: Jarosław Lipszyc
   source: 
   subject: 
@@ -5077,9 +5078,9 @@ signatures:
   - pl
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘Religion is a methapor’ is a floating plank of wood to which a castaway on
-    the Sea of Reality desperately clings, after the good ship Religion has been dashed
-    to pieces on the Rocks of Reason.
+  text: "‘Religion is a methapor’ is a floating plank of wood to which a castaway
+    on the Sea of Reality desperately clings, after the good ship Religion has been
+    dashed to pieces on the Rocks of Reason."
   author: 
   source: Jesus and Mo
   subject: 
@@ -5096,8 +5097,8 @@ signatures:
   - en
   - sex
 - !ruby/struct:Signore::Signature
-  text: ‘Britain’s supermarket chains are selling halal meat without telling unsuspecting
-    shoppers.’ THIS BURGER TASTES LIKE THE WRONG KIND OF MAGIC
+  text: "‘Britain’s supermarket chains are selling halal meat without telling unsuspecting
+    shoppers.’ THIS BURGER TASTES LIKE THE WRONG KIND OF MAGIC"
   author: Tom Stuart
   source: 
   subject: 
@@ -5261,13 +5262,13 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: For the sake of topic titles, I’d rather if Monty saved Python.
   author: Anonymous Coward
-  source: /.
+  source: "/."
   subject: on a ‘Monty Wants to Save MySQL’ post
   tags:
   - en
   - tech
   - MySQL
-  - /.
+  - "/."
 - !ruby/struct:Signore::Signature
   text: Zawód nauczyciela jest naprawdę wspaniały. Dziś kochane maluszki naprawdę
     mnie zaskoczyły; rano młody dżentelmen otworzył mi drzwi, przepuścili mnie pierwszą,
@@ -5523,8 +5524,8 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: „Taki uśmiech ostatni raz widziałem, kiedy gość wyrzucił numery alarmowe w
-    całym Krakowie, dlatego pytam.” Czy ja się realizuję w telekomunikacji? Ależ.
+  text: "„Taki uśmiech ostatni raz widziałem, kiedy gość wyrzucił numery alarmowe
+    w całym Krakowie, dlatego pytam.” Czy ja się realizuję w telekomunikacji? Ależ."
   author: Ania
   source: 
   subject: 
@@ -5812,8 +5813,8 @@ signatures:
   - tech
   - XML
 - !ruby/struct:Signore::Signature
-  text: ‘Don’t put your trust in revolutions. They always come around again. That’s
-    why they’re called revolutions. People die, and nothing changes.’
+  text: "‘Don’t put your trust in revolutions. They always come around again. That’s
+    why they’re called revolutions. People die, and nothing changes.’"
   author: Terry Pratchett
   source: Night Watch
   subject: 
@@ -5998,8 +5999,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: „Oceny powinny być również lada moment widoczne w systemie wirtualny student”
-    – to chyba o mnie mowa.
+  text: "„Oceny powinny być również lada moment widoczne w systemie wirtualny student”
+    – to chyba o mnie mowa."
   author: kodz
   source: 
   subject: 
@@ -6139,8 +6140,8 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: „Amplifying internetowy odzwierciedla dążenie do spełnienia kryteriów jakościowych
-    komunikacji marki” – szacun.
+  text: "„Amplifying internetowy odzwierciedla dążenie do spełnienia kryteriów jakościowych
+    komunikacji marki” – szacun."
   author: opi
   source: 
   subject: 
@@ -6153,7 +6154,7 @@ signatures:
     stosunku do porządku (a jest to porządek szyty na miarę starych zamordystycznych
     państewek, gdzie „strzelać, potem zadawać pytania” jest drugim punktem konstytucji).
   author: opi
-  source: Świetnie poinformowany kretyn
+  source: "Świetnie poinformowany kretyn"
   subject: 
   tags:
   - pl
@@ -6165,7 +6166,7 @@ signatures:
     nie za tydzień, a za kilka sekund. Była to fantastyczna wizja. Świat skurczył
     się niczym tandetna podkoszulka po drugim praniu.
   author: opi
-  source: Świetnie poinformowany kretyn
+  source: "Świetnie poinformowany kretyn"
   subject: 
   tags:
   - pl
@@ -6229,9 +6230,9 @@ signatures:
   - pl
   - relationships
 - !ruby/struct:Signore::Signature
-  text: „Pan ma Apple, prawda? Bo moja córka włączyła Macintosha i tam ją o coś spytało,
+  text: "„Pan ma Apple, prawda? Bo moja córka włączyła Macintosha i tam ją o coś spytało,
     coś kliknęła i teraz nie ma danych.” Muszę powiedzieć, że Miś W. wywołany tym,
-    że ktoś mi przerywa myślenie, ustąpił miejsca WTF-owi jak Batorego komin.
+    że ktoś mi przerywa myślenie, ustąpił miejsca WTF-owi jak Batorego komin."
   author: DrYoung
   source: 
   subject: 
@@ -6301,9 +6302,9 @@ signatures:
   - en
   - moustache
 - !ruby/struct:Signore::Signature
-  text: '…co mi przypomina dyskusję o tym, że jak się powiesi krzyże, to później będzie
+  text: "…co mi przypomina dyskusję o tym, że jak się powiesi krzyże, to później będzie
     je trudno zdjąć – syn znajomego mówi, że to nieprawda: zdjął w szkole już siedem
-    i nikt od miesiąca tego nie zauważył.'
+    i nikt od miesiąca tego nie zauważył."
   author: DrYoung
   source: 
   subject: 
@@ -6356,8 +6357,8 @@ signatures:
   - work
   - coffee
 - !ruby/struct:Signore::Signature
-  text: żebym ja widział dziury w całym, to byłby mały problem, ja nawet nie widzę,
-    gdzie miałbym tego całego szukać
+  text: "żebym ja widział dziury w całym, to byłby mały problem, ja nawet nie widzę,
+    gdzie miałbym tego całego szukać"
   author: reuptake
   source: 
   subject: 
@@ -6418,7 +6419,7 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: „Tato jedź szybciej, bo tu jest znowu samochód w rowie.” My girl.
+  text: "„Tato jedź szybciej, bo tu jest znowu samochód w rowie.” My girl."
   author: DrYoung
   source: 
   subject: 
@@ -6512,7 +6513,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: 'Z Vimem to jest tak: korzystasz z niego X czasu, myślisz że jesteś dobry,
     a potem ktoś Ci pokazuje że nic nie wiesz.'
-  author: Łukasz Korecki
+  author: "Łukasz Korecki"
   source: 
   subject: 
   tags:
@@ -6545,7 +6546,7 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: „Za trzysta metrów trzymaj się lewej strony i skręć ostro w prawo.” GPS anarchista.
+  text: "„Za trzysta metrów trzymaj się lewej strony i skręć ostro w prawo.” GPS anarchista."
   author: Spotter
   source: 
   subject: 
@@ -6553,7 +6554,7 @@ signatures:
   - pl
   - GPS
 - !ruby/struct:Signore::Signature
-  text: „To bardzo ciekawa książka, streściłam ją państwu tu na slajdzie.”
+  text: "„To bardzo ciekawa książka, streściłam ją państwu tu na slajdzie.”"
   author: nbert
   source: 
   subject: 
@@ -6586,8 +6587,8 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: „Ogromne dzięki za wsparcie, ten system jest nam niezbędny do funkcjonowania
-    jak heroina.” Nie wiem czy to miało brzmieć jak zabrzmiało, ale nie ma za co.
+  text: "„Ogromne dzięki za wsparcie, ten system jest nam niezbędny do funkcjonowania
+    jak heroina.” Nie wiem czy to miało brzmieć jak zabrzmiało, ale nie ma za co."
   author: Spotter
   source: 
   subject: 
@@ -6657,8 +6658,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że będzie mi się śniło, że pracuję i z powodu tego snu obudzę
-    się zmęczony. Obudziłem się zmęczony.
+  text: "Śniło mi się, że będzie mi się śniło, że pracuję i z powodu tego snu obudzę
+    się zmęczony. Obudziłem się zmęczony."
   author: opi
   source: 
   subject: 
@@ -6784,11 +6785,11 @@ signatures:
   - work
   - translations
 - !ruby/struct:Signore::Signature
-  text: ładna dzisiaj polityka w naszym prywatnym gabinecie, pokój temu domowi, druki
+  text: "ładna dzisiaj polityka w naszym prywatnym gabinecie, pokój temu domowi, druki
     kołakowskiego i czarna koszula na kołnierz pod szyję, głęboki socjolog, a tu wpada
     dziadek 40 lat choroby, 40 lat DNI choroby, ból nieistnienia, mit życia, kapelusz
     i wszystkie zrobione na patronki stewardess i oczy na niego. piękny policzek,
-    dziadku!
+    dziadku!"
   author: maz
   source: 
   subject: 
@@ -6804,7 +6805,7 @@ signatures:
   - work
   - Oracle
 - !ruby/struct:Signore::Signature
-  text: „mam doła, chcesz wpaść?”
+  text: "„mam doła, chcesz wpaść?”"
   author: reuptake
   source: 
   subject: 
@@ -6882,7 +6883,7 @@ signatures:
      kotek: konik: All good
      dlobo: slonik: can u revert your identity and wrap up the aid of gifts please
   author: 
-  source: '#civicrm'
+  source: "#civicrm"
   subject: 
   tags:
   - en
@@ -6898,8 +6899,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: <meta name="description" content="Create flash websites like a pro in 3 easy
-    steps with wix.com flash website builder."/> AHAHAHAHAHA
+  text: "<meta name=\"description\" content=\"Create flash websites like a pro in
+    3 easy steps with wix.com flash website builder.\"/> AHAHAHAHAHA"
   author: Paul Battley
   source: 
   subject: 
@@ -6918,8 +6919,8 @@ signatures:
   - tech
   - HTML5
 - !ruby/struct:Signore::Signature
-  text: ‘…to cut down on development time, IE6 users will instead receive a gif image
-    of the page (for IE7 users the image will be animated).’
+  text: "‘…to cut down on development time, IE6 users will instead receive a gif image
+    of the page (for IE7 users the image will be animated).’"
   author: Levin Alexander
   source: 
   subject: 
@@ -7006,7 +7007,7 @@ signatures:
   text: In terms of rabbit holes – this is the one for super-deep underdark rabbits
     digging for the earth’s core.
   author: Eleanor McHugh
-  source: '#rmu-general'
+  source: "#rmu-general"
   subject: on RubyGoLightly
   tags:
   - en
@@ -7019,7 +7020,7 @@ signatures:
     to be managed in code design is phenomenal there; a lot of my more outspoken heretical
     views flow from that experience.
   author: Eleanor McHugh
-  source: '#rmu-general'
+  source: "#rmu-general"
   subject: 
   tags:
   - en
@@ -7415,8 +7416,8 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: „Osoby, które wybrały ten produkt kupiły również Coelho”. Empiku ty to wiesz
-    jak zachęcić.
+  text: "„Osoby, które wybrały ten produkt kupiły również Coelho”. Empiku ty to wiesz
+    jak zachęcić."
   author: DrYoung
   source: 
   subject: 
@@ -7653,8 +7654,8 @@ signatures:
   - en
   - homosexuality
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że Kierzko z Shotem wybudowali kościół w kształcie statku i
-    osadzili go na szczycie PKiN. W ramach trollowania.
+  text: "Śniło mi się, że Kierzko z Shotem wybudowali kościół w kształcie statku i
+    osadzili go na szczycie PKiN. W ramach trollowania."
   author: opi
   source: 
   subject: 
@@ -7713,8 +7714,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘Texas Christian University’? I can get through two-thirds of that name without
-    laughing, but, man, the ending just _kills_.
+  text: "‘Texas Christian University’? I can get through two-thirds of that name without
+    laughing, but, man, the ending just _kills_."
   author: Greg Knauss
   source: 
   subject: 
@@ -7936,7 +7937,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ˙˙˙oɹƃǝllɐ ɐu ɹnʇɐıʍɐlʞ ǝıɔɾndnʞ ǝıu
+  text: "˙˙˙oɹƃǝllɐ ɐu ɹnʇɐıʍɐlʞ ǝıɔɾndnʞ ǝıu"
   author: ProTofik
   source: 
   subject: 
@@ -7957,7 +7958,7 @@ signatures:
   text: |-
     Just discovered the ‘zd’ geographic area code (for ‘Deep space’) in MARC21. For documents from Pioneer 10?
     Interesting to see that ‘zpl’ (Pluto) has not been deprecated in favor of ‘zs’ (Solar system). :-)
-  author: '@scyrma'
+  author: "@scyrma"
   source: 
   subject: 
   tags:
@@ -8045,8 +8046,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: <voice mode="rambo">Znałem wielu ludzi, którzy automatycznie generowali sygnaturki.
-    Żaden z nich nie żyje.</voice>
+  text: "<voice mode=\"rambo\">Znałem wielu ludzi, którzy automatycznie generowali
+    sygnaturki. Żaden z nich nie żyje.</voice>"
   author: DrYoung
   source: 
   subject: 
@@ -8115,16 +8116,16 @@ signatures:
   - pl
   - HTML
 - !ruby/struct:Signore::Signature
-  text: <voice mode="wróżbita maciej">Droga zimo, ja myślę, że że pani doskonale wie
-    o czym ja mówię.</voice>
+  text: "<voice mode=\"wróżbita maciej\">Droga zimo, ja myślę, że że pani doskonale
+    wie o czym ja mówię.</voice>"
   author: DrYoung
   source: 
   subject: 
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: „Mamo, a skoro tata nie lubi, jak masz te spinki, to czemu je nosisz?” Oklaski,
-    kurtyna.
+  text: "„Mamo, a skoro tata nie lubi, jak masz te spinki, to czemu je nosisz?” Oklaski,
+    kurtyna."
   author: Evva
   source: 
   subject: 
@@ -8519,8 +8520,8 @@ signatures:
   - music
   - jazz
 - !ruby/struct:Signore::Signature
-  text: „Wyłudzał od innych użytkowników portalu numery telefonów” – no to chyba tak
-    10 lat więzienia powinien dostać.
+  text: "„Wyłudzał od innych użytkowników portalu numery telefonów” – no to chyba
+    tak 10 lat więzienia powinien dostać."
   author: reuptake
   source: 
   subject: 
@@ -8854,9 +8855,9 @@ signatures:
   - tech
   - Ruby
 - !ruby/struct:Signore::Signature
-  text: „Niewielka chrzęstna wypukłość na krawędzi ucha to pozostałość po umiejętności
+  text: "„Niewielka chrzęstna wypukłość na krawędzi ucha to pozostałość po umiejętności
     zwijania uszu przez naszych praprzodków”. YAY ME, I’d say. „W czasach prehistorycznych
-    mogła to być użyteczna umiejętność”. O, na pewno.
+    mogła to być użyteczna umiejętność”. O, na pewno."
   author: Cashew
   source: 
   subject: 
@@ -9051,7 +9052,7 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: „Dalajlama porwał ludzi.”
+  text: "„Dalajlama porwał ludzi.”"
   author: Ania
   source: 
   subject: 
@@ -9531,9 +9532,9 @@ signatures:
   - music
   - jazz
 - !ruby/struct:Signore::Signature
-  text: — PiS jeszcze nie skończyło bojkotu TVN, ale jesteśmy tego bliscy — odpowiedziała
+  text: "— PiS jeszcze nie skończyło bojkotu TVN, ale jesteśmy tego bliscy — odpowiedziała
     Kluzik-Rostkowska, pytana przez „ND” o bojkot tuż po zakończeniu przez nią rozmowy
-    z reporterem TVN 24.
+    z reporterem TVN 24."
   author: 
   source: Onet.pl
   subject: 
@@ -9587,8 +9588,8 @@ signatures:
   - Solaris
   - Linux
 - !ruby/struct:Signore::Signature
-  text: ‘Regression testing’? What’s that? If it compiles, it is good, if it boots
-    up it is perfect.
+  text: "‘Regression testing’? What’s that? If it compiles, it is good, if it boots
+    up it is perfect."
   author: Linus Torvalds
   source: 
   subject: 
@@ -9647,8 +9648,8 @@ signatures:
   - tech
   - work
 - !ruby/struct:Signore::Signature
-  text: ‘US budget is like Oregon Trail. Spend all your $ on ammunition; wonder why
-    your wagon is falling apart and everyone is dying of dysentery.’
+  text: "‘US budget is like Oregon Trail. Spend all your $ on ammunition; wonder why
+    your wagon is falling apart and everyone is dying of dysentery.’"
   author: Fred Benenson
   source: 
   subject: 
@@ -9691,9 +9692,9 @@ signatures:
   - tech
   - Hurd
 - !ruby/struct:Signore::Signature
-  text: — Nowa świadomość — wydukał Leopold starając się skoncentrować wzrok na nadzwyczaj
+  text: "— Nowa świadomość — wydukał Leopold starając się skoncentrować wzrok na nadzwyczaj
     roztańczonym tego wieczoru ekranie telefonu. — Wyślij. Zapisz. Usuń. Dodaj odbiorcę.
-    Fiufiufiu…
+    Fiufiufiu…"
   author: 
   source: siliprodżekt
   subject: 
@@ -9824,8 +9825,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: …the slave cannot out-live its parent and become a zombie, even if the parent
-    dies an early death.
+  text: "…the slave cannot out-live its parent and become a zombie, even if the parent
+    dies an early death."
   author: 
   source: Slave documentation
   subject: 
@@ -10087,7 +10088,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: init.d is complete in the sense that brainfuck is Turing-complete.
   author: SanityInAnarchy
-  source: /.
+  source: "/."
   subject: 
   tags:
   - en
@@ -10104,8 +10105,8 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że Benedykt XVI był u nas w domu na śniadaniu. Lubi koty i nie
-    kruszy.
+  text: "Śniło mi się, że Benedykt XVI był u nas w domu na śniadaniu. Lubi koty i
+    nie kruszy."
   author: Zuzanka
   source: 
   subject: 
@@ -10644,8 +10645,8 @@ signatures:
   - haiku
   - poetry
 - !ruby/struct:Signore::Signature
-  text: „Swistak.pl, drugi w Polsce serwis aukcyjny pod względem popularności” …a
-    Kennedy przybiegł przedostatni.
+  text: "„Swistak.pl, drugi w Polsce serwis aukcyjny pod względem popularności” …a
+    Kennedy przybiegł przedostatni."
   author: muczachan
   source: 
   subject: 
@@ -10679,7 +10680,7 @@ signatures:
   - pl
   - Usenet
 - !ruby/struct:Signore::Signature
-  text: /* obligatory Perl joke (omitted for brevity) */
+  text: "/* obligatory Perl joke (omitted for brevity) */"
   author: Tomasz Dubrownik
   source: 
   subject: 
@@ -11089,8 +11090,8 @@ signatures:
   - tech
   - regexp
 - !ruby/struct:Signore::Signature
-  text: …natomiast we Wrocławiu na szpitalu psychiatrycznym ktoś napisał „jak szaleć
-    to szaleć”.
+  text: "…natomiast we Wrocławiu na szpitalu psychiatrycznym ktoś napisał „jak szaleć
+    to szaleć”."
   author: letiud
   source: 
   subject: 
@@ -11098,8 +11099,8 @@ signatures:
   - pl
   - sanity
 - !ruby/struct:Signore::Signature
-  text: „Jestem dorosłą, świadomą swoich potrzeb Europejką i (wpisz tekst) nie jest
-    dla mnie problemem” – taka nowa mantra.
+  text: "„Jestem dorosłą, świadomą swoich potrzeb Europejką i (wpisz tekst) nie jest
+    dla mnie problemem” – taka nowa mantra."
   author: Lilarouge
   source: 
   subject: 
@@ -11173,9 +11174,9 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: '„spędziłem dzisiaj pierwszy dzień w nowej pracy” – mówi kolega mętniak, spotkany
+  text: "„spędziłem dzisiaj pierwszy dzień w nowej pracy” – mówi kolega mętniak, spotkany
     przypadkiem w tramwaju linii 12. „i jak?” – pytam, a on odpowiada: „normalnie
-    – utrata motywacji, zmęczenie, frustracja, dojmujące poczucie wypalenia”.'
+    – utrata motywacji, zmęczenie, frustracja, dojmujące poczucie wypalenia”."
   author: czerski
   source: 
   subject: 
@@ -11294,8 +11295,8 @@ signatures:
   - tech
   - Microsoft
 - !ruby/struct:Signore::Signature
-  text: ‘In science, giants stand on the shoulders of giants; in software engineering,
-    dwarves stand on the toes of dwarves.’
+  text: "‘In science, giants stand on the shoulders of giants; in software engineering,
+    dwarves stand on the toes of dwarves.’"
   author: Greg Rubino
   source: 
   subject: 
@@ -11487,7 +11488,7 @@ signatures:
   - tech
   - politics
 - !ruby/struct:Signore::Signature
-  text: '|nture. Currently playing: Portal, the Text Adve|'
+  text: "|nture. Currently playing: Portal, the Text Adve|"
   author: Matthew Baldwin
   source: 
   subject: 
@@ -11633,8 +11634,8 @@ signatures:
   - pl
   - patriotism
 - !ruby/struct:Signore::Signature
-  text: „Ludzie nie mają problemów, tylko sobie sami je stwarzają” – ale nie muszą
-    z nich od razu robić dystrybucji przecież.
+  text: "„Ludzie nie mają problemów, tylko sobie sami je stwarzają” – ale nie muszą
+    z nich od razu robić dystrybucji przecież."
   author: Paweł Pluta
   source: pcoa
   subject: o sygnaturka Kłoczka
@@ -11816,7 +11817,7 @@ signatures:
   subject: maj 2011
   tags:
   - pl
-  - Łódź
+  - "Łódź"
 - !ruby/struct:Signore::Signature
   text: |-
     ‘I can’t believe he left me three cans of peas. Like that is going to fix anything.’
@@ -12004,7 +12005,7 @@ signatures:
   - pl
   - lyrics
 - !ruby/struct:Signore::Signature
-  text: „Na trybunach APLAUZ NIEZADOWOLENIA”. Czekam na pomruk radości.
+  text: "„Na trybunach APLAUZ NIEZADOWOLENIA”. Czekam na pomruk radości."
   author: Cashew
   source: 
   subject: 
@@ -12404,7 +12405,7 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: życie. życie. chciałbym mieć ciche jak zbiegły esesman.
+  text: "życie. życie. chciałbym mieć ciche jak zbiegły esesman."
   author: Roman Honet
   source: 
   subject: 
@@ -12426,7 +12427,7 @@ signatures:
   - en
   - religion
 - !ruby/struct:Signore::Signature
-  text: ‘Bother’, said Pooh, as he bounced off the Starfury.
+  text: "‘Bother’, said Pooh, as he bounced off the Starfury."
   author: Walt Mazur
   source: 
   subject: 
@@ -12537,9 +12538,9 @@ signatures:
   - pl
   - cats
 - !ruby/struct:Signore::Signature
-  text: …a tak, Fedora, temat mojego doktoratu „Wpływ dystrybucji, które mnie nie
+  text: "…a tak, Fedora, temat mojego doktoratu „Wpływ dystrybucji, które mnie nie
     interesują, na dalszy brak zainteresowania”. Wytrzymała trzy godziny gdy ją testowałem
-    – wszystkie niedojebki dystrybucji niestabilnych i estetyka Windows 2000.
+    – wszystkie niedojebki dystrybucji niestabilnych i estetyka Windows 2000."
   author: opi
   source: 
   subject: 
@@ -12619,7 +12620,7 @@ signatures:
   - Perl
 - !ruby/struct:Signore::Signature
   text: I got owned by Partition Magic 8 and a perfectly timed power surge.
-  author: '|if3|355'
+  author: "|if3|355"
   source: 
   subject: 
   tags:
@@ -12627,9 +12628,9 @@ signatures:
   - tech
   - Partition Magic
 - !ruby/struct:Signore::Signature
-  text: „Bez sensu zupełnie. Najpierw jakiś facet z kimś rozmawia w parku, a potem
+  text: "„Bez sensu zupełnie. Najpierw jakiś facet z kimś rozmawia w parku, a potem
     wpada pod tramwaj a potem już w ogóle nie wiadomo o co chodzi. Małgorzaty żadnej
-    tam nie ma i mistrza też nie. No tego się nie da czytać, kurwa.”
+    tam nie ma i mistrza też nie. No tego się nie da czytać, kurwa.”"
   author: 
   source: 
   subject: 
@@ -12810,8 +12811,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: …and the lord said, ‘lo, there shall only be case or default labels inside
-    a switch statement’.
+  text: "…and the lord said, ‘lo, there shall only be case or default labels inside
+    a switch statement’."
   author: 
   source: MPW C compiler
   subject: 
@@ -12909,14 +12910,14 @@ signatures:
   - programming
   - debugging
 - !ruby/struct:Signore::Signature
-  text: Życie to taka śmierć na wysoko oprocentowane raty.
+  text: "Życie to taka śmierć na wysoko oprocentowane raty."
   author: opi
   source: 
   subject: 
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: „Dziennikarz magazynu Logo” brzmi jak „kapelan KC PZPR”.
+  text: "„Dziennikarz magazynu Logo” brzmi jak „kapelan KC PZPR”."
   author: reuptake
   source: 
   subject: 
@@ -12942,8 +12943,8 @@ signatures:
   - en
   - science
 - !ruby/struct:Signore::Signature
-  text: ‘Bother’, said Pooh as he struggled with /etc/sendmail.cf, ‘it never does
-    quite what I want. I wish Christopher Robin was here.’
+  text: "‘Bother’, said Pooh as he struggled with /etc/sendmail.cf, ‘it never does
+    quite what I want. I wish Christopher Robin was here.’"
   author: Peter da Silva
   source: asr
   subject: 
@@ -13240,7 +13241,7 @@ signatures:
   - tech
   - networks
 - !ruby/struct:Signore::Signature
-  text: „Jak prawidłowo złożyć spadochron”, instrukcja, wydanie drugie, poprawione.
+  text: "„Jak prawidłowo złożyć spadochron”, instrukcja, wydanie drugie, poprawione."
   author: dwukropek
   source: 
   subject: 
@@ -13672,8 +13673,8 @@ signatures:
   - programming
   - Ruby
 - !ruby/struct:Signore::Signature
-  text: „Transgeniczna mysz potrafi biec przez sześć godzin bez przerwy. Porusza się
-    z prędkością dwudziestu metrów na minutę.” Coś takiego zabiło nam Popiela.
+  text: "„Transgeniczna mysz potrafi biec przez sześć godzin bez przerwy. Porusza
+    się z prędkością dwudziestu metrów na minutę.” Coś takiego zabiło nam Popiela."
   author: reuptake
   source: 
   subject: 
@@ -13738,9 +13739,9 @@ signatures:
   - pl
   - drugs
 - !ruby/struct:Signore::Signature
-  text: „Wyjątkowo głośno wyraził dezaprobatę dla stwierdzenia nauczyciela, że mieszkańcy
+  text: "„Wyjątkowo głośno wyraził dezaprobatę dla stwierdzenia nauczyciela, że mieszkańcy
     południowych krańców Polski w swojej gwarze używają głoski »f« zamiast »ch« poprzez
-    wypowiedź »a fuj«.”
+    wypowiedź »a fuj«.”"
   author: G.Fid
   source: 
   subject: 
@@ -14170,8 +14171,8 @@ signatures:
   - logic
   - gender
 - !ruby/struct:Signore::Signature
-  text: „Możliwe, że Gadu-Gadu cenzuruje w ten sposób także inne strony internetowe
-    stanowiące agitację polityczną.” Możliwe, że redaktorzy DI posuwają chomiki.
+  text: "„Możliwe, że Gadu-Gadu cenzuruje w ten sposób także inne strony internetowe
+    stanowiące agitację polityczną.” Możliwe, że redaktorzy DI posuwają chomiki."
   author: reuptake
   source: 
   subject: 
@@ -14377,7 +14378,7 @@ signatures:
   - sport
 - !ruby/struct:Signore::Signature
   text: If you’re OCD and you know it, WASH YOUR HANDS! *splish splash*
-  author: '@elliottcable'
+  author: "@elliottcable"
   source: 
   subject: 
   tags:
@@ -14483,7 +14484,7 @@ signatures:
   text: 'It could be worse: you could work in IT. I tell other parents I work as a
     piano player in a brothel in order to avoid the embarrassment.'
   author: eln
-  source: /.
+  source: "/."
   subject: 
   tags:
   - en
@@ -14669,7 +14670,7 @@ signatures:
   - en
   - health
 - !ruby/struct:Signore::Signature
-  text: „rómby swoej”.
+  text: "„rómby swoej”."
   author: Filip Tepper
   source: 
   subject: 
@@ -14765,8 +14766,8 @@ signatures:
   - tech
   - BSDM
 - !ruby/struct:Signore::Signature
-  text: ‘Who played Luke Skywalker?’ is a simple question I use to decide whether
-    to sleep with you or your mother.
+  text: "‘Who played Luke Skywalker?’ is a simple question I use to decide whether
+    to sleep with you or your mother."
   author: Mark Pilgrim
   source: 
   subject: 
@@ -14792,8 +14793,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: (What the world needs (I think) is not (a Lisp (with fewer parentheses)) but
-    (an English (with more.)))
+  text: "(What the world needs (I think) is not (a Lisp (with fewer parentheses))
+    but (an English (with more.)))"
   author: Brian Hayes
   source: The Semicolon Wars
   subject: 
@@ -14953,7 +14954,7 @@ signatures:
     rubbed it across the monitor.
   author: istartedi
   source: 
-  subject: /.
+  subject: "/."
   tags:
   - en
   - web
@@ -15191,9 +15192,9 @@ signatures:
   - Gentoo
   - BSD
 - !ruby/struct:Signore::Signature
-  text: …szczytem wyrafinowania są rozmaite deformatory twarzy, które chyba trochę
+  text: "…szczytem wyrafinowania są rozmaite deformatory twarzy, które chyba trochę
     odchodzą w zapomnienie, gdy na wysokich stanowiskach w rządzie zasiadają osoby,
-    które już jakby przez te deformatory przeszły.
+    które już jakby przez te deformatory przeszły."
   author: Marcin Jagodziński
   source: net_talk
   subject: 
@@ -15387,7 +15388,7 @@ signatures:
   - en
   - ethics
 - !ruby/struct:Signore::Signature
-  text: '"Self-destruct in 5 seconds.  Have a nice day...\n"'
+  text: "\"Self-destruct in 5 seconds.  Have a nice day...\\n\""
   author: 
   source: fs/super.c
   subject: 
@@ -15605,7 +15606,7 @@ signatures:
   text: |-
     — Może mi ktoś doradzić jakąś grę, która może się spodobać drugiej połowie?
     — Wstępna.
-  author: Śmigol, XMAX
+  author: "Śmigol, XMAX"
   source: pl.rec.gry.komputerowe
   subject: 
   tags:
@@ -15622,8 +15623,8 @@ signatures:
   - relationships
   - health
 - !ruby/struct:Signore::Signature
-  text: ‘I’m not racist, but…’ I haven’t heard such a concise lie since ‘London Luton
-    Airport’.
+  text: "‘I’m not racist, but…’ I haven’t heard such a concise lie since ‘London Luton
+    Airport’."
   author: Jonathan Rothwell
   source: 
   subject: 
@@ -15651,9 +15652,9 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: '„co sadzicie o tym trenie VIII bo mnie bardzo sie podoba. jest taki inny
+  text: "„co sadzicie o tym trenie VIII bo mnie bardzo sie podoba. jest taki inny
     niz wszystkie bo skirowany do jego córki ktora w wieku 2,5 latka zmarła. ciężko
-    to przerzył. proszę o komentarz” #cojaczytam'
+    to przerzył. proszę o komentarz” #cojaczytam"
   author: Jacek Karaszewski
   source: 
   subject: 
@@ -15902,7 +15903,7 @@ signatures:
   - pl
   - politics
 - !ruby/struct:Signore::Signature
-  text: Żarcik o programiście wysłanym przez żonę po zakupy ogłaszam od dziś nieśmiesznym.
+  text: "Żarcik o programiście wysłanym przez żonę po zakupy ogłaszam od dziś nieśmiesznym."
   author: Tomash
   source: 
   subject: 
@@ -16187,7 +16188,7 @@ signatures:
   - en
   - literature
 - !ruby/struct:Signore::Signature
-  text: „Zostańmy przyjaciółmi” brzmi jak „twój kot zdechł, ale możesz go zatrzymać”.
+  text: "„Zostańmy przyjaciółmi” brzmi jak „twój kot zdechł, ale możesz go zatrzymać”."
   author: 
   source: 
   subject: 
@@ -16195,8 +16196,8 @@ signatures:
   - pl
   - relationships
 - !ruby/struct:Signore::Signature
-  text: ‘Among those interviewed were his two ex-wives, Kris Kristofferson and Robert
-    Duvall.’ That’s what you get with no Oxford comma.
+  text: "‘Among those interviewed were his two ex-wives, Kris Kristofferson and Robert
+    Duvall.’ That’s what you get with no Oxford comma."
   author: Amanda French
   source: 
   subject: 
@@ -16224,8 +16225,8 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: ‘Bother’, said Pooh, ‘Eeyore, ready two photon torpedoes and lock phasers
-    on the Heffalump, Piglet, meet me in transporter room three’.
+  text: "‘Bother’, said Pooh, ‘Eeyore, ready two photon torpedoes and lock phasers
+    on the Heffalump, Piglet, meet me in transporter room three’."
   author: Robert Billing
   source: 
   subject: 
@@ -16485,7 +16486,7 @@ signatures:
   - en
   - politics
 - !ruby/struct:Signore::Signature
-  text: …there was little damage because there are no computers in the building.
+  text: "…there was little damage because there are no computers in the building."
   author: ICL spokesman
   source: 
   subject: after the bombing of their headquarters by the IRA
@@ -16590,7 +16591,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: At this point, if you support IE6, you’re part of the problem, and don’t get
     to complain about it.
-  author: '@izs'
+  author: "@izs"
   source: 
   subject: 
   tags:
@@ -16958,7 +16959,7 @@ signatures:
   - pl
   - alcohol
 - !ruby/struct:Signore::Signature
-  text: Łazienki to jednak total emeryten mają floł.
+  text: "Łazienki to jednak total emeryten mają floł."
   author: Lilarouge
   source: 
   subject: 
@@ -17170,7 +17171,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: When the space shuttle gets back from its last mission, it would be hilarious
     if we were all dressed as apes.
-  author: '@blankslate'
+  author: "@blankslate"
   source: 
   subject: 
   tags:
@@ -17187,14 +17188,14 @@ signatures:
   - programming
 - !ruby/struct:Signore::Signature
   text: I hate it when I’m making a milkshake and boys just turn up in my yard.
-  author: '@codenamejac'
+  author: "@codenamejac"
   source: 
   subject: 
   tags:
   - en
   - music
 - !ruby/struct:Signore::Signature
-  text: ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ
+  text: "ʕ•̫͡•ʕ*̫͡*ʕ•͓͡•ʔ-̫͡-ʕ•̫͡•ʔ*̫͡*ʔ-̫͡-ʔ"
   author: Corban Brook
   source: 
   subject: 
@@ -17309,7 +17310,7 @@ signatures:
   - politics
   - Poland
 - !ruby/struct:Signore::Signature
-  text: ‘Do you have your presentation on CD?’ No… no, I do not.
+  text: "‘Do you have your presentation on CD?’ No… no, I do not."
   author: Scott Chacon
   source: 
   subject: 
@@ -17393,8 +17394,8 @@ signatures:
   - cinematography
   - hackers
 - !ruby/struct:Signore::Signature
-  text: ‘Why would you go skiing when you can sit in your own kitchen and break your
-    knees with a hammer?’
+  text: "‘Why would you go skiing when you can sit in your own kitchen and break your
+    knees with a hammer?’"
   author: James Coglan
   source: 
   subject: 
@@ -17402,7 +17403,7 @@ signatures:
   - en
   - skiing
 - !ruby/struct:Signore::Signature
-  text: ‘Meat may be murder but tofu is fucking fraud.’
+  text: "‘Meat may be murder but tofu is fucking fraud.’"
   author: James Coglan
   source: 
   subject: 
@@ -17794,7 +17795,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Mr Jobs, there is no such thing as ‘American English’. There is English and
     there are mistakes.
-  author: '@Queen_UK'
+  author: "@Queen_UK"
   source: 
   subject: 
   tags:
@@ -17832,7 +17833,7 @@ signatures:
     understand why all those ditch-diggers keep debating the finer points of different
     shovels. You are out of context. For you, the answer is ‘You shouldn’t’.
   author: claytongulick
-  source: /.
+  source: "/."
   subject: 
   tags:
   - en
@@ -17848,8 +17849,8 @@ signatures:
   - en
   - science
 - !ruby/struct:Signore::Signature
-  text: Śmiech jest z samej natury rewolucyjny i dlatego żaden rząd nie lubi, żeby
-    obywatele zanadto chichotali.
+  text: "Śmiech jest z samej natury rewolucyjny i dlatego żaden rząd nie lubi, żeby
+    obywatele zanadto chichotali."
   author: Zygmunt Kałużyński
   source: 
   subject: 
@@ -17940,8 +17941,8 @@ signatures:
   - politics
   - religion
 - !ruby/struct:Signore::Signature
-  text: ‘Generally speaking, things have gone about as far as they can possibly go,
-    when things have gotten about as bad as they can reasonably get.’
+  text: "‘Generally speaking, things have gone about as far as they can possibly go,
+    when things have gotten about as bad as they can reasonably get.’"
   author: 
   source: Rosencrantz and Guildenstern Are Dead
   subject: 
@@ -18027,8 +18028,8 @@ signatures:
   - tech
   - admin
 - !ruby/struct:Signore::Signature
-  text: …the Windows NT machines at work work much like the reannual wine of the Discworld.
-    They reboot as a reaction to the crash they will have later that day.
+  text: "…the Windows NT machines at work work much like the reannual wine of the
+    Discworld. They reboot as a reaction to the crash they will have later that day."
   author: Art
   source: asr
   subject: 
@@ -18405,7 +18406,7 @@ signatures:
   tags:
   - en
   - tech
-  - /etc/hosts
+  - "/etc/hosts"
 - !ruby/struct:Signore::Signature
   text: Kolega nie lubi Pratchetta. Szukamy nowego kolegi.
   author: Spotter
@@ -18458,7 +18459,7 @@ signatures:
   text: Ja chodzę zarośnięty, goląc codziennie wąsy tylko, ale od czasu do czasu trzeba,
     jak osiągnie się pewien punkt krytyczny. Ja swój osiągnąłem dzisiaj, jak na informie
     wpadł jakiś nauczyciel, podał mi rękę i powiedział „cześć Andrzej”.
-  author: '[liu]'
+  author: "[liu]"
   source: 
   subject: 
   tags:
@@ -18474,7 +18475,7 @@ signatures:
   - pl
 - !ruby/struct:Signore::Signature
   text: What do we want? TIME TRAVEL! When do we want it? THAT’S IRRELEVANT!
-  author: '@sickipediabot'
+  author: "@sickipediabot"
   source: 
   subject: 
   tags:
@@ -18546,9 +18547,9 @@ signatures:
   - en
   - optimism
 - !ruby/struct:Signore::Signature
-  text: ‘Gun-wielding recluse gunned down by local police’ isn’t the epitaph I want.
+  text: "‘Gun-wielding recluse gunned down by local police’ isn’t the epitaph I want.
     I am hoping for ‘Witnesses reported the sound up to two hundred kilometers away’
-    or ‘Last body part finally located’.
+    or ‘Last body part finally located’."
   author: James Nicoll
   source: 
   subject: 
@@ -18830,8 +18831,8 @@ signatures:
   - tech
   - Git
 - !ruby/struct:Signore::Signature
-  text: ‘It’s an irregular verb. I have an independent mind, you are a little eccentric,
-    he is round the twist.’
+  text: "‘It’s an irregular verb. I have an independent mind, you are a little eccentric,
+    he is round the twist.’"
   author: James Coglan
   source: 
   subject: 
@@ -19129,8 +19130,8 @@ signatures:
   - en
   - trolling
 - !ruby/struct:Signore::Signature
-  text: „Uczestnik zdobędzie wiedzę i umiejętności z zakresu poszczególnych faz cyklu
-    życia reklamodawcy.”
+  text: "„Uczestnik zdobędzie wiedzę i umiejętności z zakresu poszczególnych faz cyklu
+    życia reklamodawcy.”"
   author: Urszula Dobrzańska
   source: 
   subject: 
@@ -19320,8 +19321,8 @@ signatures:
   - HTTP
   - MIME
 - !ruby/struct:Signore::Signature
-  text: „Nowy logotyp i wzory biletów projektował grafik zatrudniony w ZTM, który
-    wygrał mini-konkurs wśród pracowników.”
+  text: "„Nowy logotyp i wzory biletów projektował grafik zatrudniony w ZTM, który
+    wygrał mini-konkurs wśród pracowników.”"
   author: Agata Urbanik
   source: 
   subject: 
@@ -19387,10 +19388,10 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘It’s like a rainbow. Without an observer at a twenty-three-degree angle to
-    the light reflecting off a cloud of spherical droplets, there is no rainbow. The
-    whole universe is like that. Our spirits stand at a twenty-three-degree angle
-    to the universe.’
+  text: "‘It’s like a rainbow. Without an observer at a twenty-three-degree angle
+    to the light reflecting off a cloud of spherical droplets, there is no rainbow.
+    The whole universe is like that. Our spirits stand at a twenty-three-degree angle
+    to the universe.’"
   author: Kim Stanley Robinson
   source: Mars trilogy
   subject: 
@@ -19398,8 +19399,8 @@ signatures:
   - en
   - science
 - !ruby/struct:Signore::Signature
-  text: /* I'd just like to take this moment to point out that C has all the expressive
-    power of two dixie cups and a string. */
+  text: "/* I'd just like to take this moment to point out that C has all the expressive
+    power of two dixie cups and a string. */"
   author: Jamie Zawinski
   source: xkeycaps source
   subject: 
@@ -19479,9 +19480,9 @@ signatures:
   - tech
   - email
 - !ruby/struct:Signore::Signature
-  text: (Of course SML does have its weaknesses, but by comparison, a discussion of
-    C++’s strengths and flaws always sounds like an argument about whether one should
-    face north or east when one is sacrificing one’s goat to the rain god.)
+  text: "(Of course SML does have its weaknesses, but by comparison, a discussion
+    of C++’s strengths and flaws always sounds like an argument about whether one
+    should face north or east when one is sacrificing one’s goat to the rain god.)"
   author: Thant Tessman
   source: 
   subject: 
@@ -19495,7 +19496,7 @@ signatures:
   text: |-
     — Może samo założenie, że ktoś ma płacić za kogoś jest błędne. Ja cały czas piszę: chcę płacić SAM ZA SIEBIE! Jakież to by było proste!
     — Odkop resztki Bismarcka, a potem tym resztkom nakop.
-  author: '|Y|S, Jakub Slocki'
+  author: "|Y|S, Jakub Slocki"
   source: pl.soc.prawo.podatki
   subject: o ZUS-ie
   tags:
@@ -19529,8 +19530,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘A series of regular expressions’? Like, ‘I have a series of problems so I
-    will use a series of regexps’? Now you have O(n²) problems.
+  text: "‘A series of regular expressions’? Like, ‘I have a series of problems so
+    I will use a series of regexps’? Now you have O(n²) problems."
   author: Rein Henrichs
   source: 
   subject: 
@@ -19651,7 +19652,7 @@ signatures:
   - drugs
 - !ruby/struct:Signore::Signature
   text: May the --force be with you.
-  author: <[tafkam]>
+  author: "<[tafkam]>"
   source: 
   subject: 
   tags:
@@ -19773,7 +19774,7 @@ signatures:
   text: The idea with Open Source is that it only takes one sucker to write the driver
     and the rest can benefit from the novelty of it.
   author: OrangeTide
-  source: /.
+  source: "/."
   subject: 
   tags:
   - en
@@ -19837,7 +19838,7 @@ signatures:
   - tech
   - Linux
 - !ruby/struct:Signore::Signature
-  text: /* I can C clearly now */
+  text: "/* I can C clearly now */"
   author: 
   source: 
   subject: 
@@ -19880,8 +19881,8 @@ signatures:
   - work
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘Gee, thanks, <app>, I wanted to copy that text with its original formatting!’
-    – Nobody. Ever.
+  text: "‘Gee, thanks, <app>, I wanted to copy that text with its original formatting!’
+    – Nobody. Ever."
   author: Ryan Bigg
   source: 
   subject: 
@@ -19994,8 +19995,8 @@ signatures:
   - en
   - religion
 - !ruby/struct:Signore::Signature
-  text: '* Sinbad changes topic to ‘15000 atheists in London rioted after a blank
-    sheet of paper was found on a cartoonist’s desk’'
+  text: "* Sinbad changes topic to ‘15000 atheists in London rioted after a blank
+    sheet of paper was found on a cartoonist’s desk’"
   author: 
   source: 
   subject: 
@@ -20220,9 +20221,9 @@ signatures:
   - pl
   - politics
 - !ruby/struct:Signore::Signature
-  text: '[Pręgierz złodziejom,] którzy dzisiaj w nocy ukradli mi spod bloku samochód.
+  text: "[Pręgierz złodziejom,] którzy dzisiaj w nocy ukradli mi spod bloku samochód.
     Jeżeli ktoś z was zobaczy w DC granatowego Fiata Tipo WGB 1427, to ten łysy gnój,
-    który prawdopodobnie będzie siedział za kierownicą, to niestety nie ja.'
+    który prawdopodobnie będzie siedział za kierownicą, to niestety nie ja."
   author: Karolina
   source: pl.pregierz
   subject: 
@@ -20293,7 +20294,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: All self-proclaimed ‘social media gurus’ were encyclopedia salesmen in a previous
     life.
-  author: '@studiomondeo'
+  author: "@studiomondeo"
   source: 
   subject: 
   tags:
@@ -20462,8 +20463,8 @@ signatures:
   - tech
   - networking
 - !ruby/struct:Signore::Signature
-  text: ‘It looks like you’re creating a database. Most likely you’d like it in Latin1
-    encoding with Swedish collation.’ No, MySQL, no, I wouldn’t.
+  text: "‘It looks like you’re creating a database. Most likely you’d like it in Latin1
+    encoding with Swedish collation.’ No, MySQL, no, I wouldn’t."
   author: James Higgs
   source: 
   subject: 
@@ -20866,7 +20867,7 @@ signatures:
   text: The above comment may be extremely inflamatory. For your protection, it has
     been ROT-13’d twice.
   author: JWhitlock
-  source: /.
+  source: "/."
   subject: 
   tags:
   - en
@@ -21430,7 +21431,7 @@ signatures:
   text: SCO is the thief who puts a gun to his own head and says, ‘give me your money
     or I’ll shoot’.
   author: Bruce Perens
-  source: /.
+  source: "/."
   subject: 
   tags:
   - en
@@ -21532,7 +21533,7 @@ signatures:
   - music
   - Queen
 - !ruby/struct:Signore::Signature
-  text: „Koziorożce w ten poniedziałek będą miały kłopoty z koncentracją.” NO SERIO?
+  text: "„Koziorożce w ten poniedziałek będą miały kłopoty z koncentracją.” NO SERIO?"
   author: Evva
   source: 
   subject: 
@@ -21644,7 +21645,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: I just implemented ‘tail -f’ in the browser with 60 lines of Ruby + Faye.
     Mind is currently blown THE FUCK away.
-  author: '@ldmosquera'
+  author: "@ldmosquera"
   source: 
   subject: 
   tags:
@@ -22045,7 +22046,7 @@ signatures:
   text: 'Kiedy będziemy mieli dom, przez rok nie będziemy wpuszczali nikogo. Wywiesimy
     kartkę na drzwiach: „Nie ma nikogo. Wyjechaliśmy na rok.”'
   author: Marek Hłasko
-  source: Ósmy dzień tygodnia
+  source: "Ósmy dzień tygodnia"
   subject: 
   tags:
   - pl
@@ -22212,10 +22213,10 @@ signatures:
   - en
   - Star Wars
 - !ruby/struct:Signore::Signature
-  text: „Ma być elegancko, panie Piotrze, poprostu ze smakiem, lekko, zwiewnie. To
+  text: "„Ma być elegancko, panie Piotrze, poprostu ze smakiem, lekko, zwiewnie. To
     jest dobre, ale proszę jeszcze popracować nad tym. Możemy się spotkać jutro? Ok,
     jesteśmy umówieni.” Chyba powinienem ubrać smoking, bo jakoś nie mogę wyczuć w
-    jaki sposób odsiarczanie i trawienie kotłów może być jeszcze bardziej eleganckie.
+    jaki sposób odsiarczanie i trawienie kotłów może być jeszcze bardziej eleganckie."
   author: LaBRIE
   source: czasopismo.pl
   subject: 
@@ -22527,7 +22528,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If the zombie apocalypse ever happens, I’m just going to surround my house
     with outward facing treadmills. I should be fine.
-  author: '@benmarvin'
+  author: "@benmarvin"
   source: 
   subject: 
   tags:
@@ -22547,8 +22548,8 @@ signatures:
   - Rubinius
   - JRuby
 - !ruby/struct:Signore::Signature
-  text: „Władca Pierścieni” to w istocie piękna przypowieść o trudach muzealników,
-    obronie i pozyskiwaniu skarbów dziedzictwa.
+  text: "„Władca Pierścieni” to w istocie piękna przypowieść o trudach muzealników,
+    obronie i pozyskiwaniu skarbów dziedzictwa."
   author: Muzealnicy
   source: 
   subject: 
@@ -22740,8 +22741,8 @@ signatures:
   - en
   - piracy
 - !ruby/struct:Signore::Signature
-  text: „Wychodzi na to, że musimy wystartować dzisiaj, bo klient już wykupił reklamę
-    w prasie.” Dobry wieczór.
+  text: "„Wychodzi na to, że musimy wystartować dzisiaj, bo klient już wykupił reklamę
+    w prasie.” Dobry wieczór."
   author: Filip Tepper
   source: 
   subject: 
@@ -23044,7 +23045,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: I feel sorry for the yuppie I see using an iPad for a laptop. It’s like he
     lost 8 good typing fingers in a self-inflicted accident.
-  author: '@danchoi'
+  author: "@danchoi"
   source: 
   subject: 
   tags:
@@ -23052,7 +23053,7 @@ signatures:
   - iPad
 - !ruby/struct:Signore::Signature
   text: The Inuit have over 50 words for ‘visiting ethnolinguist’.
-  author: '@TheTweetOfGod'
+  author: "@TheTweetOfGod"
   source: 
   subject: 
   tags:
@@ -23460,8 +23461,8 @@ signatures:
   - en
   - religion
 - !ruby/struct:Signore::Signature
-  text: ‘It would seem that you have no useful skill or talent whatsoever’, he said.
-    ‘Have you thought of going into teaching?’
+  text: "‘It would seem that you have no useful skill or talent whatsoever’, he said.
+    ‘Have you thought of going into teaching?’"
   author: Terry Pratchett
   source: Mort
   subject: 
@@ -23490,10 +23491,10 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: …walking like a man carrying a thermos flask of something that might cause,
+  text: "…walking like a man carrying a thermos flask of something that might cause,
     if he dropped it or even thought about dropping it, the sort of explosion that
     impels grey-beards to make statements like ‘And where this crater is now, once
-    stood the city of Wah-Shing-Ton’, in SF B-movies.
+    stood the city of Wah-Shing-Ton’, in SF B-movies."
   author: Terry Pratchett, Neil Gaiman
   source: Good Omens
   subject: on Crowley getting out the Holy Water
@@ -23501,9 +23502,9 @@ signatures:
   - en
   - religion
 - !ruby/struct:Signore::Signature
-  text: ‘You mean mysterious ancient races of Amazonian princesses who subject all
+  text: "‘You mean mysterious ancient races of Amazonian princesses who subject all
     male prisoners to strange and exhausting progenitative rites?’ said Eric, his
-    glasses beginning to fog.
+    glasses beginning to fog."
   author: Terry Pratchett
   source: Eric
   subject: 
@@ -23563,8 +23564,8 @@ signatures:
   - en
   - linguistics
 - !ruby/struct:Signore::Signature
-  text: '‘That book open on my bed? Oh. That’s the Enterprise D tech manual. I— I
-    wasn’t expecting to have women over today.’ #sentencesihavesaid'
+  text: "‘That book open on my bed? Oh. That’s the Enterprise D tech manual. I— I
+    wasn’t expecting to have women over today.’ #sentencesihavesaid"
   author: Ryan North
   source: 
   subject: 
@@ -23703,7 +23704,7 @@ signatures:
   - Discworld
   - religion
 - !ruby/struct:Signore::Signature
-  text: ‘Hello’, he lied.
+  text: "‘Hello’, he lied."
   author: Don Carpenter
   source: 
   subject: quoting a Hollywood agent
@@ -23927,8 +23928,8 @@ signatures:
   - religion
   - sex
 - !ruby/struct:Signore::Signature
-  text: '[Kobiety stosujące antykoncepcję] przeżywają uczucie niepewności – czy są
-    naprawdę kochane, czy są tylko obiektem rozładowania seksualnego u swojego partnera.'
+  text: "[Kobiety stosujące antykoncepcję] przeżywają uczucie niepewności – czy są
+    naprawdę kochane, czy są tylko obiektem rozładowania seksualnego u swojego partnera."
   author: Marina Ombach
   source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
   subject: 
@@ -23960,8 +23961,8 @@ signatures:
   - religion
   - sex
 - !ruby/struct:Signore::Signature
-  text: ‘You like it?’ he said to Mort, in pretty much the same tone of voice people
-    used when they said to St George, ‘You killed a *what*?’
+  text: "‘You like it?’ he said to Mort, in pretty much the same tone of voice people
+    used when they said to St George, ‘You killed a *what*?’"
   author: Terry Pratchett
   source: Mort
   subject: 
@@ -23969,10 +23970,10 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: ‘One minute I’m just another rabbit and happy about it, next minute *whazaam*,
+  text: "‘One minute I’m just another rabbit and happy about it, next minute *whazaam*,
     I’m thinking. That’s a major drawback if you’re looking for happiness as a rabbit,
     let me tell you. You want grass and sex, not thoughts like “What’s it all about,
-    when you get right down to it?”’
+    when you get right down to it?”’"
   author: Terry Pratchett
   source: Moving Pictures
   subject: 
@@ -23980,8 +23981,8 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: ‘We got a talk about it at school. There’s lots of stuff most girls can’t
-    do, but you’ve got to pretend they can, so that more of them will.’
+  text: "‘We got a talk about it at school. There’s lots of stuff most girls can’t
+    do, but you’ve got to pretend they can, so that more of them will.’"
   author: Terry Pratchett
   source: Only You Can Save Mankind
   subject: 
@@ -23989,8 +23990,8 @@ signatures:
   - en
   - sexism
 - !ruby/struct:Signore::Signature
-  text: ‘The thing is that Mr. Dibbler can even sell sausages to people who have bought
-    them off him *before*.’
+  text: "‘The thing is that Mr. Dibbler can even sell sausages to people who have
+    bought them off him *before*.’"
   author: Terry Pratchett
   source: Moving Pictures
   subject: 
@@ -24007,8 +24008,8 @@ signatures:
   - en
   - politics
 - !ruby/struct:Signore::Signature
-  text: '‘Playing by the rules’ is an awful, weasely phrase: a shibboleth of xenophobia
-    and racism.'
+  text: "‘Playing by the rules’ is an awful, weasely phrase: a shibboleth of xenophobia
+    and racism."
   author: Paul Battley
   source: 
   subject: 
@@ -24104,13 +24105,13 @@ signatures:
   - tech
   - equality
 - !ruby/struct:Signore::Signature
-  text: ‘The red rosy hen greets the dawn of the day’. In fact the hen is not the
+  text: "‘The red rosy hen greets the dawn of the day’. In fact the hen is not the
     bird traditionally associated with heralding a new sunrise, but Mrs Huggs, while
     collecting many old folk songs for posterity, has taken care to rewrite them where
     necessary to avoid, as she put it, ‘offending those of a refined disposition with
     unwarranted coarseness’. Much to her surprise, people often couldn’t spot the
     unwarranted coarseness until it had been pointed out to them. Sometimes a chicken
-    is nothing but a bird.
+    is nothing but a bird."
   author: Terry Pratchett
   source: Hogfather
   subject: 
@@ -24118,8 +24119,8 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: ‘And I could certainly run a marvellous university here if only we didn’t
-    have to have these damn students underfoot all the time.’
+  text: "‘And I could certainly run a marvellous university here if only we didn’t
+    have to have these damn students underfoot all the time.’"
   author: Terry Pratchett
   source: Hogfather
   subject: 
@@ -24335,8 +24336,8 @@ signatures:
   - tech
   - work
 - !ruby/struct:Signore::Signature
-  text: ‘Newer version of Crack was not monkey patching Hash.’ What would non-developers
-    think if they read our commit logs?
+  text: "‘Newer version of Crack was not monkey patching Hash.’ What would non-developers
+    think if they read our commit logs?"
   author: Charles Lowell
   source: 
   subject: 
@@ -24377,9 +24378,9 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: ‘Let’s just say that if complete and utter chaos was lightning, he’d be the
+  text: "‘Let’s just say that if complete and utter chaos was lightning, he’d be the
     sort to stand on a hilltop in a thunderstorm wearing wet copper armour and shouting
-    “All gods are bastards”.’
+    “All gods are bastards”.’"
   author: Terry Pratchett
   source: The Colour of Magic
   subject: 
@@ -24626,9 +24627,9 @@ signatures:
   - en
   - cartoons
 - !ruby/struct:Signore::Signature
-  text: ‘Chain letters’, said the Tyrant. ‘The Chain Letter to the Ephebians. Forget
+  text: "‘Chain letters’, said the Tyrant. ‘The Chain Letter to the Ephebians. Forget
     Your Gods. Be Subjugated. Learn to Fear. Do not break the chain – the last people
-    who did woke up one morning to find fifty thousand armed men on their lawn.’
+    who did woke up one morning to find fifty thousand armed men on their lawn.’"
   author: Terry Pratchett
   source: Small Gods
   subject: 
@@ -24759,8 +24760,8 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: ‘I know she’s in there’, said Verence, holding his crown in his hands in the
-    famous Ai-Senor-Mexican-Bandits-Have-Raided-Our-Village position.
+  text: "‘I know she’s in there’, said Verence, holding his crown in his hands in
+    the famous Ai-Senor-Mexican-Bandits-Have-Raided-Our-Village position."
   author: Terry Pratchett
   source: Lords and Ladies
   subject: 
@@ -24837,7 +24838,7 @@ signatures:
   - music
   - sex
 - !ruby/struct:Signore::Signature
-  text: ‘Yes’, said the skull. ‘Quit while you’re a head, that’s what I say.’
+  text: "‘Yes’, said the skull. ‘Quit while you’re a head, that’s what I say.’"
   author: Terry Pratchett
   source: Soul Music
   subject: 
@@ -24873,8 +24874,8 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: ‘This PHP code is so clean and elegantly solves the problem at hand’ – nobody,
-    never.
+  text: "‘This PHP code is so clean and elegantly solves the problem at hand’ – nobody,
+    never."
   author: Mike Perham
   source: 
   subject: 
@@ -25088,7 +25089,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If you don’t like locks but want parallelism on multi-core CPUs, use Actors.
     Why are we even debating this? It’s like science doesn’t matter.
-  author: '@brixen'
+  author: "@brixen"
   source: 
   subject: 
   tags:
@@ -25362,7 +25363,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: The more I learn about Ruby, the more I go, ‘now how many times have I wished
     for that feature’.
-  author: '@greenmanspirit'
+  author: "@greenmanspirit"
   source: 
   subject: 
   tags:
@@ -25549,7 +25550,7 @@ signatures:
   - en
   - coffee
 - !ruby/struct:Signore::Signature
-  text: ‘Obsessed’ is a word that lazy people use to describe ‘dedicated’.
+  text: "‘Obsessed’ is a word that lazy people use to describe ‘dedicated’."
   author: Ted Dziuba
   source: 
   subject: 
@@ -25578,7 +25579,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘reproduces if added to its quotation.’ reproduces if added to its quotation.
+  text: "‘reproduces if added to its quotation.’ reproduces if added to its quotation."
   author: 
   source: 
   subject: 
@@ -25600,7 +25601,7 @@ signatures:
   text: |-
     — A przy okazji, bo najprawdopodobniej wcześniej nie było nigdzie płacone ową kartą, więc skąd przestępca mógł mieć jej numer?
     — Wylosował. To jest wstęp do komunizmu wirtalnego. Każdemu wedle potrzeb, a płacą losowo wybrani posiadacze kart kredytowych.
-  author: Łukasz, Vizvary II Istvan
+  author: "Łukasz, Vizvary II Istvan"
   source: pl.biznes.banki
   subject: 
   tags:
@@ -25801,8 +25802,8 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: '#czerska-reality-distortion-field „Nieśmiertelne, sportowe bluzy z kapturem
-    z wielkim logo GAP nosił każdy polski nastolatek.”'
+  text: "#czerska-reality-distortion-field „Nieśmiertelne, sportowe bluzy z kapturem
+    z wielkim logo GAP nosił każdy polski nastolatek.”"
   author: reuptake
   source: 
   subject: 
@@ -25875,8 +25876,8 @@ signatures:
   - en
   - education
 - !ruby/struct:Signore::Signature
-  text: „Och, ty moje biedne Maleństwo!” powiedziała Mama Kangurzyca i dała Maleństwu
-    kopa w dupę.
+  text: "„Och, ty moje biedne Maleństwo!” powiedziała Mama Kangurzyca i dała Maleństwu
+    kopa w dupę."
   author: OKSzot
   source: 
   subject: 
@@ -26107,7 +26108,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Next time I’m in a lift with four or more strangers, I’m going to turn around
     and say ‘I’m sure you’re wondering why I’ve gathered you all here’.
-  author: '@funnyhumour'
+  author: "@funnyhumour"
   source: 
   subject: 
   tags:
@@ -26224,7 +26225,7 @@ signatures:
   - pl
   - journalism
 - !ruby/struct:Signore::Signature
-  text: „Elvish”. Mmm. „Elvish” to jest moje ukochane słowo. Elvish Preshley.
+  text: "„Elvish”. Mmm. „Elvish” to jest moje ukochane słowo. Elvish Preshley."
   author: OKSzot
   source: 
   subject: przeglądając Tolkiena w oryginale
@@ -26608,8 +26609,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘There’s an ops guy upstairs. Makes me nervous. It’s like when you’re on a
-    ship and the rats all show up on deck.’
+  text: "‘There’s an ops guy upstairs. Makes me nervous. It’s like when you’re on
+    a ship and the rats all show up on deck.’"
   author: Marcus Phillips
   source: 
   subject: 
@@ -26635,9 +26636,9 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: „Bardzo proszę o przesłanie nowej wyceny uwzględniającej mniejszy budżet,
+  text: "„Bardzo proszę o przesłanie nowej wyceny uwzględniającej mniejszy budżet,
     równocześnie przesyłam listę nowych funkcjonalności, które muszą się znaleźć w
-    projekcie.”
+    projekcie.”"
   author: Filip Tepper
   source: 
   subject: 
@@ -26645,9 +26646,9 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że bank obrabiałem z babcią i nagle się włączył alarm. Wyobraźcie
+  text: "Śniło mi się, że bank obrabiałem z babcią i nagle się włączył alarm. Wyobraźcie
     sobie miny rodziny, gdy nagle przy włączonym dryndającym budziku zrywam się z
-    łóżka z krzykiem „babcia! spierdalamy!”
+    łóżka z krzykiem „babcia! spierdalamy!”"
   author: adik
   source: 
   subject: 
@@ -26813,7 +26814,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘Requires a Facebook account’ is like ‘best viewed in Netscape 4’.
+  text: "‘Requires a Facebook account’ is like ‘best viewed in Netscape 4’."
   author: Andy Clarke
   source: 
   subject: 
@@ -27934,7 +27935,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Metaprogramming is the gift that keeps on giving. You feel clever when you
     write it, and somebody else feels clever when they debug it.
-  author: '@imccoy'
+  author: "@imccoy"
   source: 
   subject: 
   tags:
@@ -28242,7 +28243,7 @@ signatures:
   - en
   - RPG
 - !ruby/struct:Signore::Signature
-  text: …to, co poruszaliście w zeszłym roku, czyli armię zawodową…
+  text: "…to, co poruszaliście w zeszłym roku, czyli armię zawodową…"
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -28314,8 +28315,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘Resource temporarily unavailable’ is not an error I want to see coming out
-    of the test suite.
+  text: "‘Resource temporarily unavailable’ is not an error I want to see coming out
+    of the test suite."
   author: Avdi Grimm
   source: 
   subject: 
@@ -28528,7 +28529,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: …ma hopla na właśnie ten temat.
+  text: "…ma hopla na właśnie ten temat."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -28692,7 +28693,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: …a jak nie, to cię wyrzucę na zbitą mordę poza drzwi.
+  text: "…a jak nie, to cię wyrzucę na zbitą mordę poza drzwi."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -28901,8 +28902,8 @@ signatures:
   - programming
   - C++
 - !ruby/struct:Signore::Signature
-  text: ‘We tried Postgres but it sucked, so we’re switching back to MySQL’ – no one,
-    ever.
+  text: "‘We tried Postgres but it sucked, so we’re switching back to MySQL’ – no
+    one, ever."
   author: Paul Barry
   source: 
   subject: 
@@ -29650,7 +29651,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Środowisko wodne, środowisko podwórkowe, środowisko klasowe…
+  text: "Środowisko wodne, środowisko podwórkowe, środowisko klasowe…"
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -29748,7 +29749,7 @@ signatures:
   - Ruby
   - Java
 - !ruby/struct:Signore::Signature
-  text: ‘To run [INSERT JAVA LIB HERE] you need an XML configuration file.’
+  text: "‘To run [INSERT JAVA LIB HERE] you need an XML configuration file.’"
   author: Jesse Cooke
   source: 
   subject: 
@@ -30492,7 +30493,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Some people when confronted with a problem say, hey I will write the solution
     using LaTeX. Now they have overfull hbox (23pt) problems.
-  author: '@splittingfield'
+  author: "@splittingfield"
   source: 
   subject: 
   tags:
@@ -30563,7 +30564,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If I had a couple millions or billions I’d buy the rights to broadcast football
     in Germany. AND THEN KEEP IT TO MYSELF.
-  author: '@klimpong'
+  author: "@klimpong"
   source: 
   subject: 
   tags:
@@ -30615,7 +30616,7 @@ signatures:
   - en
   - Simpsons
 - !ruby/struct:Signore::Signature
-  text: Żołnierz ciągnie równo z nieznanego miejsca.
+  text: "Żołnierz ciągnie równo z nieznanego miejsca."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -30940,7 +30941,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Łatwa praca, żeby się człowiek nie narobił.
+  text: "Łatwa praca, żeby się człowiek nie narobił."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -31007,8 +31008,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘Asshole’ is the term repressed people use to describe those posessing the
-    self-confidence to live life the way they desire.
+  text: "‘Asshole’ is the term repressed people use to describe those posessing the
+    self-confidence to live life the way they desire."
   author: Alan Harris
   source: 
   subject: 
@@ -31106,8 +31107,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: — Pani jest matką tej skarbonki? — czyli śpię w szpitalu, bo młody połknął
-    monetę.
+  text: "— Pani jest matką tej skarbonki? — czyli śpię w szpitalu, bo młody połknął
+    monetę."
   author: Lilarouge
   source: 
   subject: 
@@ -31174,7 +31175,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Also, what do you mean I’ve given you card details and I can’t watch a Jackie
     Chan film immediately? Are you nuts, LoveFilm?
-  author: '@ntlk'
+  author: "@ntlk"
   source: 
   subject: 
   tags:
@@ -31637,8 +31638,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘Yeah, I’m starting up a restaurant startup. If it works out it might be a
-    business someday.’ — nobody, ever.
+  text: "‘Yeah, I’m starting up a restaurant startup. If it works out it might be
+    a business someday.’ — nobody, ever."
   author: Avdi Grimm
   source: 
   subject: 
@@ -31823,7 +31824,7 @@ signatures:
   text: |-
     ‘Who would DDoS Github?’
     ‘CVS fans, I think.’
-  author: '@dotemacs'
+  author: "@dotemacs"
   source: 
   subject: 
   tags:
@@ -32613,8 +32614,8 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: ‘Immature’ is a word that boring people use to describe fun people.
-  author: '@FillWerreII'
+  text: "‘Immature’ is a word that boring people use to describe fun people."
+  author: "@FillWerreII"
   source: 
   subject: 
   tags:
@@ -32776,8 +32777,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: '…a ci co tam pracują to przede wszystkim: buty gumowe, rękawice gumowe, kombinezon
-    gumowy, maska na twarzy i oczywiście ciężka praca!'
+  text: "…a ci co tam pracują to przede wszystkim: buty gumowe, rękawice gumowe, kombinezon
+    gumowy, maska na twarzy i oczywiście ciężka praca!"
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -33045,7 +33046,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: The difference between a hooker and a lobbyist is that a hooker offers a valuable
     service.
-  author: '@TheTweetOfGod'
+  author: "@TheTweetOfGod"
   source: 
   subject: 
   tags:
@@ -33139,7 +33140,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If you watch Godzilla backwards, it’s about a dinosaur who passionately pieces
     a city back together before moon-walking into the sea.
-  author: Łukasz Anwajler
+  author: "Łukasz Anwajler"
   source: 
   subject: 
   tags:
@@ -33212,10 +33213,10 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: „The classic example of phenomena well modelled by a Poisson process is deaths
+  text: "„The classic example of phenomena well modelled by a Poisson process is deaths
     due to horse kick in the Prussian army, as shown by Ladislaus Bortkiewicz in 1898.”
     Myślę, że wykorzystam to zdanie z Wikipedii w mojej pracy jako test, czy ktoś
-    ją właściwie czytał.
+    ją właściwie czytał."
   author: DrYoung
   source: 
   subject: 
@@ -33442,9 +33443,9 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: 'Śniło mi się, że gram w pokera z Havlem. Musiałem się poddać po pierwszym
+  text: "Śniło mi się, że gram w pokera z Havlem. Musiałem się poddać po pierwszym
     rozdaniu. Moją rączka wyglądała następująco: notatnik, kalendarzyk, notatnik,
-    wizytówka i Joker.'
+    wizytówka i Joker."
   author: opi
   source: 
   subject: 
@@ -33452,8 +33453,8 @@ signatures:
   - pl
   - dreams
 - !ruby/struct:Signore::Signature
-  text: „Ilu miałaś facetów?” zapytuje mnie Merlin w fantastycznie dobranej promocji
-    wysłanej e-mailem.
+  text: "„Ilu miałaś facetów?” zapytuje mnie Merlin w fantastycznie dobranej promocji
+    wysłanej e-mailem."
   author: opi
   source: 
   subject: 
@@ -33469,8 +33470,8 @@ signatures:
   - tech
   - devops
 - !ruby/struct:Signore::Signature
-  text: ‘Who’s doing test driven development?’ 1% of the audience raise their hands.
-    In a testing talk at PyCon. Oh, Python culture.
+  text: "‘Who’s doing test driven development?’ 1% of the audience raise their hands.
+    In a testing talk at PyCon. Oh, Python culture."
   author: Gary Bernhardt
   source: 
   subject: 
@@ -33841,8 +33842,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: …a nie żebym ja spał i myślał, cholera jasna, czy ja jutro wsiądę do tego
-    mercedesa.
+  text: "…a nie żebym ja spał i myślał, cholera jasna, czy ja jutro wsiądę do tego
+    mercedesa."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -34016,7 +34017,7 @@ signatures:
   - en
   - presentations
 - !ruby/struct:Signore::Signature
-  text: Ściana ognia może niszczyć siłę żywą.
+  text: "Ściana ognia może niszczyć siłę żywą."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -34043,8 +34044,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Śniło mi się, że w ramach promocji Euro 2012 przyjechał Arsenal i grał nago.
-    Wbiegł ubrany kibic na boisko i był wielki skandal.
+  text: "Śniło mi się, że w ramach promocji Euro 2012 przyjechał Arsenal i grał nago.
+    Wbiegł ubrany kibic na boisko i był wielki skandal."
   author: reuptake
   source: 
   subject: 
@@ -34079,8 +34080,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: …że oprócz tych zaginionych są jeszcze no, no ci, którzy umarli, a także jeszcze
-    ci zaginieni.
+  text: "…że oprócz tych zaginionych są jeszcze no, no ci, którzy umarli, a także
+    jeszcze ci zaginieni."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -34089,7 +34090,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Żołnierz naćpał się wody.
+  text: "Żołnierz naćpał się wody."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -34107,8 +34108,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘My claim to fame is having as much experience with failure as you can collect
-    without winning a Darwin Award.’
+  text: "‘My claim to fame is having as much experience with failure as you can collect
+    without winning a Darwin Award.’"
   author: Reg Braithwaite
   source: 
   subject: 
@@ -34663,7 +34664,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: 'Repeat after me: My short time on this planet is better spent not arguing
     on the Internet.'
-  author: '@arclight'
+  author: "@arclight"
   source: 
   subject: 
   tags:
@@ -34818,8 +34819,8 @@ signatures:
   - pl
   - Allegro
 - !ruby/struct:Signore::Signature
-  text: „Niezwykłe w mojej pracy jest to, że głosem wpływam na tłumy” – mówi w wywiadzie
-    dla magazynu „W podróży” Jadwiga Ragus, megafonistka z Dworca Centralnego.
+  text: "„Niezwykłe w mojej pracy jest to, że głosem wpływam na tłumy” – mówi w wywiadzie
+    dla magazynu „W podróży” Jadwiga Ragus, megafonistka z Dworca Centralnego."
   author: czerski
   source: 
   subject: 
@@ -34937,7 +34938,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: +76/-56290 lines in this diff? MERGED!
+  text: "+76/-56290 lines in this diff? MERGED!"
   author: Steve Klabnik
   source: 
   subject: 
@@ -34955,7 +34956,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Żołnierze zewsząd naciągają do legionów.
+  text: "Żołnierze zewsząd naciągają do legionów."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -35446,7 +35447,7 @@ signatures:
     ‘Is there any canonical place to put constants for use in my code in Rails?’
     ‘I like to create a Config class, and patch in the various values at odd parts all over the app, with different and contrasting values. Because whoever comes after me is the one who took my job. And fuck that guy.’
   author: Xenoskin, POTUS
-  source: /r/rails
+  source: "/r/rails"
   subject: 
   tags:
   - en
@@ -35633,8 +35634,8 @@ signatures:
   - pl
   - music
 - !ruby/struct:Signore::Signature
-  text: ++ was invented for pointer arithmetic. The last major lang to use pointer
-    arithmetic was C++, a language so bad it was named for the operator.
+  text: "++ was invented for pointer arithmetic. The last major lang to use pointer
+    arithmetic was C++, a language so bad it was named for the operator."
   author: Jim Weirich
   source: 
   subject: 
@@ -35695,7 +35696,7 @@ signatures:
   - science
   - academia
 - !ruby/struct:Signore::Signature
-  text: Żadnych granic praktycznie nie mamy.
+  text: "Żadnych granic praktycznie nie mamy."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -35930,7 +35931,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: „Kiedy byłem młody nie było pedofili. Sami musieliśmy sobie organizować cukierki.”
+  text: "„Kiedy byłem młody nie było pedofili. Sami musieliśmy sobie organizować cukierki.”"
   author: Fruugo
   source: 
   subject: 
@@ -36382,7 +36383,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: …że A to jest naprawdę klasa A.
+  text: "…że A to jest naprawdę klasa A."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -36514,7 +36515,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Żołnierze mogą być nieleczone.
+  text: "Żołnierze mogą być nieleczone."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -36559,7 +36560,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: …pozostawienie ucznia na szerokiej wodzie. Niech sobie pływa, prawda, do woli.
+  text: "…pozostawienie ucznia na szerokiej wodzie. Niech sobie pływa, prawda, do
+    woli."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -36678,7 +36680,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If you’ve never spoken ‘computer, end program’ out loud there’s still a chance
     your whole life has been a holodeck simulation.
-  author: '@dreadhole'
+  author: "@dreadhole"
   source: 
   subject: 
   tags:
@@ -36948,7 +36950,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: '%!...!.each { |require| require require }'
+  text: "%!...!.each { |require| require require }"
   author: Ben Bleything
   source: 
   subject: 
@@ -37281,7 +37283,7 @@ signatures:
   text: |-
     Can’t sleep…
     while(i=rand(45)+5);36.times{|x|print " "*(Math::sin(x*10*Math::PI/180)*i+50)+"*\n";sleep(0.05)};end
-  author: '@maltize'
+  author: "@maltize"
   source: 
   subject: 
   tags:
@@ -37291,7 +37293,7 @@ signatures:
   - Ruby
 - !ruby/struct:Signore::Signature
   text: Half of programming is figuring out where to put the mess.
-  author: '@zorano'
+  author: "@zorano"
   source: 
   subject: 
   tags:
@@ -37335,7 +37337,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Środki trujące w środowisku to będzie woda, powietrze, gleba.
+  text: "Środki trujące w środowisku to będzie woda, powietrze, gleba."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -37542,7 +37544,7 @@ signatures:
   - programming
   - SemVer
 - !ruby/struct:Signore::Signature
-  text: Żołnierz nie mógł skupić się na strzelaniu, bo cały czas miał w ręku chustkę.
+  text: "Żołnierz nie mógł skupić się na strzelaniu, bo cały czas miał w ręku chustkę."
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
@@ -37741,7 +37743,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: INTERNTET EXPLORER Y U NO GOOD AT EXPLORING INTERNET?
-  author: '@Y_U_NOOO'
+  author: "@Y_U_NOOO"
   source: 
   subject: 
   tags:
@@ -37807,7 +37809,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘$2.50 each or 2 for $5’ – no shit, Walgreens!
+  text: "‘$2.50 each or 2 for $5’ – no shit, Walgreens!"
   author: Jesse Cooke
   source: 
   subject: 
@@ -38195,8 +38197,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘Please avoid using your browser’s Back Button.’ No. Please avoid writing
-    websites when you don’t understand the web.
+  text: "‘Please avoid using your browser’s Back Button.’ No. Please avoid writing
+    websites when you don’t understand the web."
   author: James Higgs
   source: 
   subject: 
@@ -38228,7 +38230,7 @@ signatures:
     ‘Uh, what?’
     ‘Are you a frood, or are you going to the beach?’
     And then she pointed towards an item of clothing I had mistaken for a shawl at first glance, and it turned out to be a really nice towel.
-  author: '@humppafreak'
+  author: "@humppafreak"
   source: 
   subject: 
   tags:
@@ -38312,7 +38314,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: The best thing about alcohol hand gel in hospitals isn’t the hygiene, but
     that everyone walks around like they’re hatching a dastardly plan.
-  author: '@justinkb'
+  author: "@justinkb"
   source: 
   subject: 
   tags:
@@ -38973,7 +38975,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: „Niemiecka wokalistka soulowa”, będzie się działo.
+  text: "„Niemiecka wokalistka soulowa”, będzie się działo."
   author: reuptake
   source: 
   subject: 
@@ -39109,8 +39111,8 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: ‘Never wrestle with a pig – you get dirty and the pig likes it.’ NOW REPLACE
-    PIG WITH ASSET PIPELINE.
+  text: "‘Never wrestle with a pig – you get dirty and the pig likes it.’ NOW REPLACE
+    PIG WITH ASSET PIPELINE."
   author: Mike Perham
   source: 
   subject: 
@@ -39281,7 +39283,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: '<!--[if lte IE 7]> <style> * {font-family: "Comic Sans";} </style> <![endif]-->'
+  text: "<!--[if lte IE 7]> <style> * {font-family: \"Comic Sans\";} </style> <![endif]-->"
   author: Barry Dorrans
   source: 
   subject: 
@@ -39301,7 +39303,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: You just know the tastiest animals never made it off of Noah’s Ark.
-  author: '@Jesus_M_Christ'
+  author: "@Jesus_M_Christ"
   source: 
   subject: 
   tags:
@@ -39317,8 +39319,8 @@ signatures:
   - tech
   - networking
 - !ruby/struct:Signore::Signature
-  text: ‘Working Effectively with Legacy Code’ should just be 300 pages of a picture
-    of a bottle of whiskey.
+  text: "‘Working Effectively with Legacy Code’ should just be 300 pages of a picture
+    of a bottle of whiskey."
   author: Tony Collen
   source: 
   subject: 
@@ -39327,7 +39329,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘Monday’ is an adjective. Today was totally Monday.
+  text: "‘Monday’ is an adjective. Today was totally Monday."
   author: Chad Fowler
   source: 
   subject: 
@@ -39605,7 +39607,7 @@ signatures:
   - pl
   - parenting
 - !ruby/struct:Signore::Signature
-  text: Żadna laska, żadna lala nie zastąpi terminala.
+  text: "Żadna laska, żadna lala nie zastąpi terminala."
   author: Bartek Kuczyński
   source: 
   subject: 
@@ -39654,7 +39656,7 @@ signatures:
   - programming
   - PHP
 - !ruby/struct:Signore::Signature
-  text: „W najbliższym czasie ukarze się książka”
+  text: "„W najbliższym czasie ukarze się książka”"
   author: reuptake
   source: 
   subject: 
@@ -39804,7 +39806,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: I hate being bipolar, it’s fantastic!
-  author: '@AthenaOriana'
+  author: "@AthenaOriana"
   source: 
   subject: 
   tags:
@@ -40245,9 +40247,9 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘Dude, unless you’re using Iambic Pentameter, you’re not really writing’ –
-    if writers argued like programmers do.
-  author: '@mcmoyer'
+  text: "‘Dude, unless you’re using Iambic Pentameter, you’re not really writing’
+    – if writers argued like programmers do."
+  author: "@mcmoyer"
   source: 
   subject: 
   tags:
@@ -40310,7 +40312,7 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: „Twoja nokia wygląda jak ajfon dla linuksiarzy” she said.
+  text: "„Twoja nokia wygląda jak ajfon dla linuksiarzy” she said."
   author: DrYoung
   source: 
   subject: 
@@ -40342,8 +40344,8 @@ signatures:
   - en
   - Twitter
 - !ruby/struct:Signore::Signature
-  text: ‘Your card number must not contain spaces!’ We put a man on the moon. You
-    can take the fucking spaces out.
+  text: "‘Your card number must not contain spaces!’ We put a man on the moon. You
+    can take the fucking spaces out."
   author: Simon Harris
   source: 
   subject: 
@@ -40472,8 +40474,8 @@ signatures:
   - pl
   - LinkedIn
 - !ruby/struct:Signore::Signature
-  text: ‘I’d LOVE to download your app instead of going to the webpage I just tried
-    to visit!’ – No-one, ever. No-one in the future either.
+  text: "‘I’d LOVE to download your app instead of going to the webpage I just tried
+    to visit!’ – No-one, ever. No-one in the future either."
   author: Graham Linehan
   source: 
   subject: 
@@ -40565,7 +40567,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: The Star Trek universe happens when you put scientists in charge. The Star
     Wars universe happens when you put politicians in charge.
-  author: '@thagler'
+  author: "@thagler"
   source: 
   subject: 
   tags:
@@ -40660,7 +40662,7 @@ signatures:
     „Du meinst am Tag.“
     „Was?“
     „Was?“
-  author: '@ihopeyoudiexo'
+  author: "@ihopeyoudiexo"
   source: 
   subject: 
   tags:
@@ -40674,8 +40676,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘We may never know what caused the gunman to snap’, but if he had a Muslim
-    background I bet we’d suddenly be all sorts of certain.
+  text: "‘We may never know what caused the gunman to snap’, but if he had a Muslim
+    background I bet we’d suddenly be all sorts of certain."
   author: Bilal Dardai
   source: 
   subject: 
@@ -40685,7 +40687,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Tn IT head for a Fortune 500 company is explaining to me how IPv6 is unnecessary
     because ‘they’ll probably give in and issue more IPv4 addresses’.
-  author: '@me_irl'
+  author: "@me_irl"
   source: 
   subject: 
   tags:
@@ -40693,8 +40695,8 @@ signatures:
   - tech
   - IPv6
 - !ruby/struct:Signore::Signature
-  text: ‘At this age I don’t schedule things, I just do them to make sure they actually
-    get done.’ – man who is 95 years old.
+  text: "‘At this age I don’t schedule things, I just do them to make sure they actually
+    get done.’ – man who is 95 years old."
   author: Dr Nic
   source: 
   subject: 
@@ -40750,7 +40752,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: die drei ßßß und die kaputte shifttaste.
-  author: '@der_handwerk'
+  author: "@der_handwerk"
   source: 
   subject: 
   tags:
@@ -40765,8 +40767,8 @@ signatures:
   - en
   - photography
 - !ruby/struct:Signore::Signature
-  text: ‘So you fuck-wits had all that historical work and you chose that step backwards?’
-    – our children, maintaining our JavaScript.
+  text: "‘So you fuck-wits had all that historical work and you chose that step backwards?’
+    – our children, maintaining our JavaScript."
   author: Tony Morris
   source: 
   subject: 
@@ -40807,7 +40809,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: You can get ideas anywhere-while driving, in the shower, drifting off to sleep-anywhere
     where you can’t easily write them down.
-  author: '@nedroid'
+  author: "@nedroid"
   source: 
   subject: 
   tags:
@@ -40852,7 +40854,7 @@ signatures:
   - music
   - U2
 - !ruby/struct:Signore::Signature
-  text: ‘Mexican’ + any superhero name = movie I want to see.
+  text: "‘Mexican’ + any superhero name = movie I want to see."
   author: Maciej Cegłowski
   source: 
   subject: 
@@ -40915,7 +40917,7 @@ signatures:
   - en
   - science
 - !ruby/struct:Signore::Signature
-  text: (╯°□°)╯︵ sʇsəʇ
+  text: "(╯°□°)╯︵ sʇsəʇ"
   author: Solomon White
   source: 
   subject: 
@@ -40972,8 +40974,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘This new layer papers over my problem! :D’ → n months pass → ‘FFFFFFFUUUUUUUUUUUU’.
-    I’m pretty sure n is decreasing.
+  text: "‘This new layer papers over my problem! :D’ → n months pass → ‘FFFFFFFUUUUUUUUUUUU’.
+    I’m pretty sure n is decreasing."
   author: Gary Bernhardt
   source: 
   subject: 
@@ -41188,9 +41190,9 @@ signatures:
   - Apple
   - NASA
 - !ruby/struct:Signore::Signature
-  text: …as any certification, the certificate mostly certifies your cheque didn’t
-    bounce.
-  author: '@wfaler'
+  text: "…as any certification, the certificate mostly certifies your cheque didn’t
+    bounce."
+  author: "@wfaler"
   source: 
   subject: 
   tags:
@@ -41221,7 +41223,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: 'TV idea: ‘Piers Morgan: My Britain’. Piers Morgan travels the length and
     breadth of the UK meeting ordinary people who tell him to fuck off.'
-  author: '@ncguk'
+  author: "@ncguk"
   source: 
   subject: 
   tags:
@@ -41314,7 +41316,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Jedes mal, wenn jemand versucht mit einem Regex XML zu parsen, kriegt Noam
     Chomsky Schluckauf.
-  author: '@zynisch'
+  author: "@zynisch"
   source: 
   subject: 
   tags:
@@ -41425,7 +41427,7 @@ signatures:
     1. Go to HN.
     2. Read the discussion about Textmate.
     3. Get shocked anew that people use it for real and not just in screencasts.
-  author: '@dotemacs'
+  author: "@dotemacs"
   source: 
   subject: 
   tags:
@@ -41487,8 +41489,8 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: '‘YouTube’s decision to encode its videos in HTML 5’ Hmm. Imagine if sports
-    presenters said: ‘Arsenal’s decision to play with kick-people’.'
+  text: "‘YouTube’s decision to encode its videos in HTML 5’ Hmm. Imagine if sports
+    presenters said: ‘Arsenal’s decision to play with kick-people’."
   author: Ben Griffiths
   source: 
   subject: 
@@ -41525,7 +41527,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Konstrukcja ze spinaczy i gumek ułożona przez starszego specjalistę otrzymała
     wyróżnienie na międzynarodowym biennale sztuki współczesnej.
-  author: '@Urzednicy'
+  author: "@Urzednicy"
   source: 
   subject: 
   tags:
@@ -41571,7 +41573,7 @@ signatures:
   - Ruby
 - !ruby/struct:Signore::Signature
   text: I got 99 problems and all of them are luftballons.
-  author: '@jitka22'
+  author: "@jitka22"
   source: 
   subject: 
   tags:
@@ -41762,7 +41764,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Watching the recent Twitter API policy moves is like watching an old friend
     lose a battle with substance abuse.
-  author: '@kellan'
+  author: "@kellan"
   source: 
   subject: 
   tags:
@@ -41784,7 +41786,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: The more you understand computers the more scared you get and also no one
     understands them.
-  author: '@shanley'
+  author: "@shanley"
   source: 
   subject: 
   tags:
@@ -41793,7 +41795,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: 'Fun trick: walk into a crowded building and yell ‘hey asshole!’, make note
     of who turns around, pretend to scribble in a notebook, then leave.'
-  author: '@knifesex'
+  author: "@knifesex"
   source: 
   subject: 
   tags:
@@ -41801,7 +41803,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: If you can afford an iPad, surely you can buy a device that allows you to
     take pictures without looking like an idiot.
-  author: Łukasz Korecki
+  author: "Łukasz Korecki"
   source: 
   subject: 
   tags:
@@ -41942,8 +41944,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘We took on this outstanding quantity of technical debt, but it’s fine because
-    we paid it off later.’ – Nobody, ever.
+  text: "‘We took on this outstanding quantity of technical debt, but it’s fine because
+    we paid it off later.’ – Nobody, ever."
   author: Zack Voase
   source: 
   subject: 
@@ -42101,8 +42103,8 @@ signatures:
   - pl
   - parenting
 - !ruby/struct:Signore::Signature
-  text: „Firma Hygienika SA, producent pieluch Bambino, nawiązała współpracę z aktorką
-    Anną Muchą, która zostanie twarzą marki.”
+  text: "„Firma Hygienika SA, producent pieluch Bambino, nawiązała współpracę z aktorką
+    Anną Muchą, która zostanie twarzą marki.”"
   author: reuptake
   source: 
   subject: 
@@ -42132,7 +42134,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Azul moon, tu que lefto mi standingero alone. Without con un dreamo en mi
     corazon, without un amore que just para mi.
-  author: '@ElBloombito'
+  author: "@ElBloombito"
   source: 
   subject: 
   tags:
@@ -42288,7 +42290,7 @@ signatures:
   - Ruby
   - HTTP
 - !ruby/struct:Signore::Signature
-  text: ‘Requires a Facebook account’ is like ‘best viewed in Netscape 4’.
+  text: "‘Requires a Facebook account’ is like ‘best viewed in Netscape 4’."
   author: Andy Clarke
   source: 
   subject: 
@@ -42372,7 +42374,7 @@ signatures:
   - Google
   - privacy
 - !ruby/struct:Signore::Signature
-  text: '[URL shorteners] are like holding DNS underwater for four minutes.'
+  text: "[URL shorteners] are like holding DNS underwater for four minutes."
   author: Jason Scott
   source: 
   subject: 
@@ -42851,7 +42853,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: 'OH: Flawed queue types: FISH – first in, still here.'
-  author: '@deathwarmedover'
+  author: "@deathwarmedover"
   source: 
   subject: 
   tags:
@@ -42899,8 +42901,8 @@ signatures:
   - programming
   - Rails
 - !ruby/struct:Signore::Signature
-  text: ‘I love Ruby. We’ve glued a third leg onto this duck, but the code that expects
-    a normal duck remains unaffected.’
+  text: "‘I love Ruby. We’ve glued a third leg onto this duck, but the code that expects
+    a normal duck remains unaffected.’"
   author: David Brady
   source: 
   subject: 
@@ -43143,7 +43145,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Life is all about perspective. The sinking of the Titanic was a miracle to
     the lobsters in the ship’s kitchen.
-  author: '@ozlifeadvice'
+  author: "@ozlifeadvice"
   source: 
   subject: 
   tags:
@@ -43261,7 +43263,7 @@ signatures:
   - TechCrunch
 - !ruby/struct:Signore::Signature
   text: Matz is nice so we act like DHH.
-  author: '@rbxbx'
+  author: "@rbxbx"
   source: 
   subject: 
   tags:
@@ -43281,8 +43283,8 @@ signatures:
   - pl
   - linguistics
 - !ruby/struct:Signore::Signature
-  text: '‘Let’s let people configure this client library using environment variables.’
-    #stabstabstab'
+  text: "‘Let’s let people configure this client library using environment variables.’
+    #stabstabstab"
   author: James Coglan
   source: 
   subject: 
@@ -43414,7 +43416,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: 'Note to foreign programmers: American speed limit signs display kilometers-per-hour
     (in hexadecimal).'
-  author: '@bmcnett'
+  author: "@bmcnett"
   source: 
   subject: 
   tags:
@@ -43432,9 +43434,9 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘Drama’ is just ‘people being upset’, when someone says they’re always surrounded
+  text: "‘Drama’ is just ‘people being upset’, when someone says they’re always surrounded
     by drama and they just ignore it, it starts to make sense that their strategy
-    might be backfiring.
+    might be backfiring."
   author: 
   source: xkcd
   subject: 
@@ -43443,7 +43445,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: I told my son that in the pre-mobile phone days, our phone hung on the kitchen
     wall. He said, ‘Wow. Pretty awkward for watching porn.’
-  author: '@buck4itt'
+  author: "@buck4itt"
   source: 
   subject: 
   tags:
@@ -43476,7 +43478,7 @@ signatures:
   - en
   - lifehack
 - !ruby/struct:Signore::Signature
-  text: ‘US East is down’ is the ‘my dog ate my homework’ of cloud computing.
+  text: "‘US East is down’ is the ‘my dog ate my homework’ of cloud computing."
   author: Jim Lindley
   source: 
   subject: 
@@ -43571,7 +43573,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: I really hope Google doesn’t base my future searches on what I just did to
     Google Images.
-  author: '@gmcintire'
+  author: "@gmcintire"
   source: 
   subject: 
   tags:
@@ -43921,9 +43923,9 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Życie nie polega na tym, żeby mówiąc zawsze pamiętać, co się ma do powiedzenia,
+  text: "Życie nie polega na tym, żeby mówiąc zawsze pamiętać, co się ma do powiedzenia,
     tylko na tym, żeby w momentach gdy się o tym zapomina, mówić dalej i nie pozwolić
-    sobie przerwać.
+    sobie przerwać."
   author: 
   source: 
   subject: 
@@ -43992,8 +43994,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘Hi, I noticed you are attractive and in a relationship, but how about dating
-    someone who can’t get a date without my help?’ – tech recruiter.
+  text: "‘Hi, I noticed you are attractive and in a relationship, but how about dating
+    someone who can’t get a date without my help?’ – tech recruiter."
   author: Evan Farrar
   source: 
   subject: 
@@ -44040,7 +44042,7 @@ signatures:
   - pl
   - Internet
 - !ruby/struct:Signore::Signature
-  text: ‘fsync = off’ is the ‘assume a spherical cow’ of performance tuning.
+  text: "‘fsync = off’ is the ‘assume a spherical cow’ of performance tuning."
   author: Scott Parkerson
   source: 
   subject: 
@@ -44091,8 +44093,8 @@ signatures:
   - en
   - math
 - !ruby/struct:Signore::Signature
-  text: ‘I’ve been thinking so much about confirmation bias lately, I’ve started seeing
-    it everywhere.’
+  text: "‘I’ve been thinking so much about confirmation bias lately, I’ve started
+    seeing it everywhere.’"
   author: Gabriel Handford
   source: 
   subject: 
@@ -44108,8 +44110,8 @@ signatures:
   - en
   - military
 - !ruby/struct:Signore::Signature
-  text: ‘It can be a little bit difficult to secure the connection’ says this site
-    using JSON-P + MD5.
+  text: "‘It can be a little bit difficult to secure the connection’ says this site
+    using JSON-P + MD5."
   author: James Coglan
   source: 
   subject: 
@@ -44137,7 +44139,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘I am so happy to hear that you received your order from our store!’
+  text: "‘I am so happy to hear that you received your order from our store!’"
   author: Jeff Kreeftmeijer
   source: 
   subject: 
@@ -44192,8 +44194,8 @@ signatures:
   - work
   - productivity
 - !ruby/struct:Signore::Signature
-  text: <json:array name="phoneNumbers"> <json:string>212 555-1111</json:string> <json:string>212
-    555-2222</json:string>
+  text: "<json:array name=\"phoneNumbers\"> <json:string>212 555-1111</json:string>
+    <json:string>212 555-2222</json:string>"
   author: Elotente
   source: 
   subject: 
@@ -44363,8 +44365,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: '‘The Men Who Stare at Callbacks’: four engineers, free to choose any language
-    to solve problems with, end up picking JavaScript. Now in IMAX.'
+  text: "‘The Men Who Stare at Callbacks’: four engineers, free to choose any language
+    to solve problems with, end up picking JavaScript. Now in IMAX."
   author: Vicent Martí
   source: 
   subject: 
@@ -44383,8 +44385,8 @@ signatures:
   - en
   - cinematography
 - !ruby/struct:Signore::Signature
-  text: ‘As of late 2012, the FreeBSD Ports Project is in the process of migrating
-    revision control systems from CVS to Subversion.’ Oh god.
+  text: "‘As of late 2012, the FreeBSD Ports Project is in the process of migrating
+    revision control systems from CVS to Subversion.’ Oh god."
   author: Ben Hoskings
   source: 
   subject: 
@@ -44469,7 +44471,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: '„Dzień dobry, chciałem się dowiedzieć, czy mam z panem przyjemność.” #niewiemjaktootagować'
+  text: "„Dzień dobry, chciałem się dowiedzieć, czy mam z panem przyjemność.” #niewiemjaktootagować"
   author: DrYoung
   source: 
   subject: 
@@ -44498,7 +44500,7 @@ signatures:
   - programming
   - Java
 - !ruby/struct:Signore::Signature
-  text: ':%s/TODO/YOLO/g'
+  text: ":%s/TODO/YOLO/g"
   author: jleedev
   source: 
   subject: 
@@ -44585,7 +44587,7 @@ signatures:
   - tech
   - work
 - !ruby/struct:Signore::Signature
-  text: ‘You can see the code for yourself, just replace .php with .txt’
+  text: "‘You can see the code for yourself, just replace .php with .txt’"
   author: Rebecca Murphey
   source: 
   subject: 
@@ -44687,8 +44689,8 @@ signatures:
   - pl
   - university
 - !ruby/struct:Signore::Signature
-  text: ‘Master does not appear to give me the naturalist unicorns I desire’ – work
-    conversation.
+  text: "‘Master does not appear to give me the naturalist unicorns I desire’ – work
+    conversation."
   author: James Coglan
   source: 
   subject: 
@@ -44808,7 +44810,7 @@ signatures:
   - en
   - mathematics
 - !ruby/struct:Signore::Signature
-  text: ‘You have dishonored the clan. Sent from my iPhone.’
+  text: "‘You have dishonored the clan. Sent from my iPhone.’"
   author: steen
   source: 
   subject: 
@@ -44858,7 +44860,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘Welcome Guest [Sign Out]’
+  text: "‘Welcome Guest [Sign Out]’"
   author: Gary Bernhardt
   source: 
   subject: 
@@ -44921,7 +44923,7 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: ‘When you type it sounds like you’re angry at the alphabet.’
+  text: "‘When you type it sounds like you’re angry at the alphabet.’"
   author: David Brady
   source: 
   subject: 
@@ -44929,7 +44931,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘org.apache.fop.layoutmgr.BlockStackingLayoutManager.getNextKnuthElements’
+  text: "‘org.apache.fop.layoutmgr.BlockStackingLayoutManager.getNextKnuthElements’"
   author: James Coglan
   source: 
   subject: 
@@ -45005,8 +45007,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: <tr><ol><ol><ol><ol>
-  author: Łukasz Kliś
+  text: "<tr><ol><ol><ol><ol>"
+  author: "Łukasz Kliś"
   source: 
   subject: 
   tags:
@@ -45280,8 +45282,8 @@ signatures:
   - hipsters
   - linguistics
 - !ruby/struct:Signore::Signature
-  text: ‘Son, *puts hand on shoulder* you know, sometimes *puts another hand on your
-    should* life just *puts third hand on shoulder*’
+  text: "‘Son, *puts hand on shoulder* you know, sometimes *puts another hand on your
+    should* life just *puts third hand on shoulder*’"
   author: Halili Hanif
   source: 
   subject: 
@@ -45306,7 +45308,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: '*bites an onion* damn this apple is so indie'
+  text: "*bites an onion* damn this apple is so indie"
   author: taylor swift quotes
   source: 
   subject: 
@@ -45967,8 +45969,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘Police say the fire may have been caused by a n00b trying to install two
-    versions of Node.js at the same time.’
+  text: "‘Police say the fire may have been caused by a n00b trying to install two
+    versions of Node.js at the same time.’"
   author: James Coglan
   source: 
   subject: 
@@ -46189,8 +46191,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘So, you’re the author of our highly complicated business software? My e-mail
-    is not working, can you fix it?’
+  text: "‘So, you’re the author of our highly complicated business software? My e-mail
+    is not working, can you fix it?’"
   author: opi
   source: 
   subject: 
@@ -46318,7 +46320,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Being an adult means knowing you can have cake for every meal, but choosing
     not to have cake for every meal because you’re too drunk to eat.
-  author: '@Schmoodles'
+  author: "@Schmoodles"
   source: 
   subject: 
   tags:
@@ -46361,7 +46363,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: „feministki anazlizujące pornografię”, fajna litrówka wyszła.
+  text: "„feministki anazlizujące pornografię”, fajna litrówka wyszła."
   author: Królowa Nocy
   source: 
   subject: 
@@ -46583,7 +46585,7 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘You sit on a throne of hubris inside a fortress of regret.’
+  text: "‘You sit on a throne of hubris inside a fortress of regret.’"
   author: Rein Henrichs
   source: 
   subject: 
@@ -46630,16 +46632,16 @@ signatures:
   - tech
   - Salesforce
 - !ruby/struct:Signore::Signature
-  text: (Kindly remember that if, unprompted, you tell someone about your system for
-    getting organized, you are no better than a vegan.)
+  text: "(Kindly remember that if, unprompted, you tell someone about your system
+    for getting organized, you are no better than a vegan.)"
   author: Pinboard
   source: 
   subject: 
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘I’m going on my Windows/OS X computer to tell everyone how LGPL-licensed
-    WebKit creates proprietary vendor lock-in.’
+  text: "‘I’m going on my Windows/OS X computer to tell everyone how LGPL-licensed
+    WebKit creates proprietary vendor lock-in.’"
   author: Christian Johansen
   source: 
   subject: 
@@ -46753,7 +46755,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: You can turn any data into big data by exporting it to XML.
-  author: '@sohm'
+  author: "@sohm"
   source: 
   subject: 
   tags:
@@ -46881,8 +46883,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: …and I stood up, the whole TED audience looking at me, and I said ‘listen,
-    bro, if it ain’t about kebabs I don’t wanna know’.
+  text: "…and I stood up, the whole TED audience looking at me, and I said ‘listen,
+    bro, if it ain’t about kebabs I don’t wanna know’."
   author: Mangal 2 Restaurant
   source: 
   subject: 
@@ -46950,8 +46952,8 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: „W związku z obchodzoną dekadą Franza Kafki pański wniosek skierowano do dalszej
-    realizacji.”
+  text: "„W związku z obchodzoną dekadą Franza Kafki pański wniosek skierowano do
+    dalszej realizacji.”"
   author: reuptake
   source: 
   subject: 
@@ -46966,7 +46968,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘C compiler cannot create executables.’ You had ONE JOB.
+  text: "‘C compiler cannot create executables.’ You had ONE JOB."
   author: Peter Jaros
   source: 
   subject: 
@@ -46997,8 +46999,8 @@ signatures:
   - tech
   - Twitter
 - !ruby/struct:Signore::Signature
-  text: ‘The Office québécois de la langue française recommends the spelling “tofou”
-    for what is in France “tofu”.’
+  text: "‘The Office québécois de la langue française recommends the spelling “tofou”
+    for what is in France “tofu”.’"
   author: Maciej Cegłowski
   source: 
   subject: 
@@ -47058,8 +47060,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘It would be horrible for me to take comfort in your news, but I’m a horrible
-    person so this is working really well for me.’
+  text: "‘It would be horrible for me to take comfort in your news, but I’m a horrible
+    person so this is working really well for me.’"
   author: David Brady
   source: 
   subject: 
@@ -47136,8 +47138,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘Man United vs Real’ is also the story of human history.
-  author: '@TheTweetOfGod'
+  text: "‘Man United vs Real’ is also the story of human history."
+  author: "@TheTweetOfGod"
   source: 
   subject: 
   tags:
@@ -47155,8 +47157,8 @@ signatures:
   - programming
   - JVM
 - !ruby/struct:Signore::Signature
-  text: ‘I did Java before it was cool’ – every Java developer, ever, still to this
-    day. But desperately hoping…
+  text: "‘I did Java before it was cool’ – every Java developer, ever, still to this
+    day. But desperately hoping…"
   author: David Brady
   source: 
   subject: 
@@ -47168,7 +47170,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: You get to heaven and your phone’s battery is at 3% and there’s no electricity
     up in there.
-  author: ☾lil ☾weedy ☾
+  author: "☾lil ☾weedy ☾"
   source: 
   subject: 
   tags:
@@ -47256,8 +47258,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: …and I said to the old lady waiting for her takeaway ‘you can take away our
-    kebabs, but you’ll never take our spirit!’ She looked startled.
+  text: "…and I said to the old lady waiting for her takeaway ‘you can take away our
+    kebabs, but you’ll never take our spirit!’ She looked startled."
   author: Mangal 2 Restaurant
   source: 
   subject: 
@@ -47275,7 +47277,7 @@ signatures:
   - food
 - !ruby/struct:Signore::Signature
   text: 'OH: That’s UTFist, you ASCIIsts!'
-  author: Łukasz Korecki
+  author: "Łukasz Korecki"
   source: 
   subject: 
   tags:
@@ -47311,7 +47313,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: 'Just found out the Finnish term for grammar Nazi is pilkunnussija. Direct
     translation: comma fucker. You’re welcome.'
-  author: '@Skychasing'
+  author: "@Skychasing"
   source: 
   subject: 
   tags:
@@ -47531,7 +47533,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: „Morgen kommt ein Kunde vorbei, also bitte alle Hosen anziehen.“
+  text: "„Morgen kommt ein Kunde vorbei, also bitte alle Hosen anziehen.“"
   author: Rin
   source: 
   subject: 
@@ -48181,8 +48183,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘I’ before ‘E’ except when there’s a feisty heist on weird beige foreign neighbours
-    reinventing protein at their leisure.
+  text: "‘I’ before ‘E’ except when there’s a feisty heist on weird beige foreign
+    neighbours reinventing protein at their leisure."
   author: Lucy Carter
   source: 
   subject: 
@@ -48211,7 +48213,7 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: '#define ASSERT(msg, cond) // TODO'
+  text: "#define ASSERT(msg, cond) // TODO"
   author: John Van Enk
   source: 
   subject: 
@@ -48230,7 +48232,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: Silly Con Valley
-  author: Łukasz Korecki
+  author: "Łukasz Korecki"
   source: 
   subject: 
   tags:
@@ -48248,7 +48250,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Why does this site default to birthyear 1995? Children shouldn’t – – – oh
     my gods
-  author: '@0xabad1dea'
+  author: "@0xabad1dea"
   source: 
   subject: 
   tags:
@@ -48329,7 +48331,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: delta male
-  author: Łukasz Korecki
+  author: "Łukasz Korecki"
   source: 
   subject: 
   tags:
@@ -48417,8 +48419,8 @@ signatures:
   - programming
   - JavaScript
 - !ruby/struct:Signore::Signature
-  text: ‘We’re sorry, this video is not available in your area. We’re training you
-    to enjoy the convenience of BitTorrenting ad-free content.’
+  text: "‘We’re sorry, this video is not available in your area. We’re training you
+    to enjoy the convenience of BitTorrenting ad-free content.’"
   author: Reg Braithwaite
   source: 
   subject: 
@@ -48454,8 +48456,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ♫ take me down to concurrency city where green pretty is grass the girls the
-    and are ♫
+  text: "♫ take me down to concurrency city where green pretty is grass the girls
+    the and are ♫"
   author: Dana Contreras
   source: 
   subject: 
@@ -48568,8 +48570,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘Would you like to make Internet Explorer your default browser?’ Are you on
-    crack, computer?
+  text: "‘Would you like to make Internet Explorer your default browser?’ Are you
+    on crack, computer?"
   author: Aaron Levie
   source: 
   subject: 
@@ -48655,7 +48657,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘You either die a Jerry or live long enough to see yourself become Tom.’
+  text: "‘You either die a Jerry or live long enough to see yourself become Tom.’"
   author: Aanand Prasad
   source: 
   subject: 
@@ -49013,7 +49015,7 @@ signatures:
   - en
   - typography
 - !ruby/struct:Signore::Signature
-  text: ‘Copying and pasting requires the free Google Drive web app.’ No it doesn’t.
+  text: "‘Copying and pasting requires the free Google Drive web app.’ No it doesn’t."
   author: James Coglan
   source: 
   subject: 
@@ -49088,7 +49090,7 @@ signatures:
   - en
   - math
 - !ruby/struct:Signore::Signature
-  text: (![]+[])[+[]]+(![]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]];
+  text: "(![]+[])[+[]]+(![]+[])[+!+[]]+([![]]+[][[]])[+!+[]+[+[]]]+(![]+[])[!+[]+!+[]];"
   author: Marcus Lagergren
   source: 
   subject: 
@@ -49281,8 +49283,8 @@ signatures:
   - en
   - linguistics
 - !ruby/struct:Signore::Signature
-  text: '*sea captain violently shakes first mate* WAKE UP MATEY THE KRAKEN IS UPON
-    US ‘What’s a kraken sir!?’ NOT MUCH WHATS A-CRACKIN’ WITH U'
+  text: "*sea captain violently shakes first mate* WAKE UP MATEY THE KRAKEN IS UPON
+    US ‘What’s a kraken sir!?’ NOT MUCH WHATS A-CRACKIN’ WITH U"
   author: zachary
   source: 
   subject: 
@@ -49420,8 +49422,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘Tourists Go Home’ graffiti in Barcelona. Choosing to read it as a wistful
-    observation, rather than a redundant instruction.
+  text: "‘Tourists Go Home’ graffiti in Barcelona. Choosing to read it as a wistful
+    observation, rather than a redundant instruction."
   author: Aanand Prasad
   source: 
   subject: 
@@ -49518,8 +49520,8 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: „Nie będę miał wakacji, ale nie żałuję. Dla mnie to coś nowego. Wyzwanie —
-    przyznał Jędrzejczyk, który ma zarabiać około 100 tys. euro miesięcznie.”
+  text: "„Nie będę miał wakacji, ale nie żałuję. Dla mnie to coś nowego. Wyzwanie
+    — przyznał Jędrzejczyk, który ma zarabiać około 100 tys. euro miesięcznie.”"
   author: reuptake
   source: 
   subject: 
@@ -49563,8 +49565,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘Unlike all the other sciences, math…’ STOP RIGHT THERE YOU’RE ARRESTED FOR
-    CRIMES AGAINST THINKING
+  text: "‘Unlike all the other sciences, math…’ STOP RIGHT THERE YOU’RE ARRESTED FOR
+    CRIMES AGAINST THINKING"
   author: Thom Stuart
   source: 
   subject: 
@@ -49736,8 +49738,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘Buy a fog machine and run it in the datacenter so when you open the door
-    fog spills out and you can be like WELCOME TO THE CLOUD.’
+  text: "‘Buy a fog machine and run it in the datacenter so when you open the door
+    fog spills out and you can be like WELCOME TO THE CLOUD.’"
   author: benjamin dilzraeli
   source: 
   subject: 
@@ -49857,7 +49859,7 @@ signatures:
   - Ruby
   - gems
 - !ruby/struct:Signore::Signature
-  text: <"Français"> expected but was <"FranÃ§ais">.
+  text: "<\"Français\"> expected but was <\"FranÃ§ais\">."
   author: Lennart Koopmann
   source: 
   subject: 
@@ -49966,8 +49968,8 @@ signatures:
   - en
   - privacy
 - !ruby/struct:Signore::Signature
-  text: Świat by wiele stracił gdyby nie Internet. Wiesz, ile faili się zmarnowało
-    w średniowieczu? Ile hejtu poleciało w Młodej Polsce?
+  text: "Świat by wiele stracił gdyby nie Internet. Wiesz, ile faili się zmarnowało
+    w średniowieczu? Ile hejtu poleciało w Młodej Polsce?"
   author: zenon246
   source: 
   subject: 
@@ -50003,7 +50005,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: 'OH: Last Friday I shipped some bugs to production.'
-  author: Łukasz Korecki
+  author: "Łukasz Korecki"
   source: 
   subject: 
   tags:
@@ -50394,8 +50396,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘The Shining’ is my favorite documentary about what happens when you don’t
-    have an Internet connection.
+  text: "‘The Shining’ is my favorite documentary about what happens when you don’t
+    have an Internet connection."
   author: braden graeber
   source: 
   subject: 
@@ -50554,7 +50556,8 @@ signatures:
   - en
   - Quora
 - !ruby/struct:Signore::Signature
-  text: (((((((((((((((((((((((((((((((((　͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡  ))))))))))))))))))))))))))))))))))
+  text: "(((((((((((((((((((((((((((((((((　͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡
+    \ ))))))))))))))))))))))))))))))))))"
   author: Glitchr
   source: 
   subject: 
@@ -50709,8 +50712,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: ‘Please choose another password to create your account. The password you attempted
-    is already used by user JENKINS.’
+  text: "‘Please choose another password to create your account. The password you
+    attempted is already used by user JENKINS.’"
   author: Mikko Hypponen
   source: 
   subject: 
@@ -50882,8 +50885,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘[That method] is a figment of my imagination. Which is terrifying because
-    there is production code in the wild running on that figment.’
+  text: "‘[That method] is a figment of my imagination. Which is terrifying because
+    there is production code in the wild running on that figment.’"
   author: David Brady
   source: 
   subject: 
@@ -50960,7 +50963,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘Three meetings a day keep the progress away.’
+  text: "‘Three meetings a day keep the progress away.’"
   author: Vincent Oord
   source: 
   subject: 
@@ -51096,7 +51099,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Netflix have a Chaos Monkey to expose flaws in their systems, but I’ve been
     able to outsource this crucial cloud service to Hetzner. Thanks!
-  author: ಠmgtbh
+  author: "ಠmgtbh"
   source: 
   subject: 
   tags:
@@ -51217,8 +51220,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘You can’t compare apples and oranges’ — people who don’t know how comparisons
-    work.
+  text: "‘You can’t compare apples and oranges’ — people who don’t know how comparisons
+    work."
   author: Teju Cole
   source: 
   subject: 
@@ -51275,8 +51278,8 @@ signatures:
   - en
   - food
 - !ruby/struct:Signore::Signature
-  text: ‘We are not your average colocation provider. We have what others covet… a
-    colo to cloud hybrid solutions.’ = grip wallet with both hands
+  text: "‘We are not your average colocation provider. We have what others covet…
+    a colo to cloud hybrid solutions.’ = grip wallet with both hands"
   author: Pinboard
   source: 
   subject: 
@@ -51315,8 +51318,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: '‘The Schroedinger’s Dave experiment works like this: David Brady is in a
-    box. Hooray! Keep it closed.’'
+  text: "‘The Schroedinger’s Dave experiment works like this: David Brady is in a
+    box. Hooray! Keep it closed.’"
   author: David Brady
   source: 
   subject: 
@@ -51354,8 +51357,8 @@ signatures:
   - en
   - gas
 - !ruby/struct:Signore::Signature
-  text: ‘When silently creating a dot directory in ~, I should add a README so people
-    know what the hell my directory is.’ — No programmer, ever.
+  text: "‘When silently creating a dot directory in ~, I should add a README so people
+    know what the hell my directory is.’ — No programmer, ever."
   author: Gary Bernhardt
   source: 
   subject: 
@@ -51385,8 +51388,8 @@ signatures:
   - tech
   - Yelp
 - !ruby/struct:Signore::Signature
-  text: ‘Okay, just get it working again as soon as you can. I depend on this quite
-    a bit.’ Well, that changes everything! Putting my beer down.
+  text: "‘Okay, just get it working again as soon as you can. I depend on this quite
+    a bit.’ Well, that changes everything! Putting my beer down."
   author: Pinboard
   source: 
   subject: 
@@ -51432,7 +51435,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: I can’t decide if people who wear pajamas in public have given up on life
     or are living it to the fullest.
-  author: '@BillMurray'
+  author: "@BillMurray"
   source: 
   subject: 
   tags:
@@ -51651,8 +51654,8 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: ‘This app loads slow and is sluggish, but I love the abstractions and the
-    beautiful layer code!’ – no user, ever.
+  text: "‘This app loads slow and is sluggish, but I love the abstractions and the
+    beautiful layer code!’ – no user, ever."
   author: Thomas Fuchs
   source: 
   subject: 
@@ -51670,8 +51673,8 @@ signatures:
   - en
   - coffee
 - !ruby/struct:Signore::Signature
-  text: ‘Eternal Sunshine of the Threadless Mind’. A romantic comedy starring Jim
-    Carrey as Yukihiro Matsumoto.
+  text: "‘Eternal Sunshine of the Threadless Mind’. A romantic comedy starring Jim
+    Carrey as Yukihiro Matsumoto."
   author: Vicent Martí
   source: 
   subject: 
@@ -52049,8 +52052,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: ‘We’re only looking to hire the best’ – we have no idea how to help our employees
-    develop and we’re shit at training and mentoring.
+  text: "‘We’re only looking to hire the best’ – we have no idea how to help our employees
+    develop and we’re shit at training and mentoring."
   author: tef
   source: 
   subject: 
