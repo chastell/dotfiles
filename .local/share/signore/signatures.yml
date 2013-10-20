@@ -52315,3 +52315,11 @@ signatures:
   - tech
   - programming
   - Forth
+- !ruby/struct:Signore::Signature
+  text: slept over at a kids house once in third grade. saw him pour milk into bowl
+    first, then cereal. never talked to him again. hes in jail now
+  author: L Ǝ spooky word O И
+  source: 
+  subject: 
+  tags:
+  - en
