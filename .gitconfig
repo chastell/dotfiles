@@ -9,6 +9,9 @@
 [color]
   ui = auto
 
+[core]
+  excludesfile = ~/.gitignore_global
+
 [diff]
   algorithm = patience
 
