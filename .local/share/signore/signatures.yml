@@ -52284,3 +52284,12 @@ signatures:
   - programming
   - Ruby
   - Python
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘The Butterfly that Started the Apple Tsunami’ – it’s a HURRICANE you unbeliveable VC moron, the cliché is butterflies start a hurricane.
+    Butterfly helplessly trapped under thirty miles of tectonic plate in a subduction zone groans, strains, finally flaps its wings.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
