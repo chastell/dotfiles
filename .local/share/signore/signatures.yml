@@ -52293,3 +52293,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'People that publish papers without releasing code: why do you hate progress?'
+  author: Brian McFee
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
