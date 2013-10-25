@@ -15575,16 +15575,6 @@ signatures:
   - Debian
   - Star Trek
 - !ruby/struct:Signore::Signature
-  text: |-
-    — Może mi ktoś doradzić jakąś grę, która może się spodobać drugiej połowie?
-    — Wstępna.
-  author: "Śmigol, XMAX"
-  source: pl.rec.gry.komputerowe
-  subject: 
-  tags:
-  - pl
-  - sex
-- !ruby/struct:Signore::Signature
   text: My wife and I, lying in bed, trying to hold hands and being thwarted by our
     matching carpel tunnel wrist splints.
   author: Greg Knauss
@@ -19967,16 +19957,6 @@ signatures:
   - en
   - religion
   - atheism
-- !ruby/struct:Signore::Signature
-  text: 'Pretend that you''re Hercule Poirot: Examine all clues, and deduce the truth
-    by order and method.'
-  author: 
-  source: TeX
-  subject: 
-  tags:
-  - en
-  - tech
-  - TeX
 - !ruby/struct:Signore::Signature
   text: I'll pretend you didn't say \long or \outer or \global.
   author: 
@@ -30700,7 +30680,7 @@ signatures:
   - GitHub
 - !ruby/struct:Signore::Signature
   text: Whenever I get annoyed by seeing a sponsored tweet, I light up a cool, never-bitter
-    Chesterfield light™ and the anger floats away.
+    Chesterfield Light™ and the anger floats away.
   author: Pinboard
   source: 
   subject: 
@@ -49605,7 +49585,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Less Herman Goering, more German herring.
+  text: Less Herman Göring, more German herring.
   author: Maciej Cegłowski
   source: 
   subject: 
@@ -52301,3 +52281,12 @@ signatures:
   tags:
   - en
   - science
+- !ruby/struct:Signore::Signature
+  text: Object/Relational Mapping is the Vietnam of computer science.
+  author: Ted Newark
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - ORM
