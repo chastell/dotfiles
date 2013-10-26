@@ -141,8 +141,7 @@ autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
 " autoremove Fugitive buffers
 autocmd BufReadPost fugitive://* set bufhidden=delete
 
-" trim trailing whitespace
-" autocmd BufWritePre * :%s/\s\+$//e
+autocmd FileType json setlocal equalprg=python\ -m\ json.tool
 
 " mark 80 and 120+ columns
 highlight ColorColumn ctermbg=235 guibg=#222222
