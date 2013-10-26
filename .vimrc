@@ -41,13 +41,16 @@ set gdefault ignorecase incsearch nohlsearch smartcase
 " rewrapping
 set formatprg=lovely-rufus nojoinspaces
 
+" options
+set backspace=indent,eol,start
+set laststatus=2
+
 " GUI
 colorscheme torte
 let loaded_matchparen = 1
-set guifont=Ubuntu\ Mono\ 15 guioptions-=m guioptions-=T
+set guifont=Ubuntu\ Mono\ 14 guioptions-=m guioptions-=T
 set list listchars=extends:»,nbsp:_,precedes:«,tab:▸\ ,trail:·
 set nowrap
-set scrolloff=7 sidescroll=1 sidescrolloff=10
 set showbreak=↪
 set showcmd
 set t_Co=256
@@ -63,21 +66,18 @@ let NERDTreeHijackNetrw = 1
 let NERDTreeQuitOnOpen = 1
 let g:ctrlp_extensions = ['tag']
 let g:ctrlp_working_path_mode = 0
-let g:rubytest_cmd_example = "ruby %p -n '/%c/'"
-let g:rubytest_cmd_spec = "ruby %p"
 let g:tagbar_autoclose = 1
 set clipboard=unnamedplus
 set directory=/tmp//
-set grepprg=ack-grep
 set hidden
-set history=1000
+set history=10000
 set mouse=
 set nrformats=hex
 set splitbelow splitright
 set ttyfast
 set undodir=/tmp//
 set undofile
-set winwidth=79
+set winwidth=81
 
 " mappings
 let mapleader = ','
