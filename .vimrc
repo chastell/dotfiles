@@ -129,6 +129,7 @@ autocmd BufRead,BufNewFile *.module          set filetype=php
 autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
 autocmd BufRead,BufNewFile *.ru              set filetype=ruby
 autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
+autocmd BufRead,BufNewFile parade            set filetype=ruby
 
 " help in vertical split
 autocmd FileType help wincmd L
