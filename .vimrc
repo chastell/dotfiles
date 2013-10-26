@@ -85,10 +85,9 @@ nnoremap <c-h>      <c-w>h
 nnoremap <c-j>      <c-w>j
 nnoremap <c-k>      <c-w>k
 nnoremap <c-l>      <c-w>l
-nnoremap <c-m>      :cp<enter>
-nnoremap <c-n>      :cn<enter>
 nnoremap <s-down>   O<esc><down>
 nnoremap <leader>b  :CtrlPBuffer<enter>
+nnoremap <c-b>      :CtrlPBuffer<enter>
 nnoremap <leader>f  :CtrlPTag<enter>
 nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
