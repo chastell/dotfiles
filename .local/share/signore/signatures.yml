@@ -17801,16 +17801,6 @@ signatures:
   - en
   - programming
 - !ruby/struct:Signore::Signature
-  text: Scientists are a friendly, atheistic, hard-working, beer-drinking lot whose
-    minds are preoccupied with sex, chess and baseball when they are not preoccupied
-    with science.
-  author: Yann Martel
-  source: Life of Pi
-  subject: 
-  tags:
-  - en
-  - science
-- !ruby/struct:Signore::Signature
   text: "Śmiech jest z samej natury rewolucyjny i dlatego żaden rząd nie lubi, żeby
     obywatele zanadto chichotali."
   author: Zygmunt Kałużyński
@@ -52301,3 +52291,11 @@ signatures:
   - en
   - tech
   - ORM
+- !ruby/struct:Signore::Signature
+  text: Just got a flu shot and I can’t wait for the new glands to start coming in
+    so I can spray mercury venom all over anti-vaccine people.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
