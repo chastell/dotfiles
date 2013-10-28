@@ -176,3 +176,12 @@ function! AlternateForCurrentFile()
 endfunction
 nnoremap <leader>. :call OpenTestAlternate()<cr>
 nnoremap <leader>o <c-w>o <c-w>v <c-w>w :call OpenTestAlternate()<cr>
+
+function! PromoteToLet()
+  :normal! dd
+  :normal! P
+  :.s/\(\w\+\) \+= \(.*\)$/let(:\1) { \2 }/
+  :normal ==
+endfunction
+:command! PromoteToLet :call PromoteToLet()
+noremap <leader>let :PromoteToLet<enter>
