@@ -22706,8 +22706,7 @@ signatures:
     ‘They’ve been experimenting on you I’m afraid.’
     Arthur thought about this for a second, and then his face cleared.
     ‘Ah no’, he said, ‘I see the source of the misunderstanding now. No, look, you see, what happened was that we used to do experiments on *them*. They were often used in behavioural research, Pavlov and all that sort of stuff.
-    So what happened was that the mice would be set all sorts of tests, learning to ring bells, run around mazes and things so that the whole nature of the learning process could be examined. From our observations of their behavi
-    our we were able to learn all sorts of things about our own…’
+    So what happened was that the mice would be set all sorts of tests, learning to ring bells, run around mazes and things so that the whole nature of the learning process could be examined. From our observations of their behaviour we were able to learn all sorts of things about our own…’
     Arthur’s voice tailed off.
     ‘Such subtlety…’ said Slartibartfast, ‘one has to admire it’.
   author: Douglas Adams
@@ -52299,3 +52298,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Wishing Lincoln had had nukes.
+  author: Maciej Cegłowski
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
