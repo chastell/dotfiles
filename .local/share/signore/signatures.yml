@@ -12067,15 +12067,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Real programmers admit that crying is involved.
-  author: James Edward Gray II
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-- !ruby/struct:Signore::Signature
   text: Don’t you know there ain’t no devil, there’s just God when he’s drunk.
   author: Tom Waits
   source: Heartattack and Vine
@@ -52306,3 +52297,11 @@ signatures:
   tags:
   - en
   - politics
+- !ruby/struct:Signore::Signature
+  text: The shock of someone telling you how they are after you ask them how they
+    are.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
