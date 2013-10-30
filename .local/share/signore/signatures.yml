@@ -52305,3 +52305,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: SPIN, LAPTOP FAN, *SPIN*. SPIN, FOR SOME UNKNOWN CHROME TAB COMMANDS IT.
+  author: Ethan Marcotte
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Chrome
