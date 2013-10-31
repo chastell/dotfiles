@@ -1771,16 +1771,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: I wish all software projects progressed at the pace of Mongo; it’s like Christmas,
-    only quarterly.
-  author: Colin Mollenhour
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - MongoDB
-- !ruby/struct:Signore::Signature
   text: While we were all focused on what Apple and Adobe were doing the open source
     community released a massive… Kidding, they didn’t do shit.
   author: Mike Monteiro
@@ -9193,15 +9183,6 @@ signatures:
   subject: 
   tags:
   - pl
-- !ruby/struct:Signore::Signature
-  text: Dzień w pracy rozpocząłem od wyjebania laptopa na podłogę. Potem to już reszta
-    jakoś sama zleci.
-  author: elpanda
-  source: 
-  subject: 
-  tags:
-  - pl
-  - work
 - !ruby/struct:Signore::Signature
   text: |-
     E492: Nie jest komendą edytora: cccccccccccccccccccfvvvv
@@ -17032,7 +17013,7 @@ signatures:
   text: |-
     ‘This being Usenet, other people promptly engaged in Usenet’s favorite pastime of “contradict everything in sight”.’
     ‘That’s not Usenet’s favorite pastime.’
-    ‘Sure it is. It comes in a clear 3.2% ahead of “post a totally bogus statistic”, and 7.9% ahead of “gratuitously insult the previous poster”, as you’d know if you weren’t such a fscking dimwit.
+    ‘Sure it is. It comes in a clear 3.2% ahead of “post a totally bogus statistic”, and 7.9% ahead of “gratuitously insult the previous poster”, as you’d know if you weren’t such a fscking dimwit.’
   author: David Bilek, Mike Schilling, Bill Snyder
   source: rec.arts.sf.written
   subject: 
@@ -52314,3 +52295,12 @@ signatures:
   - en
   - tech
   - Chrome
+- !ruby/struct:Signore::Signature
+  text: As a reminder, hackers are like painters. And kernel hackers are like kernel
+    painters. This stuff is not that difficult, people.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
