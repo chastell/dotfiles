@@ -52304,3 +52304,14 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Commercial for Twitter dot com:
+    *man yells nonsense out his window*
+    Narrator: Don’t you wish there were a better way?
+  author: tony r
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
