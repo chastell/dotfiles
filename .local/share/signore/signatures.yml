@@ -7407,14 +7407,6 @@ signatures:
   - literature
   - Coelho
 - !ruby/struct:Signore::Signature
-  text: 'Z faktury z Auto-Żoliborz: „klientom […] ofertujemy […]: recepcja bezpośrednia,
-    czyli przyjęcie samochodu do naprawy wraz z klientem”.'
-  author: Filip Tepper
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: 'AMAZON DNS: TRUST YOUR NAMESERVERS TO THE PEOPLE WHO DROPPED WIKILEAKS.'
   author: Mark Pilgrim
   source: 
@@ -23077,14 +23069,6 @@ signatures:
   tags:
   - en
   - HHGG
-- !ruby/struct:Signore::Signature
-  text: Przed tym meczem Gaze trafił 32 z 30 rzutów wolnych. To doskonały wynik.
-  author: Piotr Sobczyński
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
 - !ruby/struct:Signore::Signature
   text: Można to wyczytać z wyrazu twarzy konia, gdy jest zbliżenie.
   author: Wojciech Mickunas
@@ -52315,3 +52299,12 @@ signatures:
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Gigantic beasts are attacking Earth’s cities. Gigantic robots are designed to combat them. The design is rejected in favor of air strikes.’
+    ‘I read that as “breasts” which made it 20x awesome IMHO.’
+  author: Hard Sci-Fi Movies, Jay Dearhouse
+  source: 
+  subject: 
+  tags:
+  - en
