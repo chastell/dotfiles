@@ -52308,3 +52308,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Computer hackers manage to shut down a power plant. Output is increased at
+    other plants. HR is annoyed at having to pay overtime.
+  author: Hard Sci-Fi Movies
+  source: 
+  subject: 
+  tags:
+  - en
