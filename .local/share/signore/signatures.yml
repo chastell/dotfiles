@@ -52316,3 +52316,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Obamacare website supposedly consists of ‘500 million lines of software code’.
+    Talk to your government about loops.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Obamacare
