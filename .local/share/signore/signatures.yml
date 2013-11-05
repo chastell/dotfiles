@@ -1124,15 +1124,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Dalej nie mogę pozbyć się wrażenia, że Cugier-Kotka to jakaś postać z jednej
-    ze sztuk Witkacego.
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-  - politics
-- !ruby/struct:Signore::Signature
   text: 'Key to surviving Edmond, OK: Pretend it’s a Museum of Suburbia & everyone
     around you is just as amazed that people actually lived like this.'
   author: Wes Morgan
@@ -52308,3 +52299,13 @@ signatures:
   - en
   - tech
   - backup
+- !ruby/struct:Signore::Signature
+  text: I have carefully trained myself out of the ‘who WROTE this crap?’ reflex.
+    Now I cheer and say ‘Yay! Sometime in the past, YAGNI triumphed!’
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
