@@ -4135,17 +4135,6 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: |2-
-            01234567 <- The amazing* Indent-O-Meter!
-            ^
-    *: Indent-O-Meter may not actually amaze.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-- !ruby/struct:Signore::Signature
   text: Nie mam dziś humoru, więc zmieniam scheme w Vimie na wombat.
   author: plugawy
   source: 
@@ -30926,18 +30915,6 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: When googling for STI problems, remember to make it clear you’re talking about
-    Active Record.
-  author: Tom Stuart
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
-  - Rails
-- !ruby/struct:Signore::Signature
   text: Any sufficiently complicated Sinatra app contains an ad hoc, informally-specified,
     bug-ridden, slow implementation of half of Rails.
   author: Reg Braithwaite
@@ -46156,13 +46133,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Jak uśmiechać się bez złośliwości?
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Software project 1) On time 2) On budget 3) With quality. You can not able
     pick any.
   author: DevOps Borat
@@ -52327,3 +52297,14 @@ signatures:
   - tech
   - programming
   - Obamacare
+- !ruby/struct:Signore::Signature
+  text: |-
+    Billions of piles of meat storing their cumulative knowledge on rust spinning at 120 rotations/s with drive heads floating nanometers above.
+    The meat just needs enough individual pieces of rust to make the probability of total destruction of all knowledge pretty low.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - backup
