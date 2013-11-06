@@ -52309,3 +52309,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: And then there was a problem with Heroku and the asset pipeline. That night
+    your father moved to the desert, and we’ve been here ever since.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
