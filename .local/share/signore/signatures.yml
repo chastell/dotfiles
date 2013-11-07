@@ -42636,7 +42636,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: Someone has changed the indent spacing in this file. RELEASE THE KRAKEN.
-  author: I Am Developer
+  author: I Am Devloper
   source: 
   subject: 
   tags:
@@ -51917,7 +51917,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Next time you feel scared to do something, just think, ‘well, if Internet
     Explorer is brave enough to ask to be my default browser…’
-  author: I Am Developer
+  author: I Am Devloper
   source: 
   subject: 
   tags:
@@ -52320,3 +52320,23 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: Może wreszcie zacznę śnić mój polski sen pędząc pod prąd traktorom polną drogą
+    marzeń na grzbiecie brzemiennej lochy o nabrzmiałych ambrozją sutach. Albo się
+    wpierdolę pod kolejny kombajn, i zacznę szukać wiekszej lochy, która będzie potrafiła
+    iść górą. Pasmatrim.
+  author: spin
+  source: HS WAW
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: 'Fun coder game: anticipate the source files your teammates will be changing,
+    go to IDE and auto-format. Push it to git before they can.'
+  author: David Lenaerts
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
