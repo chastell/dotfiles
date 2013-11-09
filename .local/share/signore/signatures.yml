@@ -52350,3 +52350,11 @@ signatures:
   - en
   - tech
   - Maven
+- !ruby/struct:Signore::Signature
+  text: Hearing a recording of your own voice and deciding it’s perhaps best never
+    to speak again.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
