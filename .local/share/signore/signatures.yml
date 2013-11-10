@@ -4182,15 +4182,6 @@ signatures:
   - tech
   - Postfix
 - !ruby/struct:Signore::Signature
-  text: |-
-    — Jakie atrakcje możecie mi polecić w odległości ok. 100 km od Konina?
-    — Jądro ziemi.
-  author: Ala, sqbaniec
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: My son said ‘I love you, sir’ for the first time. I slapped him and sent him
     away, then stood at my study window, mustache wet with tears.
   author: Joshua Allen
@@ -52358,3 +52349,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: This place is so much better than old South Wales.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Australia
