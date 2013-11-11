@@ -52357,3 +52357,13 @@ signatures:
   tags:
   - en
   - Australia
+- !ruby/struct:Signore::Signature
+  text: I’m going to replace all the parens in my code with little half hearts that
+    say BE FRI and ST ENDS
+  author: Josh French
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
