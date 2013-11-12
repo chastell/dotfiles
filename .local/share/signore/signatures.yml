@@ -13665,15 +13665,6 @@ signatures:
   - pl
   - linguistics
 - !ruby/struct:Signore::Signature
-  text: I’d just like to state publically and for the record that I’m enough of an
-    egotist that anybody may quote me in any way they want. I’d prefer not too out
-    of context or mangled, but I take what I can get.
-  author: Paul Tomblin
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: The power of accurate observation is commonly called cynicism by those who
     have not got it.
   author: George Bernard Shaw
@@ -52367,3 +52358,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: If IT is occasionally guilty of yak shaving, DevOps puts the yak on rollerskates
+    and nudges him down a hill.
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
