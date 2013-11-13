@@ -29747,18 +29747,6 @@ signatures:
   - Staszic
 - !ruby/struct:Signore::Signature
   text: |-
-    I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS
-    I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS
-    I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS
-    I DO NOT HAVE POWER OF ATTORNEY OVER FIRST GRADERS
-  author: Bart Simpson
-  source: Simpsons 2F19
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
-- !ruby/struct:Signore::Signature
-  text: |-
     NERVE GAS IS NOT A TOY
     NERVE GAS IS NOT A TOY
     NERVE GAS IS NOT A TOY
@@ -39218,14 +39206,6 @@ signatures:
   text: Due to using the wrong setting (by an order of magnitude) on my beard trimmer,
     I now look about 12 years old.
   author: mudge
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
-  text: 'My wife gave the peas she couldn’t finish to my daughter saying: ‘Mummy’s
-    overwhelmed by the pea-ness.’ I’ll take it as a compliment.'
-  author: Peter Cooper
   source: 
   subject: 
   tags:
@@ -52368,3 +52348,11 @@ signatures:
   - en
   - tech
   - devops
+- !ruby/struct:Signore::Signature
+  text: After robots kill most of Earth’s population, the Resistance sends a lone
+    soldier back in time to prevent war. No-one knows if he succeeded.
+  author: Hard Sci-Fi Movies
+  source: 
+  subject: 
+  tags:
+  - en
