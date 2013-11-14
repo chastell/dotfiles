@@ -24,6 +24,7 @@ Bundle 'tComment'
 Bundle 'textobj-rubyblock'
 Bundle 'textobj-user'
 Bundle 'unimpaired.vim'
+Bundle 'vim-orgmode'
 Bundle 'visSum.vim'
 
 " end Vundle setup
