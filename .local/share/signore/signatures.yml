@@ -5774,14 +5774,6 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: 'Najbardziej niedoceniona osoba roku: drugi pilot tego Airbusa, który lądował
-    na rzece Hudson.'
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: |-
     — Pan taki chory, w domu powinien siedzieć.
     — W domu nie mogę, żona w ciąży, zaraz rodzi.
@@ -9953,14 +9945,6 @@ signatures:
   tags:
   - pl
   - advertising
-- !ruby/struct:Signore::Signature
-  text: Student napisał mi na projekt arkanoida. Wciąga cholera.
-  author: DrYoung
-  source: 
-  subject: 
-  tags:
-  - pl
-  - work
 - !ruby/struct:Signore::Signature
   text: 'Mina żelazowa: Ten solidny kawałek dowozu wydobycia jest mina żelazowa. Wydobywa
     żelazo z podziemnych min i czyści je.'
@@ -21711,16 +21695,6 @@ signatures:
   - en
   - Europe
   - Discworld
-- !ruby/struct:Signore::Signature
-  text: It is no coincidence that in no known language does the phrase ‘as pretty
-    as an airport’ appear.
-  author: Douglas Adams
-  source: 
-  subject: 
-  tags:
-  - en
-  - linguistics
-  - airports
 - !ruby/struct:Signore::Signature
   text: You’re basically killing each other to see who’s got the better imaginary
     friend.
@@ -52356,3 +52330,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'Engineering has been emailing passwords around so I change them & reminded
+    them of policy. $Mgmt demanded they be reverted: ‘We need those!’'
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
