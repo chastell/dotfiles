@@ -52339,3 +52339,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: 'Man, I love old Arnold. He’d be a perfect Hamlet: To be, or not to be? *crushes
+    skull*'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - cinematography
