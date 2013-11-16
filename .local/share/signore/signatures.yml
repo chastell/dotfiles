@@ -13148,15 +13148,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Chciałem napisać, że strasznie za mną chodzą małże, ale zorientowałem się,
-    że to głupio brzmi.
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-  - food
-- !ruby/struct:Signore::Signature
   text: 'The #1 lesson I learned on my one and only trip to the Caribbean is that
     society will not actually collapse if you walk down a public street with a beer
     in your hand. Who woulda thunk?'
@@ -23166,14 +23157,6 @@ signatures:
   tags:
   - en
   - religion
-- !ruby/struct:Signore::Signature
-  text: Ten rok był pełen wyrzeczeń dla Renaty Mauer… W kwietniu wyszła za mąż.
-  author: Janusz Uznański
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
 - !ruby/struct:Signore::Signature
   text: Cudowne dziecko dwóch pedałów.
   author: Bohdan Tomaszewski
@@ -52348,3 +52331,12 @@ signatures:
   tags:
   - en
   - cinematography
+- !ruby/struct:Signore::Signature
+  text: If I had a dollar for every time my dad questioned my sexuality I could afford
+    a bad ass Harley and probably some super cute riding boots.
+  author: Jeffrey Hadz
+  source: 
+  subject: 
+  tags:
+  - en
+  - gender
