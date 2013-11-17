@@ -52340,3 +52340,13 @@ signatures:
   tags:
   - en
   - gender
+- !ruby/struct:Signore::Signature
+  text: It’s sexist that men die earlier than women. Also I haven’t been to the doctor
+    in 9 years because I’m insanely, wickedly tough.
+  author: Shed Shitley
+  source: 
+  subject: 
+  tags:
+  - en
+  - health
+  - sexism
