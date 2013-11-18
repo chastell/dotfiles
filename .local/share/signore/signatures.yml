@@ -17967,15 +17967,6 @@ signatures:
   - politics
   - cinematography
 - !ruby/struct:Signore::Signature
-  text: Something I’ve learned on Twitter is that apparently every airline ever is
-    the worst airline of all time, always.
-  author: Marcel Molina
-  source: 
-  subject: 
-  tags:
-  - en
-  - airlines
-- !ruby/struct:Signore::Signature
   text: Why isn’t the media calling the mass murderer in Norway a Christian extremist?
   author: Raybon Kan
   source: 
@@ -28841,18 +28832,6 @@ signatures:
   - en
   - Simpsons
 - !ruby/struct:Signore::Signature
-  text: |-
-    I WILL NOT ENCOURAGE OTHERS TO FLY
-    I WILL NOT ENCOURAGE OTHERS TO FLY
-    I WILL NOT ENCOURAGE OTHERS TO FLY
-    I WILL NOT ENCOURAGE OTHERS TO FLY
-  author: Bart Simpson
-  source: Simpsons 7F03
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
-- !ruby/struct:Signore::Signature
   text: Jak kto woli ekologicznych.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -28900,18 +28879,6 @@ signatures:
   - pl
   - education
   - Staszic
-- !ruby/struct:Signore::Signature
-  text: |-
-    I WILL NOT GET VERY FAR WITH THIS ATTITUDE
-    I WILL NOT GET VERY FAR WITH THIS ATTITUDE
-    I WILL NOT GET VERY FAR WITH THIS ATTITUDE
-    I WILL NOT GET VERY FAR WITH THIS ATTITUDE
-  author: Bart Simpson
-  source: Simpsons 7F12
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
 - !ruby/struct:Signore::Signature
   text: |-
     I WILL NOT BELCH THE NATIONAL ANTHEM
@@ -29074,18 +29041,6 @@ signatures:
   tags:
   - en
   - work
-- !ruby/struct:Signore::Signature
-  text: |-
-    I WILL NOT CARVE GODS
-    I WILL NOT CARVE GODS
-    I WILL NOT CARVE GODS
-    I WILL NOT CARVE GODS
-  author: Bart Simpson
-  source: Simpsons 8F11
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
 - !ruby/struct:Signore::Signature
   text: |-
     I WILL NOT EXPOSE THE IGNORANCE OF THE FACULTY
@@ -52350,3 +52305,14 @@ signatures:
   - en
   - health
   - sexism
+- !ruby/struct:Signore::Signature
+  text: |-
+    Hey, hyphen-less ‘email’ people: You know where this ends, right? With the acceptance of ‘I have a Twitter’, that’s where. That’s on you.
+    ‘We took the hyphen out of “e-mail”. Now let’s make “blog” mean the same thing as “post”! Mwahahaha!’
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - linguistics
