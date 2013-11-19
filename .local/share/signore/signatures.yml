@@ -13331,13 +13331,6 @@ signatures:
   - pl
   - Amway
 - !ruby/struct:Signore::Signature
-  text: Change is good. You go first.
-  author: Scott Adams
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Only in the last resort should you inflict bodily harm on the project manager.
     Like cats, they cannot be trained by negative reinforcement.
   author: 
@@ -22778,20 +22771,6 @@ signatures:
   - HHGG
   - politics
 - !ruby/struct:Signore::Signature
-  text: In the end, it was the Sunday afternoons he couldn’t cope with, and that terrible
-    listlessness which starts to set in at about 2.55, when you know that you’ve had
-    all the baths you can usefully have that day, that however hard you stare at any
-    given paragraph in the papers you will never actually read it, or use the revolutionary
-    new pruning technique it describes, and that as you stare at the clock the hands
-    will move relentlessly on to four o’clock, and you will enter the long dark teatime
-    of the soul.
-  author: Douglas Adams
-  source: Life, the Universe and Everything
-  subject: 
-  tags:
-  - en
-  - HHGG
-- !ruby/struct:Signore::Signature
   text: He hoped and prayed that there wasn’t an afterlife. Then he realized there
     was a contradiction involved here and merely hoped that there wasn’t an afterlife.
   author: Douglas Adams
@@ -23139,15 +23118,6 @@ signatures:
   - en
   - religion
   - atheism
-- !ruby/struct:Signore::Signature
-  text: I’m very old-fashioned. I believe that people should marry for life, like
-    pigeons and Catholics.
-  author: Woody Allen
-  source: 
-  subject: 
-  tags:
-  - en
-  - religion
 - !ruby/struct:Signore::Signature
   text: Cudowne dziecko dwóch pedałów.
   author: Bohdan Tomaszewski
@@ -24392,17 +24362,6 @@ signatures:
   - pl
   - tech
   - Linux
-- !ruby/struct:Signore::Signature
-  text: |-
-    — Zobaczyłem dzisiaj zajebisty teledysk, rzecz jasna zapomniałem tytułu.
-    — Nienopewnie, rzecz jasna, na ten przykład ja mam tak ciągle z Beethovenem.
-  author: Bucz, monkbert
-  source: pl.hum.x-muza
-  subject: 
-  tags:
-  - pl
-  - music
-  - Usenet
 - !ruby/struct:Signore::Signature
   text: |-
     — Jakie rzeczy według Was są najważniejsze w czytniku grup dyskusyjnych?
@@ -52316,3 +52275,12 @@ signatures:
   - en
   - tech
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: echo 'echo "sleep 1" >> ~/.bashrc' >> ~/.bashrc
+  author: Command Line Magic
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - shell
