@@ -52284,3 +52284,15 @@ signatures:
   - en
   - tech
   - shell
+- !ruby/struct:Signore::Signature
+  text: |-
+    Sysadmin at university did this system-wide:
+    alias gcc='echo "Segmentation fault"'
+  author: Keven Stevens
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C
