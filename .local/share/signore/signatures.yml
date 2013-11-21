@@ -45586,15 +45586,6 @@ signatures:
   - tech
   - Rails
 - !ruby/struct:Signore::Signature
-  text: Six inches into the eight-inch submarine I hit a pocket of mayo. This (and
-    every winter) is how Canadian children learn perserverance.
-  author: Maciej Cegłowski
-  source: 
-  subject: 
-  tags:
-  - en
-  - food
-- !ruby/struct:Signore::Signature
   text: If I had a dollar for everytime I got distracted, I wish I had some ice cream.
   author: Mike Połtyn
   source: 
@@ -50571,7 +50562,7 @@ signatures:
   - food
 - !ruby/struct:Signore::Signature
   text: 'OH: If I could go back in time, punch myself in the face, and say ‘don’t
-    lean JavaScript, learn C’, my life would be so much better.'
+    learn JavaScript, learn C’, my life would be so much better.'
   author: Steve Klabnik
   source: 
   subject: 
@@ -52296,3 +52287,13 @@ signatures:
   - tech
   - programming
   - C
+- !ruby/struct:Signore::Signature
+  text: Windows claims it cannot use the DVD drive from which it is currently booted.
+    Nobody here seems disturbed by this.
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Windows
