@@ -52297,3 +52297,12 @@ signatures:
   - en
   - tech
   - Windows
+- !ruby/struct:Signore::Signature
+  text: I was just directed to a share containing several binaries, each one in its
+    own .tar file. I will not ask why; I could not stand to know.
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
