@@ -52306,3 +52306,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: I start every day by composing a post-mortem of the previous day. The first
+    item is always ‘yesterday’s post-mortem was conservative’.
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
