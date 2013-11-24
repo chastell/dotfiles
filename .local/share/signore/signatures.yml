@@ -52315,3 +52315,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: It’s so early the heaps in MRI have yet to be allocated.
+  author: Josep M. Bach
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
