@@ -14445,15 +14445,6 @@ signatures:
   - programming
   - JavaScript
 - !ruby/struct:Signore::Signature
-  text: Polska jest jak dziecko z zespołem Downa – trzeba ją kochać, ale cudów się
-    spodziewać nie należy.
-  author: opi
-  source: 
-  subject: 
-  tags:
-  - pl
-  - Poland
-- !ruby/struct:Signore::Signature
   text: W rezultacie wytężonych wysiłków mogę ze spokojem patrzeć w przyszłość.
   author: Kazimierz Marcinkiewicz
   source: 
@@ -31157,14 +31148,6 @@ signatures:
   tags:
   - en
   - work
-- !ruby/struct:Signore::Signature
-  text: Naładowałem sobie rękę elektrycznością statyczną od kota i odpaliłem palnik
-    gazowy iskrą z ręki.
-  author: Porost
-  source: 
-  subject: 
-  tags:
-  - pl
 - !ruby/struct:Signore::Signature
   text: Urodziłem się między innymi w Warszawie.
   author: płk Tadeusz Sieńko
@@ -52325,3 +52308,11 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: Feeling you must press the train door button within a millisecond of illumination
+    or be judged an amateur.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
