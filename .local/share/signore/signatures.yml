@@ -52316,3 +52316,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: This brown bag presenter has been discussing ‘jit’ on ‘oh es ecks’ for 40
+    minutes, but despite this he is being well-received.
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Git
+  - OS X
