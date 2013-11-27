@@ -3359,14 +3359,6 @@ signatures:
   - en
   - cinematography
 - !ruby/struct:Signore::Signature
-  text: Well, the old ones go mmmmmbbbbzzzzttteeeeeep as they start up and the new
-    ones go whupwhupwhupwhooopwhooooopwhooooooommmmmmmmmm.
-  author: Graham Reed
-  source: asr
-  subject: on subway engines
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: When the coughing increases, I leave out the next variation. If there is no
     coughing, I play them in order. The record so far is 18 variations, in New York.
   author: Sergei Rachmaninoff
@@ -4303,16 +4295,6 @@ signatures:
   tags:
   - pl
   - Terry Pratchett
-- !ruby/struct:Signore::Signature
-  text: In 4-Hour Argument Spanning 127 Tweets, an Atheist and a Devout Man Successfully
-    Convince Each Other to Switch Beliefs
-  author: Patently False
-  source: 
-  subject: 
-  tags:
-  - en
-  - Twitter
-  - religion
 - !ruby/struct:Signore::Signature
   text: 'póki co piątek idzie w trzy tagi: automat do kawy, krawaciarz bajerujący
     dziewczynę przebraną za anioła oraz, uwaga, węzeł gordyjski – i nawet wzniósłbym
@@ -17621,15 +17603,6 @@ signatures:
   tags:
   - en
   - GTD
-- !ruby/struct:Signore::Signature
-  text: For a good time, go through US Passport Control with someone that isn’t a
-    US Citizen.
-  author: Aaron Patterson
-  source: 
-  subject: 
-  tags:
-  - en
-  - politics
 - !ruby/struct:Signore::Signature
   text: Bitcoin casino is pretty fucking meta.
   author: Giles Bowkett
@@ -44005,15 +43978,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: If your conscience tells you that women shouldn’t be bishops, what you have
-    isn’t actually a conscience. It may be a scorpion or some twigs.
-  author: Nathaniel Tapley
-  source: 
-  subject: 
-  tags:
-  - en
-  - religion
-- !ruby/struct:Signore::Signature
   text: |-
     (* MAIN PROGRAM *)
     [code]
@@ -52327,3 +52291,15 @@ signatures:
   - tech
   - Git
   - OS X
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Hey, DateTime, what’s the difference between 2013-09-03T00:00:00 and 2013-09-03T00:00:00?’
+    ‘Twenty-five seconds!’
+    ‘Thanks, DateTime!’ #Perl
+  author: Ricardo Signes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Perl
