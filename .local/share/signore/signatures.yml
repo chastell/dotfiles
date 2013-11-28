@@ -21261,16 +21261,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: I don’t mean to irritate the die hard Opera fans, but in my eyes the fat lady
-    has sung.
-  author: Alan Home
-  source: css-discuss
-  subject: 
-  tags:
-  - en
-  - tech
-  - Opera
-- !ruby/struct:Signore::Signature
   text: Unix is not an ‘a-ha’ experience, it is more of a ‘holy-shit’ experience.
   author: Colin McFadyen
   source: alt.folklore.computers
@@ -52304,3 +52294,11 @@ signatures:
   tags:
   - en
   - USB
+- !ruby/struct:Signore::Signature
+  text: Being sure to start touching your bag 15 minutes before your station, so the
+    person in the aisle seat is fully prepared for your exit.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
