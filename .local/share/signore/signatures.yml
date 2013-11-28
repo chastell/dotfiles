@@ -9717,13 +9717,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Start every day off with a smile and get it over with.
-  author: W. C. Fields
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: "…the slave cannot out-live its parent and become a zombie, even if the parent
     dies an early death."
   author: 
@@ -52303,3 +52296,11 @@ signatures:
   - en
   - tech
   - Perl
+- !ruby/struct:Signore::Signature
+  text: I was so mad I connected USB device in just two tries.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - USB
