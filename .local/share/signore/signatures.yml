@@ -52302,3 +52302,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: "‘A good craftsman doesn’t blame his tools’, he muttered to himself while using
+    Word to edit live source code on the production box via NFS."
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
