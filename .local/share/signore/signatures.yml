@@ -52311,3 +52311,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: 'BREAKING: Rails 5 will run each HTTP request in it’s own Docker container.'
+  author: Hacker News Onion
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
+  - Docker
