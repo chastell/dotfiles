@@ -7052,16 +7052,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Can’t wait until Facebook decides to clone Gmail, but with the default setting
-    being that everyone can read your inbox.
-  author: Anil Dash
-  source: 
-  subject: 
-  tags:
-  - en
-  - Facebook
-  - Gmail
-- !ruby/struct:Signore::Signature
   text: Victory-challenged, virtue intolerant, nutritional over-achiever.
   author: 
   source: Sinfest
@@ -52303,8 +52293,18 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: "‘A good craftsman doesn’t blame his tools’, he muttered to himself while using
-    Word to edit live source code on the production box via NFS."
+  text: If I ever tire of programming I’ll move to Mongolia and become a yak shaver.
+    Show these kids what you can do with some shears and experience.
+  author: Arne Brasseur
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: "‘A good craftsman doesn’t blame his tools’, he muttered to himself while
+    using Word to edit live source code on the production box via NFS."
   author: Gary Bernhardt
   source: 
   subject: 
