@@ -52303,6 +52303,14 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
+  text: 'OK kids: don’t ever talk to strangers or take candy from strangers or go
+    to strangers’ houses except on the day we worship the devil.'
+  author: JohnnyT
+  source: 
+  subject: on Halloween
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
   text: "‘A good craftsman doesn’t blame his tools’, he muttered to himself while
     using Word to edit live source code on the production box via NFS."
   author: Gary Bernhardt
