@@ -52329,3 +52329,15 @@ signatures:
   - tech
   - Rails
   - Docker
+- !ruby/struct:Signore::Signature
+  text: |-
+    Need to print UPS label to return Amazon item…
+    No printer…
+    1. Buy printer on Amazon.
+    2. Print return labels for item & printer.
+    3. Return both.
+  author: Ryan Williams
+  source: 
+  subject: 
+  tags:
+  - en
