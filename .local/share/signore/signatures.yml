@@ -1539,14 +1539,6 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: 'Snakes and ladders: the game of organized religions.'
-  author: Yahia Lababidi
-  source: 
-  subject: 
-  tags:
-  - en
-  - religion
-- !ruby/struct:Signore::Signature
   text: Taki stereotyp jest, że banki to dobre sąsiedztwo. Drący pod naszym oknem
     mordę do megafonu w sprawie wakacyjnego kredytu pan z Lukasa właśnie go obala.
   author: Lilarouge
@@ -35120,18 +35112,6 @@ signatures:
   - pl
   - parenting
 - !ruby/struct:Signore::Signature
-  text: My cat and I have a pretty boring conversational relationship. ‘Meow.’ ‘Dude,
-    you just ate.’ ‘Meow.’ ‘Again, shut it furball.’ ‘Meow.’ ‘Hey, quit biting me!’
-    – don’t get the parts mixed up, he’s the one meowing. It is cool that he sings
-    the meow mix song for his dinner but he is kind of a one-hit wonder that way.
-    Sure, for a brain the size of a walnut it’s pretty good. Alright. Enough said.
-  author: Chris Worman
-  source: 
-  subject: 
-  tags:
-  - en
-  - cats
-- !ruby/struct:Signore::Signature
   text: Wiele piosenek, które lubiłem przestałem jak już nauczyłem się na tyle angielskiego,
     żeby zrozumieć o czym są.
   author: DrYoung
@@ -52341,3 +52321,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Rails mailers: where you define instance methods and then call them on the class. MAGIC.
+    It’s like whoever wrote it said ‘fuck OOP’ and high-fived themselves.
+  author: Jamie Gaskins
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
