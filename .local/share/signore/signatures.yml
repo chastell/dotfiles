@@ -52333,3 +52333,12 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: 'OH: Let’s replace Alice & Bob with Angela & Barack for our security examples.'
+  author: Benjamin Erb
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
