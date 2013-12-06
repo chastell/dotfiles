@@ -52342,3 +52342,13 @@ signatures:
   - en
   - tech
   - security
+- !ruby/struct:Signore::Signature
+  text: The real meaning of Halloween gets lost in all the costumes and marketing.
+    Most people don’t even know Jesus fought a dragon, let alone why.
+  author: Keri
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - Halloween
