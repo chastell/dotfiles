@@ -52352,3 +52352,13 @@ signatures:
   - en
   - religion
   - Halloween
+- !ruby/struct:Signore::Signature
+  text: You know how toddlers gain the concept of object permanence? Somewhere along
+    the way I lost it where my software is concerned.
+  author: Noel Rappin
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
