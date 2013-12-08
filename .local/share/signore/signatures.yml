@@ -52362,3 +52362,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Deploying new web infra using vendor’s CLOUD 2.0 IaaS offering. Firewall rules
+    fail to apply because the MAC addresses are case-sensitive.
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
