@@ -14183,14 +14183,6 @@ signatures:
   - tech
   - versioning
 - !ruby/struct:Signore::Signature
-  text: Tylko befsztyk może mnie wydobyć z melancholii, w którą popadłam.
-  author: Ania
-  source: 
-  subject: 
-  tags:
-  - pl
-  - food
-- !ruby/struct:Signore::Signature
   text: |-
     — Jednostka centralna połączona jest z pamięcią masową za pośrednictwem sprzęgu szeregowego o przepustowości 1200 bodów. Ktoś pamięta, co to są body?
     — Takie majty obcisłe.
@@ -52366,6 +52358,14 @@ signatures:
   text: Deploying new web infra using vendor’s CLOUD 2.0 IaaS offering. Firewall rules
     fail to apply because the MAC addresses are case-sensitive.
   author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: So many zombie processes you thought it was a young adult romance novel.
+  author: Gary Bernhardt
   source: 
   subject: 
   tags:
