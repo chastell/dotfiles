@@ -52371,3 +52371,21 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Miałem krewnego, który studiował trygonometrię, aż mu wąsy odpadły, a kiedy
+    już się wszystkiego nauczył, przyszła jakaś Buka i zjadła go. No i leżał potem
+    w brzuchu Buki z całą tą mądrością.
+  author: Tove Jansson
+  source: Pamiętniki tatusia Muminka
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: 'Here’s the world’s best ever palindrome, you’re welcome: Are we not drawn
+    onward, we few, drawn onward to new era?'
+  author: moby
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
