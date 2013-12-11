@@ -52389,3 +52389,14 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: |-
+    But there’s one sound
+    That no one knows…
+    What the docs say?
+  author: Wynn Netherland
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
