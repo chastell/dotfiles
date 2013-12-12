@@ -52400,3 +52400,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: 'OH: Live slow, die old, leave a good looking code base.'
+  author: dann
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
