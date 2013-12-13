@@ -52409,3 +52409,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'OH: It’s not that I’m afraid of balloons, it’s just that they remind me clowns
+    exist.'
+  author: Jonan Scheffler
+  source: 
+  subject: 
+  tags:
+  - en
