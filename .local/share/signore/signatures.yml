@@ -52417,3 +52417,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: "#define if while"
+  author: Chris Lutz
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C
