@@ -52427,3 +52427,14 @@ signatures:
   - tech
   - programming
   - C
+- !ruby/struct:Signore::Signature
+  text: The first code that your computer runs, before the operating system starts,
+    contains the words ‘do I care about this ???’ commenting a nop.
+  author: Gary Bernhardt
+  source: 
+  subject: on GRUB
+  tags:
+  - en
+  - tech
+  - programming
+  - GRUB
