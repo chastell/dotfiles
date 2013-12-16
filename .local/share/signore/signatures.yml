@@ -52438,3 +52438,14 @@ signatures:
   - tech
   - programming
   - GRUB
+- !ruby/struct:Signore::Signature
+  text: |-
+    <input type="hidden" name="__VIEWSTATE" value="{600k of junk}" />…
+    Don’t worry, your users hate you back just as much as you hate them.
+  author: Solomon White
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
