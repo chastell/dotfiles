@@ -52449,3 +52449,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Damn, girl, if I could rearrange the alphabet, I’d put م next to ت. I bet
+    you thought I meant the English alphabet. Damn, girl, you colonialist.
+  author: A$AP Andy
+  source: 
+  subject: 
+  tags:
+  - en
