@@ -51838,7 +51838,7 @@ signatures:
   source: 
   subject: 
   tags:
-  - en
+  - pl
 - !ruby/struct:Signore::Signature
   text: ahahahaa i just saw someone on a citybike run into someone wearing google
     glass what a great time to be alive
@@ -52457,3 +52457,19 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Want to mail-merge ZIP codes from Excel to Word so leading zeros are preserved? It’s easy!
+    {QUOTE
+    {SET Zip {MERGEFIELD ZipCode}}
+    {IF{Zip}> 99999 {SET Zip {Zip \# "00000'-'0000"}}}
+    "{=-{=-{Zip}-Zip}/2 \# 00000;;}{=-({Zip}*(-1)-Zip)/2 \# ;-0000;}"}
+    I wish to God I were kidding.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Excel
+  - Word
