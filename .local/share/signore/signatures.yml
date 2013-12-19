@@ -35322,16 +35322,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: GitHub is my diploma.
-  author: Maciej Małecki
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - GitHub
-- !ruby/struct:Signore::Signature
   text: 'My mail’s bouncing, and my key no longer opens the building’s side door.
     Feeling like Roy Batty at the end of Blade Runner. #timetograduate'
   author: Brian McFee
@@ -52473,3 +52463,14 @@ signatures:
   - tech
   - Excel
   - Word
+- !ruby/struct:Signore::Signature
+  text: |-
+    Me using Google Voice: ‘OK GOOGLE, where are my knickers?’
+    Phone googles ‘where are my niggers’.
+    #verybritishproblems
+  author: Alice Bartlett
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google
