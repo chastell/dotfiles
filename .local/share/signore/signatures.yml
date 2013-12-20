@@ -52474,3 +52474,11 @@ signatures:
   tags:
   - en
   - Google
+- !ruby/struct:Signore::Signature
+  text: A man invents an amazing machine that can calculate almost anything, and saves
+    the world from a brutal dictator. He is chemically castrated.
+  author: Hard Sci-Fi Movies
+  source: 
+  subject: 
+  tags:
+  - en
