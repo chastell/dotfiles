@@ -52479,3 +52479,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    „Doppelten Scotch mit Eis.“
+    „Sie sind hier bei Starbucks.“
+    „Okay: Einen Iced Highland Single Malt grande to drink here. Und ich heiße Udo.“
+  author: Ray Moulade
+  source: 
+  subject: 
+  tags:
+  - de
+  - Starbucks
