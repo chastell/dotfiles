@@ -52490,3 +52490,14 @@ signatures:
   tags:
   - de
   - Starbucks
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘We don’t need a state in our glorious new cyberlibertarian world.’
+    *Bitcoins stolen*
+    ‘Who do I call at the FBI?’
+  author: Daniel Morsing
+  source: 
+  subject: 
+  tags:
+  - en
+  - Bitcoin
