@@ -52508,3 +52508,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Debugging is like being the detective in a crime movie where you are also
+    the murderer.
+  author: Filipe Fortes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
