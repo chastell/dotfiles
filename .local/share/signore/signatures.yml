@@ -52518,3 +52518,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: lightly tip a table over with one finger, looking in the other direction,
+    don’t even care whether it flips, you flip tables for you not them
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
