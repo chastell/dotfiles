@@ -52526,3 +52526,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: what if u came to work and your ceo was just rolling around on the floor eating
+    granola bars and listening to drake? let me run your company
+  author: jacob
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
