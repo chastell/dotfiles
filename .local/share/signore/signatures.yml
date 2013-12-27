@@ -6856,14 +6856,6 @@ signatures:
   - politics
   - PiS
 - !ruby/struct:Signore::Signature
-  text: Today is 10/10/10 NOT 10/10/10 you stupid Americans.
-  author: Brent Spillly
-  source: 
-  subject: 
-  tags:
-  - en
-  - interenationalisation
-- !ruby/struct:Signore::Signature
   text: 11 out of 10 programmers get threading wrong.
   author: 
   source: 
@@ -52535,3 +52527,10 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: OH MY GOD HOODIE STRINGS ARE JUST SHOE LACES
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
