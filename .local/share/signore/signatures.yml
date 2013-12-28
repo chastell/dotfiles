@@ -52534,3 +52534,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'OH: To me, PHP is like Facebook. It’s not the code that makes it bad, it’s
+    the people.'
+  author: Anthony Ferrara
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
