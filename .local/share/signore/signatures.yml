@@ -52545,3 +52545,18 @@ signatures:
   - tech
   - programming
   - PHP
+- !ruby/struct:Signore::Signature
+  text: |-
+    Programming IRL:
+    ‘ETA for an apple pie?’
+    ‘2h.’
+    8h later:
+    ‘Where is it?’
+    ‘You didn’t tell me the dishes were dirty and you lacked an oven.’
+  author: Rick Fillion
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
