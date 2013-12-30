@@ -52560,3 +52560,11 @@ signatures:
   - en
   - tech
   - work
+- !ruby/struct:Signore::Signature
+  text: Don’t eat that fruit yet, it’s covered in germs & pesticides! Pour cold water
+    over it for 3 seconds. Ok it’s safe now.
+  author: lawblob
+  source: 
+  subject: 
+  tags:
+  - en
