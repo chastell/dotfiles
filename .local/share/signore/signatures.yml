@@ -52577,3 +52577,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: This office has a MongoDB mug, which I’m using for the same reason people
+    hang model crucifixes from their necks.
+  author: Aanand Prasad
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MongoDB
