@@ -52587,3 +52587,15 @@ signatures:
   - en
   - tech
   - MongoDB
+- !ruby/struct:Signore::Signature
+  text: |-
+    Can’t seem to remember:
+    var_dump(in_array('abc', [0])); // (bool)true
+  author: Nicolas Dermine
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
