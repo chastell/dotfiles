@@ -52599,3 +52599,11 @@ signatures:
   - tech
   - programming
   - PHP
+- !ruby/struct:Signore::Signature
+  text: 'This new CAPTCHA is hardcore: ‘Verify You Are a Human: Harm a fellow human
+    or, through inaction, allow a fellow human to come to harm.’'
+  author: The Angry DM
+  source: 
+  subject: 
+  tags:
+  - en
