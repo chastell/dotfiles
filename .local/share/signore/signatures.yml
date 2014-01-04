@@ -52607,3 +52607,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Quiz: Which Character from Game of Thrones are YOU?
+    A: None of them, for which you should be absurdly grateful.
+  author: Nathan Edwards
+  source: 
+  subject: 
+  tags:
+  - en
+  - Game of Thrones
