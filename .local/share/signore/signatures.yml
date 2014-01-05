@@ -52617,3 +52617,26 @@ signatures:
   tags:
   - en
   - Game of Thrones
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘USE GOOGLE+’
+    ‘No, Google, I will not-’
+    *BLAM* GReader dead
+    ‘What the fuck, Google!’
+    ‘USE GOOGLE+’
+    ‘We can talk about thi-’
+    *BLAM* iGoogle dead
+    *holds gun to Gmails head*
+    ‘Whoa, calm down there Google!’
+    ‘USE GOOGLE+’
+    ‘You’re not going to get rid of Gmai-’
+    *BLAM*
+    ‘Jesus…’
+    ‘USE GOOGLE+’
+  author: Scamp
+  source: 
+  subject: 
+  tags:
+  - en
+  - Google
+  - Google+
