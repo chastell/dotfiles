@@ -52640,3 +52640,12 @@ signatures:
   - en
   - Google
   - Google+
+- !ruby/struct:Signore::Signature
+  text: |-
+    I am SICK of people who don’t know that “--b” means thumbs up. Educate yourselves in the basics of online discourse, ignorami.’
+    ‘--p’
+  author: Aanand Prasad, E Crosby-McCullough
+  source: 
+  subject: 
+  tags:
+  - en
