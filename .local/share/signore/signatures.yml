@@ -52549,6 +52549,13 @@ signatures:
   - programming
   - PHP
 - !ruby/struct:Signore::Signature
+  text: A palm for every face, a head for every desk.
+  author: mhoye
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
   text: |-
     Programming IRL:
     ‘ETA for an apple pie?’
