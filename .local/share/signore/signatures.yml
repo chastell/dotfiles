@@ -52588,6 +52588,16 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
+  text: Jesus kicking the money lenders out of the temple then taking all the money
+    and running away shouting ‘DISRUPTION’.
+  author: Coda Hale
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - religion
+- !ruby/struct:Signore::Signature
   text: Something about startup culture is severely broken. Imagine if every restaurant’s
     goal was to someday be bought and run by McDonald’s.
   author: Brandon Hays
