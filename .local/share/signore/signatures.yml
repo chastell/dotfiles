@@ -52678,3 +52678,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: JavaScript has two errors, this and undefined, and when this is undefined,
+    oh boy!
+  author: Mikeal
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
