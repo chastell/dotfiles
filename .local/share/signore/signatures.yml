@@ -52689,3 +52689,23 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: 'Dzień zacząłem od udzielenia eksperckiego wywiadu na temat serwisów internetowych
+    jednego z ministerstw. Zapytany co doradzam wstrzymałem oddech na dwie długie,
+    fantastycznie przyjemne sekundy, po czym spokojnie i stanowczo powiedziałem: „zaorać”.
+    Słodko i zaszczytnie jest pracować dla ojczyzny.'
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Hey cleaners, I’m holding a cleaning hackathon at my house this weekend. There
+    will be cleaning mentors and lots of cleaning supplies.
+  author: Ben Taylor
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - hackathons
