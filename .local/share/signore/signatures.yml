@@ -52690,6 +52690,17 @@ signatures:
   - programming
   - JavaScript
 - !ruby/struct:Signore::Signature
+  text: n,e=[],{};ObjectSpace.each_object(Class){|k|n<<k;k.superclass&&e[k]=k.superclass};puts"digraph{";n.map{|c|p
+    c};e.map{|k,v|puts"#{k}->#{v}"}
+  author: Erik Michaels-Ober
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
   text: 'Dzień zacząłem od udzielenia eksperckiego wywiadu na temat serwisów internetowych
     jednego z ministerstw. Zapytany co doradzam wstrzymałem oddech na dwie długie,
     fantastycznie przyjemne sekundy, po czym spokojnie i stanowczo powiedziałem: „zaorać”.
