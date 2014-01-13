@@ -16359,7 +16359,7 @@ signatures:
   - programming
 - !ruby/struct:Signore::Signature
   text: 'Building a system that has more users than the population of my home country
-    (Switzerland) : ✔'
+    (Switzerland): ✔'
   author: Patrick Hüsler
   source: 
   subject: 
@@ -26652,15 +26652,6 @@ signatures:
   subject: 
   tags:
   - en
-- !ruby/struct:Signore::Signature
-  text: Na pocieszenie mogę dodać, że w kontaktach z różnymi urzędami przekonałem
-    się wiele razy, iż urzędnicy nie rozumieją się nawzajem.
-  author: Mirosław Bańko
-  source: Poradnia PWN
-  subject: komentując formułę „audycja zawierała lokowanie produktu”
-  tags:
-  - pl
-  - linguistics
 - !ruby/struct:Signore::Signature
   text: For some reason I had always imagined that bugbears were somewhat smaller.
   author: 
@@ -45996,7 +45987,7 @@ signatures:
   - tech
 - !ruby/struct:Signore::Signature
   text: |-
-    ‘I saw this in Amsterdam. It is a 17th century Shame Flute. It was affixed to the necks of bad musicians.’ http://i.imgur.com/cOFw0zn.jpg
+    ‘I saw this in Amsterdam. It is a 17th century Shame Flute. It was affixed to the necks of bad musicians. <http://i.imgur.com/cOFw0zn.jpg>’
     ‘We need a shame keyboard.’
   author: Danny Baker, Nat Pryce
   source: 
@@ -52720,6 +52711,16 @@ signatures:
   - en
   - tech
   - hackathons
+- !ruby/struct:Signore::Signature
+  text: Refactoring would be so much easier if I could just drink until it looked
+    pretty.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
 - !ruby/struct:Signore::Signature
   text: Don’t trust any method over 30 LoC.
   author: Alex Payne
