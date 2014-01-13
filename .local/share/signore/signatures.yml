@@ -52720,3 +52720,12 @@ signatures:
   - en
   - tech
   - hackathons
+- !ruby/struct:Signore::Signature
+  text: Don’t trust any method over 30 LoC.
+  author: Alex Payne
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
