@@ -52730,3 +52730,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    window.onerror = window.close;
+    For that native feel.
+  author: Web Performance Tips
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
