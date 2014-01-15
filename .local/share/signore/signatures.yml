@@ -2396,13 +2396,6 @@ signatures:
   - en
   - alcohol
 - !ruby/struct:Signore::Signature
-  text: For some reason, this signature reminds everyone of Marvin Zelkowitz.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Carelessly planned projects take three times longer to complete than expected.
     Carefully planned projects take four times longer to complete than expected, mostly
     because the planners expect their planning to reduce the time it takes.
@@ -52741,3 +52734,15 @@ signatures:
   - en
   - tech
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘This “Unix Russian Roulette” reminds of one Rake task which had something like “rm -rf #{foo}/#{bar}” and it turned out that foo and bar were nils.’
+    ‘Oh yes, epic story. “I noticed when icons from my Dock started to disappear” was the best part.’
+  author: Piotr Solnica, Mariusz Cieśla
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
