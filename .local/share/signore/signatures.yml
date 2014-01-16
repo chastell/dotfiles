@@ -541,7 +541,7 @@ signatures:
     jest najgorszym, co mogło się tłumaczowi przytrafić? Otóż nie. Można jeszcze każdy
     kawalek dwuwyrazowy włożyć do OSOBNEGO pliku Worda. +10 exp, -100 hp, -1000 punktów
     poczytalności. Ale fajowo, teraz jest grupa 27 takich samych plików zawierających
-    slowo „LEFT”. Lewo, w lewo, po lewej, zostało, opuścił(a). Czy wydra wygra?
+    słowo „LEFT”. Lewo, w lewo, po lewej, zostało, opuścił(a). Czy wydra wygra?
   author: DrYoung
   source: 
   subject: 
@@ -22240,15 +22240,6 @@ signatures:
   - Ruby
   - Rails
 - !ruby/struct:Signore::Signature
-  text: If the zombie apocalypse ever happens, I’m just going to surround my house
-    with outward facing treadmills. I should be fine.
-  author: "@benmarvin"
-  source: 
-  subject: 
-  tags:
-  - en
-  - zombies
-- !ruby/struct:Signore::Signature
   text: When I’m named Ruby Pope I’ll make Rubinius standard, rename 1.9.2 to CRI,
     and make sure everyone knows JRuby isn’t Java.
   author: Kurtis Rainbolt-Greene
@@ -26086,15 +26077,6 @@ signatures:
   tags:
   - en
   - sanity
-- !ruby/struct:Signore::Signature
-  text: Pesymista twierdzi, że wszystkie kobiety to nierządnice. Optymista nie jest
-    tego zdania, ale ma nadzieję.
-  author: Julian Tuwim
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sex
 - !ruby/struct:Signore::Signature
   text: Za mundurem chłopcy sznurem…
   author: płk Tadeusz Sieńko
@@ -52746,3 +52728,12 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: Let’s take a moment to remember all the brave men and women tonight who can’t
+    be with their families because our soldiers killed them.
+  author: Maciej Cegłowski
+  source: 
+  subject: on Thanksgiving
+  tags:
+  - en
+
