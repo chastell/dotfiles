@@ -16756,7 +16756,7 @@ signatures:
   - health
 - !ruby/struct:Signore::Signature
   text: |-
-    — Czemu maszt-bramka? Czemu ożaglowanie łacińskie? Nie lepiej krótki masz w centrum i np. gaflowe? Albo od razu wysoki maszt i marconi? Rejka na górze (gafel zresztą też) powoduje zwiększenie skomplikowania stawiania/zrzucania żagla, i z tego co kojarzę marconi/bermudzkie jest najwydajniejsze.
+    — Czemu maszt-bramka? Czemu ożaglowanie łacińskie? Nie lepiej krótki maszt w centrum i np. gaflowe? Albo od razu wysoki maszt i marconi? Rejka na górze (gafel zresztą też) powoduje zwiększenie skomplikowania stawiania/zrzucania żagla, i z tego co kojarzę marconi/bermudzkie jest najwydajniejsze.
     — Już wiem jak się czują „mniej informatyczne” osoby gdy słuchają jak rozmawia dwóch geeków.
   author: rysiek, Sergiusz Bazański
   source: HS WAW
@@ -19042,17 +19042,6 @@ signatures:
   - programming
 - !ruby/struct:Signore::Signature
   text: |-
-    — Może ktoś mi w prosty sposób wyjaśni jak jest z VAT-em od umowy o dzieło.
-    — Nie ma VAT-u od umowy o dzieło. Prościej nie umiem.
-  author: JB, Artur R. Czechowski
-  source: pl.praca.dyskusje
-  subject: 
-  tags:
-  - pl
-  - taxes
-  - work
-- !ruby/struct:Signore::Signature
-  text: |-
     — A czytał pan cykl o wiedźminie?
     — [z oburzeniem] Nie, skądże!
     — To skąd pan wie, że Sapkowski jest niedobry?
@@ -19412,17 +19401,6 @@ signatures:
   - en
   - tech
   - CLI
-- !ruby/struct:Signore::Signature
-  text: |-
-    — „Zaliczone mamy 19 zawodniczek”.
-    — Kto to powiedział? Babiarz?
-  author: Gajowy Marucha, Leszy
-  source: pl.pregierz
-  subject: o komentatorach
-  tags:
-  - pl
-  - sport
-  - journalism
 - !ruby/struct:Signore::Signature
   text: Między nami – powiedzieć o polskim żurnaliście, że to niedouczony dyletant,
     to jak powiedzieć, że planeta Jowisz większa jest od arbuza. Stwierdzenie prawdziwe,
@@ -23981,15 +23959,6 @@ signatures:
   - pl
   - Usenet
   - go
-- !ruby/struct:Signore::Signature
-  text: |-
-    — U starych koniarzy przy kastracji ogierów podaje się smażone końskie jaja.
-    — W Hiszpanii po corridzie też, tyle że czasem porcje są bardzo małe.
-  author: Krystyna Chiger, Paweł Pluta
-  source: pl.news.nowe-grupy
-  subject: 
-  tags:
-  - pl
 - !ruby/struct:Signore::Signature
   text: Like when you copy production data to the dev site and run load tests that
     send thousands of e-mails to real addresses? _That_ kind of day.
@@ -32056,7 +32025,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: 'The Javascript spaghetti code we’re creating now means job security in 2016.
+  text: 'The JavaScript spaghetti code we’re creating now means job security in 2016.
     #nonblocking'
   author: Matt Sherman
   source: 
@@ -39585,16 +39554,6 @@ signatures:
   tags:
   - en
   - sports
-- !ruby/struct:Signore::Signature
-  text: Playing some weird dubstep in the bathroom, wife charges in OMG IS EVERYTHING
-    OK?!
-  author: Filip Tepper
-  source: 
-  subject: 
-  tags:
-  - en
-  - music
-  - dubstep
 - !ruby/struct:Signore::Signature
   text: Log file reports ‘Possible SYN flooding on port 8080. Sending cookies.’ That
     just seems like it’s encouraging bad behavior!
@@ -52736,4 +52695,15 @@ signatures:
   subject: on Thanksgiving
   tags:
   - en
-
+- !ruby/struct:Signore::Signature
+  text: Clone djb, teach the new one Lisp instead of C, put him in a quiet room for
+    40 years, now computers actually work.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+  - C
