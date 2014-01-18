@@ -52707,3 +52707,14 @@ signatures:
   - programming
   - Lisp
   - C
+- !ruby/struct:Signore::Signature
+  text: |-
+    sometimes i get frustrated because u cant put numbers in caps
+    12
+    am I screaming?
+    you’ll never know
+  author: 'no'
+  source: 
+  subject: 
+  tags:
+  - en
