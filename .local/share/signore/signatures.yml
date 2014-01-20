@@ -52728,3 +52728,29 @@ signatures:
   - tech
   - programming
   - C
+- !ruby/struct:Signore::Signature
+  text: "„Drobne, drobne” – woła na widok mojej stówy kioskarka, prośbą o bilet tramwajowy
+    oderwana od krzyżówek panoramicznych. „Nie będzie” – odpowiadam zgodnie z prawdą,
+    bo to w ogóle ostatni pieniądz listopada. „No to nie” – oświadcza z wyraźną satysfakcją
+    i wraca do swoich krzyżówek. Nie to nie, kioskarko, nie to nie. Pójdę na SKM,
+    zapłacę aplikacją, dojadę gdzie chcę; i resztę dnia spędzę na budowaniu świata
+    błyskawicznych, bezdotykowych płatności, w którym bilet na tramwaj będzie się
+    kupował sam, razem z gazetą, dzięki systemowi, który będzie wiedział o nas wszystko.
+    I wtedy po ciebie przyjdziemy, kioskareczko; i wtedy będziesz milusia, i będziesz
+    miała drobne, żeby wydać; ale będzie już za późno."
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Programming is like sex. I don’t want to be a sex educator, a sex consultant, or an agile sex coach. I just want to have sex.’
+    ‘Programming is like sex. People see how I do it and think “that is some freaky messed up kinky stuff right there”.’
+  author: Reg Braithwaite, David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
