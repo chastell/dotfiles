@@ -3754,16 +3754,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: |-
-    — Ale po co pani to wszystko mówi?
-    — To bardzo miłe, że pan pyta, proszę słuchać dalej…
-    (Wyjaśnij mi kobiety, poważnie.)
-  author: maz
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Panie Jobs, idź pan w chuj z takim Xcode.
   author: kodz
   source: 
@@ -22600,16 +22590,6 @@ signatures:
   tags:
   - en
   - HHGG
-- !ruby/struct:Signore::Signature
-  text: Mówię państwu, to jest naprawdę niezwykła dziewczyna. Dwie ostatnie noce spędziła
-    poza wioską.
-  author: Włodzimierz Szaranowicz
-  source: 
-  subject: o Otylii Jędrzejczak
-  tags:
-  - pl
-  - sport
-  - swimming
 - !ruby/struct:Signore::Signature
   text: Brawa, bo uderzenie było w miejsce, które dla mężczyzny nigdy nie jest przyjemne.
   author: Waldemar Cyranek
@@ -52754,3 +52734,21 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Ten czas, gdy w sklepach pojawiły się dezodoranty antyperspiracyjne z talkiem,
+    i starsi panowie chodzili rano z wypsikanym białym znakiem Zorro na przodzie czarnych
+    sweterków.
+  author: Paweł Synek
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: The Bitcoin crash is traumatic. I haven’t seen this many libertarians cry
+    since they found out Ayn Rand took Social Security for 8 years.
+  author: drewtoothpaste
+  source: 
+  subject: 
+  tags:
+  - en
+  - Bitcoin
