@@ -52752,3 +52752,16 @@ signatures:
   tags:
   - en
   - Bitcoin
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘We know you’re suffering pain from frequent self-inflicted gunshot wounds, so here are several new models of guns. Happy shooting!’
+    — Rails
+  author: Ernie Miller
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
