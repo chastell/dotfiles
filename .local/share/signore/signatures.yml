@@ -1775,17 +1775,6 @@ signatures:
   - Java
   - XML
 - !ruby/struct:Signore::Signature
-  text: C++ is only powerful in the sense of ‘that dead possum is emitting a powerful
-    odor’.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - C++
-- !ruby/struct:Signore::Signature
   text: 2010 and I can still double-side a 5.25″ floppy with a hole puncher on the
     first try.
   author: Mark Pilgrim
@@ -52754,9 +52743,9 @@ signatures:
   - Bitcoin
 - !ruby/struct:Signore::Signature
   text: |-
-    ‘We know you’re suffering pain from frequent self-inflicted gunshot wounds, so here are several new models of guns. Happy shooting!’
-    — Rails
-  author: Ernie Miller
+    ‘“We know you’re suffering pain from frequent self-inflicted gunshot wounds, so here are several new models of guns. Happy shooting!” — Rails’
+    ‘“We’ve concluded that the problem was a failure to pull the trigger hard enough.”’
+  author: Ernie Miller, Justin Searls
   source: 
   subject: 
   tags:
@@ -52765,3 +52754,11 @@ signatures:
   - programming
   - Ruby
   - Rails
+- !ruby/struct:Signore::Signature
+  text: Sin is geographical.
+  author: Bertrand Russell
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
