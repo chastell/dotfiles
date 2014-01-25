@@ -52766,3 +52766,22 @@ signatures:
   - en
   - tech
   - Git
+- !ruby/struct:Signore::Signature
+  text: 'There’s the Music Man model of the consultant: you have the guy who comes
+    to town and is selling some flavour of snake oil and is going to come change your
+    culture and make everyone magically able to play musical instruments. And then
+    there’s the kung-fu model of Kwai Chang Caine, who quietly wanders into town,
+    sees something that needs fixing and does his best to fix it – and in doing so
+    provides a model where everyone in town can learn about doing the right thing.
+    And then you have the A-Team versus the Magnificent Seven; the A-Team is the team
+    that already exists and they’ll just come in and fix your problem – no matter
+    the collateral damage – and then you have the Magnificent Seven, the custom-assembled
+    team to come in and solve your problem because they’re just the right people for
+    it.'
+  author: Josh Susser
+  source: Ruby Rogues
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
