@@ -52785,3 +52785,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Vegan parties are the best parties. There’s always so much food afterwards.
+  author: Marta Paciorkowska
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
+  - vegan
