@@ -52794,3 +52794,17 @@ signatures:
   - en
   - food
   - vegan
+- !ruby/struct:Signore::Signature
+  text: |-
+    After 7 years, we finally found the best line of code in the entire WordPress codebase.
+    wp-login.php. Line 796:
+    $errors = $user;
+  author: Modern Tribe Inc.
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
+  - WordPress
