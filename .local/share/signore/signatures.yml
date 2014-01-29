@@ -52809,6 +52809,14 @@ signatures:
   - PHP
   - WordPress
 - !ruby/struct:Signore::Signature
+  text: And so, executives, as you can see, *polishes glasses w/ pair of panties I
+    keep in my breast pocket* I’m not qualified to do this or any job.
+  author: tara shoe
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
   text: "‘Take a snippet of a good code & then dilute it in 9 kloc of boilerplate,
     the memory of good code will soon make boilerplate beautiful.’"
   author: Vyacheslav Egorov
