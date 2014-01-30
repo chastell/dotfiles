@@ -52826,3 +52826,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Switched from Vim to Dota 2…
+  author: cloudhead
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Vim
+  - Dota 2
