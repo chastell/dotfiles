@@ -52837,3 +52837,10 @@ signatures:
   - programming
   - Vim
   - Dota 2
+- !ruby/struct:Signore::Signature
+  text: If I meet the man of my dreams, I hope he doesn’t know about my dreams.
+  author: Oglaf
+  source: 
+  subject: 
+  tags:
+  - en
