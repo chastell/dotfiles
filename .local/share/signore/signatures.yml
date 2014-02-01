@@ -52844,3 +52844,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Programming is like making analogies. It seems to work at first, but fails
+    in the edge cases.
+  author: Andrew Cox
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
