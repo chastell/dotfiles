@@ -52854,3 +52854,20 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    Ways to contact me (by preference):
+    1) SMS
+    2) DM
+    3) email
+    4) telegram
+    5) smoke signal
+    6) pigeon/owl
+    7) telepathy
+    …
+    9529) phone call
+  author: Ms. Kronker Brown
+  source: 
+  subject: 
+  tags:
+  - en
