@@ -52871,3 +52871,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Let it be known that Pete Higgins has deleted more code than he’s written
+    in the last two days. No, you can’t have him, he’s mine.
+  author: Steven R. Baker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
