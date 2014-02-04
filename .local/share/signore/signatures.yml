@@ -52881,3 +52881,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: The purpose of Jira is not to help you get work done. The purpose of Jira
+    is to record in excruciating detail the reasons you failed.
+  author: alexspeller
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Jira
