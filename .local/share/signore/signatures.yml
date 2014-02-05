@@ -1167,16 +1167,6 @@ signatures:
   - en
   - Wikipedia
 - !ruby/struct:Signore::Signature
-  text: Ciekawe, czy jacyś młodzi punkowcy gdzieś w małym miasteczku nie zakładają
-    teraz kapeli o groźnej nazwie „obdukcja Cugier-Kotki”.
-  author: elpanda
-  source: 
-  subject: 
-  tags:
-  - pl
-  - music
-  - politics
-- !ruby/struct:Signore::Signature
   text: "‘My friends tell me that I have a tendency to point out problems without
     offering solutions, but they never tell me what I should do about it.’"
   author: kodz
@@ -3315,15 +3305,6 @@ signatures:
   tags:
   - en
   - politics
-- !ruby/struct:Signore::Signature
-  text: In an experiment to determine the precise amount of beer required to enjoy
-    this film, I passed out.
-  author: Dave O’Brien
-  source: 
-  subject: on Highlander II
-  tags:
-  - en
-  - cinematography
 - !ruby/struct:Signore::Signature
   text: To call it an anticlimax would be an insult not only to climaxes but to prefixes.
   author: Roger Ebert
@@ -9022,13 +9003,6 @@ signatures:
   - email
   - Evolution
   - Monty Python
-- !ruby/struct:Signore::Signature
-  text: These T-Shirts were tested on animals. They didn’t fit.
-  author: 
-  source: TopGear’s tab
-  subject: 
-  tags:
-  - en
 - !ruby/struct:Signore::Signature
   text: Gepard Depardieu.
   author: Suler
@@ -27153,15 +27127,6 @@ signatures:
   - en
   - tech
   - admin
-- !ruby/struct:Signore::Signature
-  text: Nasze twitty stukamy na maszynie, idą do sekretariatu, gdzie dyr. zatwierdza
-    pieczątką, następnie sprawę opiniuje radca prawny i już są tu!
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
-  - museum
 - !ruby/struct:Signore::Signature
   text: Jeden z kustoszy zwariował. Krzyczy, że nas wyzabija, jeśli zamiast Toshiby
     z Win7 nie dostanie z powrotem Łucznika z kolorowym tuszem!
@@ -52891,3 +52856,13 @@ signatures:
   - en
   - tech
   - Jira
+- !ruby/struct:Signore::Signature
+  text: If we’re going to use the phrase ‘business logic’, can I refer to accounting
+    as ‘business numbers’ and charts as ‘business pictures’?
+  author: jbr
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
