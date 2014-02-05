@@ -1,9 +1,8 @@
 setlocal formatoptions+=1
 setlocal noautoindent nosmartindent
 
-map <leader>fc  ggCFrom: Piotr Szotkowski <chastell@civicrm.org><esc>G?^-- $<enter><up>C— Piotr Szotkowski<esc>
+map <leader>fa  ggCFrom: Piotr Szotkowski <piotr@analyticsfire.com><esc>G?^-- $<enter><up>C— Piotr Szotkowski<esc>
 map <leader>ff  ggCFrom: Piotr Szotkowski <chastell@chastell.net><esc>G?^-- $<enter><up>C— Piotr Szotkowski<esc>
-map <leader>fg  ggCFrom: Piotr Szotkowski <piotr@ginzametrics.com><esc>G?^-- $<enter><up>C— Piotr Szotkowski<esc>
 map <leader>fp  ggCFrom: Piotr Szotkowski <p.szotkowski@tele.pw.edu.pl><esc>G?^-- $<enter><up>C— Piotr Szotkowski<esc>
 map <leader>fr  ggCFrom: Piotr Szotkowski <piotr.szotkowski@rebased.pl><esc>G?^-- $<enter><up>C— Piotr Szotkowski<esc>
 map <leader>fw  ggCFrom: Wojtek Szotkowski <chastell@chastell.net><esc>G?^-- $<enter><up>C— Wojtek<esc>
