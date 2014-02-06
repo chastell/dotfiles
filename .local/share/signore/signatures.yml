@@ -52866,3 +52866,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: There are Fs in my dots. Who is putting Fs in my dots?
+  author: Jamie Gaskins
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
