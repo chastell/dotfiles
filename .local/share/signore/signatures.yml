@@ -13460,14 +13460,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Słownik T9 ma zawsze rację – wpisuję „gadu”, wychodzi „haft”.
-  author: halo
-  source: 
-  subject: 
-  tags:
-  - pl
-  - Gadu-Gadu
-- !ruby/struct:Signore::Signature
   text: So, you’ll put down your suit, and I’ll put down my tie, and we’ll sell each
     other hardware like civilised people.
   author: Roger Burton West
@@ -52876,3 +52868,12 @@ signatures:
   - tech
   - programming
   - testing
+- !ruby/struct:Signore::Signature
+  text: Programming is deleting of code, adding of new is antiprogramming.
+  author: Andrew Barchuk
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
