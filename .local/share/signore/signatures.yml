@@ -20158,17 +20158,6 @@ signatures:
   - en
   - politics
 - !ruby/struct:Signore::Signature
-  text: Christian Biblical literalists are trusting themselves to an archaic English
-    translation of a Latin translation of (help me here) Greek? Aramaic? source. I
-    wouldn’t even trust a VCR manual to make it through that intact.
-  author: Dr. Dee
-  source: 
-  subject: 
-  tags:
-  - en
-  - religion
-  - linguistics
-- !ruby/struct:Signore::Signature
   text: With so many ‘textbook cases’ of single points of failure, you’d think that
     we’d stop building systems to demonstrate the concept.
   author: Matt Curtin
@@ -40913,7 +40902,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: What if Oxygen makes our voice really deep… and Helium just brings it back
+  text: What if oxygen makes our voice really deep… and helium just brings it back
     to normal?
   author: Alan Garner
   source: 
@@ -52871,6 +52860,16 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Programming is deleting of code, adding of new is antiprogramming.
   author: Andrew Barchuk
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Models often have concepts that represent groups of other entities. Gaggle
+    of geese. Not GooseRepository.
+  author: Eric Evans
   source: 
   subject: 
   tags:
