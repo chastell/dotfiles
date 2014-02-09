@@ -45941,19 +45941,6 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: Node.js has its own DHH but he’s distributed acorss multiple people for redundancy/webscaling
-    reasons.
-  author: James Coglan
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
-  - JavaScript
-  - Node.js
-- !ruby/struct:Signore::Signature
   text: Out of 98,569 words in my /usr/share/dict/words, one pair has a CRC32 collision.
     The pair is ‘codding’ and ‘gnu’.
   author: opi
@@ -52876,3 +52863,16 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    From a coaching session today:
+    *mistake, shame*
+    ‘You know what we call engineers who make mistakes?’
+    ‘Engineers?’
+    Correct, grasshopper.
+  author: Kent Beck
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
