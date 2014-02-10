@@ -52876,3 +52876,15 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Twitter finished a great year with our strongest financial quarter to date’, said Dick Costolo, CEO, about the $645 million loss. Hooray!
+    Thank God I didn’t have a great year.
+    Few companies can afford to be as successful as Twitter. My hat is off.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Twitter
