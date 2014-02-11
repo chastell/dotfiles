@@ -52888,3 +52888,11 @@ signatures:
   - en
   - tech
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: It’s important to share hobbies with your kids, so I was just staring out
+    the window with my cats muttering ‘fuck you’ at a squirrel.
+  author: Coda Hale
+  source: 
+  subject: 
+  tags:
+  - en
