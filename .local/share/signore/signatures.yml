@@ -38669,15 +38669,6 @@ signatures:
   - en
   - politics
 - !ruby/struct:Signore::Signature
-  text: I am increasingly convinced that the time has come to find a way of thinking
-    about spirituality and ethics beyond religion altogether.
-  author: Dalai Lama
-  source: 
-  subject: 
-  tags:
-  - en
-  - religion
-- !ruby/struct:Signore::Signature
   text: Momentary confusion as a Kiwi offers to show us photos of his deck.
   author: Pаul Bаttley
   source: 
@@ -52892,6 +52883,45 @@ signatures:
   text: It’s important to share hobbies with your kids, so I was just staring out
     the window with my cats muttering ‘fuck you’ at a squirrel.
   author: Coda Hale
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Co prawda pociąg, do którego wsiadłem na pięć i pół godziny bez choćby symbolicznego
+    śniadania „dzisiaj akurat nie ma” Warsu widocznego w rozkładzie, więc do wieczora
+    post ścisły – ale za to jest wielki i zupełnie pusty wagon rowerowy, gdybym sobie
+    kurwa chciał, nie wiem, potańczyć.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - PKP
+- !ruby/struct:Signore::Signature
+  text: O, tym razem w nagradzanej aplikacji SkyCash widoku potwierdzenia zakupu nie
+    mógł znaleźć także kontroler. Zgodziliśmy się jednak, że raczej mam ten bilet.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: "„Pomijając wystawne gale i urlopy w egzotycznych miejscach globu, gwiazdy
+    show biznesu częściej niż ktokolwiek inny wystawiane są na stres. Większość z
+    nich swoją pracę opłaca mniej lub bardziej groźnymi załamaniami nerwowymi. Często
+    początkowo niegroźne stadium stresu może przerodzić się w chorobę maniakalno-depresyjną.
+    Zobaczcie, kto zmagał się z nią jakiś czas temu a kto nie potrafi wyleczyć się
+    nawet od kilka lat.” Pudelku, co ty kurwa odpierdalasz."
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: OMG just read ‘1984’ by this Orwell guy and I had NO IDEA things were so bad
+    back then.
+  author: Tooth Faery
   source: 
   subject: 
   tags:
