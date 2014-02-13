@@ -20943,17 +20943,6 @@ signatures:
   - en
   - Britain
 - !ruby/struct:Signore::Signature
-  text: |-
-    ‘The other day I skipped church and went to get something to eat at 7-11. I paid with a $10 and recieved $6.66 in change. Am I going to hell?’
-    ‘Almost certainly.’
-    ‘Fuck!’
-  author: monarch, qbert
-  source: 
-  subject: 
-  tags:
-  - en
-  - religion
-- !ruby/struct:Signore::Signature
   text: A conservative is one who admires radicals centuries after they’re dead.
   author: Leo Rosten
   source: 
@@ -52926,3 +52915,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Programming is being ten minutes away from being done for the rest of your
+    life.
+  author: Jon Maddox
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
