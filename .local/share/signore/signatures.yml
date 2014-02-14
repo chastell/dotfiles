@@ -48716,7 +48716,7 @@ signatures:
   - en
   - pirates
 - !ruby/struct:Signore::Signature
-  text: What if car horns are just cars’ G-Spots and their honks are screams of pleasure?
+  text: What if car horns are just cars’ G-spots and their honks are screams of pleasure?
   author: lou-zer
   source: 
   subject: 
@@ -52919,6 +52919,16 @@ signatures:
   text: Programming is being ten minutes away from being done for the rest of your
     life.
   author: Jon Maddox
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: Keith Richards tunes the Redis cluster. Bono writes clean monadic expressions.
+    Joan Jett write a single pass compiler. Fuck yeah rock stars!
+  author: Phil Haack
   source: 
   subject: 
   tags:
