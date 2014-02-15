@@ -52935,3 +52935,22 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: trasz, co Ty masz, kurwa, we łbie, że trolujesz w tak *oczywiście* chujowych
+    sprawach? Mizantropia, współczynnik ponad 9000? Rozumiem, że rozczarowanie geeka
+    idealisty, itede, zranione kruche serce otoczone kolczastym pancerzem w obawie
+    przed kolejnymi rozczarowaniami, ale weź przestań w tym wątku.
+  author: antoszka
+  source: HS WAW OT
+  subject: w wątku o Janosiku
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: 'TRIGGER WARNING: PL/SQL, MSIDL/IDL, IMAP, configure.ac, httpd.conf, addslashes().'
+  author: Neckbeard Hacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
