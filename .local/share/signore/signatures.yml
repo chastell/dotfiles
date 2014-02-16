@@ -52954,3 +52954,24 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    + <- you must be this ruby to give a talk
+    |
+    |
+    |
+    |
+    |
+    + <-- sorry you are not ruby enough
+    |
+    |
+    |
+    |
+    +
+  author: tef
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
