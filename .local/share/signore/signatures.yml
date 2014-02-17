@@ -52975,3 +52975,16 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: |-
+    Roses are red
+    Violets are blue
+    Ruby is also red
+    Asset pipeline error
+  author: Jon Gold
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Rails
