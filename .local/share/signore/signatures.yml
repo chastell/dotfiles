@@ -23427,96 +23427,6 @@ signatures:
   - en
   - linguistics
 - !ruby/struct:Signore::Signature
-  text: Z całą mocą podkreślam, że tylko małżeństwo daje dwojgu kochającym się ludziom
-    prawo do współżycia płciowego.
-  author: Marina Ombach
-  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
-  text: Nie można uznać antykoncepcji za prawidłową normę postępowania seksualnego
-    człowieka – z powodu zła moralnego, które wyrządza człowiekowi.
-  author: Marina Ombach
-  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
-  text: Wybór metod naturalnych jest wzięciem odpowiedzialności za sprawy prokreacji
-    na siebie. Jeśli dojdzie do ciąży, małżeństwo wie, że jest to skutkiem błędu popełnionego
-    przez nich. Sprzyja to akceptacji poczętego życia.
-  author: Teresa Król
-  source: Wędrując ku dorosłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
-  text: Nie rodzą się dzieci „niechciane”; już przed poczęciem dziecko jest niejako
-    zapraszane przez swych rodziców i rozwija się w łonie matki w atmosferze miłości
-    i akceptacji.
-  author: Marina Ombach
-  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
-  text: Kobiety, stosujące antykoncepcję, narażając się na jej szkodliwe działanie,
-    czują się pokrzywdzone i wykorzystane.
-  author: Marina Ombach
-  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
-  text: "[Kobiety stosujące antykoncepcję] przeżywają uczucie niepewności – czy są
-    naprawdę kochane, czy są tylko obiektem rozładowania seksualnego u swojego partnera."
-  author: Marina Ombach
-  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
-  text: Doprowadza to [stosowanie antykoncepcji] często do apatii, depresji, oziębłości
-    seksualnej i niechęci, a nawet agresji wobec mężczyzny.
-  author: Marina Ombach
-  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
-  text: U małżeństw stosujących antykoncepcję często występuje brak czułości i wzajemnego
-    podziwu.
-  author: Marina Ombach
-  source: W poszukiwaniu prawdziwej miłości (zalecenie MEN 1996)
-  subject: 
-  tags:
-  - pl
-  - education
-  - religion
-  - sex
-- !ruby/struct:Signore::Signature
   text: "‘You like it?’ he said to Mort, in pretty much the same tone of voice people
     used when they said to St George, ‘You killed a *what*?’"
   author: Terry Pratchett
@@ -41536,18 +41446,6 @@ signatures:
   - parenting
 - !ruby/struct:Signore::Signature
   text: |-
-    How to insert an image in a HTML document.
-    1995: https://raw.github.com/gist/3562666/9d29d02df3300f83db6721b2c2b3d054c17358e4/1995.html
-    2012: https://raw.github.com/gist/3562673/60344b5eb137edcf8ca0a71830a499eee2893878/2012.html
-  author: Frank Denis
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - HTML
-- !ruby/struct:Signore::Signature
-  text: |-
     Mysql2::Error: MySQL server has gone away:
     COME BACK YOU COWARD
   author: Luis Felipe Borjas
@@ -52988,3 +52886,18 @@ signatures:
   - en
   - tech
   - Rails
+- !ruby/struct:Signore::Signature
+  text: Happy Valentines everyone – even all you who hate Valentines. I love your
+    hate. You’re so lovable when you’re wrathful. I’m just happy I’m not at Ikea like
+    last year. That sucked. Particularly when someone suggested that if I was going
+    to be there maybe I should get some meatballs. Alone. In Ikea. On Valentines.
+    I politely ignored that while a little bit of me died inside. So – if you feel
+    like you simply must be hateful because it’s Valentines and you don’t feel super
+    loved, two things. First. Go to Ikea alone about 8 pm. You will have hit rock
+    bottom and there is nowhere to go from there but up. Second. Call me. I still
+    love you.
+  author: Chris Worman
+  source: 
+  subject: 
+  tags:
+  - en
