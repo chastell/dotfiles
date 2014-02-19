@@ -1209,14 +1209,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Chciałem pokazać córce jak wygląda tapir, niestety większość filmów na YouTube
-    koncentruje się na fakcie posiadania przez zwierzę wyjątkowo wielkiego penisa.
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: 'Przyszedł do mnie student i zapytał, cytuję: „czy na pana wykładzie nauczę
     się rzeczy, które pozwolą mi kontrolować świat z mojej piwnicy?”'
   author: DrYoung
@@ -21732,15 +21724,6 @@ signatures:
   tags:
   - en
   - work
-- !ruby/struct:Signore::Signature
-  text: I’d rather have a president who does it to a woman than one who does it to
-    his country.
-  author: Shirley MacLaine
-  source: 
-  subject: 
-  tags:
-  - en
-  - politics
 - !ruby/struct:Signore::Signature
   text: I have noticed that the people who are late are often so much jollier than
     the people who have to wait for them.
@@ -52901,3 +52884,28 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    — Nie działa.
+    — Co się dzieje?
+    — Nie ogarniam PHP-a.
+    — Powiedz mi coś, czego nie wiem…
+    — Całkę powierzchniową zorientowaną możemy łatwo wyliczyć z twierdzenia Gaussa-Ostrogradskiego.
+  author: mef, luna
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Literally don’t know what I’d do without rsync, tar, md5sum and git. Probably the only programs that work.’
+    ‘What do you use for backups?’
+    ‘A hard drive, rsync, tar, md5sum, and git.’
+  author: James Coglan, Josep M. Bach
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - backups
