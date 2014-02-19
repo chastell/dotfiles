@@ -6770,8 +6770,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: "<meta name=\"description\" content=\"Create flash websites like a pro in
-    3 easy steps with wix.com flash website builder.\"/> AHAHAHAHAHA"
+  text: <meta name="description" content="Create flash websites like a pro in 3 easy
+    steps with wix.com flash website builder."/> AHAHAHAHAHA
   author: Paul Battley
   source: 
   subject: 
@@ -7881,8 +7881,8 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: "<voice mode=\"rambo\">Znałem wielu ludzi, którzy automatycznie generowali
-    sygnaturki. Żaden z nich nie żyje.</voice>"
+  text: <voice mode="rambo">Znałem wielu ludzi, którzy automatycznie generowali sygnaturki.
+    Żaden z nich nie żyje.</voice>
   author: DrYoung
   source: 
   subject: 
@@ -7951,8 +7951,8 @@ signatures:
   - pl
   - HTML
 - !ruby/struct:Signore::Signature
-  text: "<voice mode=\"wróżbita maciej\">Droga zimo, ja myślę, że że pani doskonale
-    wie o czym ja mówię.</voice>"
+  text: <voice mode="wróżbita maciej">Droga zimo, ja myślę, że że pani doskonale wie
+    o czym ja mówię.</voice>
   author: DrYoung
   source: 
   subject: 
@@ -15124,7 +15124,7 @@ signatures:
   - en
   - ethics
 - !ruby/struct:Signore::Signature
-  text: "\"Self-destruct in 5 seconds.  Have a nice day...\\n\""
+  text: '"Self-destruct in 5 seconds.  Have a nice day...\n"'
   author: 
   source: fs/super.c
   subject: 
@@ -38595,7 +38595,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: "<!--[if lte IE 7]> <style> * {font-family: \"Comic Sans\";} </style> <![endif]-->"
+  text: '<!--[if lte IE 7]> <style> * {font-family: "Comic Sans";} </style> <![endif]-->'
   author: Barry Dorrans
   source: 
   subject: 
@@ -43476,8 +43476,8 @@ signatures:
   - work
   - productivity
 - !ruby/struct:Signore::Signature
-  text: "<json:array name=\"phoneNumbers\"> <json:string>212 555-1111</json:string>
-    <json:string>212 555-2222</json:string>"
+  text: <json:array name="phoneNumbers"> <json:string>212 555-1111</json:string> <json:string>212
+    555-2222</json:string>
   author: Elotente
   source: 
   subject: 
@@ -49095,7 +49095,7 @@ signatures:
   - Ruby
   - gems
 - !ruby/struct:Signore::Signature
-  text: "<\"Français\"> expected but was <\"FranÃ§ais\">."
+  text: <"Français"> expected but was <"FranÃ§ais">.
   author: Lennart Koopmann
   source: 
   subject: 
