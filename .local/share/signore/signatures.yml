@@ -22507,14 +22507,6 @@ signatures:
   - en
   - HHGG
 - !ruby/struct:Signore::Signature
-  text: Brawa, bo uderzenie było w miejsce, które dla mężczyzny nigdy nie jest przyjemne.
-  author: Waldemar Cyranek
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
   text: Looking over his shoulder Arthur saw that he was twiddling with knobs on a
     small box. Ford had already introduced this box as a Sub-Etha Sens-O-Matic, but
     Arthur had merely nodded absently and not pursued the matter. In his mind the
@@ -38038,14 +38030,6 @@ signatures:
   - programming
   - Ruby
 - !ruby/struct:Signore::Signature
-  text: TIL you only need to move your finger slightly down when tapping ‘Poland’
-    to turn it into a country of people laughing loudly.
-  author: Roy Tomeij
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Colemak is the ‘extra hipster’ variant of Dvorak. Either layout is fine if
     you want to reduce your RSI and number of coworkers who like you.
   author: David Brady
@@ -52909,3 +52893,13 @@ signatures:
   - en
   - tech
   - backups
+- !ruby/struct:Signore::Signature
+  text: 'Java’s memory handling strategy can generally be described in three words:
+    om nom nom.'
+  author: WassPord
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Java
