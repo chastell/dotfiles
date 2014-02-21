@@ -52903,3 +52903,14 @@ signatures:
   - en
   - tech
   - Java
+- !ruby/struct:Signore::Signature
+  text: "‘Agile’ is a development methodology that encourages PMs to spend time debating
+    the minutiae of terminology, allowing developers to work."
+  author: Nat Pryce
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - agile
