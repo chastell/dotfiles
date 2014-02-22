@@ -52914,3 +52914,12 @@ signatures:
   - tech
   - work
   - agile
+- !ruby/struct:Signore::Signature
+  text: 'OH (overhummed): We have joy, we have fun, we have Linux on our Sun!'
+  author: Floor Drees
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Linux
