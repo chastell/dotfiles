@@ -52923,3 +52923,12 @@ signatures:
   - en
   - tech
   - Linux
+- !ruby/struct:Signore::Signature
+  text: 'Dieting tip: Make a list of all the people who have ever bothered you about
+    your body type. Then eat them.'
+  author: Nico Carter
+  source: 
+  subject: 
+  tags:
+  - en
+  - diet
