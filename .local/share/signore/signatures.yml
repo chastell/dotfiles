@@ -18872,16 +18872,6 @@ signatures:
   - Unicode
 - !ruby/struct:Signore::Signature
   text: |-
-    — Może polecicie mi jakiś dobry romans, niekoniecznie banalny?
-    — Może… hmm… ze mną…?
-  author: claudia, woy
-  source: prk
-  subject: 
-  tags:
-  - pl
-  - relationships
-- !ruby/struct:Signore::Signature
-  text: |-
     — Onegdaj na studiach jeszcze, wraz z akademikowymi współspaczami […]
     — Ale jesteś bynajmniej pewien, że to było onegdaj?
     — Bynajmniej co?
@@ -29211,18 +29201,6 @@ signatures:
   subject: 
   tags:
   - en
-- !ruby/struct:Signore::Signature
-  text: |-
-    I WILL REMEMBER TO TAKE MY MEDICATION
-    I WILL REMEMBER TO TAKE MY MEDICATION
-    I WILL REMEMBER TO TAKE MY MEDICATION
-    I WILL REMEMBER TO TAKE MY MEDICATION
-  author: Bart Simpson
-  source: Simpsons 2F14
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
 - !ruby/struct:Signore::Signature
   text: |-
     THE GOOD HUMOR MAN CAN ONLY BE PUSHED SO FAR
@@ -52932,3 +52910,12 @@ signatures:
   tags:
   - en
   - diet
+- !ruby/struct:Signore::Signature
+  text: Just watched a TSA agent get upset that their supervisor was hanging around.
+    ‘Can you believe he’s just watching me all the time?’
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - TSA
