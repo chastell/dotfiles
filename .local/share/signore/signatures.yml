@@ -52919,3 +52919,12 @@ signatures:
   tags:
   - en
   - TSA
+- !ruby/struct:Signore::Signature
+  text: I support cryptocurrencies because I would like to collect all libertarians
+    together to teach them the value of regulation.
+  author: James Higgs
+  source: 
+  subject: 
+  tags:
+  - en
+  - Bitcoin
