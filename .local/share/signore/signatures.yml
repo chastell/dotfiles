@@ -17334,16 +17334,6 @@ signatures:
   - science
 - !ruby/struct:Signore::Signature
   text: |-
-    — Kiedy wreszcie rządzący zrozumieją, że wolność gospodarcza prowadzi do rozkwitu, a nie pomoce, programy, projekty, komisje i urzędy…
-    — Rządzący zrozumieją to na drugi dzień po tym, jak ta informacja dotrze do wyborców.
-  author: Paweł O’Pająk, vertret
-  source: 
-  subject: pl.pregierz
-  tags:
-  - pl
-  - politics
-- !ruby/struct:Signore::Signature
-  text: |-
     — W całym „King Kongu” jest spora dawka humoru — mimo wyraźnego zaangażownia Jacksona w projekt, zachowuje on zdrowy dystans; na seansie można się wiele razy dobrze uśmiać.
     — Czy ten humor to jest taki kiczowaty-durnowaty amerykański?
     — Nie, to cierpki humor przez łzy w stylu kina irańskiego, z elementami satyry ludowej Azerbejdżanu.
@@ -52928,3 +52918,12 @@ signatures:
   tags:
   - en
   - Bitcoin
+- !ruby/struct:Signore::Signature
+  text: Yes, Apple, I meant to say ‘ducking’, not ‘fucking’. You just read my mind.
+    You’re my ducking soulmate.
+  author: Mangal 2 Restaurant
+  source: 
+  subject: 
+  tags:
+  - en
+  - Apple
