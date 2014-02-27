@@ -52927,3 +52927,12 @@ signatures:
   tags:
   - en
   - Apple
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Describe yourself in three words.’
+    ‘Lazy.’
+  author: Mindy Pawsey
+  source: 
+  subject: 
+  tags:
+  - en
