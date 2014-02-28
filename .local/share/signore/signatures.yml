@@ -52936,3 +52936,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Life immeasurably improved by @spadgos’s suggestion that I type `$('body').wrap('<marquee>')`
+    into my browser console.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
