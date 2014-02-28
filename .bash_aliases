@@ -40,5 +40,5 @@ alias tig='tig --all'
 alias u8='iconv --from-code cp1250 --to-code utf8'
 alias very=git
 alias wget='wget --continue'
-alias wow='git status'
+alias wow='git st'
 alias youtube-dl='youtube-dl --continue --literal'
