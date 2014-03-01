@@ -52945,3 +52945,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: my problem brings all the devs to the yard and they’re like ‘it’s NP-hard’,
+    damn right, it’s NP-hard, I can teach you, what rhymes with hard
+  author: rebump
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
