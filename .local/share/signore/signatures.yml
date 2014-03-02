@@ -52954,3 +52954,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Even the Vietnamese dong has a cooler symbol than Bitcoin. EVEN THE VIETNAMESE
+    DONG
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Bitcoin
