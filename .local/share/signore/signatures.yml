@@ -52963,3 +52963,14 @@ signatures:
   tags:
   - en
   - Bitcoin
+- !ruby/struct:Signore::Signature
+  text: Sometimes I worry the NSA might be spying on me through my desktop’s webcam.
+    Then I remember it’s Linux and even I can’t get it to work.
+  author: Andrey Petrov
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Linux
+  - NSA
