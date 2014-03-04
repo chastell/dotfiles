@@ -14061,13 +14061,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: To be continued…
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: |-
     Roses are reddish
     Violets are bluish
@@ -19900,15 +19893,6 @@ signatures:
   - en
   - tech
   - DNS
-- !ruby/struct:Signore::Signature
-  text: My coworker was showing off his facial recognition login for win. Went to
-    my desk and printed a pic that had him in it and used it to login.
-  author: Mike O’Brien
-  source: 
-  subject: 
-  tags:
-  - en
-  - security
 - !ruby/struct:Signore::Signature
   text: git checkout -b noʎ_ʞɔnɟ
   author: William Morgan
@@ -25771,18 +25755,6 @@ signatures:
   - tech
   - programming
   - testing
-- !ruby/struct:Signore::Signature
-  text: |-
-    — Przetłumaczysz mi tekst?
-    — Ok, wal.
-    — „Ty pierdolony chuju z tą swoją pierdoloną bandą pojebów!”
-    — To będzie tak… „Szanowny marszałku, wysoka izbo!”
-  author: seth, Phaet
-  source: 
-  subject: 
-  tags:
-  - pl
-  - politics
 - !ruby/struct:Signore::Signature
   text: I’m on a low-fat, high stress diet – coffee and fingernails.
   author: 
@@ -46099,14 +46071,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Sitting awkwardly for your whole journey to accommodate the staggering leg
-    spread of the gentleman beside you.
-  author: Very British Problems
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Podobno będzie ustawa, że wszyscy fanboje Apple muszą nosić opaski z jabłkiem.
   author: reuptake
   source: 
@@ -46569,15 +46533,6 @@ signatures:
   subject: 
   tags:
   - en
-- !ruby/struct:Signore::Signature
-  text: Just had a hipster reserve a table under the name ‘Insomnia’. This shit’s
-    getting out of hand.
-  author: Mangal 2 Restaurant
-  source: 
-  subject: 
-  tags:
-  - en
-  - hipsters
 - !ruby/struct:Signore::Signature
   text: Thanks to kanban’s clear leading indicators, the team started polishing their
     resumes three weeks earlier in the project than usual.
@@ -52974,3 +52929,14 @@ signatures:
   - tech
   - Linux
   - NSA
+- !ruby/struct:Signore::Signature
+  text: "You are in an office.  \nAn exits leads to the north. There is a computer
+    here.\n> git push \nYou have broken the build\n> go north"
+  author: Chris Young
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - Git
