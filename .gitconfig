@@ -31,6 +31,9 @@
 [push]
   default = current
 
+[rebase]
+  autosquash = true
+
 [rerere]
   enabled = 1
 
