@@ -52940,3 +52940,29 @@ signatures:
   - tech
   - work
   - Git
+- !ruby/struct:Signore::Signature
+  text: |-
+    Roses are rot
+    Violets are blau
+    Rhyming in Deutsch
+    Will impress any Frau
+  author: Will Rolls
+  source: 
+  subject: 
+  tags:
+  - en
+  - poetry
+  - linguistics
+- !ruby/struct:Signore::Signature
+  text: |-
+    Roses are rouge
+    Violets are bleu
+    Rhyming in French
+    Is a tad ennuyeux
+  author: Puncroaker
+  source: 
+  subject: 
+  tags:
+  - en
+  - poetry
+  - linguistics
