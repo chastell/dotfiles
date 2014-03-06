@@ -8238,7 +8238,7 @@ signatures:
   - tech
   - Git
 - !ruby/struct:Signore::Signature
-  text: 'Wernher Magnus Maximilian Freiherr von Braun: As if being a rocket scientist
+  text: 'Wernher Magnus Maximilian Freiherr von Braun: as if being a rocket scientist
     weren’t bad ass enough.'
   author: Marcel Molina
   source: 
@@ -13924,15 +13924,6 @@ signatures:
   - de
   - logic
   - gender
-- !ruby/struct:Signore::Signature
-  text: "„Możliwe, że Gadu-Gadu cenzuruje w ten sposób także inne strony internetowe
-    stanowiące agitację polityczną.” Możliwe, że redaktorzy DI posuwają chomiki."
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-  - journalism
 - !ruby/struct:Signore::Signature
   text: 'Właśnie zajrzałem do Wikipedii pod hasło konkordat. Ostatnie cztery: Niemcy
     za Hitlera, Portugalia za Salazara, Hiszpania za Franco, Polska za Kwaśniewskiego.'
@@ -23050,15 +23041,6 @@ signatures:
   - pl
   - House
 - !ruby/struct:Signore::Signature
-  text: I’m not sure how scalable this is; I’m not expecting an outbreak of Romans
-    anytime soon.
-  author: Steven G. Harms
-  source: 
-  subject: on his LatinVerb library’s performance
-  tags:
-  - en
-  - linguistics
-- !ruby/struct:Signore::Signature
   text: "‘That book open on my bed? Oh. That’s the Enterprise D tech manual. I— I
     wasn’t expecting to have women over today.’ #sentencesihavesaid"
   author: Ryan North
@@ -24531,24 +24513,6 @@ signatures:
   tags:
   - en
   - science
-- !ruby/struct:Signore::Signature
-  text: Są na Internecie ludzie, pompy ssące, którzy wysysają energię intelektualną
-    i czujesz się wyczerpana po każdej dyskusji.
-  author: Expert
-  source: pl.sci.medycyna
-  subject: 
-  tags:
-  - pl
-  - Usenet
-- !ruby/struct:Signore::Signature
-  text: Istnieje jednak takie zagrożenie, że Internet wysysa z Ciebie siły witalne.
-    Jest taki syndrom, że czym dłużej dyskutujesz tym bardziej się czujesz wyczerpana.
-  author: Expert
-  source: pl.sci.medycyna
-  subject: 
-  tags:
-  - pl
-  - Usenet
 - !ruby/struct:Signore::Signature
   text: Jeżeli grupa pl.internet.polip ma chronić najwyższe wartości etyczne to zrozumiałe,
     że takie wartości prezentuje kodeks honorowy Usenetu.
@@ -52966,3 +52930,14 @@ signatures:
   - en
   - poetry
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: How come I am told ‘mellon’ is a weak password if it protected the fucking
+    West-gate of Moria.
+  author: Xavier Noria
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - security
+  - Lord of the Rings
