@@ -5557,18 +5557,6 @@ signatures:
   - en
   - newspapers
 - !ruby/struct:Signore::Signature
-  text: We may owe an apology to the Department for Culture, Media and Sport. Last
-    month we dubbed it ‘Whitehall’s answer to Sir Elton John’ after it emerged that
-    it had spent £ 46,000 on pot plants in two years. Now we learn that staff at the
-    Department for Children, Schools and Families spent £ 78,000 on pot plants in
-    a single year. The crown, thus, is theirs.
-  author: 
-  source: The Times
-  subject: 
-  tags:
-  - en
-  - newspapers
-- !ruby/struct:Signore::Signature
   text: A photo caption in the Oct. 22 Style section incorrectly referred to Bill
     O’Reilly as a ‘right-wing pundit’. The Fox News host presents himself as an independent.
   author: 
@@ -15364,13 +15352,6 @@ signatures:
   - pl
   - poetry
 - !ruby/struct:Signore::Signature
-  text: Mamy 100 metrów folii bąbelkowej – witamy w raju.
-  author: Aleksander Dąbrowski
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: |-
     ‘What’s a cubicle?’
     ‘Imagine the most beautiful place on Earth…’
@@ -17711,16 +17692,6 @@ signatures:
   - tech
   - admin
   - Windows
-- !ruby/struct:Signore::Signature
-  text: |-
-    — A bo CMYK i RGB i ten… no… FOCOLTONE tak fachowo i technicznie brzmi.
-    — No mówię ci Zdzichu, ona do mnie, ja ją CMYK, CMYK, robim normalnie eRBeGa a potem bez krępacji ją gaszę „FOCOLTONE stąd, mała, tam sa drzwi!”
-  author: Małgorzata.M, Doktor
-  source: alt.pl.tvn.bigbrother
-  subject: 
-  tags:
-  - pl
-  - graphics
 - !ruby/struct:Signore::Signature
   text: |-
     — Wszędzie zapodają jakiś klasyki wojenne. „Midway”, „Pearl Harbour” i inne. Dlaczego nie „Tora! Tora! Tora!”?
@@ -52941,3 +52912,13 @@ signatures:
   - tech
   - security
   - Lord of the Rings
+- !ruby/struct:Signore::Signature
+  text: How many Bitcoin users does ATTENTION EVERYONE WE HAVE BEEN HACKED AND ALL
+    THE LIGHTBULBS ARE GONE.
+  author: drewtoothpaste
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Bitcoin
