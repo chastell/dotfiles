@@ -7556,16 +7556,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: 'Self-Employment Diary, Day 2: Last night, I dreamt that something fragile
-    and new I was responsible for was dismembered and eaten by a monster. Real subtle,
-    subconscious.'
-  author: Greg Knauss
-  source: 
-  subject: 
-  tags:
-  - en
-  - work
-- !ruby/struct:Signore::Signature
   text: |-
     If people are not trying to hire your employees, you have the wrong employees. And if they
     leave, you have the wrong model.
@@ -21412,16 +21402,6 @@ signatures:
   subject: 
   tags:
   - en
-- !ruby/struct:Signore::Signature
-  text: 'And now, a little song about Git: Die die die die die die die die die die
-    die die in a fire. Sung to the tune of whatever the hell you want.'
-  author: Avdi Grimm
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Git
 - !ruby/struct:Signore::Signature
   text: 'WARNING: if you see tweets offering free clip of the new Nickelback album
     DO NOT CLICK. It links to a free clip of the new Nickelback album.'
@@ -52922,3 +52902,21 @@ signatures:
   - en
   - tech
   - Bitcoin
+- !ruby/struct:Signore::Signature
+  text: 07.03.2014, dostaję do skonsultowania startupowy projekt stworzenia nowego,
+    lepszego Facebooka w oparciu o zestaw gotowych skryptów PHPFox.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: I’m not a Bible person but Proverbs 31:6 speaks to me.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+  - Bible
