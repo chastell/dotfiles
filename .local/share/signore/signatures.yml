@@ -52920,3 +52920,12 @@ signatures:
   - en
   - religion
   - Bible
+- !ruby/struct:Signore::Signature
+  text: I use 2x2 spacer gifs, because Retina.
+  author: Wynn Netherland
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
