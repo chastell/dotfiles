@@ -20373,15 +20373,6 @@ signatures:
   - pl
   - politics
 - !ruby/struct:Signore::Signature
-  text: One way to describe a manhole cover is a sewer lid. However, manhole covers
-    are employed to cover a variety of holes that men (and women) explore for a variety
-    of purposes. I prefer to think of a manhole cover as exactly what an obelisk isn’t.
-  author: Benjamin Mako Hill
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: I’m seventeen and I’m crazy. My uncle says the two always go together. When
     people ask your age, he said, always say seventeen and insane.
   author: Ray Bradbury
@@ -21666,14 +21657,6 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: Mister Worf, show these children the airlock.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - Star Trek
-- !ruby/struct:Signore::Signature
-  text: Very funny, Scotty. Now beam down my clothes.
   author: 
   source: 
   subject: 
@@ -29108,18 +29091,6 @@ signatures:
   - pl
   - education
   - Staszic
-- !ruby/struct:Signore::Signature
-  text: |-
-    NERVE GAS IS NOT A TOY
-    NERVE GAS IS NOT A TOY
-    NERVE GAS IS NOT A TOY
-    NERVE GAS IS NOT A TOY
-  author: Bart Simpson
-  source: Simpsons 2F32
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
 - !ruby/struct:Signore::Signature
   text: Trzydzieści siedem, trzydzieści sześć, trzydzieści osiem…
   author: płk Tadeusz Sieńko
@@ -41535,13 +41506,6 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: Karta amnezji, 16 GB.
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: |-
     — Co tak pieprznęło przy Arkadii?
     — Może Mielżyńskiemu wywrócił się karton szampanów?
@@ -52929,3 +52893,11 @@ signatures:
   - en
   - tech
   - Apple
+- !ruby/struct:Signore::Signature
+  text: 5 nines and only one is upside-down
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
