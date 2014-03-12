@@ -10837,14 +10837,6 @@ signatures:
   - en
   - politics
 - !ruby/struct:Signore::Signature
-  text: I’m altering the sombrero. Pray I don’t alter it further.
-  author: Giles Bowkett
-  source: 
-  subject: 
-  tags:
-  - en
-  - Star Wars
-- !ruby/struct:Signore::Signature
   text: You can tell when you’re working with ‘Enterprise Software Solutions’ because
     the vendor freebies are red T-shirts.
   author: Anthony de Boer
@@ -52909,3 +52901,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Your code is writing cheques your <body> can’t cache… *Presses Cmd+R*
+  author: David Beesley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
