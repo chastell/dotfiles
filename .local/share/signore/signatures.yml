@@ -30007,14 +30007,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: Have a problem → google it → find solution I posted online year ago → ‘damn,
-    I’m smart’.
-  author: Hubert Łępicki
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Co jeszcze trzymamy w beczkach oprócz kapusty i tak dalej.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -52904,6 +52896,14 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Your code is writing cheques your <body> can’t cache… *Presses Cmd+R*
   author: David Beesley
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Starting a startup decelerator because y’all need to hold up a second.
+  author: phooky
   source: 
   subject: 
   tags:
