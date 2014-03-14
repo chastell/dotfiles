@@ -52909,3 +52909,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Ain’t no party like a QA party, ’cause a QA party includes steps to reproduce.
+  author: Nick Arnott
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - testing
