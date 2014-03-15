@@ -52918,3 +52918,11 @@ signatures:
   - en
   - tech
   - testing
+- !ruby/struct:Signore::Signature
+  text: Read ‘it takes a VILLAIN to make a programmer’.
+  author: Anika Lindtner
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
