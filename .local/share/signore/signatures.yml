@@ -31358,7 +31358,7 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Worried that TDD will slow down your programmers? Don't. They probably need
+  text: Worried that TDD will slow down your programmers? Don’t. They probably need
     slowing down.
   author: J. B. Rainsberger
   source: 
@@ -52926,3 +52926,18 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Step 1: We should test all these private and protected functions directly; I don’t trust them.
+    Step 2: I’m sick of jumping through these hoops to test all these private and protected methods. I’ll just make them public.
+    Step 3: I’m sick of setting up all this irrelevant crap in this object just to test this one function. I’m going to move it.
+    Step 4: Oh!
+    Step 5, months later: Don’t we have something that does X? We do? Is it public and relatively independent? Great! We’re smart.
+  author: J. B. Rainsberger
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
