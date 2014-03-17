@@ -52941,3 +52941,12 @@ signatures:
   - tech
   - programming
   - testing
+- !ruby/struct:Signore::Signature
+  text: The best thing about staying in a hotel is all the chances they give you to
+    help the environment. Without hotels the planet would be fucked.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - hotels
