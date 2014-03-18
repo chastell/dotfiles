@@ -52950,3 +52950,10 @@ signatures:
   tags:
   - en
   - hotels
+- !ruby/struct:Signore::Signature
+  text: Jaram się tym jak włoska spalarnia śmieci na zdjętych filtrach.
+  author: spin
+  source: HS WAW OT
+  subject: 
+  tags:
+  - pl
