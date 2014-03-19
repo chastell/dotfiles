@@ -52957,3 +52957,14 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: I want to put up a job advert that says ‘no more than 5 years of Java experience’.
+  author: Richard Minerich
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+  - work
