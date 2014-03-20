@@ -52968,3 +52968,11 @@ signatures:
   - programming
   - Java
   - work
+- !ruby/struct:Signore::Signature
+  text: My ideal self, who works out and gets a haircut regularly, is probably really
+    enjoying all these articles I’m saving to Instapaper.
+  author: Brandon Mathis
+  source: 
+  subject: 
+  tags:
+  - en
