@@ -52976,3 +52976,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: First the NSA came for, well, jeez pretty much everybody’s data at this point,
+    and I said nothing because wait how does this joke work
+  author: Parker Higgins
+  source: 
+  subject: 
+  tags:
+  - en
+  - NSA
