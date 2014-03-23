@@ -17207,18 +17207,6 @@ signatures:
   - programming
   - C
 - !ruby/struct:Signore::Signature
-  text: C gives you enough rope to hang yourself. C++ also gives you the tree object
-    to tie it to.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - C
-  - C++
-- !ruby/struct:Signore::Signature
   text: Różnica jak między ornitologiem a wróblem – wróbel jest o wiele bliżej ostatecznej
     prawdy o ptakach, ale nie jest tego świadomy.
   author: Dudla
@@ -39035,16 +39023,6 @@ signatures:
   - tech
   - RDF
 - !ruby/struct:Signore::Signature
-  text: Philip Arndt says he doesn’t understand the state machine problem, but will
-    happily charge $100/hr to consult on it. He’ll go far.
-  author: Ryan Bigg
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-- !ruby/struct:Signore::Signature
   text: I just realized that book reviewers GET PAID TO READ BOOKS. I went into the
     wrong field.
   author: Avdi Grimm
@@ -41489,15 +41467,6 @@ signatures:
   tags:
   - pl
   - work
-- !ruby/struct:Signore::Signature
-  text: |-
-    — Co tak pieprznęło przy Arkadii?
-    — Może Mielżyńskiemu wywrócił się karton szampanów?
-  author: Filip Tepper, reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
 - !ruby/struct:Signore::Signature
   text: Widziałem dziś coś co przypominało gigantyczny zombie walk, a okazało się
     ecco waltkathonem czy jak to się tam zwie.
@@ -52985,3 +52954,13 @@ signatures:
   tags:
   - en
   - NSA
+- !ruby/struct:Signore::Signature
+  text: |-
+    How much caffeine is in a can of Full Throttle? Okay and what’s that times twelve? Haha kidding I did the math in my head then proved P=NP.
+    I’m not saying I’ve had too much caffeine but there are 162 characters in this tweet,  a new personal best.
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - caffeine
