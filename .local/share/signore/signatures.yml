@@ -52964,3 +52964,11 @@ signatures:
   tags:
   - en
   - caffeine
+- !ruby/struct:Signore::Signature
+  text: 'Fun fact: When my kid watches ‘Terminator’ I will have to explain the concept
+    of a phonebook, but not an autonomous robot killing machine.'
+  author: Asa Shumskas-Tait
+  source: 
+  subject: 
+  tags:
+  - en
