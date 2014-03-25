@@ -44111,13 +44111,6 @@ signatures:
   - pl
   - SMS
 - !ruby/struct:Signore::Signature
-  text: 'New book: ‘Poor Self-Concept for Dummies’.'
-  author: Michael D. Hill
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Yo dawg I heard you like databases so I put 3,915 JSON objects into a MySQL
     LONGTEXT field.
   author: Sheeri K. Cabral
@@ -52972,3 +52965,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Ha, ha! I know! I’ll try entering an emoji into my program.’
+    [Six hours of MySQL upgrades, ALTERs and charset fixes later…]
+    ‘Ha ha!’
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MySQL
