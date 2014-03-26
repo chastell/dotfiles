@@ -24476,15 +24476,6 @@ signatures:
   - Unix
   - drugs
 - !ruby/struct:Signore::Signature
-  text: echo '[q]sa[ln0=aln256%Pln256/snlbx]sb3135071790101768542287578439snlbxq'
-    | dc
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-- !ruby/struct:Signore::Signature
   text: |-
     — Stąd pytanko: na czym polega aktualne wsparcie PostgreSQL-a dla Unikodu?
     — Wsparcie polega z grubsza na tym, że PostgreSQL nie wysypuje się.
@@ -43047,14 +43038,6 @@ signatures:
   - Ruby
   - Rails
 - !ruby/struct:Signore::Signature
-  text: Czasem myślę, że jak smutny jestem to to wina ruskiej manipulacji świadomością.
-  author: Gattuso
-  source: 
-  subject: 
-  tags:
-  - pl
-  - politics
-- !ruby/struct:Signore::Signature
   text: Dla ludzi poniżej 18 roku życia Internet powinien być tylko do odczytu.
   author: Rafał
   source: 
@@ -52977,3 +52960,11 @@ signatures:
   - en
   - tech
   - MySQL
+- !ruby/struct:Signore::Signature
+  text: Don’t you hate it when you think you’re doing something wrong, but it turns
+    out you aren’t?
+  author: Marta Paciorkowska
+  source: 
+  subject: 
+  tags:
+  - en
