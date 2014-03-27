@@ -12285,16 +12285,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: |-
-    — Przed chwilą ktoś przez otwarte okno wrzucił mi do domu petardę, która wybuchła blisko kota. Jak sprawdzić czy kot nie ogłuchł?
-    — Otwórz lodówkę.
-  author: Spider.pl, Adam Płaszczyca
-  source: prz.koty
-  subject: 
-  tags:
-  - pl
-  - cats
-- !ruby/struct:Signore::Signature
   text: "…a tak, Fedora, temat mojego doktoratu „Wpływ dystrybucji, które mnie nie
     interesują, na dalszy brak zainteresowania”. Wytrzymała trzy godziny gdy ją testowałem
     – wszystkie niedojebki dystrybucji niestabilnych i estetyka Windows 2000."
@@ -26803,15 +26793,6 @@ signatures:
   - en
   - tech
   - admin
-- !ruby/struct:Signore::Signature
-  text: Jeden z kustoszy zwariował. Krzyczy, że nas wyzabija, jeśli zamiast Toshiby
-    z Win7 nie dostanie z powrotem Łucznika z kolorowym tuszem!
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
-  - museum
 - !ruby/struct:Signore::Signature
   text: Just discovered git rebase --interactive --autosquash. Holy shit. Will never
     again need to do any work.
@@ -52968,3 +52949,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Object-oriented programming is a style of programming where we pretend not
+    everything is a function for some reason.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
