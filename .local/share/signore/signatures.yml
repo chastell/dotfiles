@@ -839,15 +839,6 @@ signatures:
   - pl
   - asylum
 - !ruby/struct:Signore::Signature
-  text: |-
-    — I pomyśleć, że Artur się dziś żeni… a jeszcze wczoraj raczkowało to na czworakach po podwórku, taplało się w kałużach, gaworzyło…
-    — Czyli wieczór kawalerski miał udany.
-  author: boogeyman, presto
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: "„Zostawić wszystko w cholerę” sezon 4, odc. 10: „Apogeum”."
   author: reuptake
   source: 
@@ -52959,3 +52950,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: I am a Unix Creationist. I believe the world was created on January 1, 1970
+    and as prophesized, will end on January 19, 2038.
+  author: Tero Parviainen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Unix
