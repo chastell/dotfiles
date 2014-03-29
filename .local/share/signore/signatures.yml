@@ -52970,3 +52970,11 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    Dentist: Do you floss regularly?
+    Me: Do you back up your computer data regularly?
+  author: Scott McAlister
+  source: 
+  subject: 
+  tags: []
