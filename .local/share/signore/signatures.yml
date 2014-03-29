@@ -52960,3 +52960,13 @@ signatures:
   - en
   - tech
   - Unix
+- !ruby/struct:Signore::Signature
+  text: 5 out of 4.99999999991, would JavaScript again
+  author: Stephan Seidt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
