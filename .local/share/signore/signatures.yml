@@ -52978,3 +52978,10 @@ signatures:
   source: 
   subject: 
   tags: []
+- !ruby/struct:Signore::Signature
+  text: Invest in whoever makes those shopping trolley chain locking things.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
