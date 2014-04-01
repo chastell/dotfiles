@@ -12432,15 +12432,6 @@ signatures:
   - programming
   - Lisp
 - !ruby/struct:Signore::Signature
-  text: Jak się chce sprzedawać tulipana, to się go nazywa tulipan Carla Bruni, a
-    nie tulipan Maria Kaczyńska.
-  author: DrYoung
-  source: 
-  subject: 
-  tags:
-  - pl
-  - politics
-- !ruby/struct:Signore::Signature
   text: Nie ma śledzi bez róży. I kolców.
   author: opi
   source: 
@@ -22402,15 +22393,6 @@ signatures:
   - pl
   - sport
 - !ruby/struct:Signore::Signature
-  text: Ta akcja była piękna - drybling przez całe boisko, piwot, to zawieszenie przeciwnika
-    w koszu – fantastyczne!
-  author: Włodzimierz Szaranowicz
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
   text: Włodek Smolarek krąży jak elektron koło jądra Zbyszka Bońka.
   author: Dariusz Szpakowski
   source: 
@@ -22582,14 +22564,6 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Można to wyczytać z wyrazu twarzy konia, gdy jest zbliżenie.
   author: Wojciech Mickunas
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
-  text: W 56. minucie goście na wszelki wypadek podwyższają na 3:1.
-  author: Dariusz Szpakowski
   source: 
   subject: 
   tags:
@@ -52985,3 +52959,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: True love’s okay but a series of false loves gives you more variety.
+  author: 
+  source: Oglaf
+  subject: 
+  tags:
+  - en
+  - sex
