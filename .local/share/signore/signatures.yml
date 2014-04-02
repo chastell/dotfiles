@@ -37886,7 +37886,9 @@ signatures:
   - en
   - work
 - !ruby/struct:Signore::Signature
-  text: "— Chciałbyś nauczyć się asertywności? \n— Nie."
+  text: |-
+    — Chciałbyś nauczyć się asertywności?
+    — Nie.
   author: pico, equalidoo23
   source: 
   subject: 
@@ -52967,3 +52969,10 @@ signatures:
   tags:
   - en
   - sex
+- !ruby/struct:Signore::Signature
+  text: 'OH: It doesn’t matter the clothes you were, it matters the clothes you ARE.'
+  author: Josep M. Bach
+  source: 
+  subject: 
+  tags:
+  - en
