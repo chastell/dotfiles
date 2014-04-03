@@ -52976,3 +52976,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If you watch the Social Network backwards, it’s about a man gaining more friends
+    and a girlfriend as he spends less time on Facebook.
+  author: I Am Devloper
+  source: 
+  subject: 
+  tags:
+  - en
+  - Facebook
