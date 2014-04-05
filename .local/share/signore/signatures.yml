@@ -25596,14 +25596,6 @@ signatures:
   - en
   - sanity
 - !ruby/struct:Signore::Signature
-  text: Nazywanie papugi zwierzęciem jest po prostu śmieszne.
-  author: Expert
-  source: pl.news.nowe-grupy
-  subject: 
-  tags:
-  - pl
-  - Usenet
-- !ruby/struct:Signore::Signature
   text: There is a thin, red line between eccentricity and insanity. That thin red
     line is a tiny pink dot to me.
   author: 
@@ -52997,3 +52989,16 @@ signatures:
   - tech
   - programming
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Check out these new torx screwdrivers we bought!’
+    ‘But we only have phillips screws.’
+    ‘Yeah but new screwdrivers!’
+    — programming
+  author: jake.computer
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
