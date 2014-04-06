@@ -53002,3 +53002,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'OH: Programmers are almost as good at reading documentation as they are at
+    writing it.'
+  author: Tomash
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - documentation
