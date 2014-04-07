@@ -53003,6 +53003,14 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
+  text: Pianists will no longer continue playing pianos that have been detonated.
+  author: 
+  source: The Sims patch notes
+  subject: 
+  tags:
+  - en
+  - gaming
+- !ruby/struct:Signore::Signature
   text: 'OH: Programmers are almost as good at reading documentation as they are at
     writing it.'
   author: Tomash
