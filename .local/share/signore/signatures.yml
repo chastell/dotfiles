@@ -38562,14 +38562,6 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: TIL if you leave two car lengths in front of you on a Florida highway, three
-    cars pull into it.
-  author: Solomon White
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Matz doesn’t parallelize so we don’t parallelize.
   author: Gary Bernhardt
   source: 
@@ -53010,6 +53002,16 @@ signatures:
   tags:
   - en
   - gaming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘HELP!’ Joe pants.
+    ‘WHAT IS IT JOE?’ I belt.
+    ‘I THINK SOMEBODY SWITCHED OUR ARTICULATORY VERBS WITH CLOTHING WORDS.’ He cardigans.
+  author: GI Bro
+  source: 
+  subject: 
+  tags:
+  - en
 - !ruby/struct:Signore::Signature
   text: 'OH: Programmers are almost as good at reading documentation as they are at
     writing it.'
