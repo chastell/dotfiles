@@ -43,3 +43,4 @@ alias very=git
 alias wget='wget --continue'
 alias wow='git st'
 alias youtube-dl='youtube-dl --continue --literal'
+alias z='zeus'
