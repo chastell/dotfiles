@@ -53023,3 +53023,12 @@ signatures:
   - tech
   - programming
   - documentation
+- !ruby/struct:Signore::Signature
+  text: 'There are only two hard problems in computer science: cache invalidation
+    and rampant misogyny.'
+  author: Kieran Healy
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
