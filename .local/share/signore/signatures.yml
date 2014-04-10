@@ -53032,3 +53032,15 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Hooray, Lenovo makes a freestanding version of my laptop keyboard, complete with trackpoint!’
+    ‘I hear if you pair it with an iPad it jailbreaks itself purely out of intimidation.’
+  author: Avdi Grimm, Nick Gauthier
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - ThinkPad
+  - iPad
