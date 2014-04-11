@@ -53044,3 +53044,13 @@ signatures:
   - tech
   - ThinkPad
   - iPad
+- !ruby/struct:Signore::Signature
+  text: I dream of a world where everyone enables ‘show whitespace’ option in their
+    IDE, so they can gaze upon the horror they have wrought.
+  author: Josh Klun
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
