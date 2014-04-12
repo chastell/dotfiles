@@ -52995,6 +52995,14 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
+  text: Sims can no longer ‘Try for Baby’ with the Grim Reaper.
+  author: 
+  source: The Sims patch notes
+  subject: 
+  tags:
+  - en
+  - gaming
+- !ruby/struct:Signore::Signature
   text: Pianists will no longer continue playing pianos that have been detonated.
   author: 
   source: The Sims patch notes
