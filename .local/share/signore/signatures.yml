@@ -53054,3 +53054,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I just walked past a homeless man asking for change with a GitHub mug.’
+    ‘Did you explain the meritocracy to him?’
+  author: Steve Klabnik, @moonpolysoft
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - GitHub
