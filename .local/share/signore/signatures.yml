@@ -14208,17 +14208,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: |-
-    <philcostin> a bad workman blames his fools
-    <philcostin> *tools
-    <philcostin> damn keyboard
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - work
-- !ruby/struct:Signore::Signature
   text: Reading through Zope’s Virtual Host Monster documentation evokes that sort
     of surrealist prose in which one recognizes all the words but can’t be sure whether
     or not they’re actually intended to mean something when strung together.
@@ -52996,6 +52985,15 @@ signatures:
   - programming
 - !ruby/struct:Signore::Signature
   text: Sims can no longer ‘Try for Baby’ with the Grim Reaper.
+  author: 
+  source: The Sims patch notes
+  subject: 
+  tags:
+  - en
+  - gaming
+- !ruby/struct:Signore::Signature
+  text: Sims who are on fire will no longer be forced to attend graduation before
+    they can put themselves out.
   author: 
   source: The Sims patch notes
   subject: 
