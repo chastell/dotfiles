@@ -53009,6 +53009,15 @@ signatures:
   - en
   - gaming
 - !ruby/struct:Signore::Signature
+  text: Fixed an issue that caused Sims to leave their Toddler inside a bar at closing
+    time.
+  author: 
+  source: The Sims patch notes
+  subject: 
+  tags:
+  - en
+  - gaming
+- !ruby/struct:Signore::Signature
   text: |-
     ‘HELP!’ Joe pants.
     ‘WHAT IS IT JOE?’ I belt.
