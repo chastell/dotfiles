@@ -25404,15 +25404,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: At lunch time, sit in your parked car with sunglasses on and point a hair
-    dryer at passing cars. See if they slow down.
-  author: 
-  source: How to Keep a Healthy Level of Insanity
-  subject: 
-  tags:
-  - en
-  - work
-- !ruby/struct:Signore::Signature
   text: Przewidywany program koncertu to czas rzędu dwóch części po 50 minut gdzie
     pomiędzy nimi zastosuje się przerwę podczas której odbędzie się przedstawienie
     dwóch zespołów grających na jednej platformie.
@@ -34254,16 +34245,6 @@ signatures:
   - pl
   - education
   - Staszic
-- !ruby/struct:Signore::Signature
-  text: I found a bug in Firefox’s rendering of blinking red bold scrolling marquees
-    that evening.
-  author: Gregory Brown
-  source: 
-  subject: on the night Jordan Byron came up with spotthebaddy.com
-  tags:
-  - en
-  - tech
-  - programming
 - !ruby/struct:Signore::Signature
   text: Don’t kid yourself. There is a full-on arms race going on right now against
     Skype to understand their UI. And they are winning.
@@ -53011,6 +52992,15 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Fixed an issue that caused Sims to leave their Toddler inside a bar at closing
     time.
+  author: 
+  source: The Sims patch notes
+  subject: 
+  tags:
+  - en
+  - gaming
+- !ruby/struct:Signore::Signature
+  text: The Grim Reaper will no longer be prevented from reaping souls due to band
+    affiliation.
   author: 
   source: The Sims patch notes
   subject: 
