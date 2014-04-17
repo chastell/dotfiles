@@ -53070,3 +53070,11 @@ signatures:
   - en
   - tech
   - GitHub
+- !ruby/struct:Signore::Signature
+  text: Any salad can be a Caesar salad if you stab it long enough.
+  author: Marta Paciorkowska
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
