@@ -53078,3 +53078,20 @@ signatures:
   tags:
   - en
   - food
+- !ruby/struct:Signore::Signature
+  text: Na szczęście każdy z nas posiadł wiedzę Konsultanta Biznesowego Innym i rządzi
+    żelazną pięścią portfolio produktów „ja bym to zrobił inaczej” i „wydaje mi się”.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: Unfortunately, as you probably already know, state.
+  author: Florian Gilcher
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
