@@ -53095,3 +53095,16 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    here’s a quick haiku about mornings:
+    no no no no no
+    no no no no no no no
+    no no no no no
+  author: Mi-catte
+  source: 
+  subject: 
+  tags:
+  - en
+  - poetry
+  - haiku
