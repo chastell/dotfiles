@@ -53108,3 +53108,12 @@ signatures:
   - en
   - poetry
   - haiku
+- !ruby/struct:Signore::Signature
+  text: I just had a phone call come in to my Twitter device, wow. I really gotta
+    find out how to delete that app.
+  author: Spirit of Ubuntu
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
