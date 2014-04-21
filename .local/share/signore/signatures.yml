@@ -53117,3 +53117,15 @@ signatures:
   tags:
   - en
   - Twitter
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘TV stops working because http://samsung.com  is down. Simply spoof some XML and hey presto, you can watch TV again!’
+    A TV so simple and magical that even a mum with tcpdump and a DNS server and an XML editor can use it!’
+  author: ntlk, Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Samsung
+  - XML
