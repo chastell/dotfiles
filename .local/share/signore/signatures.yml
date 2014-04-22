@@ -53129,3 +53129,12 @@ signatures:
   - tech
   - Samsung
   - XML
+- !ruby/struct:Signore::Signature
+  text: Why do people always congratulate people for selling their company and (most
+    likely) fucking their users over?
+  author: Thomas Fuchs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
