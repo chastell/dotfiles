@@ -53138,3 +53138,16 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Take me down
+    To the Paradise City
+    Where the yaks are shaved
+    And stack traces are pretty
+  author: Michael Klishin
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
