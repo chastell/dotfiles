@@ -53151,3 +53151,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘OH NO, ERGODOX HAS A CAPSLOCK KEY BUT I DON’T KNOW WHICH ONE IT IS!’
+    ‘Press each key carefully until you feel a slight sinking feeling in your soul. That one’s caps lock.’
+  author: Drew Neil, Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - keyboards
