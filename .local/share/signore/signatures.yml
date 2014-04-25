@@ -25209,15 +25209,6 @@ signatures:
   - pl
   - Usenet
 - !ruby/struct:Signore::Signature
-  text: Poza tym jest to pierwsza na świecie międzynarodowa grupa usenetowa, która
-    powstała we współpracy polsko-amerykańskiej.
-  author: Expert
-  source: pl.news.admin
-  subject: o swojej grupie alt.jacek
-  tags:
-  - pl
-  - Usenet
-- !ruby/struct:Signore::Signature
   text: Napisz do swojego administratora, żeby ją włączył, gdyż inaczej będzie dostępna
     jedynie w kręgach elity światowego Usenetu, omijając nasz kraj.
   author: Expert
@@ -53162,3 +53153,16 @@ signatures:
   - en
   - tech
   - keyboards
+- !ruby/struct:Signore::Signature
+  text: |-
+    Engineer:
+    1900 Can build a bridge
+    1960 Can assemble computer from parts
+    1995 Knows how to compile kernel
+    2014 Makes button blink w jQuery
+  author: Nick Sokolov
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
