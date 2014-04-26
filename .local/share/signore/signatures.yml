@@ -5113,15 +5113,6 @@ signatures:
   - religion
   - gaming
 - !ruby/struct:Signore::Signature
-  text: Sądzę, że gdyby kobiety dawały mi wyraźne znaki, ułatwiłoby to życie znacznie.
-    Na przykład chorągiewkami.
-  author: elpanda
-  source: 
-  subject: 
-  tags:
-  - pl
-  - relationships
-- !ruby/struct:Signore::Signature
   text: For the sake of topic titles, I’d rather if Monty saved Python.
   author: Anonymous Coward
   source: "/."
@@ -53166,3 +53157,14 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I will start writing plays about computers. First draft title: “En attendant JIRA”.’
+    ‘Act 1 Scene 1: Man smashing laptop with a hammer. This continues for 60 straight minutes. End scene.’
+  author: Florian Gilcher, dan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JIRA
