@@ -53168,3 +53168,12 @@ signatures:
   - en
   - tech
   - JIRA
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘In Germany, Ewan McGregor, Owen Wilson, Orlando Bloom, Guy Pearce, Neil Patrick Harris, and Jamie Bamber (BSG) all sound the same. Would love to see a dubbed movie featuring all of them.’
+    ‘You thought they were all different people, didn’t you? Acting.’
+  author: Konstantin Haase, Jamie Gaskins
+  source: 
+  subject: 
+  tags:
+  - en
