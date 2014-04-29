@@ -53194,3 +53194,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    One su to rule them all,
+    one grep to find them,
+    one && to bring them all
+    and in the darkness bind them.
+  author: Marta Paciorkowska
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
