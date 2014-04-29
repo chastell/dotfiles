@@ -53186,3 +53186,11 @@ signatures:
   subject: 
   tags:
   - de
+- !ruby/struct:Signore::Signature
+  text: 'Funny that one of the accepted uses of the word literally is an antonym of
+    the word literally but funnier still: every other planet is dead.'
+  author: thomas violence
+  source: 
+  subject: 
+  tags:
+  - en
