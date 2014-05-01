@@ -13570,6 +13570,7 @@ signatures:
   tags:
   - pl
   - geek
+  - tech
 - !ruby/struct:Signore::Signature
   text: Words fail me. Thank goodness I can make gestures.
   author: Mark Hughes
@@ -53206,3 +53207,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Same sex marriage isn’t gay privilege, it’s equal rights. Privilege would
+    be something like gay people not paying taxes. Like churches don’t.
+  author: Ricky Gervais
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
