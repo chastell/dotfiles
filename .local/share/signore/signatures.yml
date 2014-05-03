@@ -53225,3 +53225,13 @@ signatures:
   - en
   - food
   - diet
+- !ruby/struct:Signore::Signature
+  text: The best Medium articles are when the Typekit JavaScript isn’t loading and
+    they just become a photo with several pages of whitespace.
+  author: gwire
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
