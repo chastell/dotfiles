@@ -1,108 +1,131 @@
-" begin Vundle setup
+" Vundle
 set nocompatible
 filetype off
-set runtimepath+=$HOME/coding/vundle
-call vundle#rc()
-
-Bundle 'AutoTag'
-Bundle 'Parameter-Text-Objects'
-Bundle 'SuperTab-continued.'
-Bundle 'Syntastic'
-Bundle 'Tabular'
-Bundle 'Tagbar'
-Bundle 'The-NERD-tree'
-Bundle 'abolish.vim'
-Bundle 'ctrlp.vim'
-Bundle 'ekalinin/Dockerfile.vim'
-Bundle 'endwise.vim'
-Bundle 'fugitive.vim'
-Bundle 'jtratner/vim-flavored-markdown'
-Bundle 'koron/nyancat-vim'
-Bundle 'matchit.zip'
-Bundle 'slim-template/vim-slim'
-Bundle 'surround.vim'
-Bundle 'tComment'
-Bundle 'textobj-rubyblock'
-Bundle 'textobj-user'
-Bundle 'unimpaired.vim'
-Bundle 'vim-orgmode'
-Bundle 'visSum.vim'
-
-" end Vundle setup
+set runtimepath+=$HOME/.vim/bundle/vundle
+call vundle#begin()
+Plugin 'gmarik/vundle'
+Plugin 'craigemery/vim-autotag'
+Plugin 'ekalinin/Dockerfile.vim'
+Plugin 'ervandew/supertab'
+Plugin 'godlygeek/tabular'
+Plugin 'henrik/git-grep-vim'
+Plugin 'jeffkreeftmeijer/vim-numbertoggle'
+Plugin 'jtratner/vim-flavored-markdown'
+Plugin 'kana/vim-textobj-user'
+Plugin 'kien/ctrlp.vim'
+Plugin 'majutsushi/tagbar'
+Plugin 'nelstrom/vim-textobj-rubyblock'
+Plugin 'scrooloose/nerdtree'
+Plugin 'scrooloose/syntastic'
+Plugin 'slim-template/vim-slim'
+Plugin 'tpope/vim-commentary'
+Plugin 'tpope/vim-endwise'
+Plugin 'tpope/vim-fugitive'
+Plugin 'tpope/vim-surround'
+Plugin 'tpope/vim-unimpaired'
+Plugin 'vim-scripts/matchit.zip'
+call vundle#end()
 filetype plugin indent on
 
-" indenting
-set autoindent shiftround smartindent
+" autocmd
+autocmd BufRead,BufNewFile *.md              set filetype=markdown
+autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
+autocmd BufRead,BufNewFile *.ru              set filetype=ruby
+autocmd BufRead,BufNewFile parade            set filetype=ruby
+autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
+autocmd BufReadPost fugitive://* set bufhidden=delete
+autocmd FileType help wincmd L
+autocmd FileType json setlocal equalprg=python\ -m\ json.tool
+autocmd FocusLost * :silent! wall
+autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
 
-" tabs
-set expandtab shiftwidth=2 tabstop=2
-
-" search
-set gdefault ignorecase incsearch nohlsearch smartcase
-
-" rewrapping
-set formatprg=lovely-rufus nojoinspaces
-
-" options
-set backspace=indent,eol,start
-set laststatus=2
-
-" GUI
-colorscheme torte
-let loaded_matchparen = 1
-set guifont=Ubuntu\ Mono\ 14 guioptions-=m guioptions-=T
-set list listchars=extends:»,nbsp:_,precedes:«,tab:▸\ ,trail:·
-set nowrap
-set showbreak=↪
-set showcmd
-set t_Co=256
-syntax sync minlines=256
-
-" tab-completion
-set completeopt=menu,longest
-set wildignorecase
-set wildmode=list:longest
-
-" misc
-let NERDTreeHijackNetrw = 1
-let NERDTreeQuitOnOpen = 1
-let g:ctrlp_extensions = ['tag']
-let g:ctrlp_working_path_mode = 0
-let g:tagbar_autoclose = 1
+" gui
 set clipboard=unnamedplus
-set directory=/tmp//
-set hidden
-set history=10000
-set mouse=
-set nrformats=hex
-set splitbelow splitright
-set ttyfast
-set undodir=/tmp//
-set undofile
-set winwidth=80
 
-" mappings
-let mapleader = ','
+" map
+let mapleader = ' '
 nnoremap <c-h>      <c-w>h
 nnoremap <c-j>      <c-w>j
 nnoremap <c-k>      <c-w>k
 nnoremap <c-l>      <c-w>l
-nnoremap <s-down>   O<esc><down>
 nnoremap <leader>b  :CtrlPBuffer<enter>
-nnoremap <c-b>      :CtrlPBuffer<enter>
 nnoremap <leader>f  :CtrlPTag<enter>
 nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>p  gqip
 nnoremap <leader>r  :silent! wall<enter>:!rake<enter>
 nnoremap <leader>t= :Tab /=<enter>
+nnoremap <s-down>   O<esc><down>
 nnoremap <space>    :
-nnoremap j          gj
-nnoremap k          gk
 nnoremap U          :syntax sync fromstart<enter>:redraw!<enter>
 nnoremap Y          Vy
+nnoremap j          gj
+nnoremap k          gk
 vnoremap <leader>t= :Tab /=<enter>
 vnoremap p          pgvy
+
+" options
+set autoindent
+set backspace=indent,eol,start
+set completeopt=menu,longest
+set directory=/tmp//
+set expandtab
+set formatprg=lovely-rufus
+set gdefault
+set grepprg=ag\ --nocolor\ --nogroup
+set guifont=Ubuntu\ Mono\ 13
+set guioptions-=T
+set hidden
+set history=10000
+set ignorecase
+set incsearch
+set laststatus=2
+set list
+set listchars=extends:»,nbsp:_,precedes:«,tab:▸\ ,trail:·
+set mouse=
+set nohlsearch
+set nojoinspaces
+set nowrap
+set nrformats=hex
+set shiftround
+set shiftwidth=2
+set showbreak=↪
+set showcmd
+set smartcase
+set smartindent
+set splitbelow
+set splitright
+set tabstop=2
+set ttyfast
+set undodir=/tmp//
+set undofile
+set wildignorecase
+set wildmode=list:longest
+set winwidth=80
+
+" term
+set t_Co=256
+
+" various
+set shell=$SHELL
+
+" syntax
+colorscheme torte
+highlight ColorColumn ctermbg=235 guibg=#222222
+let &colorcolumn="80,".join(range(120,999),",")
+syntax sync minlines=256
+
+" ctrlp
+let g:ctrlp_extensions        = ['tag']
+let g:ctrlp_use_caching       = 0
+let g:ctrlp_user_command      = 'ag %s -l --nocolor -g ""'
+let g:ctrlp_working_path_mode = 0
+
+" nerdtree
+let NERDTreeQuitOnOpen = 1
+
+" tagbar
+let g:tagbar_autoclose = 1
 
 " fake '|' as text object
 nnoremap ca\| F\|c,
@@ -123,67 +146,3 @@ nnoremap va/ F/v,
 nnoremap vi/ T/v,
 nnoremap ya/ F/y,
 nnoremap yi/ T/y,
-
-" filetypes
-autocmd BufRead,BufNewFile *.install         set filetype=php
-autocmd BufRead,BufNewFile *.md              set filetype=markdown
-autocmd BufRead,BufNewFile *.module          set filetype=php
-autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
-autocmd BufRead,BufNewFile *.ru              set filetype=ruby
-autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
-autocmd BufRead,BufNewFile parade            set filetype=ruby
-
-" help in vertical split
-autocmd FileType help wincmd L
-
-" autosave and return to normal mode
-autocmd FocusLost * :silent! wall
-autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
-
-" autoremove Fugitive buffers
-autocmd BufReadPost fugitive://* set bufhidden=delete
-
-autocmd FileType json setlocal equalprg=python\ -m\ json.tool
-
-" mark 80 and 120+ columns
-highlight ColorColumn ctermbg=235 guibg=#222222
-let &colorcolumn="80,".join(range(120,999),",")
-
-function! OpenTestAlternate()
-  let new_file = AlternateForCurrentFile()
-  exec ':e ' . new_file
-endfunction
-function! AlternateForCurrentFile()
-  let current_file = expand("%")
-  let new_file = current_file
-  let in_spec = match(current_file, '^spec/') != -1
-  let going_to_spec = !in_spec
-  let in_app = match(current_file, '\<controllers\>') != -1 || match(current_file, '\<models\>') != -1 || match(current_file, '\<views\>') != -1 || match(current_file, '\<helpers\>') != -1
-  if going_to_spec
-    if in_app
-      let new_file = substitute(new_file, '^app/', '', '')
-    end
-    let new_file = substitute(new_file, '^lib/', '', '')
-    let new_file = substitute(new_file, '\.rb$', '_spec.rb', '')
-    let new_file = 'spec/' . new_file
-  else
-    let new_file = substitute(new_file, '_spec\.rb$', '.rb', '')
-    let new_file = substitute(new_file, '^spec/', '', '')
-    let new_file = substitute(new_file, '^', 'lib/', '')
-    if in_app
-      let new_file = 'app/' . new_file
-    end
-  endif
-  return new_file
-endfunction
-nnoremap <leader>. :call OpenTestAlternate()<cr>
-nnoremap <leader>o <c-w>o <c-w>v <c-w>w :call OpenTestAlternate()<cr>
-
-function! PromoteToLet()
-  :normal! dd
-  :normal! P
-  :.s/\(\w\+\) \+= \(.*\)$/let(:\1) { \2 }/
-  :normal ==
-endfunction
-:command! PromoteToLet :call PromoteToLet()
-noremap <leader>let :PromoteToLet<enter>
