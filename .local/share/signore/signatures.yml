@@ -53243,3 +53243,12 @@ signatures:
   tags:
   - en
   - religion
+- !ruby/struct:Signore::Signature
+  text: If ‘Code is Poetry™’ then mine is a mix of dadaism and drunken cursing.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
