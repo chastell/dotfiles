@@ -53235,3 +53235,11 @@ signatures:
   - en
   - tech
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Remember kids, if you don’t sin, then Jesus died for nothing.
+  author: Ricky Gervais
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
