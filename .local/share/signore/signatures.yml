@@ -53252,3 +53252,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    moje życie składa się z dwóch rodzajów dni
+    1) boję się wstawać z łóżka
+    2) słusznie się bałem
+  author: brvbul
+  source: 
+  subject: 
+  tags:
+  - pl
