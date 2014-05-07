@@ -53262,3 +53262,12 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: They should punish kids who do well in school with more homework to prepare
+    them for what happens to people who are efficient at their jobs.
+  author: Ann Trollter
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
