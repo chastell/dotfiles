@@ -29,6 +29,8 @@ Plugin 'vim-scripts/matchit.zip'
 call vundle#end()
 filetype plugin indent on
 
+let loaded_matchparen = 1
+
 " autocmd
 autocmd BufRead,BufNewFile *.md              set filetype=markdown
 autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
