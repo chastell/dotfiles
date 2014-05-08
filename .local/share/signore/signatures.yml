@@ -48804,7 +48804,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: Receiving an email ending in ‘regards’ and wondering what you've done to cause
+  text: Receiving an email ending in ‘regards’ and wondering what you’ve done to cause
     so much anger.
   author: Very British Problems
   source: 
@@ -53271,3 +53271,13 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: We need a ‘these companies use OSS but don’t pay for it’ site, with a ‘Donate’
+    button to remove your name from the list.
+  author: Joshua Ballanco
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
