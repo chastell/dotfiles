@@ -53281,3 +53281,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: The word ‘spondee’ is not a spondee and the word ‘dactyl’ is not a dactyl.
+    The word ‘iamb’ is a spondee and English is shit.
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
