@@ -15516,7 +15516,7 @@ signatures:
     lojalnym. Za to serdecznie dziękuję, panie premierze.
   author: Kazimierz Marcinkiewicz
   source: 
-  subject: 
+  subject: do Jarosława Kaczyńskiego
   tags:
   - pl
   - politics
@@ -53290,3 +53290,10 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Dublin more like Triplin’
+  author: Tom Dale
+  source: 
+  subject: 
+  tags:
+  - en
