@@ -24286,15 +24286,6 @@ signatures:
   - pl
   - cinematography
 - !ruby/struct:Signore::Signature
-  text: Ja natomiast przesyłam energię za pośrednictwem Internetu. Kto ze mną dyskutuje
-    ten dostaje dużo energii, śmiałości, zadowolenia i czuje się swietnie.
-  author: Expert
-  source: pl.sci.medycyna
-  subject: 
-  tags:
-  - pl
-  - Usenet
-- !ruby/struct:Signore::Signature
   text: Friends! Who amongst you has non-profit experience? (As in setting up a non-profit
     org, not failing to make money.)
   author: Jim Remsik
@@ -53297,3 +53288,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    For every line of code I write
+    it’s 25 to life
+  author: "Łukasz Korecki"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
