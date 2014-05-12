@@ -22161,15 +22161,6 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: Wódka u kumpli z Muzeum Techniki. Ścigamy się przez sale muzealne Polonezem
-    Borewicza. Cieć, stary UB-ek, ma łzy w oczach.
-  author: Muzealnicy
-  source: 
-  subject: 
-  tags:
-  - pl
-  - museums
-- !ruby/struct:Signore::Signature
   text: I am amzedf at how mcuh easier it is to use Vim when I jhave had a few beers.
     The modal commands just seem to flow from my fgingertips.
   author: Bill Odom
@@ -23732,26 +23723,6 @@ signatures:
   tags:
   - pl
   - relationships
-- !ruby/struct:Signore::Signature
-  text: |-
-    — Nowe hasło reklamowe z wityny www.tpsa.pl: „Zdążyliśmy poznać się na wylot”. Ni mniej, ni więcej, zaiste taka właśnie sytuacja ma miejsce.
-    — Jaki był ten wylot ostatnio? 400 tys. abonentów?
-  author: Ryszard Rączkowski, Faraon
-  source: pl.misc.telefonia
-  subject: 
-  tags:
-  - pl
-  - telecommunications
-- !ruby/struct:Signore::Signature
-  text: |-
-    — Po co ludzie czytają beletrystykę?
-    — Ja czytam dlatego, że założyłem się o pół litra wyborowej z Czesławem Miłoszem o to, kto przeczyta więcej w ciągu swojego żywota. Na razie on prowadzi o dwa tomy Prousta.
-  author: Paulo Coelho, pinuss
-  source: pl.rec.ksiazki
-  subject: 
-  tags:
-  - pl
-  - literature
 - !ruby/struct:Signore::Signature
   text: Postalgolowa składnia to złe zło w programowniu.
   author: Krzysztof Trzewiczek
@@ -53293,6 +53264,16 @@ signatures:
   text: The computer revolution means that a company can send me an email saying ‘Lassie
     initiated boot’ and that actually means something.
   author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘The computer revolution means that a company can send me an email saying “Lassie initiated boot” and that actually means something.’
+    ‘I had the same reaction the first time I talked about reaping zombie children.’
+  author: James Coglan, Coraline Ada Ehmke
   source: 
   subject: 
   tags:
