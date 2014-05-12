@@ -34591,16 +34591,6 @@ signatures:
   - pl
 - !ruby/struct:Signore::Signature
   text: |-
-    Ja mam słuch muzyczny drugiego stopnia. 1. wiem, jak ktoś śpiewa. 2. wiem, kiedy ktoś fałszuje.
-    W związku z tym nie śpiewam.
-  author: DrYoung
-  source: 
-  subject: 
-  tags:
-  - pl
-  - music
-- !ruby/struct:Signore::Signature
-  text: |-
     — Mogę słuchać muzyki i nie śpiewać (choć słabo mi idzie), ale nie podrygiwać to już jednak nie umiem.
     — Ja mam słuch muzyczny drugiego stopnia. 1. wiem, jak ktoś śpiewa. 2. wiem, kiedy ktoś fałszuje. W związku z tym nie śpiewam.
     — Pozajączkowało Ci się. 1°: rozróżniasz kiedy grają, a kiedy nie. 2°: wiesz kiedy grają hymn. 3°: wiesz, kiedy grają swój, kiedy inny.
@@ -53299,3 +53289,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: The computer revolution means that a company can send me an email saying ‘Lassie
+    initiated boot’ and that actually means something.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
