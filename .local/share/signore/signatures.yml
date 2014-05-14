@@ -53282,3 +53282,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'Internet banking speaker-phone fail: ‘if you are not expecting this call,
+    press 9 or say “nine”… Goodbye.’'
+  author: Drew Neil
+  source: 
+  subject: 
+  tags:
+  - en
