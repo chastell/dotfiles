@@ -9472,13 +9472,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: Z wykształcenia jestem socjopatą.
-  author: dyziu
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: |-
     — Microsoft nie będzie przygotowywać nowych poprawek, także tych zagrażających bezpieczeństwu systemu.
     — Ja tam się nie znam, ale to chyba dobra wiadomość dla użytkowników?
@@ -53279,3 +53272,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: I love functional programming. It takes smart people who would otherwise be
+    competing with me and turns them into unemployable crazies.
+  author: William Morgan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
