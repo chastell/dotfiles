@@ -25379,7 +25379,7 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: To jest ten odcinek, w którym wg linii WizzAir jest o pięć minut później niż
+  text: To jest ten odcinek, w którym wg linii Wizz Air jest o pięć minut później niż
     jest i razem z walizką zostaję w Rzymie. Prawdziwą maturę zdajesz w ciągu tych
     dwóch godzin spędzonych na czternastoterminalowym lotnisku, na którym nie ma żadnej
     informacji na temat awaryjnych noclegów, po angielsku mówią bardzo nieliczni i
@@ -53290,3 +53290,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    EXT. CAMPSITE – NIGHT
+    The fire crackles. ARYA STARK lies staring into the flames.
+    ARYA: Paul Graham. Jeff Atwood. Dave Winer. David Heinemei
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Game of Thrones
