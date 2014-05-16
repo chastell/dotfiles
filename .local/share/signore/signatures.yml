@@ -3344,15 +3344,6 @@ signatures:
   - en
   - cynicism
 - !ruby/struct:Signore::Signature
-  text: Anarchism is founded on the observation that since few men are wise enough
-    to rule themselves, even fewer are wise enough to rule others.
-  author: Edward Abbey
-  source: 
-  subject: 
-  tags:
-  - en
-  - anarchy
-- !ruby/struct:Signore::Signature
   text: Have you ever observed that we pay much more attention to a wise passage when
     it is quoted than when we read it in the original author?
   author: Philip G. Hamerton
@@ -25379,11 +25370,11 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: To jest ten odcinek, w którym wg linii Wizz Air jest o pięć minut później niż
-    jest i razem z walizką zostaję w Rzymie. Prawdziwą maturę zdajesz w ciągu tych
-    dwóch godzin spędzonych na czternastoterminalowym lotnisku, na którym nie ma żadnej
-    informacji na temat awaryjnych noclegów, po angielsku mówią bardzo nieliczni i
-    to też niechętnie, a jedyne połączenie internetowe to terminale z włoską klawiaturą
+  text: To jest ten odcinek, w którym wg linii Wizz Air jest o pięć minut później
+    niż jest i razem z walizką zostaję w Rzymie. Prawdziwą maturę zdajesz w ciągu
+    tych dwóch godzin spędzonych na czternastoterminalowym lotnisku, na którym nie
+    ma żadnej informacji na temat awaryjnych noclegów, po angielsku mówią bardzo nieliczni
+    i to też niechętnie, a jedyne połączenie internetowe to terminale z włoską klawiaturą
     umieszczoną o pół metra za nisko.
   author: czerski
   source: 
@@ -53302,3 +53293,22 @@ signatures:
   - en
   - tech
   - Game of Thrones
+- !ruby/struct:Signore::Signature
+  text: 'Frodo to dopiero był postrach algebry: porzucił grupę i uszkodził ciało,
+    a wszystko by zniszczyć pierścień…'
+  author: sadu
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Lord of the Rings
+  - math
+- !ruby/struct:Signore::Signature
+  text: We’re here! We’re mad! We’re the Internet! Wait, we’re mad about something
+    else now! We’re still here! Not going anywhere! Whoa new bad thing
+  author: Andrew S
+  source: 
+  subject: 
+  tags:
+  - en
+  - Internet
