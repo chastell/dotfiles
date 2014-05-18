@@ -53304,6 +53304,17 @@ signatures:
   - Lord of the Rings
   - math
 - !ruby/struct:Signore::Signature
+  text: 'Bycie kołczem i trenerem rozwoju a bycie NPL-owcem czerwonopastylowcem to
+    taka różnica jak obiad na jachcie w pierwszym dniu przygody twojego życia, a wełniany
+    garnitur na konferencji „Piramidy Finansowe: dlaczego działają i jak matematyka
+    kłamie” z darmową kaszanką serwowaną wprost spod pachy kelnera.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - NLP
+- !ruby/struct:Signore::Signature
   text: We’re here! We’re mad! We’re the Internet! Wait, we’re mad about something
     else now! We’re still here! Not going anywhere! Whoa new bad thing
   author: Andrew S
@@ -53312,3 +53323,13 @@ signatures:
   tags:
   - en
   - Internet
+- !ruby/struct:Signore::Signature
+  text: |-
+    *opens door*
+    ma’am, it’s your husband, I’m affraid…
+    *removes hat* he was owned online today. super hard.
+  author: sadvil
+  source: 
+  subject: 
+  tags:
+  - en
