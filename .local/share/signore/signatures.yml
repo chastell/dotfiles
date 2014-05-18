@@ -53315,6 +53315,18 @@ signatures:
   - pl
   - NLP
 - !ruby/struct:Signore::Signature
+  text: Bóg, któremu zagraża Konczita z Eurowizji nie tylko umarł, on się najwyraźniej
+    zapadł i zostawił po sobie jakąś przerażającą czarną dziurę, wsysającą zwoje mózgowe
+    jak stereotypowy Włoch makaron.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - religion
+  - Eurovision
+  - Conchita Wurst
+- !ruby/struct:Signore::Signature
   text: We’re here! We’re mad! We’re the Internet! Wait, we’re mad about something
     else now! We’re still here! Not going anywhere! Whoa new bad thing
   author: Andrew S
@@ -53333,3 +53345,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: The dentist said I need a night-guard to keep from grinding my teeth to dust.
+    Self-employment achievement unlocked.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
