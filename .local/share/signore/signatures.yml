@@ -53354,3 +53354,12 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: just add a column to a mysql table they said
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MySQL
