@@ -53372,3 +53372,12 @@ signatures:
   tags:
   - en
   - typography
+- !ruby/struct:Signore::Signature
+  text: 'Someone just followed me on Quora. This raises many questions: I have Quora
+    account? People use Quora? Quora?'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - Quora
