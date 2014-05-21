@@ -53363,3 +53363,12 @@ signatures:
   - en
   - tech
   - MySQL
+- !ruby/struct:Signore::Signature
+  text: 'Typefaces where the horizontal bar of the + symbol is not at the same height
+    as the - symbol: could you not'
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - typography
