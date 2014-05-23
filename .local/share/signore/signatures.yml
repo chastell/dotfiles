@@ -990,14 +990,6 @@ signatures:
   - pl
   - work
 - !ruby/struct:Signore::Signature
-  text: Omówiłam metodologię wiercenia dziur w śmietnikach z przedstawicielem lokalnego
-    lumpenprolerariatu. Wiercić i tak nie warto bo w 2012 koniec świata.
-  author: Lilarouge
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: When the politicians complain that TV turns the proceedings into a circus,
     it should be made clear that the circus was already there, and that TV has merely
     demonstrated that not all the performers are well trained.
@@ -23202,15 +23194,6 @@ signatures:
   - en
   - sexism
 - !ruby/struct:Signore::Signature
-  text: "‘The thing is that Mr. Dibbler can even sell sausages to people who have
-    bought them off him *before*.’"
-  author: Terry Pratchett
-  source: Moving Pictures
-  subject: 
-  tags:
-  - en
-  - Discworld
-- !ruby/struct:Signore::Signature
   text: I am outraged that on this day a philosophically consistent person has voiced
     the exact same opinion he has expressed for decades.
   author: Avdi Grimm
@@ -28934,15 +28917,6 @@ signatures:
   subject: 
   tags:
   - pl
-- !ruby/struct:Signore::Signature
-  text: I prayed for freedom for twenty years, but received no answer until I prayed
-    with my legs.
-  author: Frederick Douglass
-  source: 
-  subject: 
-  tags:
-  - en
-  - religion
 - !ruby/struct:Signore::Signature
   text: |-
     I WILL NOT MOCK MRS. DUMBFACE
@@ -52998,14 +52972,6 @@ signatures:
   - en
   - food
 - !ruby/struct:Signore::Signature
-  text: Na szczęście każdy z nas posiadł wiedzę Konsultanta Biznesowego Innym i rządzi
-    żelazną pięścią portfolio produktów „ja bym to zrobił inaczej” i „wydaje mi się”.
-  author: opi
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Unfortunately, as you probably already know, state.
   author: Florian Gilcher
   source: 
@@ -53381,3 +53347,11 @@ signatures:
   tags:
   - en
   - Quora
+- !ruby/struct:Signore::Signature
+  text: I want to be a cron job I want to run every day.
+  author: Molnár Dániel
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
