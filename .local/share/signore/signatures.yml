@@ -53355,3 +53355,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: If you think about it the movie ‘The Fly’ is about the horrors of serialization/deserialization.
+  author: Soren Macbeth
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - cinematography
