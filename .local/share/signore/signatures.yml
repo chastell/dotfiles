@@ -53373,3 +53373,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: To people prefixing version numbers with a lowercase ‘v’ – please prefix your
+    phone numbers with a ‘p’ and realize how annoying it is.
+  author: Jonas Hermsmeier
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
