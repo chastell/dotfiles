@@ -53364,3 +53364,12 @@ signatures:
   - en
   - tech
   - cinematography
+- !ruby/struct:Signore::Signature
+  text: I believe it is impossible to both maintain software for a living and have
+    any fear at all of a robot uprising.
+  author: Crystal R Williams
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
