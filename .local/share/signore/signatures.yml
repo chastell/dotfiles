@@ -53382,3 +53382,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Sick of these fake brony boys who didn’t even get into My Little Pony until
+    Friendship is Magic, never owned any previous generation toys.
+  author: Amber Eeeeeee
+  source: 
+  subject: 
+  tags:
+  - en
