@@ -53400,3 +53400,12 @@ signatures:
   - en
   - tech
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    Przyjechali Niemcy w odwiedziny do szkoły. Przy samym wejściu został wystawiony mural z Powstaniem Warszawskim i zniszczoną stolicą.
+    #ilovemyjob
+  author: Karolina Kamińska
+  source: 
+  subject: 
+  tags:
+  - pl
