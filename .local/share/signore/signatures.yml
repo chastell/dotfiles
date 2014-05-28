@@ -53390,3 +53390,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: The success of JavaScript should puncture every illusion we have about the
+    necessity and efficacy of deliberate action in our industry.
+  author: Michael Feathers
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
