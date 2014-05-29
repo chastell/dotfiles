@@ -53409,3 +53409,23 @@ signatures:
   subject: 
   tags:
   - pl
+- !ruby/struct:Signore::Signature
+  text: "„Zszedłem” – mówię na pierwszym piętrze do listonosza, który przed chwilą
+    wyszeptał czule „polecony” do domofonu – „żeby pan nie musiał z jednym listem
+    wspinać się na trzecie”. „Dowód osobisty poproszę” – odpowiedział listonosz. Więcej
+    nie zejdę."
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - post
+- !ruby/struct:Signore::Signature
+  text: When I die I hope it will be in a meeting, because the transition to death
+    will be so subtle.
+  author: Lyle Hayhurst
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
