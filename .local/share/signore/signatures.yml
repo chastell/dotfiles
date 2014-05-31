@@ -53429,3 +53429,12 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: 'There’s two hard problems in computer science: we only have one joke and
+    it’s not funny.'
+  author: Phillip Bowden
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
