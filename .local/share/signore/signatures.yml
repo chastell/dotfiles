@@ -53438,3 +53438,15 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    so hey
+    websites that bounce me out of my mobile browser over to the app store
+    i’m startin’ a goddamned list
+    just fyi
+  author: Ethan Marcotte
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
