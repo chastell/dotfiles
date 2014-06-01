@@ -53450,3 +53450,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: My refrigerator just walked to my bedroom, opened the door, stood there and
+    stared at me for five minutes, then it closed the door and left.
+  author: Chez McCorvey
+  source: 
+  subject: 
+  tags:
+  - en
