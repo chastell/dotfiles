@@ -53458,3 +53458,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'Latest commit message is so deep: "Revert "Revert "Stop doing this!""".'
+  author: Rachel Myers
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
