@@ -53467,3 +53467,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    props to the guy who invented contacts for being metal as fuck
+    ‘what if we just put the glass right in our eye?’
+    ‘holy shit, mike.’
+  author: sadvil
+  source: 
+  subject: 
+  tags:
+  - en
