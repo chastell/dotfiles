@@ -53477,3 +53477,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: If it looks like a tautology, and it quacks like a tautology, then it looks
+    and quacks like a tautology.
+  author: pfriedma
+  source: 
+  subject: 
+  tags:
+  - en
