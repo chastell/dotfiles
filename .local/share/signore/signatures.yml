@@ -7689,15 +7689,6 @@ signatures:
   - en
   - intelligence
 - !ruby/struct:Signore::Signature
-  text: Dear Math, I am sick and tired of finding your ‘X’. Just accept the fact that
-    she is gone. MOVE ON, DUDE.
-  author: AmirH Hassaneini
-  source: 
-  subject: 
-  tags:
-  - en
-  - math
-- !ruby/struct:Signore::Signature
   text: Mobile websites increasingly feel like websites done right. Maybe we should
     stop making big websites that suck.
   author: Paul Battley
@@ -38827,7 +38818,7 @@ signatures:
   - tech
   - devops
 - !ruby/struct:Signore::Signature
-  text: Once you go Async, back go never you
+  text: Once you go async, back go never you
   author: Will Green
   source: 
   subject: 
@@ -53513,3 +53504,10 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: The Queen of England pays with selfies.
+  author: "Álvaro Swiftdela"
+  source: 
+  subject: 
+  tags:
+  - en
