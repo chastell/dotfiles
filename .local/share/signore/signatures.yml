@@ -53485,3 +53485,31 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Taksówkarz wbił trasę na Google maps na telefonie a na kolanach ma tablet
+    i obczaja News Feed na każdych światłach ‪#‎selfdrivingcars‬
+  author: dmr
+  source: 
+  subject: 
+  tags:
+  - pl
+  - taxi
+- !ruby/struct:Signore::Signature
+  text: Znajomy pracował w PKO – ywały releasy po których rzecznik prasowy z kamienną
+    twarzą mówił, że koparka przerwała światłowód.
+  author: pk
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - PKO
+- !ruby/struct:Signore::Signature
+  text: 'Life hack: Admit that hard work gets better results than clever hacks and
+    then put your head down and get to work.'
+  author: Vooza
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
