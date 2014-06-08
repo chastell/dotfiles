@@ -53511,3 +53511,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Hell is other people’s open file handles.
+  author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
