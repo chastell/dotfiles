@@ -9375,14 +9375,6 @@ signatures:
   - pl
   - math
 - !ruby/struct:Signore::Signature
-  text: Wiesz, krąży legenda, że po pewnym czasie dziewczynka z porem się męczy i
-    go odkłada na stół.
-  author: Mra
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: I’ve been using the phrase ‘yak polishing’ lately. It’s for after you’ve been
     yak shaving and it’s still not done, so they need polishing.
   author: Zed Shaw
@@ -15840,16 +15832,6 @@ signatures:
   - tech
   - programming
   - Fortran
-- !ruby/struct:Signore::Signature
-  text: Dzisiaj sprzatnąłem półkę, której nie ruszałem od mojego przeniesienia się
-    do tego pokoju… Jak zacząłem wycierać kurze, to jakieś dzikie zwierzęta chciały
-    mi podpierdolić ścierkę.
-  author: aAAa
-  source: 
-  subject: 
-  tags:
-  - pl
-  - chaos
 - !ruby/struct:Signore::Signature
   text: |-
     — Według ekspertów przyczyną wykolejenia były robaki. Insekty zniszczyły podkłady kolejowe, które nie utrzymały ciężaru elektrowozu.
@@ -53514,6 +53496,15 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Hell is other people’s open file handles.
   author: Peter Jaros
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: Some of the best CS/programming knowledge I've come across exists in plain
+    HTML pages with hideous background colors and no other styling.
+  author: Gregory Brown
   source: 
   subject: 
   tags:
