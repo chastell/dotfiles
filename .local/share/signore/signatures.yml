@@ -53510,3 +53510,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Oh GREAT. Liz walks up behind me and scares the crap out of me and I scream
+    like a little girl and that startles her and I’M THE BAD GUY
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
