@@ -53518,3 +53518,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    1. Order Starbucks Frappuccino.
+    2. Give your name as ‘Admiral Ackbar’.
+    3. When they call your name shout ‘IT’ A FRAP!’
+    4. Moonwalk out.
+  author: Dave Turner
+  source: 
+  subject: 
+  tags:
+  - en
+  - Star Wars
