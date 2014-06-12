@@ -53530,3 +53530,20 @@ signatures:
   tags:
   - en
   - Star Wars
+- !ruby/struct:Signore::Signature
+  text: 'OH: Efektywność ich pracy jest taka, jakby jeden składał wnioski unijne,
+    a drugi origami.'
+  author: Marta Paciorkowska
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: 'A heuristic on whether you have control of your life: can you take naps?'
+  author: Nassim N. Taleb
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
