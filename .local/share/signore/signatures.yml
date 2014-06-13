@@ -53547,3 +53547,10 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: There's no ‘i’ in ‘denial’.
+  author: "ʎoɟ ʎɹoɔ"
+  source: 
+  subject: 
+  tags:
+  - en
