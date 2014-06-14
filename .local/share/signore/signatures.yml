@@ -53554,3 +53554,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Today on “thanks, brain”:
+    When someone else screws up: don’t panic! We can fix this
+    When I screw up: PANIC! WE CANNOT FIX THIS. WORLD OVER.
+  author: Melissa ☈
+  source: 
+  subject: 
+  tags:
+  - en
