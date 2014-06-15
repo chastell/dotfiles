@@ -53564,3 +53564,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Do you know how I know I’m at an enterprise conference?
+    There’s a mousepad in the swag bag.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
