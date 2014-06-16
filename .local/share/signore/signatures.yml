@@ -53574,3 +53574,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: It makes me a little sad that shaking a vending machine might be the closest
+    I ever come to fighting a robot.
+  author: West Lee
+  source: 
+  subject: 
+  tags:
+  - en
