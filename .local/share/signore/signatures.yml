@@ -7569,14 +7569,6 @@ signatures:
   - pl
   - religion
 - !ruby/struct:Signore::Signature
-  text: W kosmosie nikt nie usłyszy jak sprzątasz.
-  author: DrYoung
-  source: 
-  subject: 
-  tags:
-  - pl
-  - cinematography
-- !ruby/struct:Signore::Signature
   text: Idę. Z dziećmi. Wózek. Na eksponowanym miejscu ogórki kiszone, pampersy, włoszczyzna.
     Lokalni hiphopowcy kręcą teledysk pod Uniwersamem. Poczułam się staro.
   author: Lilarouge
@@ -53582,3 +53574,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: JUST THINKING ABOUT THE WORLD WIDE WEB AND HOW BIG OF A SPIDER IT MUST HAVE
+    TAKEN TO MAKE IT AND NOW I CANT LEAVE MY HOUSE
+  author: Rad Kyle
+  source: 
+  subject: 
+  tags:
+  - en
+  - WWW
