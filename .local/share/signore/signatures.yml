@@ -22432,14 +22432,6 @@ signatures:
   - pl
   - sport
 - !ruby/struct:Signore::Signature
-  text: Jest! Niemka traci głowę!
-  author: Jarosław Idzi
-  source: 
-  subject: o pojedynku szpadzistek
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
   text: My soul was removed to make room for all this sarcasm.
   author: 
   source: 
@@ -53583,3 +53575,10 @@ signatures:
   tags:
   - en
   - WWW
+- !ruby/struct:Signore::Signature
+  text: a steak pun is a rare medium well done
+  author: sreegs
+  source: 
+  subject: 
+  tags:
+  - en
