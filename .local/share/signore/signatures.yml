@@ -20613,15 +20613,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: We’ve heard that a million monkeys at a million keyboards could produce the
-    complete works of Shakespeare; now, thanks to the Internet, we know that is not
-    true.
-  author: Robert Wilensky
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: People who want to share their religious views with you almost never want
     you to share yours with them.
   author: Dave Barry
@@ -53578,6 +53569,13 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: a steak pun is a rare medium well done
   author: sreegs
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Not possessing a single piece of furniture that you haven’t apologised to.
+  author: Very British Problems
   source: 
   subject: 
   tags:
