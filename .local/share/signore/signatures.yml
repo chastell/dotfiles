@@ -53580,3 +53580,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: When you start a new programming job you have to walk right up to the biggest
+    function in the yard and refactor it in front of everyone.
+  author: supermoof
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - work
