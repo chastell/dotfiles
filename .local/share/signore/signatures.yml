@@ -53591,3 +53591,16 @@ signatures:
   - tech
   - programming
   - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    WRITING TIPS:
+    1) Stare out of window.
+    2) Feel a bit sad.
+    3) Open a Word document.
+    4) Stare at its Arctic blankness.
+    5) Go on Twitter.
+  author: Matt Haig
+  source: 
+  subject: 
+  tags:
+  - en
