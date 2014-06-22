@@ -53604,3 +53604,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Oh you’e a Football fan? Okay then name 3 of their albums. Yeah. That’s what
+    I thought.
+  author: NOT A METH LAB
+  source: 
+  subject: 
+  tags:
+  - en
+  - football
+  - music
