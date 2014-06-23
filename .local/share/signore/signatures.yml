@@ -53614,3 +53614,13 @@ signatures:
   - en
   - football
   - music
+- !ruby/struct:Signore::Signature
+  text: |-
+    Kickstarter: A keyboard airbag triggered by a natural language parser.
+    ‘I’m no racist, but-’ [POOMF]
+    ‘Why do women hate chivalr-’ [POOMF]
+  author: Jeff Eaton
+  source: 
+  subject: 
+  tags:
+  - en
