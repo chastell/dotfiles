@@ -5022,16 +5022,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: 'There are two hard problems in computer science: cache invalidation, naming
-    things, and off-by-one errors.'
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-- !ruby/struct:Signore::Signature
   text: In 1940 he summarized his work in an influential book, ‘Punched Card Methods
     in Scientific Computation’.
   author: Paul E. Ceruzzi
@@ -9295,6 +9285,7 @@ signatures:
   subject: 
   tags:
   - pl
+  - tech
   - programming
   - Perl
 - !ruby/struct:Signore::Signature
@@ -53633,3 +53624,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I also just confused myself with my bot.’
+    ‘The so-called self-turing test.’
+  author: Steve Klabnik, Florian Gilcher
+  source: 
+  subject: 
+  tags:
+  - en
