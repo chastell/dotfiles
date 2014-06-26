@@ -53633,3 +53633,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I pretend that anyone on Facebook ‘starting a new adventure’ got an ancient
+    blade from a wizard and isn’t just moving to Iowa for work.
+  author: Marie
+  source: 
+  subject: 
+  tags:
+  - en
