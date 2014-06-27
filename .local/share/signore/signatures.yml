@@ -53641,3 +53641,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I follow House of Cards on FB. Having just read a thread of people talking
+    about ‘poor Doug Stamper’ I am now terrified of other fans.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - House of Cards
