@@ -53650,3 +53650,12 @@ signatures:
   tags:
   - en
   - House of Cards
+- !ruby/struct:Signore::Signature
+  text: EVERYTHING IS ON THE WEB NOW LOL *the web contains only a small fraction of
+    the foundational structured programming papers* WEB HAV EVERYTHG
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
