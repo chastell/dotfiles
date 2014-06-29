@@ -53659,3 +53659,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Oh hi Becky who refused to kiss me during spin the bottle in 6th grade & now
+    wants to play FarmVille, looks like tables have fucking turned
+  author: Chris Scott
+  source: 
+  subject: 
+  tags:
+  - en
