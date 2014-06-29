@@ -53667,3 +53667,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Bob was afraid of spreading his time and energy too thin, so instead of learning
+    to read new words he got very good at reading his own name.
+  author: Josep M. Bach
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
