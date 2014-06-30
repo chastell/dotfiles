@@ -20781,7 +20781,7 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: The depressing thing about tennis is that no matter how much you play, You’ll
+  text: The depressing thing about tennis is that no matter how much you play, you’ll
     never be as good as a wall. I played a wall once. They’re fucking relentless.
   author: Mitch Hedberg
   source: 
@@ -53677,3 +53677,17 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘So what’s your fav static website generator? Jekyll? Octopress? Wintersmith?’
+    Me: ‘Make and M4.’
+    (Pause)
+    ‘Are they in npm?’
+  author: Joe Walnes
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
