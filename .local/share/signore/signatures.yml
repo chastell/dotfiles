@@ -53691,3 +53691,27 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    Kluczę, skręcam, obchodzę, zawracam, szukam. Nie znajduję.
+    Wtem! Autochton. Zagajam.
+    — Przepraszam, nie jestem stąd i nie wiem…
+    — Proszę pana, ja jestem stąd. Jestem stąd od 30 lat i też nie wiem!
+    Ursynów w pigułce.
+  author: Michał Michalski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: 'I thought I was reading a joke about C++, but it turned out to be the Boost
+    documentation: http://www.boost.org/doc/libs/1_55_0b1/libs/geometry/doc/html/geometry/design.html'
+  author: Jan van Valburg
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
+  - Boost
