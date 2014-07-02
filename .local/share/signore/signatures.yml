@@ -53715,3 +53715,14 @@ signatures:
   - programming
   - C++
   - Boost
+- !ruby/struct:Signore::Signature
+  text: 'Właśnie usłyszałem najlepszy opis pisania aplikacji mobilnych w PhoneGapie:
+    wyobraź sobie, że ktoś każe ci wykopać rów – i do tego celu wręcza ci najbardziej
+    wypasioną, najładniejszą i najbardziej zaawansowaną funkcjonalnie na rynku parasolkę.'
+  author: Jussi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - PhoneGap
