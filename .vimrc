@@ -77,7 +77,7 @@ set expandtab
 set formatprg=lovely-rufus
 set gdefault
 set grepprg=ag\ --nocolor\ --nogroup
-set guifont=Ubuntu\ Mono\ 13
+set guifont=Ubuntu\ Mono\ 16
 set guioptions-=T
 set hidden
 set history=10000
