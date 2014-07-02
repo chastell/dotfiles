@@ -10,7 +10,7 @@ localfolders = ~/Gmail
 type         = Maildir
 
 [Repository Remote]
-cert_fingerprint = b0ba392bba326e6feb1add4d04fa0fb86cd173fa
+cert_fingerprint = 42354abeefdac33d17202a9f2d6fdeadf5928a00
 folderfilter     = lambda foldername: foldername not in ['[Gmail]/Important', '[Gmail]/All Mail']
 maxconnections   = 10
 remotepass       = …
