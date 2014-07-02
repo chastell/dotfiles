@@ -11,7 +11,7 @@ type         = Maildir
 
 [Repository Remote]
 cert_fingerprint = 42354abeefdac33d17202a9f2d6fdeadf5928a00
-folderfilter     = lambda foldername: foldername not in ['[Gmail]/Important', '[Gmail]/All Mail']
+folderfilter     = lambda foldername: foldername not in ['[Gmail]/All Mail', '[Gmail]/Important', '[Gmail]/Spam']
 maxconnections   = 10
 remotepass       = …
 remoteuser       = chastell@chastell.net
