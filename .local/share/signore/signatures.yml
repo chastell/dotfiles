@@ -53726,3 +53726,14 @@ signatures:
   - pl
   - tech
   - PhoneGap
+- !ruby/struct:Signore::Signature
+  text: Dreamhost just emailed to tell me they’ve upgraded PHP on my SVN server and
+    now I feel old.
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - PHP
+  - Subversion
