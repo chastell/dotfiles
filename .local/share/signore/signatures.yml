@@ -53737,3 +53737,12 @@ signatures:
   - tech
   - PHP
   - Subversion
+- !ruby/struct:Signore::Signature
+  text: Tetris is a game about technical debt.
+  author: Jeremy Grosser
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Tetris
