@@ -53746,3 +53746,13 @@ signatures:
   - en
   - tech
   - Tetris
+- !ruby/struct:Signore::Signature
+  text: 'x = methods.sample; self.send x, *Array.new(self.method(x).arity.abs) { ObjectSpace.each_object.to_a.sample
+    } #YOLO'
+  author: Evan Miller
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
