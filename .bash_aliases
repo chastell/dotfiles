@@ -3,6 +3,7 @@ alias backup-to-arthur='offlineimap; rdiff-backup --exclude ~/.cache --print-sta
 alias backup-to-zaphod='offlineimap; rdiff-backup --exclude ~/.cache --print-statistics --verbosity 5 ~ /media/chastell/Zaphod/Asus.rdiff'
 alias be='bundle exec'
 alias beep='play --no-show-progress --null -V0 synth pl C fade 0 0.3'
+alias bubo='bundle up && bundle out'
 alias clive='cclive --continue --stream best'
 alias computer,='sudo '
 alias cp1250='iconv --from-code utf8 --to-code cp1250'
