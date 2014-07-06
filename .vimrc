@@ -26,6 +26,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-unimpaired'
 Plugin 'vim-scripts/matchit.zip'
+Plugin 'wting/rust.vim'
 call vundle#end()
 filetype plugin indent on
 
