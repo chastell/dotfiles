@@ -53756,3 +53756,12 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: This isn’t even my final <form>.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTML
