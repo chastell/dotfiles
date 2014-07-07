@@ -53765,3 +53765,17 @@ signatures:
   - en
   - tech
   - HTML
+- !ruby/struct:Signore::Signature
+  text: |-
+    You are standing in an open field west of a white house. A solitary yak faces you.
+    > SHAVE YAK
+    100 more yaks appear.
+    > RUN
+    You cannot run.
+  author: Muxing Demuxer
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
