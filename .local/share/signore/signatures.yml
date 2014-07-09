@@ -53779,3 +53779,13 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'Slippery slope: ‘when did I break this?’ → ‘did I break this?’ → ‘did this
+    ever work?’ → ‘define “works”’ → ‘define “this”’.'
+  author: Fabian Giesen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
