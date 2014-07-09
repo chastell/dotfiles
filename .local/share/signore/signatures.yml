@@ -53789,3 +53789,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Knuckle tats that read K-N-U-C on right hand and K-L-E-S on the left because
+    I am literally bad at tattoo ideas.
+  author: Katje
+  source: 
+  subject: 
+  tags:
+  - en
+  - tatoos
