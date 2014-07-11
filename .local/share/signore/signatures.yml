@@ -4502,14 +4502,6 @@ signatures:
   - SQL
   - work
 - !ruby/struct:Signore::Signature
-  text: 'Piotr Szotkowski, ciemna strona komunikacji. Jedyna taka usługa na rynku.
-    Plakat: http://farm1.static.flickr.com/71/216730229_86b5b4061b_o.jpg'
-  author: opi
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: 'My autobiography will be titled ‘Sociopaths, Borderlines, and Autistics’,
     subtitled: ‘How I cope with dealing with humans’.'
   author: Bram Cohen
@@ -53823,3 +53815,11 @@ signatures:
   - programming
   - JavaScript
   - poetry
+- !ruby/struct:Signore::Signature
+  text: Experienced startup engineers are looking for a full-stack Business Guy to
+    be CEO, COO, PM, marketer, account manager, HR, and receptionist.
+  author: "--notanidiot"
+  source: 
+  subject: 
+  tags:
+  - en
