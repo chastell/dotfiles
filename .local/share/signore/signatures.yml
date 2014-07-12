@@ -38048,16 +38048,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: |-
-    When a private individual creates a threat, and coerces you into paying him to alleviate the same threat, it is called organized crime.
-    When a government creates an external threat, and then coerces your payment to defend against it, it is called a state.
-  author: x7o
-  source: 
-  subject: 
-  tags:
-  - en
-  - politics
-- !ruby/struct:Signore::Signature
   text: Momentary confusion as a Kiwi offers to show us photos of his deck.
   author: Pаul Bаttley
   source: 
@@ -53823,3 +53813,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Ask yourself, what does my team need? I promise you the answer is rarely ever
+    ‘they need me to apply more pressure’.
+  author: mazz
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
