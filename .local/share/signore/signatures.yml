@@ -53822,3 +53822,13 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    A reality show starring different brands of cosmetics and my hair.
+    ‘Hairstory’.
+  author: Marta Paciorkowska
+  source: 
+  subject: 
+  tags:
+  - en
+  - hair
