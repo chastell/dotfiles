@@ -53832,3 +53832,12 @@ signatures:
   tags:
   - en
   - hair
+- !ruby/struct:Signore::Signature
+  text: 'OH: You can restart the Unicorn workers by simply killing the master and
+    letting God respawn them.'
+  author: Shaya L.
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
