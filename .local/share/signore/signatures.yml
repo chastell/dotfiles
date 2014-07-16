@@ -53841,3 +53841,14 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    new emoticon, meaning ‘no comment’:
+    /* … */
+  author: The Wrath of K&R™
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
