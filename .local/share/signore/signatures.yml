@@ -53861,3 +53861,29 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Nie lubię Apple w taki sam sposób, w jaki nie lubię „My Słowianie”.
+  author: Marta Paciorkowska
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: |-
+    kiedy przyszli po twórców reklam nie protestowałem
+    a właściwie to klaskałem z radości, skakałem do góry, śmiałem się i wrzeszczałem I BARDZO DOBRZE, I BARDZO KURWA DOBRZE WAM TAK, OBYŚCIE NIE WRÓCILI
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: 'The two things that piss me off: the Mercator projection, and people who
+    confuse strong and static typing.'
+  author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
