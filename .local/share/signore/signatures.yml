@@ -35330,13 +35330,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: Never trust a yard with no dandelions.
-  author: Avdi Grimm
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Na pewno się chyba to co powiedziałem tym zdziwicie.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -50413,13 +50406,6 @@ signatures:
   - tech
   - Varnish
 - !ruby/struct:Signore::Signature
-  text: Making sure your hotel room is spotless in preparation for the maid’s arrival.
-  author: Very British Problems
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Wouldn’t it be nice if hospitals and schools were fully funded and the military
     had to have cake sales to buy bombs?
   author: Jayne Smalley
@@ -53885,3 +53871,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: function undefined(){}
+  author: Jan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
