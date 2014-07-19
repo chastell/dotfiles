@@ -20993,17 +20993,6 @@ signatures:
   - Apache
   - mod_rewrite
 - !ruby/struct:Signore::Signature
-  text: Despite the tons of examples and docs, mod_rewrite is voodoo. Damned cool
-    voodoo, but still voodoo.
-  author: Brian Moore
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Apache
-  - mod_rewrite
-- !ruby/struct:Signore::Signature
   text: A real engineer only resorts to documentation when the keyboard dents on the
     forehead get too noticeable.
   author: 
@@ -53882,6 +53871,15 @@ signatures:
   text: 'The two things that piss me off: the Mercator projection, and people who
     confuse strong and static typing.'
   author: Konstantin Haase
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: The number of times my programmer questions are answered with ‘migrate your
+    entire project to another platform’ is alarmingly higher than 0.
+  author: James Coglan
   source: 
   subject: 
   tags:
