@@ -53880,3 +53880,15 @@ signatures:
   - en
   - tech
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    lmao if you have an ActiveRecord model called ‘Transaction’
+    make that ‘cmao’
+  author: 
+  source: 
+  subject: Peter Jaros
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
