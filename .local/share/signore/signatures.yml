@@ -53892,3 +53892,12 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: I’m sorry, I love email. It works great for me. I am an organized person.
+    Fix a different problem.
+  author: Alex Cornell
+  source: 
+  subject: 
+  tags:
+  - en
+  - email
