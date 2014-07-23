@@ -53912,3 +53912,32 @@ signatures:
   - en
   - tech
   - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    Kubek gorącej, czarnej kawy po krótkim śnie punktowanym koszmarami jest tak boski, że sam Zeus przyszedł i spytał się, czy możemy się zamienić na to, co spija zwykle na Olimpie.
+    Wieczne życie, wieczne terminy – pomyślałem – wybieram więc życie śmiertelnika.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Dyplom ukończenia studiów wyższych znalazłem po trzech kwadransach poszukiwań
+    w teczce z kartą wędkarską i zaświadczeniem o uczęszczaniu na religię w przedszkolu.
+    Karta z tego wszystkiego najcenniejsza.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: alias phplint=rm
+  author: John Graham-Cumming
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
