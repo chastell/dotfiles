@@ -53901,3 +53901,14 @@ signatures:
   tags:
   - en
   - email
+- !ruby/struct:Signore::Signature
+  text: |-
+    Repeat after me:
+    You hire for domain experience, and languages aren’t your problem domain.
+  author: "@moonpolysoft"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
