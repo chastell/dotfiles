@@ -53941,3 +53941,11 @@ signatures:
   - tech
   - programming
   - PHP
+- !ruby/struct:Signore::Signature
+  text: Turning slightly sideways and saying sorry when passing someone, despite the
+    corridor being large enough to accommodate a train.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
