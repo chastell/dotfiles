@@ -53949,3 +53949,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: "‘So many MORONS who are computer-illiterate’, I say as I drive a magical
+    2 ton self-propelled system of steel whose oil I can’t even change."
+  author: Clifford
+  source: 
+  subject: 
+  tags:
+  - en
