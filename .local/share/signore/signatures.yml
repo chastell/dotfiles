@@ -53957,3 +53957,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘If I deploy staging at the same time as production, does it still count?’
+    ‘If it works on production, it should work on staging.’
+  author: Konstantin Haase, Simon Hamilton
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
