@@ -53968,3 +53968,10 @@ signatures:
   - en
   - tech
   - devops
+- !ruby/struct:Signore::Signature
+  text: are you breathing? thank a plant
+  author: daisy chain
+  source: 
+  subject: 
+  tags:
+  - en
