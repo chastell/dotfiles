@@ -32,6 +32,7 @@ alias random_mac='sudo ifconfig wlan0 ether `openssl rand -hex 6 | sed "s/\(..\)
 alias restore_mac='sudo ifconfig wlan0 ether ..:..:..:..:..:..'
 alias rmadison='rmadison --url debian,ubuntu'
 alias r='rails'
+alias rr='rerun -cx rake'
 alias rsd='rsync --archive --compress --delete --delete-excluded --partial --progress'
 alias rs='rsync --archive --compress --partial --progress'
 alias rvim='gvim --remote-silent'
