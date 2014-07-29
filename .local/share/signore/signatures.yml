@@ -53975,3 +53975,19 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    1. it’s just a CRUD
+    2. new logic, callbacks ok
+    3. more logic, filters ok
+    4. richer UI – accept_nested ok
+    5. fuck
+    Rails app lifecycle
+  author: Andrzej Krzywda
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
