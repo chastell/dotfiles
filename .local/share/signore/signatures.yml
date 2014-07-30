@@ -53991,3 +53991,13 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: 'OH: my other car is a cdr.'
+  author: "@CalebSmithNC"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
