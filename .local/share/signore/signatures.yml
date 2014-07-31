@@ -54001,3 +54001,22 @@ signatures:
   - tech
   - programming
   - Lisp
+- !ruby/struct:Signore::Signature
+  text: |-
+    Te óczucie, gdy prowadzisz szkolenie z aplikacji i nagle zdajesz sobie sprawę, że nie możesz zademonstrować załączania plików, bo otwarcie folderu ~/Dropbox może UKAZAĆ RZECZY.
+    Rzutem na taśmę znalazłem resume.pdf w ~.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: With no budget to hire junior admins, I have begun mentoring perl scripts.
+    The entire department now reports to helpdesk.pl.
+  author: Josef K, SysOp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - devops
