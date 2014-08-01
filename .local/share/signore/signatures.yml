@@ -54020,3 +54020,11 @@ signatures:
   - en
   - tech
   - devops
+- !ruby/struct:Signore::Signature
+  text: 'OH: First they came for the assholes; and I did not speak up, for I was not
+    an asshole. And then things actually got better.'
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
