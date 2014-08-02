@@ -54028,3 +54028,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Does it disturb anyone else that ‘The Los Angeles Angels’ baseball team translates
+    directly to ‘The The Angels Angels’?
+  author: Neil deGrasse Tyson
+  source: 
+  subject: 
+  tags:
+  - en
