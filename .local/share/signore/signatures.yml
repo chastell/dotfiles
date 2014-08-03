@@ -54036,3 +54036,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Node created folder named ‘~’ inside my current dir.
+    I didn’t want that, so I’ve automatically hit `rm -rf ~`.
+    Guess what happened next.
+  author: Hrvoje Šimić
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
