@@ -54047,3 +54047,13 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: The fastest algorithm can frequently be replaced by one that is almost as
+    fast and much easier to understand.
+  author: Douglas W. Jones
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - algorithms
