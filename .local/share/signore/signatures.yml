@@ -54057,3 +54057,14 @@ signatures:
   - en
   - tech
   - algorithms
+- !ruby/struct:Signore::Signature
+  text: TDD replaces a type checker in a dynamically typed language in the same way
+    that a bottle of whisky replaces your daily problems.
+  author: Mario Fusco
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - TDD
