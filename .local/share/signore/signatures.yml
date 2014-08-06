@@ -54068,3 +54068,13 @@ signatures:
   - tech
   - programming
   - TDD
+- !ruby/struct:Signore::Signature
+  text: ORM is a software design pattern popular among people that think it will work
+    this time.
+  author: GonzoHacker
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
