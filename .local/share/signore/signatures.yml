@@ -54078,3 +54078,15 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: 'Well of course it’s a great idea to include View helpers in an AR model.
+    54 upvotes. Answer accepted. http://stackoverflow.com/questions/489641/using-helpers-in-model-how-do-i-include-helper-dependencies
+    #phprails'
+  author: Piotr Solnica
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
