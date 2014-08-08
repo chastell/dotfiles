@@ -54090,3 +54090,13 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: If a homological adjective is one that is true of itself, e.g., ‘polysyllabic’,
+    and a heterological adjective is one which is not true of itself, e.g., ‘bisyllabic’,
+    then what about ‘heterological’? Is it heterological or not?
+  author: 
+  source: Grelling’s Paradox
+  subject: 
+  tags:
+  - en
+  - linguistics
