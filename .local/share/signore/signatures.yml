@@ -54107,3 +54107,23 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Tak się nabijacie z tych posłów, że niby nie myślą, a na koniec dnia to oni
+    biorą pensję z budżetu, a Wy im płacicie. Zatem kto tu jest kumaty, a kto frajer?
+  author: VaGla
+  source: 
+  subject: 
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Incidental complexity is the Cthulhu of Rails… it lies beneath the surface,
+    not dead but dreaming, and when the stars are right…
+  author: Jason Lewis
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
