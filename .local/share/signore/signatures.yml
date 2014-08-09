@@ -54100,3 +54100,10 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: Everybody is basically a possessed meat heap.
+  author: dåvę ☯
+  source: 
+  subject: 
+  tags:
+  - en
