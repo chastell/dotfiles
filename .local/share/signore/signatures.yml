@@ -54127,3 +54127,13 @@ signatures:
   - tech
   - programming
   - Rails
+- !ruby/struct:Signore::Signature
+  text: I’ve been trying to get clean, cross-compiled DEB and RPM packages all day,
+    so yeah I’ve been drinking a little bit.
+  author: Mike Perham
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
