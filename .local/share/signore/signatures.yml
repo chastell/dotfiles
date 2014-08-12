@@ -54137,3 +54137,22 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: Chrupiąc ogórki małosolne przypomniałem sobie znienacka, jak kiedyś w barze
+    mlecznym stałem za kucem z polibudy, który wdał się w utarczkę słowną na tle porcji
+    krokietów, jego zdaniem nazbyt rzuconych na ladę, a nie dosyć podanych. Wymianę
+    zdań zakończył wygłoszoną z szaloną godnością osobistą frazą „PŁACĘ I WYMAGAM”.
+    Był to najkrótszy film o korwinizmie jaki w życiu widziałem.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Information Wants To Get Paid
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
