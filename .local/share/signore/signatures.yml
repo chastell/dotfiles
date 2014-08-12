@@ -36608,13 +36608,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: "‘$2.50 each or 2 for $5’ – no shit, Walgreens!"
-  author: Jesse Cooke
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: Superman is the story of an illegal immigrant trying to take down America’s
     greatest job creator.
   author: genus:unknown
@@ -38403,16 +38396,6 @@ signatures:
   - programming
   - Ruby
   - Rails
-- !ruby/struct:Signore::Signature
-  text: PHP is the Nickelback of programming languages.
-  author: Jeff Atwood
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - PHP
 - !ruby/struct:Signore::Signature
   text: "„W najbliższym czasie ukarze się książka”"
   author: reuptake
@@ -54152,6 +54135,17 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: Information Wants To Get Paid
   author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Scientists: Don’t freak out about Ebola.
+    Everyone: *Panic!*
+    Scientists: Freak out about climate change.
+    Everyone: LOL! Pass me some coal.
+  author: Emm Kay
   source: 
   subject: 
   tags:
