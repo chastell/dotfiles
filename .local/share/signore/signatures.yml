@@ -54150,3 +54150,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    So I have this new ergo keyboard, which means now I have to learn to touch type. Worst yak shave EVER.
+    I am still waiting for the input device where I wave a glass of bourbon angrily at the screen and it types what I mean.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - keyboards
