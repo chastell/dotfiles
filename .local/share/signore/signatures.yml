@@ -472,15 +472,6 @@ signatures:
   - Ruby
   - Forth
 - !ruby/struct:Signore::Signature
-  text: 'vegetarian, n.: a person who, due to malnutrition caused by poor lifestyle
-    choices, is eight times more likely to catch TB than a normal person.'
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - food
-- !ruby/struct:Signore::Signature
   text: Epiphany wiesza się częściej niż samobójca-pechowiec.
   author: opi
   source: 
@@ -22371,14 +22362,6 @@ signatures:
   - en
   - HHGG
 - !ruby/struct:Signore::Signature
-  text: Francuz ratuje resztki twarzy.
-  author: Andrzej Person
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
   text: Mogliśmy spokojnie prowadzić już cztery do dwóch, nie mówiąc o pięciu.
   author: Andrzej Zydorowicz
   source: 
@@ -25338,16 +25321,6 @@ signatures:
   tags:
   - en
   - poetry
-- !ruby/struct:Signore::Signature
-  text: 'Przez pierwsze kilka pięter ładnie, potem nie trzyma poziomu. Ale wybucha
-    ładnie niezależnie od stylu lotu. To może zaproponujmy definicję: zwierzę to papuga
-    która nie wybucha po wylądowaniu.'
-  author: Michał Mierzwa
-  source: pl.news.nowe-grupy
-  subject: o lotach telewizora
-  tags:
-  - pl
-  - Usenet
 - !ruby/struct:Signore::Signature
   text: |-
     — Logistyka towarzyska i ludzkie puzzle. Na wszelki wypadek oświadczam publicznie, że chętnie napiję się z każdym ze swoich znajomych (no, poza moim byłym mężem).
@@ -29036,15 +29009,6 @@ signatures:
   - en
   - tech
   - programming
-- !ruby/struct:Signore::Signature
-  text: Any sufficiently advanced dependency management system is indistinguishable
-    from Hell.
-  author: Stuart Sierra
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
 - !ruby/struct:Signore::Signature
   text: Remember why movies, as a business, moved to California? To avoid paying for
     the use of Edison’s patented cameras.
@@ -54161,3 +54125,13 @@ signatures:
   - en
   - tech
   - keyboards
+- !ruby/struct:Signore::Signature
+  text: 'I was troubleshooting one of my Mongo boxes that’s stuck in iowait when I
+    found that mongod actually has /dev/null open. #webscaleasfuck'
+  author: beerops
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - MongoDB
