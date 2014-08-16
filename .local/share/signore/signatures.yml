@@ -54135,3 +54135,18 @@ signatures:
   - en
   - tech
   - MongoDB
+- !ruby/struct:Signore::Signature
+  text: |-
+    This is me programming in Rust:
+    Rust: this code is unsafe and might blow up
+    me: right totally but can I run it real quick just to
+    Rust: nope
+    The Rust compiler just rolled its eyes at me: ‘*sigh* another Rubby programmer’
+  author: Josep M. Bach
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
