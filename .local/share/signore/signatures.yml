@@ -54150,3 +54150,14 @@ signatures:
   - tech
   - programming
   - Rust
+- !ruby/struct:Signore::Signature
+  text: |-
+    Wow, for the first time in my life, got a ‘filesystem full’ error because I ran out of inodes. Still 2TB left on the disk.
+    Ubuntu docs suggest I travel back in time to when I partitioned the disk and add inodes, while taking care not to kill my own grandfather.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ubuntu
