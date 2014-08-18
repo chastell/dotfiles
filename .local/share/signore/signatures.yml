@@ -54161,3 +54161,20 @@ signatures:
   - en
   - tech
   - Ubuntu
+- !ruby/struct:Signore::Signature
+  text: 'Tam gdzie jest zakaz wejścia z psem i wredny ochroniarz na wejściu, owiń
+    psa w bluzę, weź na ręce i wejdź pewnym krokiem krzycząc do telefonu „ODEBRAŁAM
+    JUŻ GO Z PRZEDSZKOLA, ZARAZ JEDZIEMY DO DOMU”. #działa'
+  author: Marta Dymek
+  source: 
+  subject: 
+  tags:
+  - pl
+  - dogs
+- !ruby/struct:Signore::Signature
+  text: You don’t win the game of death by dying first. The name is misleading.
+  author: Oglaf
+  source: 
+  subject: 
+  tags:
+  - en
