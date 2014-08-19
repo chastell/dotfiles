@@ -54178,3 +54178,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    It’s funny to look at the referer logs for my talk about excessive surveillance and evils of advertising. They’re full of ad tracking cruft.
+    Readers who liked my talk about advertising as the motor for permanent surveillance also enjoyed this 4-liter bottle of Belvedere™ vodka.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
