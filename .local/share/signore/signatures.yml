@@ -54188,3 +54188,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: My apologies to the handful of genuinely interesting startups. It’s like wearing
+    a business suit in the clown car, you’re not gettng noticed.
+  author: Pinboard
+  source: 
+  subject: on a YC batch
+  tags:
+  - en
