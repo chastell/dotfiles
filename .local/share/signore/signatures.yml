@@ -54196,3 +54196,12 @@ signatures:
   subject: on a YC batch
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: My top level exception handler is a Bash while loop.
+  author: andreasdotorg
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Bash
