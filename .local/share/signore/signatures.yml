@@ -16877,16 +16877,6 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: 'A ‘lame’ server is a server that is SUPPOSED to be authoritative, but, when
-    asked, says: ‘Me? I know nothing, I’m from Madrid!’'
-  author: Ralf Hildebrandt
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - Fawlty Towers
-- !ruby/struct:Signore::Signature
   text: |-
     Czasem każdy z osobna, a czasem robią konsylium eksperckie. Z uwagą siedzą w tych samych pozach wpatrzone w odpływ wanny, następnie patrzą na siebie w tym samym momencie:
     — Czy kolega szanowny również to samo zaobserwował?
@@ -54205,3 +54195,11 @@ signatures:
   - en
   - tech
   - Bash
+- !ruby/struct:Signore::Signature
+  text: Last night a dude in a dragon onesie pulled up next to me in his car and said,
+    ‘Be careful, babe. There are a lot of dragons up there.’
+  author: Jo Johansson
+  source: 
+  subject: 
+  tags:
+  - en
