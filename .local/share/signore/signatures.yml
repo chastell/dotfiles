@@ -54203,3 +54203,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: How useful of xlock to crash on a missing font. This way I don’t have to tediously
+    type my password to unlock.
+  author: til
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
