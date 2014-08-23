@@ -54212,3 +54212,10 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Fortunately, as you probably already know, pizza.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
