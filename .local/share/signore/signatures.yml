@@ -54219,3 +54219,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I’ve decided I’m gonna use Opera.’
+    ‘Are you going vegan too?’
+    ‘Come on, going vegan is actually doable.’
+  author: ntlk
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Opera
