@@ -54231,3 +54231,13 @@ signatures:
   - en
   - tech
   - Opera
+- !ruby/struct:Signore::Signature
+  text: |-
+    Pinboard is a corporate Twitter account that became sentient in the early hours of July 9, 2009 and has begun mocking at an exponential rate.
+    I have sent fundingbots back in time to invest in only the stupidest, most risible startup ideas. Leading to the world you see around you.
+    Proof that I am what I claim: I will now go back in time and make Schwarzenegger governor of California. Done. Go check your history books.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
