@@ -7618,15 +7618,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: Sometimes I wonder if putting ‘please do not reply to this email address’
-    at the end of a message means ‘I’m retarded’ or ‘fuck you’.
-  author: Wojtek Ogrodowczyk
-  source: 
-  subject: 
-  tags:
-  - en
-  - email
-- !ruby/struct:Signore::Signature
   text: Koń po westernie to przy mnie świeżak nówka sztuka.
   author: Filip Tepper
   source: 
@@ -25973,15 +25964,6 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: 'SCIENCE NEWS: Linguists seek the origin of sarcasm in study totally worth
-    taxpayer dollars'
-  author: Matthew Baldwin
-  source: 
-  subject: 
-  tags:
-  - en
-  - linguistics
-- !ruby/struct:Signore::Signature
   text: 'People of the Internet: I hereby permit you to create resources with PUT.'
   author: Konstantin Haase
   source: 
@@ -38383,17 +38365,6 @@ signatures:
   tags:
   - en
   - tech
-- !ruby/struct:Signore::Signature
-  text: Got informed of the existence of Haskell a few more times today. My favorite
-    part about Twitter is learning Haskell exists over and over.
-  author: Gary Bernhardt
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - Haskell
 - !ruby/struct:Signore::Signature
   text: Sufficiently advanced trolling is indistinguishable from thought leadership.
   author: Cliff Moon
@@ -54237,6 +54208,14 @@ signatures:
     I have sent fundingbots back in time to invest in only the stupidest, most risible startup ideas. Leading to the world you see around you.
     Proof that I am what I claim: I will now go back in time and make Schwarzenegger governor of California. Done. Go check your history books.
   author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Schrödinger’s douchebag: A guy who says offensive things & decides whether
+    he was joking based upon the reaction of people around him.'
+  author: Sally Strange
   source: 
   subject: 
   tags:
