@@ -77,7 +77,7 @@ set directory=/tmp//
 set expandtab
 set formatprg=lovely-rufus
 set gdefault
-set grepprg=ag\ --nocolor\ --nogroup
+set grepprg=ag\ --ignore\ dist\ --ignore\ node_modules\ --ignore\ tmp\ --ignore\ vendor\ --nocolor\ --nogroup
 set guifont=Ubuntu\ Mono\ 16
 set guioptions-=T
 set hidden
