@@ -54220,3 +54220,23 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Put this in your Ruby scripts for great fun:
+    class << true
+      def !@
+        true
+      end
+    end
+    class << false
+      def !@
+        false
+      end
+    end
+  author: Ernie Miller
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
