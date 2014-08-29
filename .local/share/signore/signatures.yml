@@ -54240,3 +54240,14 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Best Buy has released an API for their recommendations data.’
+    <? print '{ "response": "don’t ever shop at best buy" }'; ?>
+    It’s lightning fast.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
