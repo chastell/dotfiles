@@ -54251,3 +54251,39 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: Wyrażam głębokie zaniepokojenie odebraniem księdzu Lemańskiemu prawa do ubierania
+    się na czarno i wypowiadania zaklęć.
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: Patrzę na ciebie i od razu słowa przychodzą mi do głowy.
+  author: Ameba
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: CD Projekt wypuścił 30 minut gejmpleju z nowego Wiedźmina, bo powiedzieli,
+    że się nie będą bawić w „animowane trajlery” – muszę przyznać, że PC Master Race
+    na całego. Tyle kapitału, co zrobiło CDP w świecie gier Polsce, to ludzka stonoga
+    z Wałęsy, Wojtyły i Lewandowskiego nie dałaby rady.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - gaming
+- !ruby/struct:Signore::Signature
+  text: 'If you look into a Vessyl wearing Google glasses, it will show you how you
+    will die. (Spoiler: up against the wall when the Revolution came.)'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
