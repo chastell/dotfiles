@@ -54295,3 +54295,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: There’s an app the helps with social anxiety. Any app. Just look at your phone
+    instead of other people. Works pretty great.
+  author: Mike Primavera
+  source: 
+  subject: 
+  tags:
+  - en
