@@ -54303,3 +54303,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Long ass rants in comment boxes are the coolest thing online to me. Like imagine
+    if Herman Melville angrily posted Moby Dick on a whale blog.
+  author: L Ǝ O И
+  source: 
+  subject: 
+  tags:
+  - en
+  - literature
