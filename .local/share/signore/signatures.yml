@@ -21967,14 +21967,6 @@ signatures:
   - pl
   - sport
 - !ruby/struct:Signore::Signature
-  text: Zawodniczka nawiązała łączność z koniem.
-  author: Wojciech Mickunas
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-- !ruby/struct:Signore::Signature
   text: Prostowanie nieprawdy w felietonach Ziemkiewicza jest jak fotografowanie piasku
     na Saharze. Mało odkrywcze, ale trudno się oprzeć pokusie.
   author: Wojciech Orliński
@@ -50065,7 +50057,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: one size fists all.
+  text: One size fists all.
   author: Filip Tepper
   source: 
   subject: 
@@ -54312,3 +54304,11 @@ signatures:
   tags:
   - en
   - literature
+- !ruby/struct:Signore::Signature
+  text: 'Remember: a yawn is a silent scream for coffee.'
+  author: Mathias Meyer
+  source: 
+  subject: 
+  tags:
+  - en
+  - coffee
