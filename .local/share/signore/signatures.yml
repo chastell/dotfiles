@@ -54312,3 +54312,13 @@ signatures:
   tags:
   - en
   - coffee
+- !ruby/struct:Signore::Signature
+  text: |-
+    The fact that Yahoo Pipes still exists tells me they can’t remember what server it’s running on. I know but will never tell!
+    Pipes was clever, genuinely useful and super innovative for its time. Thus it ran afoul of Yahoo’s three strikes policy.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
