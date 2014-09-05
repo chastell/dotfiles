@@ -24630,14 +24630,6 @@ signatures:
   - en
   - copyright
 - !ruby/struct:Signore::Signature
-  text: I don’t… I can’t… I… something… oh god. I gave my mom my iPhone and showed
-    her how to scroll down and she LICKED HER FINGER first.
-  author: Tracy King
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: In some cultures what I do would be considered normal.
   author: 
   source: 
@@ -54322,3 +54314,21 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: 'Widzę dwa rozwiązania problemu Jezusa w Świebodzinie: albo dać muzułmanom
+    (czy innym eurokomuchom) wysadzić, albo zrobić mecha. Win-win either way.'
+  author: Mathilda Hartnell
+  source: 
+  subject: 
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: The key to getting the right things done is remembering that ‘priority’ was
+    never meant to be pluralized.
+  author: Josh Long
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
