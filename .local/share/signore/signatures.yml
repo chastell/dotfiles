@@ -54332,3 +54332,11 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: I try to listen to my body when I run. Which is easy, because mostly it just
+    says ‘burger burger burger BURGER BURGER BURGER BURGER’.
+  author: Avdi Grimm
+  source: 
+  subject: 
+  tags:
+  - en
