@@ -49298,7 +49298,7 @@ signatures:
   - en
   - tech
 - !ruby/struct:Signore::Signature
-  text: HOLY COW! THE FCC IS GOING TO BAN SONGS AS RINGTONES! IT'S THE BEST DAY EVER!
+  text: HOLY COW! THE FCC IS GOING TO BAN SONGS AS RINGTONES! IT’S THE BEST DAY EVER!
     …and then I woke up.
   author: Randy Tayler
   source: 
@@ -54340,3 +54340,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: "Help, I listened to every TED talk but I’m still the same person. \U0001F615"
+  author: Neil Reynolds
+  source: 
+  subject: 
+  tags:
+  - en
+  - TED
