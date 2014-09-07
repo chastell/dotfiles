@@ -37,7 +37,7 @@
 [rerere]
   enabled = 1
 
-[url "git://github.com/"]
+[url "git@github.com:"]
   insteadOf = gh:
 
 [user]
