@@ -13470,14 +13470,6 @@ signatures:
   - programming
   - Perl
 - !ruby/struct:Signore::Signature
-  text: 'Forbes jest nieoceniony: „dobra rada: najlepsze nazwy domen są krótkie, atrakcyjne,
-    treściwe i łatwe do zapamiętania”. Wpadłbyś na to?'
-  author: reuptake
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Czy czytanie basha i jabberowanie nie jest najlepszym objawem frajerstwa?
     Znaczy w knajpie. Telefonem.
   author: opi
@@ -34815,16 +34807,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Some kind dude at IEEE is worried that my copy of IEEE Spectrum may not have
-    arrived this month. As if that’s somehow a bad thing…
-  author: Brian McFee
-  source: 
-  subject: 
-  tags:
-  - en
-  - IEEE
-  - academia
-- !ruby/struct:Signore::Signature
   text: Why would I get tax credit for owning an alternative fuel car but none for
     not owning any car at all?
   author: Chris Amaphore
@@ -49988,7 +49970,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: |-
     The non-existent --> operator in C++ that works as intended:
-    while (x --> 0)  printf("%d ", x);
+    while (x --> 0) printf("%d ", x);
   author: Panos Ipeirotis
   source: 
   subject: 
@@ -54348,3 +54330,16 @@ signatures:
   tags:
   - en
   - TED
+- !ruby/struct:Signore::Signature
+  text: |-
+    welcome to map club
+    the first rule of map cl
+    whats that?
+    no sorry this is not fight club
+    ok see you are here
+    you actually want to be over h
+  author: Smash Mouth Fan
+  source: 
+  subject: 
+  tags:
+  - en
