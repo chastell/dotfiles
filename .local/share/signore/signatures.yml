@@ -54343,3 +54343,15 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘When can you do it?’
+    Two weeks.
+    ‘We need it next week.’
+    Then I suggest you ask again last week.
+  author: jaspertandy
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
