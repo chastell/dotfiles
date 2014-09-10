@@ -54355,3 +54355,29 @@ signatures:
   tags:
   - en
   - work
+- !ruby/struct:Signore::Signature
+  text: Nawet wydobyłem się na chwilę z depresji i czytam RFC IMAP4 ponieważ notacja
+    wyszukiwania jest FETCH [FLAGS INTERNALDATE RFC822 ENVELOPE] SEARCH [BODY HEADER.FIELD
+    (MESSAGE-ID, SPIERDALAJEJE)] bardzo łatwa do ogarnięcia i ma 800% intuicji.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+  - IMAP
+- !ruby/struct:Signore::Signature
+  text: |-
+    Knuckle tat:
+    B U N D   L E E X
+    E C R A   K E A S
+    S S E T   S : P R
+    E C O M   P I L E
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
