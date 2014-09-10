@@ -42,6 +42,7 @@ autocmd BufRead,BufNewFile *.ru              set filetype=ruby
 autocmd BufRead,BufNewFile parade            set filetype=ruby
 autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
 autocmd BufReadPost fugitive://* set bufhidden=delete
+autocmd BufWritePost $MYVIMRC source $MYVIMRC
 autocmd FileType help wincmd L
 autocmd FileType json setlocal equalprg=python\ -m\ json.tool
 autocmd FocusLost * :silent! wall
