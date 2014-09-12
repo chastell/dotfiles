@@ -54391,3 +54391,13 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: |-
+    My favorite thing about ‘nonplussed’ is that it’s derived from Latin ‘non plus’, metaphorically describing the state one reaches when ‘no more’ can be said or done.
+    It’s the Latin version of ‘I can’t even’.
+  author: suddenly_mozzarella
+  source: 
+  subject: 
+  tags:
+  - en
+  - linguistics
