@@ -54401,3 +54401,15 @@ signatures:
   tags:
   - en
   - linguistics
+- !ruby/struct:Signore::Signature
+  text: |-
+    Google a problem, find a 2005 Ruby Quiz on it. With a submission from ME. My email sig?
+    ‘I’m having a surreal day… OR AM I?’
+    WELL I AM NOW
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
