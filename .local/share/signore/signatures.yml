@@ -54413,3 +54413,20 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: |-
+    YOU ARE IN A LEGACY CODEBASE
+    > RUN TESTS
+    YOU HAVE NO TESTS
+    > READ SPEC
+    YOU HAVE NO SPEC
+    > WRITE FIX
+    YOU ARE EATEN BY AN ELDER CODE HACK.
+  author: Brian Wisti
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
