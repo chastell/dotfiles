@@ -54430,3 +54430,13 @@ signatures:
   - tech
   - programming
   - testing
+- !ruby/struct:Signore::Signature
+  text: What is with this myth that you can’t both have speaker diversity AND choose
+    the best talks? You’re literally saying white men are better.
+  author: kat
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - speaking
