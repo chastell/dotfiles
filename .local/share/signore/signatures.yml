@@ -22726,17 +22726,6 @@ signatures:
   - pl
   - House
 - !ruby/struct:Signore::Signature
-  text: "‘That book open on my bed? Oh. That’s the Enterprise D tech manual. I— I
-    wasn’t expecting to have women over today.’ #sentencesihavesaid"
-  author: Ryan North
-  source: 
-  subject: 
-  tags:
-  - en
-  - reading
-  - programming
-  - D
-- !ruby/struct:Signore::Signature
   text: She’d stopped reading the kind of women’s magazine that talked about romance
     and knitting and started reading the kind of women’s magazine that talked about
     orgasms, but apart from making a mental note to have one if ever the occasion
@@ -54440,3 +54429,10 @@ signatures:
   - en
   - tech
   - speaking
+- !ruby/struct:Signore::Signature
+  text: Vampires are less scary if you call them ‘mosquito people’.
+  author: "$1,000,000 Bill"
+  source: 
+  subject: 
+  tags:
+  - en
