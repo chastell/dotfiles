@@ -54436,3 +54436,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: To make an accurate estimate for a software project have two experienced people
+    make independent estimates and then multiply them together.
+  author: Andy Mangold
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
+  - estimates
