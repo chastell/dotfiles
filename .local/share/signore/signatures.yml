@@ -54447,3 +54447,11 @@ signatures:
   - tech
   - work
   - estimates
+- !ruby/struct:Signore::Signature
+  text: Can’t say I’m not amused by all the dead links I’ve found pointing to delicious.
+    YOU HAD ONE JOB
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
