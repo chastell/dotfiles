@@ -54455,3 +54455,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Remember the space program? That was awesome.
+    I especially liked the part where they put people on the Moon, with a car.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
