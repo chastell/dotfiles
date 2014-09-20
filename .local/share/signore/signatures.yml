@@ -54473,3 +54473,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I’m proud Booker. I read books. I talk about books sometimes. I read about
+    books online. This is a unique part of Booker culture.
+  author: thomas violence
+  source: 
+  subject: 
+  tags:
+  - en
+  - books
