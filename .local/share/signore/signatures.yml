@@ -21195,16 +21195,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: 'WARNING: if you see tweets offering free clip of the new Nickelback album
-    DO NOT CLICK. It links to a free clip of the new Nickelback album.'
-  author: Michael O’CC
-  source: 
-  subject: 
-  tags:
-  - en
-  - music
-  - Nickelback
-- !ruby/struct:Signore::Signature
   text: Comparing your programming language to Java is kind of a low bar.
   author: Avdi Grimm
   source: 
@@ -54460,6 +54450,25 @@ signatures:
     Remember the space program? That was awesome.
     I especially liked the part where they put people on the Moon, with a car.
   author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Rekrutacyjną buławę do plecaka otrzymuje kandydat, który w rubryce „wykształcenie”
+    wpisuje na pierwszym miejscu Stanford University… i precyzuje, że to jeden kurs
+    na Coursera.org
+  author: Anna Mazgal
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    *walks into 7/11*
+    more like 10/10, good job everyone
+  author: Sage Boggs
   source: 
   subject: 
   tags:
