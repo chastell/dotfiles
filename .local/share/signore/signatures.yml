@@ -54482,3 +54482,19 @@ signatures:
   tags:
   - en
   - books
+- !ruby/struct:Signore::Signature
+  text: |-
+    — No jak ktoś już nie ma do napisania nic ciekawego, to przecież przynajmniej robi to w moleskinie.
+    — To taki interes, gdzie sprzedajesz marzenia. Jak karnet na siłownię w styczniu. Ty wiesz, że się oszukujesz, wie sprzedawca. Kapitalizm z ludzką twarzą i wejściówką na jogę.
+  author: chastell, opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: a group of people is called a hell
+  author: "@tinynietzsche"
+  source: 
+  subject: 
+  tags:
+  - en
