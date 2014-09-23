@@ -54498,3 +54498,23 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'Trochę nie rozumiem, czemu w szkołach istnieje ten wybór: religia / etyka.
+    Przecież to nie są przedmioty przeciwstawne ani wykluczające się. Powinno być:
+    religia / fizyka, albo w ogóle religia / fizyka, chemia, biologia. Osiem godzin
+    religii – albo przedmioty przyrodnicze. Kiedy ktoś w końcu poprawi to niedopatrzenie?'
+  author: Von Trompka
+  source: 
+  subject: 
+  tags:
+  - pl
+  - religion
+- !ruby/struct:Signore::Signature
+  text: "How about we use \U0001F51C as a special function arrow for making promises"
+  author: James Coglan
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
