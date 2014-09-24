@@ -54518,3 +54518,11 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: You know that feeling when your work is coming into focus and the pieces are
+    lining up and you realize you never, ever should have done this.
+  author: Paul Ford
+  source: 
+  subject: 
+  tags:
+  - en
