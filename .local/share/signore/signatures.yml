@@ -3453,18 +3453,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: |-
-    Weź nie godej Krzysztof Gierak
-    Nie wiy, co to je „linksztanga”,
-    Bo ci zaroz przifanzola,
-    Bydzie limo choby danga…
-  author: janyugo
-  source: 
-  subject: 
-  tags:
-  - pl
-  - poetry
-- !ruby/struct:Signore::Signature
   text: to tera chyba nie ma sensu się już kłaść. na bioli wkuję relę, na gegrze zgłoszę
     nieprzygotowanie, a na wuef nie wezmę stroju.
   author: kodz
@@ -14809,16 +14797,6 @@ signatures:
   tags:
   - en
   - Windows
-- !ruby/struct:Signore::Signature
-  text: |-
-    — Mojego kota nawet schabem trzeba karmić w ten sposób, że po kawałeczku z miseczki do pyszczka wsadzać.
-    — Może nie żyje?
-  author: DeJotPe, Kajko
-  source: pl.pregierz
-  subject: 
-  tags:
-  - pl
-  - cats
 - !ruby/struct:Signore::Signature
   text: Isaiah Berlin w swoim biograficznym eseju rzucił parę razy niefrasobliwe zdanie
     typu „jak określił to w liście do Engelsa…”, bez żadnej daty czy pomocy w szukaniu.
@@ -36468,17 +36446,14 @@ signatures:
   - education
   - Staszic
 - !ruby/struct:Signore::Signature
-  text: 
+  text: Stąd widzicie często gęsto…
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
   subject: 
   tags:
   - pl
   - education
-  - StaszicStąd
-  - widzicie
-  - często
-  - gęsto…
+  - Staszic
 - !ruby/struct:Signore::Signature
   text: Stąd widzicie często gęsto…
   author: płk Tadeusz Sieńko
@@ -41258,6 +41233,7 @@ signatures:
   subject: 
   tags:
   - en
+  - tech
   - work
 - !ruby/struct:Signore::Signature
   text: You know that kid at the arcade who’s just watching the demo and pressing
@@ -53054,7 +53030,8 @@ signatures:
   text: |-
     *opens door*
     ma’am, it’s your husband, I’m affraid…
-    *removes hat* he was owned online today. super hard.
+    *removes hat*
+    he was owned online today. super hard.
   author: sadvil
   source: 
   subject: 
@@ -54526,3 +54503,17 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Movie idea: Romantic comedy. ‘Five Nines’. A system administrator has Pingdom alerts come between him and his new girlfriend.
+    Picnics, movies, intimate moments, all interrupted by server outages. ‘I don’t know what you love more, me or uptime!’
+    At a make-up dinner, the sysadmin has cron fake a ping. He drops his phone into the champagne bucket. (Ruggedized phone product placement?)
+    On the wedding day, a massive DDoS attack has him at the keyboard in his tux. ‘You’ll be late!’ ‘ONE MORE MINUTE!’
+    He makes it! ‘You may kiss the bride.’ They lean in and— text ringtone. Guests gasp. He pulls out his phone, heaves it away. Kiss. Fade.
+  author: Greg Knauss
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - cinematogrphy
