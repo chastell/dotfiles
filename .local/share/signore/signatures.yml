@@ -54517,3 +54517,13 @@ signatures:
   - en
   - tech
   - cinematogrphy
+- !ruby/struct:Signore::Signature
+  text: English is amazing because it’s a spoken language but it reads just like RSpec.
+  author: Chad Fowler
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - RSpec
