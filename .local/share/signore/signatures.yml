@@ -15996,17 +15996,6 @@ signatures:
   - tech
   - programming
 - !ruby/struct:Signore::Signature
-  text: XML is like violence, if it doesn’t solve your problem you’re not using enough
-    of it.
-  author: 
-  source: 
-  subject: 
-  tags:
-  - en
-  - tech
-  - programming
-  - XML
-- !ruby/struct:Signore::Signature
   text: A potem przez przypadek oblał się benzyną i oparł o kuchenkę.
   author: opi
   source: 
@@ -22830,18 +22819,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: I am sick unto death of obscure English towns that exist seemingly for the
-    sole accommodation of these so-called limerick writers and even sicker of their
-    residents, all of whom suffer from physical deformities and spend their time dismembering
-    relatives at fancy dress balls.
-  author: editor of the Limerick Times
-  source: 
-  subject: 
-  tags:
-  - en
-  - poetry
-  - limericks
-- !ruby/struct:Signore::Signature
   text: America is the only country that went from barbarism to decadence without
     civilization in between.
   author: Oscar Wilde
@@ -24784,6 +24761,7 @@ signatures:
   subject: 
   tags:
   - pl
+  - tech
   - Usenet
   - networking
 - !ruby/struct:Signore::Signature
@@ -37809,7 +37787,7 @@ signatures:
   text: |-
     ‘If what you are working on feels overwhelming, try slicing off a chunk randomly, and then focus on making that part great. It works.’
     ‘I keep randomly slicing off the part where I enjoy a beer at the end.’
-  author: Practicing Ruby, Avdi Grimm
+  author: Gregory Brown, Avdi Grimm
   source: 
   subject: 
   tags:
@@ -54536,3 +54514,12 @@ signatures:
   - en
   - tech
   - work
+- !ruby/struct:Signore::Signature
+  text: "‘I’d like to buy a vowel, Pat.’\n‘Go ahead.’\n‘Is there a \U0001F62D?’\n‘There
+    are 14.’\n‘I’d like to solve. “OMG LOL I CAN’T EVEN \U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D\U0001F62D.”’\n‘You
+    got it.’"
+  author: Bucky Isotope
+  source: 
+  subject: 
+  tags:
+  - en
