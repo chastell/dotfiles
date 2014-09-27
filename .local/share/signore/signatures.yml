@@ -54527,3 +54527,12 @@ signatures:
   - tech
   - programming
   - RSpec
+- !ruby/struct:Signore::Signature
+  text: 'OH: My product owner is on vacation. We now can do real work.'
+  author: Marcus Schirp
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - work
