@@ -7404,6 +7404,7 @@ signatures:
   tags:
   - en
   - homosexuality
+  - marriage
 - !ruby/struct:Signore::Signature
   text: "Śniło mi się, że Kierzko z Shotem wybudowali kościół w kształcie statku i
     osadzili go na szczycie PKiN. W ramach trollowania."
@@ -36158,6 +36159,7 @@ signatures:
   tags:
   - en
   - homosexuality
+  - marriage
 - !ruby/struct:Signore::Signature
   text: 'Rails!!!!! My favorite part are the TWO anonymous Modules: https://gist.github.com/2648107'
   author: Steve Klabnik
@@ -39008,6 +39010,7 @@ signatures:
   tags:
   - en
   - homosexuality
+  - marriage
 - !ruby/struct:Signore::Signature
   text: LinkedIn portalem równych szans jak widzę, ale dawać redesign robić niewidomym
     to ryzykowne.
@@ -43479,6 +43482,7 @@ signatures:
   tags:
   - en
   - religion
+  - marriage
   - Church of England
 - !ruby/struct:Signore::Signature
   text: 'OH: ‘Their tears of anguish sustain me’ is not the answer to any interview
@@ -43555,6 +43559,7 @@ signatures:
   subject: 
   tags:
   - en
+  - marriage
   - religion
 - !ruby/struct:Signore::Signature
   text: |-
@@ -44386,6 +44391,7 @@ signatures:
   subject: 
   tags:
   - en
+  - marriage
   - politics
 - !ruby/struct:Signore::Signature
   text: Rails is omakase. Node is street food. Perl is teenage angst. Lisp is a doorknob.
@@ -52820,6 +52826,7 @@ signatures:
   subject: 
   tags:
   - en
+  - marriage
   - religion
 - !ruby/struct:Signore::Signature
   text: Not to brag but I finished this 14 day diet in 3 hours and 38 minutes.
@@ -54523,3 +54530,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: '45-year-olds: ‘well here’s how it used to be but I don’t have an opinion’;
+    25-year-olds: ‘IT MUST BE THIS WAY’; I wonder why things break'
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
