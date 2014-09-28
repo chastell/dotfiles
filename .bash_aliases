@@ -39,6 +39,7 @@ alias rr='rerun -cx rake'
 alias rsd='rsync --archive --compress --delete --delete-excluded --partial --progress'
 alias rs='rsync --archive --compress --partial --progress'
 alias rvim='gvim --remote-silent'
+alias serve='ruby -run -e httpd -- -p 8080'
 alias sigp='signore pronto'
 alias sig='signore'
 alias such=git
