@@ -5,6 +5,8 @@ HISTSIZE=1000000
 
 PS1='${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[32m\]`git branch 2>/dev/null | grep ^*`\[\033[00m\]\$ '
 
+export ANSIBLE_COW_SELECTION=random
+
 set -o vi
 
 shopt -s autocd
