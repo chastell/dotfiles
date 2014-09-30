@@ -54539,3 +54539,12 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: 'Accidentally wrote ‘technical objectons’ and find myself wishing the technical
+    objecton was an actual particle. Its antiparticle: the hypino.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
