@@ -23431,16 +23431,6 @@ signatures:
   - pl
   - tech
 - !ruby/struct:Signore::Signature
-  text: Basically, there were two sides to the world. There was the entire computer
-    games software industry engaged in a tremendous effort to stamp out piracy, and
-    there was Wobbler. Currently, Wobbler was in front.
-  author: Terry Pratchett
-  source: Only You Can Save Mankind
-  subject: 
-  tags:
-  - en
-  - piracy
-- !ruby/struct:Signore::Signature
   text: |-
     ‘Pull me up, then’, he hinted.
     ‘I think that might be sort of difficult’, grunted Twoflower. ‘I don’t actually think I can do it, in fact.’
@@ -23969,14 +23959,6 @@ signatures:
   - tech
   - programming
   - Perl
-- !ruby/struct:Signore::Signature
-  text: There is a record of geeks that don’t use computers. Unfortunately, they are
-    all dead, having lived in an era of no computers.
-  author: Robert A. Hayden
-  source: The Code of the Geeks
-  subject: 
-  tags:
-  - en
 - !ruby/struct:Signore::Signature
   text: The day Micros~1 makes something that doesn’t suck is probably the day they
     start making vacuum cleaners.
@@ -54548,3 +54530,11 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: If you love something, let it go. From the creators of ‘if you’re tired, go
+    for a run’, and ‘if you’re on fire, eat bees’.
+  author: Nice Hippo
+  source: 
+  subject: 
+  tags:
+  - en
