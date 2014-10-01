@@ -54538,3 +54538,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I Just found a fruit rollup in my pocket, which means one of my nephews has
+    a peach flavored blunt wrap in his lunchbox.
+  author: J_sco
+  source: 
+  subject: 
+  tags:
+  - en
