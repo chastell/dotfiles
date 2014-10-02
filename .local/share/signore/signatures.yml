@@ -54546,3 +54546,22 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Spędziłem całe (bez żartów) życie ryjąc — ryjem naprzód — norę w górze wiedzy
+    informatycznej. I po tych trzydziestu latach nadal czuję, że jakiś facet produkujący
+    komputery zaworowe w latach sześćdziesiątych mógłby mnie złapać za wszarz, złamać
+    na kolanie jak strzelbę, wsadzić mi w tyłek kapiszony i naciskając moszną wystrzelić
+    z nozdrzy. Shit’s hard.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: We have room on the Mall for maybe 3 more wars, tops. And that’s if Afghanistan
+    and Iraq share a spot. Maybe giant clown for war on terror?
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
