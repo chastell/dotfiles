@@ -7761,14 +7761,6 @@ signatures:
   - pl
   - signatures
 - !ruby/struct:Signore::Signature
-  text: For every action there is an equal and opposite government program.
-  author: Bob Wells
-  source: 
-  subject: 
-  tags:
-  - en
-  - government
-- !ruby/struct:Signore::Signature
   text: 90% of happiness is picking the right ethicist.
   author: 
   source: 
@@ -54560,6 +54552,14 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: We have room on the Mall for maybe 3 more wars, tops. And that’s if Afghanistan
     and Iraq share a spot. Maybe giant clown for war on terror?
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Really impressed by the WWII memorial in DC. Building it in Nazi architectural
+    style was a classy, magnanimous gesture from the victors.
   author: Pinboard
   source: 
   subject: 
