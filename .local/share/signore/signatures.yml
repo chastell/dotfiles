@@ -54573,3 +54573,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: "‘But won’t you eventually run out of bugs?’ – my concerned nonprogrammer
+    friend after hearing about backlogs."
+  author: Kathy Sun
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
