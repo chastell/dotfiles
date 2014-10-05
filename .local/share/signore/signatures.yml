@@ -54565,3 +54565,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Imagine if all the things riskier than airline travel had mandatory safety
+    briefings. The bus doors have now closed. Please pay attention…
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
