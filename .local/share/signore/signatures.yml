@@ -7624,16 +7624,6 @@ signatures:
   - en
   - typography
 - !ruby/struct:Signore::Signature
-  text: If a rabbit defined intelligence the way man does, then the most intelligent
-    animal would be a rabbit, followed by the animal most willing to obey the commands
-    of a rabbit.
-  author: Robert Brault
-  source: 
-  subject: 
-  tags:
-  - en
-  - intelligence
-- !ruby/struct:Signore::Signature
   text: Mobile websites increasingly feel like websites done right. Maybe we should
     stop making big websites that suck.
   author: Paul Battley
@@ -31894,8 +31884,8 @@ signatures:
   - pl
   - science
 - !ruby/struct:Signore::Signature
-  text: When asked why there was only one set of foot prints Jesus replied, ‘The Sand
-    people ride single file to hide their numbers.’
+  text: When asked why there was only one set of foot prints Jesus replied, ‘Sand
+    People always ride single file to hide their numbers’.
   author: Unvirtuous Abbey
   source: 
   subject: 
@@ -54590,3 +54580,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Opinions on feminism are pretty much like nipples in that everyone has them
+    but you only ever get to see men’s.
+  author: Emily Reynolds
+  source: 
+  subject: 
+  tags:
+  - en
+  - feminism
