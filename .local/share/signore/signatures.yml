@@ -54583,3 +54583,10 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: I’m old enough to remember when it was an Internet of people.
+  author: Rocco Caputo
+  source: 
+  subject: 
+  tags:
+  - en
