@@ -2466,15 +2466,6 @@ signatures:
   - en
   - religion
 - !ruby/struct:Signore::Signature
-  text: It’s no longer a question of staying healthy. It’s a question of finding a
-    sickness you like.
-  author: Jackie Mason
-  source: 
-  subject: 
-  tags:
-  - en
-  - health
-- !ruby/struct:Signore::Signature
   text: My taxes went to Iraq and all I got was this lousy sig.
   author: 
   source: 
@@ -15544,16 +15535,6 @@ signatures:
   - en
   - tech
   - programming
-- !ruby/struct:Signore::Signature
-  text: I do hope that no-one protesting about reductions in public expenditure is
-    witless enough to call themselves an anarchist.
-  author: Tom Greeves
-  source: 
-  subject: 
-  tags:
-  - en
-  - politics
-  - anarchism
 - !ruby/struct:Signore::Signature
   text: I’m a great believer in luck, and I find the harder I work the more I have
     of it.
@@ -43849,14 +43830,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Losing faith in your delivery halfway through telling a joke, so opting to
-    just explain what the punch line was going to be and why.
-  author: Very British Problems
-  source: 
-  subject: 
-  tags:
-  - en
-- !ruby/struct:Signore::Signature
   text: |-
     How often do you have status meetings?
     Manager: Hardly ever: once a week.
@@ -53014,7 +52987,7 @@ signatures:
   - en
   - typography
 - !ruby/struct:Signore::Signature
-  text: 'Someone just followed me on Quora. This raises many questions: I have Quora
+  text: 'Someone just followed me on Quora. This raises many questions: I have a Quora
     account? People use Quora? Quora?'
   author: opi
   source: 
@@ -54589,3 +54562,12 @@ signatures:
   tags:
   - en
   - feminism
+- !ruby/struct:Signore::Signature
+  text: I eat the first half of a burrito to get full, I eat the second half to teach
+    myself a lesson.
+  author: Bridger Winegar
+  source: 
+  subject: 
+  tags:
+  - en
+  - food
