@@ -53135,7 +53135,7 @@ signatures:
   - en
 - !ruby/struct:Signore::Signature
   text: Taksówkarz wbił trasę na Google maps na telefonie a na kolanach ma tablet
-    i obczaja News Feed na każdych światłach ‪#‎selfdrivingcars‬
+    i obczaja News Feed na każdych światłach #selfdrivingcars
   author: dmr
   source: 
   subject: 
@@ -54571,3 +54571,11 @@ signatures:
   tags:
   - en
   - food
+- !ruby/struct:Signore::Signature
+  text: "‘A/S/L?’ YOUR FEEBLE MIND WOULD WITHER IN THE ATTEMPT TO COMPREHEND MY AGE.
+    MY GENDER IS NOT BOUND BY YOUR STRINGENT CLASSIFICATION. CANADA."
+  author: "ＣＯＮＳＴＡＮＴ Ｈ Ｕ Ｍ"
+  source: 
+  subject: 
+  tags:
+  - en
