@@ -53134,8 +53134,8 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Taksówkarz wbił trasę na Google maps na telefonie a na kolanach ma tablet
-    i obczaja News Feed na każdych światłach #selfdrivingcars
+  text: 'Taksówkarz wbił trasę na Google maps na telefonie a na kolanach ma tablet
+    i obczaja News Feed na każdych światłach #selfdrivingcars'
   author: dmr
   source: 
   subject: 
@@ -54575,6 +54575,14 @@ signatures:
   text: "‘A/S/L?’ YOUR FEEBLE MIND WOULD WITHER IN THE ATTEMPT TO COMPREHEND MY AGE.
     MY GENDER IS NOT BOUND BY YOUR STRINGENT CLASSIFICATION. CANADA."
   author: "ＣＯＮＳＴＡＮＴ Ｈ Ｕ Ｍ"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: My daughter’s math homework had exponents, and she liked it. What a SQUARE!
+    HA HA HA HA HA HA HA HA HA HA HA HAwait this isn’t my medication
+  author: Randy Tayler
   source: 
   subject: 
   tags:
