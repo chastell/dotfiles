@@ -54587,3 +54587,22 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Beethoven: „HABT IHR LUST AUF EIN PAAR NEUE SONATEN?“
+    Publikum: „JAA!!“ *applaudiert*
+    Beethoven: „ICH KANN EUCH NICHT HÖREN!“
+  author: Thea
+  source: 
+  subject: 
+  tags:
+  - de
+  - music
+- !ruby/struct:Signore::Signature
+  text: They say the pedanfruit doesn’t fall far from the pedantry. But if you want
+    to get precise about it, that’s not fully correct.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
