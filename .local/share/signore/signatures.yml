@@ -54606,3 +54606,29 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Lektion 1: Norddeutscher Small Talk.
+    „Moin.“
+    „Moin.“
+    „Und?“
+    „Jou. Und?“
+    „Jou.“
+  author: Master Control Dave
+  source: 
+  subject: 
+  tags:
+  - de
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘The next person who monkeypatches std lib methods is grounded for life.’
+    ‘Even for <=>?’
+    ‘That one is fine as long as it’s on one of your own objects. It’s required for Comparable.’
+    ‘I usually just redefine it to print a spaceship. You know, to make things more festive.’
+  author: Jamie Gaskins, ChaseGilliam
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Ruby
