@@ -54632,3 +54632,13 @@ signatures:
   - en
   - tech
   - Ruby
+- !ruby/struct:Signore::Signature
+  text: |-
+    *follows dreams*
+    *dreams don’t follow back*
+    *unfollows dreams*
+  author: Julien
+  source: 
+  subject: 
+  tags:
+  - en
