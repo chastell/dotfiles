@@ -54642,3 +54642,13 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: ISIS is not medieval. Medieval caliphates excelled in philosophy, science,
+    literature, didn’t shun gay love and wrote poems to praise wine.
+  author: Elaine
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+  - religion
