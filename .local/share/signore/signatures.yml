@@ -54652,3 +54652,12 @@ signatures:
   - en
   - politics
   - religion
+- !ruby/struct:Signore::Signature
+  text: People who call me negative are overlooking the fact that I agree with ten
+    of the eleven digits in Snapchat’s valuation.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
