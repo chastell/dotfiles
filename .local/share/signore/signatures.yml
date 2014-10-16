@@ -54661,3 +54661,15 @@ signatures:
   tags:
   - en
   - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    *Hugh Laurie winks at me from across the bar*
+    Hugh: Here’s a drink. This one’s on ‘the House’.
+    Me: Thanks.
+    Hugh: I’m in that show House.
+    Me: Ok.
+  author: Clint Billton
+  source: 
+  subject: 
+  tags:
+  - en
