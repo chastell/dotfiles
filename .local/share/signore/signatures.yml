@@ -2671,14 +2671,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: Getting a thrill out of some stupid quote is a sign of idiocy.
-  author: turmeric
-  source: 
-  subject: 
-  tags:
-  - en
-  - signatures
-- !ruby/struct:Signore::Signature
   text: We are what we eat. I am cheap, fast and easy.
   author: 
   source: 
@@ -24737,16 +24729,6 @@ signatures:
   - pl
   - Winnie-the-Pooh
 - !ruby/struct:Signore::Signature
-  text: Gdy trwa mecz piłkarski, nie wiem, czy na świecie trwają wojny, czy rodzą
-    się i umieraja ludzie. Sądzę, że nie.
-  author: Jerzy Pilch
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sport
-  - football
-- !ruby/struct:Signore::Signature
   text: I don’t always read fiction, but when I do it’s a spreadsheet with timelines
     in a developer meeting.
   author: Mike Holzinger
@@ -44812,14 +44794,6 @@ signatures:
   - programming
   - Ruby
 - !ruby/struct:Signore::Signature
-  text: Naukowcy ostatnio odkryli, że wąż który kusił Ewę był jednym końcem przyczepiony
-    do Adama.
-  author: Isztwan
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Monopoly to replace the iron with a cat. No word on whether they’ll replace
     the game itself with one that doesn’t make you hate your family.
   author: David Malki
@@ -54669,6 +54643,14 @@ signatures:
   text: Sometimes, when I get sad, I remember that the French nuclear deterrent is
     called the ‘Force de Frappe’.
   author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: If you ever think you’ve made a big mistake, just remember that in 1788 the
+    Austrian army attacked itself and lost 10,000 men.
+  author: Secret Facts
   source: 
   subject: 
   tags:
