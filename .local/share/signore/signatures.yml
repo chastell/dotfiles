@@ -54666,3 +54666,11 @@ signatures:
   - programming
   - Java
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: 'I love that they changed it from Mountain Dew to Mtn Dew. Letters: ain’t
+    nobody got time for that.'
+  author: Aaron Patterson
+  source: 
+  subject: 
+  tags:
+  - en
