@@ -52447,7 +52447,7 @@ signatures:
 - !ruby/struct:Signore::Signature
   text: |-
     Today working with r̀uby̵ I read from /dev/gho͠st͟. Hope I’m not h̹a̸͇̣̣̘͔̜u̦ǹ̻̰͎̲͙̪ͅt͕͙͔̪̰ḙ͍̗̥͕d̤͔̫. Huh my ke̡yb̛o͜ard ̕i̶s acting up…
-    terminal keeps on s҉pìtti̵n͠g̷ out extra chars. Tried a `r̕e̕set҉` #h̤̣͒e̺̋̽͋̄̀̒̾c̰̩͇̒ͦ͌ͩ̀ͬ͢o̙͙̹̖̹̟̬m̪̣̖̪̣ͭͯ̎e̥͚̦̙̣͔ͤ̉ͣ̉͊ͥͮs͍͉͍̱̗̝̐
+    Terminal keeps on s҉pìtti̵n͠g̷ out extra chars. Tried a `r̕e̕set҉` #h̤̣͒e̺̋̽͋̄̀̒̾c̰̩͇̒ͦ͌ͩ̀ͬ͢o̙͙̹̖̹̟̬m̪̣̖̪̣ͭͯ̎e̥͚̦̙̣͔ͤ̉ͣ̉͊ͥͮs͍͉͍̱̗̝̐
   author: Nick Gauthier
   source: 
   subject: 
@@ -54655,3 +54655,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Recruiter Confident Java Developer Can Learn The Script Part
+  author: Hacker News Onion
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
+  - JavaScript
