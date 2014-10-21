@@ -22659,14 +22659,6 @@ signatures:
   - en
   - Discworld
 - !ruby/struct:Signore::Signature
-  text: Jak ktoś ma pecha, to złamie ząb podczas seksu oralnego.
-  author: Szymon Sokół
-  source: 
-  subject: 
-  tags:
-  - pl
-  - sex
-- !ruby/struct:Signore::Signature
   text: Oficjalna linia Kościoła Katolickiego w Polsce w sprawach seksu jest, odkąd
     pamiętam, taka sama, i, odkąd pamiętam, zawsze pod kątem prostym do rzeczywistości.
     Do tego stopnia, że ich website wyglądałby tak samo, gdyby został zrobiony jako
@@ -54674,3 +54666,14 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Do programmers have any specific superstitions?’
+    ‘Yeah, but we call them best practices.’
+  author: David Grandinetti
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
