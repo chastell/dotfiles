@@ -54677,3 +54677,14 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    it was the best of times
+    it was the worst of times
+    it was a whiskey drink
+    it was a vodka drink
+  author: the casual diner
+  source: 
+  subject: 
+  tags:
+  - en
