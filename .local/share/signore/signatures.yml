@@ -66,18 +66,6 @@ signatures:
   - Futurama
 - !ruby/struct:Signore::Signature
   text: |-
-    I always saw Linux as the smart bookish chick who dresses frumpy, doesn’t put too much effort into how she looks and seems kind of plain at first, and she busts your balls a bit when you try to initiate a relationship, but then when you get to know her she lets her hair out and unbuttons her shirt a bit and DOOOINNNGGG! Keeper. And none of your friends know how hot she really is.
-    Of course she’s very sarcastic, it’s up to you whether you see that as a good thing or a bad thing.
-  author: GameboyRMH
-  source: "/."
-  subject: 
-  tags:
-  - en
-  - tech
-  - Linux
-  - sarcasm
-- !ruby/struct:Signore::Signature
-  text: |-
     60.times{|a|puts((0..240).map{|b|x=y=i=0;until(x*x+y*y>4||i==99);
     x,y,i=x*x-y*y+b/120.0-1.5,2*x*y+a/30.0-1,i+1;end;i==99?'#':'.'}*'');}
   author: David Brady
@@ -8676,16 +8664,6 @@ signatures:
   tags:
   - pl
   - alcohol
-- !ruby/struct:Signore::Signature
-  text: Zobacz sobie parę rysunków Eschera. A potem wyobraź sobie, że on ci konfigurował
-    serwer.
-  author: arturcz
-  source: 
-  subject: 
-  tags:
-  - pl
-  - tech
-  - admin
 - !ruby/struct:Signore::Signature
   text: Jak spotkam tego gościa, co użył 24 razy } elseif { w 7 KiB funkcji, to wydłubię
     mu oczy i owinę w wydruk tego gówna.
@@ -54688,3 +54666,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I love libertarianism because it combines the ‘don’t tell me what to do’ attitude
+    of a teen with economic understanding of a child.
+  author: MattyTalks
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
