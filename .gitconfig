@@ -6,6 +6,9 @@
   pr = !sh -c 'git fetch origin pull/$0/head:pr-$0 && git co pr-$0'
   st = status --branch --short
 
+[branch]
+  autosetuprebase = always
+
 [color]
   ui = auto
 
