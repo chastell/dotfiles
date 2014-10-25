@@ -11533,13 +11533,6 @@ signatures:
   tags:
   - pl
 - !ruby/struct:Signore::Signature
-  text: człowiek obity ze światem.
-  author: czerski
-  source: 
-  subject: 
-  tags:
-  - pl
-- !ruby/struct:Signore::Signature
   text: Socialism never took root in America because the poor see themselves not as
     exploited proletariat but temporarily embarrassed millionaires.
   author: Steve Klabnik
@@ -42059,15 +42052,6 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
-  text: The problem with Twitter is that there’s so much passive-aggressive negativity
-    from certain terrible people who know who they are.
-  author: izs
-  source: 
-  subject: 
-  tags:
-  - en
-  - Twitter
-- !ruby/struct:Signore::Signature
   text: Degaussing my moral compass.
   author: Pinboard
   source: 
@@ -54682,3 +54666,12 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Is there anything more capitalist than a peanut with a top hat, cane, and
+    monocle selling you other peanuts to eat?
+  author: Cohen is a ghost
+  source: 
+  subject: 
+  tags:
+  - en
+  - capitalism
