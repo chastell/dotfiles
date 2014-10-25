@@ -4,6 +4,7 @@ filetype off
 set runtimepath+=$HOME/.vim/bundle/vundle
 call vundle#begin()
 Plugin 'gmarik/vundle'
+Plugin 'cespare/vim-toml'
 Plugin 'craigemery/vim-autotag'
 Plugin 'ekalinin/Dockerfile.vim'
 Plugin 'ervandew/supertab'
