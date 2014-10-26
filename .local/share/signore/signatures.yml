@@ -54675,3 +54675,11 @@ signatures:
   tags:
   - en
   - capitalism
+- !ruby/struct:Signore::Signature
+  text: 'In software, ‘how long?’ has two answers: 1) It’s done, and 2) I don’t know.
+    Someone who answers otherwise is lying.'
+  author: Markus J. Q. Roberts
+  source: 
+  subject: 
+  tags:
+  - en
