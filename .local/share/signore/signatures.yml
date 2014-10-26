@@ -54683,3 +54683,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: Imagine if the standard way to close a business was to set it on fire and
+    wait for the fire department. That’s what we do with Archive Team.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
