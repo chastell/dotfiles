@@ -54691,3 +54691,23 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: 'HADOPI : 4 ans, 44.000.000€ de budget, 71 employés, salaire moyen : 6338€
+    brut, 3 personnes jugées, 1 condamnée à 600€'
+  author: Rémy Virin
+  source: 
+  subject: 
+  tags:
+  - fr
+  - HADOPI
+- !ruby/struct:Signore::Signature
+  text: We’re approaching a future where the only jobs that don’t require computer
+    science skills will be in entertainment or JavaScript development.
+  author: "@jacksonh"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
