@@ -19162,16 +19162,6 @@ signatures:
   - cinematography
   - religion
 - !ruby/struct:Signore::Signature
-  text: You don’t tell developers to be excellent. You allow them to be excellent.
-    And then you thank them for it. And bake them cakes.
-  author: Jason Gorman
-  source: 
-  subject: 
-  tags:
-  - en
-  - work
-  - programming
-- !ruby/struct:Signore::Signature
   text: "‘Gee, thanks, <app>, I wanted to copy that text with its original formatting!’
     – Nobody. Ever."
   author: Ryan Bigg
@@ -39283,14 +39273,6 @@ signatures:
   - music
   - U2
 - !ruby/struct:Signore::Signature
-  text: "‘Mexican’ + any superhero name = movie I want to see."
-  author: Maciej Cegłowski
-  source: 
-  subject: 
-  tags:
-  - en
-  - cinematography
-- !ruby/struct:Signore::Signature
   text: |-
     I’m scanning through reload.c, a notorious dark corner of GCC. There’s a random form feed character between two functions. Not even joking.
     This is the crap that builds everything you run, man.
@@ -54711,3 +54693,12 @@ signatures:
   - tech
   - programming
   - JavaScript
+- !ruby/struct:Signore::Signature
+  text: "‘Simple’ ‘Object’ Access Protocol. Four words, two lies, one redundancy."
+  author: James Higgs
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SOAP
