@@ -42,6 +42,7 @@ autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
 autocmd BufRead,BufNewFile *.ru              set filetype=ruby
 autocmd BufRead,BufNewFile parade            set filetype=ruby
 autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
+autocmd BufRead,BufNewFile *                 let &colorcolumn="80,".join(range(140,999),",")
 autocmd BufReadPost fugitive://* set bufhidden=delete
 autocmd BufWritePost $MYVIMRC source $MYVIMRC
 autocmd FileType help wincmd L
