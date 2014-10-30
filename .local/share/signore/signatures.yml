@@ -54702,3 +54702,12 @@ signatures:
   - en
   - tech
   - SOAP
+- !ruby/struct:Signore::Signature
+  text: "‘Yo Still Kicking With More Than 100M Yos Sent, Roughly 15 Per Second’ I
+    like to think that they’re all to the same person."
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Yo
