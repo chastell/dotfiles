@@ -54720,3 +54720,13 @@ signatures:
   tags:
   - en
   - marriage
+- !ruby/struct:Signore::Signature
+  text: I was in favour of space exploration until I realised what it’d mean for date
+    time libraries.
+  author: Joe Wright
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
