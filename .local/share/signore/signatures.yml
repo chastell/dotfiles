@@ -54730,3 +54730,12 @@ signatures:
   - en
   - tech
   - programming
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Unless you were left on a mountaintop as a baby, taught yourself everything and have no friends, you didn’t get where you are just on merit.’
+    ‘In which case, congratulations on figuring out TCP/IP in order to read this tweet.’
+  author: Dean Vipond, Gareth Adams
+  source: 
+  subject: 
+  tags:
+  - en
