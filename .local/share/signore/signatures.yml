@@ -54739,3 +54739,11 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: I’ve been trying and failing to explain my speaking career to my father in
+    Poland. ‘People pay me to tell them not to do stuff for free.’
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
