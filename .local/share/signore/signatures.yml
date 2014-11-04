@@ -54712,6 +54712,14 @@ signatures:
   - en
   - Yo
 - !ruby/struct:Signore::Signature
+  text: 'OH: Some men are born great, some achieve greatness, and some just fake it
+    when all the good employees leave.'
+  author: Alan
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
   text: I wish anti-marriage equality advocates would just say ‘LOOK WE THINK IT’S
     GROSS OK?’ because it’s painful watching them try to do logic.
   author: Jesse Berney
