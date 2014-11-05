@@ -54576,6 +54576,15 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
+  text: That moment when you enable debug mode and all tests pass.
+  author: "Łukasz Korecki"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
   text: Sometimes, when I get sad, I remember that the French nuclear deterrent is
     called the ‘Force de Frappe’.
   author: Pinboard
@@ -54755,3 +54764,851 @@ signatures:
   subject: 
   tags:
   - en
+- !ruby/struct:Signore::Signature
+  text: In a gold rush, the smart people sell mining equipent. And the really smart
+    people sell pitchforks, torches, and pitchfork sharpening fluid.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: "‘I totally get it. Let me give you a call on your cell!’ – Tech recruiter
+    who doesn’t really get it."
+  author: Roy Tomeij
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    function dickbin() {
+      echo "127.0.0.1 $1" >> /etc/hosts
+    }
+  author: Tom Stuart
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    When I say ‘empathy is a core dev skill’, I don’t mean ‘be nice’.
+    I mean ‘fully imagine being a person who DOESN’T know how this shit works’.
+    The hardest thing to imagine is not having a bit of knowledge that has become second-nature to you.
+    Remember not being able to read?
+  author: "@izs"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The cloud is a magical place where photos you didn’t want to share turn into
+    music you didn’t want to hear.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I have the sex appeal of a math book.’
+    ‘IDK man, I’ve never met anyone that opened a math book and didn’t say “fuck me”.’
+  author: tbhfuckoffpls, oh-stewart
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Hey girl you can call me JavaScript because I have fundamental problems you
+    need to work around on a daily basis.
+  author: Robin Ward
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: As I was walking along the beach with my iPhone playing music I noticed two
+    sets of footprints in the sand, one belonging to me and one to Bono.
+  author: Matt Haughey
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    No one ever dreamed back in 1969 that today we’d be just three short years from launching an astronaut into space.
+    ‘Aw crap, I left my keys on the moon!’
+    ‘Don’t worry, we’ll get ’em next trip.’
+    50 years later, cut to single tear running down old man’s face.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    1. Learn shiny new tool!
+    2. Super productive with new abstraction!
+    3. Fix corner case.
+    4. Fix corner case.
+    5. Fix corner case.
+    6. Fix…
+  author: Jessica Kerr
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: <div id="class" class="id" />
+  author: "ʇlɐɟɟ ‮tlaff.‮"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - HTML
+- !ruby/struct:Signore::Signature
+  text: 'Predatory Interviewing: Respond to recruiter from company. Get phone screen
+    with engineer. Recruit said engineer during phone screen.'
+  author: Ted Dziuba
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: Internet of things that should not be.
+  author: cms the chaos wizard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘I can’t wait until everything in my life needs security updates. Watch? Security update. Glasses? Security update. Toilet? Security update.’
+    ‘[attack surface intensifies]’
+  author: "@gabrielgironda, @sorenmacbeth"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    What I want to see from Apple: a supersonic airliner. You know you want it too. And the thing to make you cry is, they have the budget.
+    Basically a much more elegant Concorde with blond pine floors and cables that chafe and break at the slightest contact.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: 'Newsflash: whenever I’m okay with offering a flat fee proposal, you pay more
+    than my hourly rate. Your budget insurance isn’t free.'
+  author: Roy Tomeij
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: When I die, my family will be able to keep using computers and TVs for a while,
+    but then something will break and I guess they'll just stop.
+  author: Jonathan Coulton
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Inserting a page break in TextEdit doesn’t actually cause a page break, so
+    that’s why my computer seems to have gone out the window, officer.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    1) Go to Starbucks
+    2) Order coffee
+    3) Tell them your name is Waldo
+    4) Leave
+  author: 
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: It’s all fund and games until the cofee is late.
+  author: Florian Gilcher
+  source: 
+  subject: 
+  tags:
+  - en
+  - coffee
+- !ruby/struct:Signore::Signature
+  text: |-
+    Hey asshole playing Sim City on an iPad in the movie theatre!
+    Are you seriously putting residential houses right next to a power plant?!
+  author: lawblob
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    It’s not often I find a fifty-gigabyte bookmark file that compresses down so well on backup!
+    That’s amazing. I’m not even mad.
+    Patching the crawler so it auto-detects and converts downloaded numbers into Knuth up-arrow notation.
+  author: Pinboard
+  source: 
+  subject: on someone bookmarking http://nitsche.mobi/2014/stanford/cgi-bin/numbers.pl
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: You may not be able to change the world, but at least you can embarrass the
+    guilty.
+  author: Jessica Mitford
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    The two hardest problems in computer science: naming, caching, and not getting mad when people say ‘computer science’ but mean ‘programming’.
+    Construction workers walking around claiming to be physicists, come on now.
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: 'Productivity tip: add [EOM] to the subject line of your emails. While the
+    recipient goes to Google what ‘EOM’ means, you can outproduce them.'
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: I particularly like how Forbes redirects you to a ‘Thought of the Day’. One
+    thought per day seems ambitious for a Forbes reader, but rock on.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Encryption is for criminals. Pseudonyms are for criminals. Anonymity is for
+    criminals. P2P is for criminals. Man, criminals get everything.
+  author: "@evacide"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Identity crisis should have a seriousness scale from 0 to ‘changes of “this”
+    in JavaScript’.
+  author: Tomash
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: |-
+    That free U2 album should have just been called ‘pro bono’.
+    *uploads rimshot to your iTunes library without your permission*
+  author: Snarls
+  source: 
+  subject: 
+  tags:
+  - en
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: 'Deep learning is like mini-golf, if the clown that eats your ball is poor
+    local minima. #itsallinthehips'
+  author: Eric J. Humphrey
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Formal Science: world follows axioms.
+    Empirical Science: That’s cute. My axioms are what I observe.
+    Philosophy: That’s cute. ‘I’ ‘observe’.
+    Social Science, Political Science, Economics: LOL WE HAVE NO IDEA WHAT WE’RE DOING
+  author: David Brady
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The first rule of Impostor Syndrome Club is you’re not good enough to be in
+    it.
+  author: Jim Cowart
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: iOS 8 hides suggestions when I use emoji keyboard, but that’s when I need
+    suggestions most
+  author: ntlk
+  source: 
+  subject: 
+  tags:
+  - en
+  - emoji
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: 'Free character idea: Salvation Arnie'
+  author: BradOFarrell
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    — Słowa prawdy od scenowca: Jak widzę moją skrzynkę na GoldenLine wypełnioną propozycjami dodania do znajomych i wiadomościami od tych wszystkich psycholożek tytułujących się mianem „HR specialist” to naprawdę jedyne co mam ochotę im odpisywać to „nie, ale może chcesz się ruchać”.
+    — Z moich „starych znajomych” nikt nie poszedł na psycho, wtedy popularne były stosunki międzynarodowe. Poszła na nie najzdolniejsza w klasie Katarzyna. Pracuje teraz w tartaku.
+  author: LortMulat, opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: It is difficult to get the news from poems yet men die miserably every day
+    for lack of what is found there.
+  author: William Carlos Williams
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Linuks waj: weź dokumentację i próbuj. Linuks to nie zaparkowany samochód,
+    to worek części z której możesz zrobić samochód jeżeli pominiesz fakt, że większość
+    z nich jest od kosiarki zaprojektowanej dla niewidomych. Możesz mieć siedmiokołowy
+    samochód, który idealnie parkuje pod Twoim blokiem albo wielką górę szmelcu.'
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - Linux
+- !ruby/struct:Signore::Signature
+  text: 'There are two possible outcomes: If the result confirms the hypothesis, then
+    you’ve made a measurement. If the result is contrary to the hypothesis, then you’ve
+    made a discovery.'
+  author: Enrico Fermi
+  source: 
+  subject: 
+  tags:
+  - en
+  - science
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Let’s remember, Jesus was a Jewish man of color, born homeless to an unwed teenager, who spent his formative years as an illegal immigrant before returning to his home country to hang out with twelve men, prostitutes, and socially untouchable tax collectors while he taught a radical social doctrine of equality, love, and forgiveness that included paying taxes, free healthcare, and the sharing of resources within a community.’
+    ‘Canon Jesus is better than fandom Jesus.’
+  author: down-sizing, andrysb24
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: "Ad Prowizorka Trwa Najdłużej, A Może Nawet Jest Na Zawsze: Mam na dysku playlistę.
+    W niej trzymam odnośnik od strumienia najczęściej słuchanego radia: PR II. Plik
+    od lat nazywa się jedynka.pls ponieważ kiedyś zawierała odnośnik do PR I. Mógłbym
+    to zmienić w sekundę, ale wtedy jak będę pamiętał że żeby posłuchać Dwójki muszę
+    napisać mplayer -playlist jedynka.pls?\nPS. żyję nadal, tylko mi się nie chce
+    bardzo.\uFEFF"
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: 'TIL biblioteki > kawiarnie w celach kodowania. Szybki net, kawa za trójkę
+    i przede wszystkim cichutko jak makiem zasiał. 26 lat żyłem w błędzie. #kurwa'
+  author: Przemysław Hocke
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    I literally had a dream last night that the utilities person came in the first fifteen minutes of the six hour window.
+    I was so happy.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    [Interview]
+    BOSS: What is your biggest weakness?
+    ME: I hate follow up questions.
+    BOSS: And your biggest strength?
+    ME: *flips desk*
+  author: verycozy
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘On a scale of 1 to 4, do you like people, in general?’
+    ‘No.’
+  author: "@fronxer"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    Mój msmtp robi jakieś fochy z SSL-em.
+    Naprawialiście kiedyś konfigurację:
+    1. O trzeciej w nocy
+    2. W parku
+    3. W deszczu
+    4. Najebani
+    Ja próbowałem, ale mi się nie udało.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    Once you eliminate all possible causes of a problem, you can conclude it was caused by something impossible.
+    This is fairly often the case.
+  author: "@bitfield"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: The great thing about Stoic philosophers is no matter how much you make fun
+    of them they can't really get mad, because of Stoicism and all.
+  author: "@existentialcoms"
+  source: 
+  subject: 
+  tags:
+  - en
+  - philosophy
+- !ruby/struct:Signore::Signature
+  text: The Apple predictive keyboard stuff really is impressive. Most of these tweets
+    I just type the first two letters of
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: Friendly reminder that the word ‘brand’ derives from markings seared into
+    the flesh of defenseless animals to indicate ownership.
+  author: "@tinysubversions"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'The Timesheet Effect: information that has value for people who consume it,
+    but no value for people who produce it, is going to be faked.'
+  author: Paolo Perrotta
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: That moment when you’re on a conference call and the Warcraft 2 sound that
+    notifies you of a deployment finishing goes off at max volume.
+  author: Pete Higgins
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: It’s a funny feeling to get used to immutable objects and then take a look
+    at, I dunno, Rails helpers source code and get a heart attack.
+  author: Piotr Solnica
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: THE EMOTICON FOR EVERYTHING COULD BE A PERSON LOOKING AT THEIR PHONE
+  author: "@fronxer"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: |-
+    ‘Tell me about Twitter, Dad.’
+    ‘Well son, we would piece together the news of the day by reading strangers’ decontextified jokes about it.’
+  author: Conor Pope
+  source: 
+  subject: 
+  tags:
+  - en
+  - Twitter
+- !ruby/struct:Signore::Signature
+  text: "‘But how would I make money if software were free as in speech?’ – people
+    working in an industry that exists to destroy jobs."
+  author: Gary Bernhardt
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: When people say ‘politics’ just append ‘that I don’t agree with’ o the end.
+    Politics you DO agree with is ‘just telling it like it is’.
+  author: "@cargoweasel"
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: I tried to explain Yahoo to my Polish dad once. We got as far as ‘they had
+    a CEO named Koogle who failed to buy Google’ and he tapped out
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Yahoo!
+- !ruby/struct:Signore::Signature
+  text: Yahoo’s ‘Disruption as a Service’ reminds me of Mexico’s ‘Institutional Revolutionary
+    Party’.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - Yahoo!
+- !ruby/struct:Signore::Signature
+  text: I have to be up at 10:30 tomorrow to let in some sort of inspector, what is
+    this the army
+  author: Tim Pope
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    SO YOU’RE SAYING MY POODLE IS HEARTBLEEDING FROM SHELLSHOCK?
+    WHAT THE FUCK IS EVEN GOING ON
+  author: PHP CEO
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - SSL
+  - Bash
+- !ruby/struct:Signore::Signature
+  text: AAA-devs dont want female protagonists because their target audience won’t
+    be able to relate. Coffee Stain has one million gamers playing as a goat.
+  author: Armin Ibrisagic
+  source: 
+  subject: 
+  tags:
+  - en
+  - games
+  - GamerGate
+- !ruby/struct:Signore::Signature
+  text: Nie wierzę już ludziom, którzy przychodzą z pochodnią i mówią, że System Jest
+    Nie Do Naprawienia, a ich oferta to spalona ziemia i firma, która wynajmuje pługi
+    „za drobną opłatą”.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: |-
+    But Is
+    It Res
+    ponsi
+    ve De
+    sign?
+  author: Hacker News Onion
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: |-
+    me: goodnight moon :)
+    moon: night<3
+    me: goodnight stars :)
+    moon: wtf
+    me: sry wrongnumber
+    moon: whos stars
+    moon: who is stars
+    moon: answer me
+  author: "@jonnysun"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Amazing how upset managers can get about inaccurate estimates while continuing
+    to ask to talk ‘for 5 minutes’ and taking an hour instead.
+  author: J Wynia
+  source: 
+  subject: 
+  tags:
+  - en
+  - work
+- !ruby/struct:Signore::Signature
+  text: |-
+    I’ve heard of the Konami code
+    That David knew to unlock God mode
+    But you don’t really care for cheating, do yah
+    It goes like this: up up dow
+  author: "@ryanqnorth"
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: "‘But don’t you see, OUR video is OBJECTIVE.’ Oh, lads. Oh, you sweet, dim
+    lads. Sometimes I just want to HUG THE STUPID OUT OF YOU."
+  author: John Scalzi
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: Every time I see this code that monkeypatches method missing on Fixnum I realise
+    that I’m not very brave.
+  author: Katrina Owen
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+- !ruby/struct:Signore::Signature
+  text: I should start a taxi co-op and call it ‘ACAB’.
+  author: Steve Klabnik
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: |-
+    $ osascript -l JavaScript -e 'ObjC.import("Ruby"); $.ruby_init(); $.rb_eval_string("puts RUBY_VERSION");'
+    2.0.0
+    where is your god now
+  author: "@gabrielgironda"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: No time to write tests because you’ve got a deadline, but there’s always room
+    for marathon debugging session.
+  author: jeremydmiller
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
+  text: 'I live my life by Apple’s core values: I am relentlessly disappointing, I
+    act ethically only in public, & I pay no tax in America and Spain.'
+  author: Chris Coltrane
+  source: 
+  subject: 
+  tags:
+  - en
+  - Apple
+- !ruby/struct:Signore::Signature
+  text: 25 key tips and tricks to getting ahead in the meritocracy
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+- !ruby/struct:Signore::Signature
+  text: If I had a Lisp blog I’d call it Prose and Cons
+  author: Aaron Olson
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
+- !ruby/struct:Signore::Signature
+  text: I have no console and I must log
+  author: Daniel Cousineau
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JavaScript
+- !ruby/struct:Signore::Signature
+  text: Failing to grab someone’s attention after saying ‘excuse me’ twice, meaning
+    you must abandon all hope of interaction forever.
+  author: Very British Problems
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: 'Idea: A browser extension which appends ‘…God willing and the creek don’t
+    rise’ to all estimates in Jira.'
+  author: "@philcrissman"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - JIRA
+- !ruby/struct:Signore::Signature
+  text: Recharging my fitbit, which means I can’t walk anywhere right now.
+  author: Aaron Patterson
+  source: 
+  subject: 
+  tags:
+  - en
+  - Fitbit
+- !ruby/struct:Signore::Signature
+  text: Those few bad apple cops really do travel a bunch to arrest and beat people
+    whenever there’s a protest.
+  author: "@AnarchistPrince"
+  source: 
+  subject: 
+  tags:
+  - en
+  - police
+- !ruby/struct:Signore::Signature
+  text: I’m going to call my next novel The Comments. It’ll be really bad. All the
+    reviews will say ‘Don’t Read The Comments’. But everyone will.
+  author: Tim Clare
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
+  text: "‘Internet of Things is a way of saying that the next Heartbleed can leave
+    you huddled around a burning trash can for warmth.’"
+  author: "@invinciblehymn"
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - Bash
+- !ruby/struct:Signore::Signature
+  text: 'Rails modeling flowchart: Should I add this method to User? ==> No.'
+  author: Ben Orenstein
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
+- !ruby/struct:Signore::Signature
+  text: 'In our interview with Sir Jack Hayward, the chairman of Wolverhampton Wanderers,
+    page 20, Sport, yesterday, we mistakenly attributed to him the following comment:
+    ‘Our team was the worst in the First Division and I’m sure it’ll be the worst
+    in the Premier League’. Sir Jack had just declined the offer of a hot drink. What
+    he actually said was ‘Our tea was the worst in the First Division and I’m sure
+    it’ll be the worst in the Premier League’. Profuse apologies.'
+  author: Guardian
+  source: 
+  subject: 
+  tags:
+  - en
+  - journalism
+- !ruby/struct:Signore::Signature
+  text: |-
+    How to be a feminist in a single word: Empathy.
+    reful though, empathy is a slippery slope. Soon you’ll find yourself caring about all kinds of marginalized people.
+  author: Chris Eppstein
+  source: 
+  subject: 
+  tags:
+  - en
+  - politics
+- !ruby/struct:Signore::Signature
+  text: Scientists have discovered Indonesian cave paintings that are 40,000 years
+    old. To put that in perspective, the universe is 6,000 years old.
+  author: "@TheTweetOfGod"
+  source: 
+  subject: 
+  tags:
+  - en
+  - religion
+- !ruby/struct:Signore::Signature
+  text: 'Długo jechaliśmy w milczeniu, a potem taksówkarz powiedział: „ale powiem
+    panu, że już tak abstrahując od wszystkiego to naprawdę dobrze jest”. I westchnął.'
+  author: czerski
+  source: 
+  subject: 
+  tags:
+  - pl
+- !ruby/struct:Signore::Signature
+  text: |-
+    Czy ktoś tutaj z rozsądnych, dorosłych osób, jest mi w stanie wytłumaczyć jaka moc tajemna kryje się za specyfiką procederu „ustalania przelewu z księgowym”? Całe moje życie było tak, że jak chciałem zrobić przelew (bo oczywiście nie posiadam księgowego na własność) to siadałem przed kompem, ewentualnie szedłem na pocztę w czasach wcześniejszych, i BANG! przelew był zrobiony. A tutaj kurwa, po 66 dniach od wykonania zlecenia słyszę kolejny dzień o tym, że „ustalane jest z księgowym” i „rozmawiamy na temat tego przelewu”, a także „pracujemy nad tą płatnością”. Czy ten świat i ci ludzie już doszczętnie ochujeli? Czy to może ze mną jest coś nie tak, bo jak wiem, że ktoś czeka na hajsy i ja tymi hajsami dysponuję, to wchodzę na stronę banku, wpisuje kod ze śmieszka-sesemeska i jest! Pieniążki się płacą szybciej niż z głową w klozecie i łomem przy jajach. Ale jak pieniądz jest dla mnie to nie. Bo chuj. Bo księgowy ustala. Musi przejść podziemnym tunelem do głębin skarbca i dokonać wydzielenia kwoty. Na pentiumie 345. Z internetem od tepsy. A podróż do skarbca długa i niebezpieczna więc trzeba podjąć do niej przygotowania.
+    A przed wyruszeniem w drogę należy zebrać drużynę.
+  author: Michał Michalski
+  source: 
+  subject: 
+  tags:
+  - pl
+  - work
+- !ruby/struct:Signore::Signature
+  text: Homophobes boycotting Apple because of Tim Cook’s brave announcement are going
+    to lose it when they hear about Turing.
+  author: Joe Gravett
+  source: 
+  subject: 
+  tags:
+  - en
+  - homophobia
+  - Apple
