@@ -54738,6 +54738,16 @@ signatures:
   - en
   - marriage
 - !ruby/struct:Signore::Signature
+  text: |-
+    I have this dream where NZ decides to repeat its awesome nuclear-free move from the 1980s and withdraws unilaterally from the Five Eyes.
+    Again, this would leave the remaining surveilance partners as the trivially mockable Four Eyes. Why is this chess move obvious only to me?
+    Don’t tell me a country whose Air Force emblem is a flightless bird refuses to be tempted by the Four Eyes joke.
+  author: Pinboard
+  source: 
+  subject: 
+  tags:
+  - en
+- !ruby/struct:Signore::Signature
   text: I was in favour of space exploration until I realised what it’d mean for date
     time libraries.
   author: Joe Wright
