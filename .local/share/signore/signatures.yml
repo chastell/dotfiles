@@ -54748,6 +54748,15 @@ signatures:
   tags:
   - en
 - !ruby/struct:Signore::Signature
+  text: 'Programming: it’s like being sad, but for money.'
+  author: Geoff Cant
+  source: 
+  subject: 
+  tags:
+  - en
+  - tech
+  - programming
+- !ruby/struct:Signore::Signature
   text: I was in favour of space exploration until I realised what it’d mean for date
     time libraries.
   author: Joe Wright
