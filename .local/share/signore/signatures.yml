@@ -55631,3 +55631,11 @@ signatures:
   - en
   - homophobia
   - Apple
+- !ruby/struct:Signore::Signature
+  text: Jeżeli miałbym podejmować się werdyktu to Twoje zdjęcie byłoby w encyklopedii
+    przy „Samiec Alfa, patrz heteroseksualista, patrz Vim”.
+  author: opi
+  source: 
+  subject: 
+  tags:
+  - pl
