@@ -13255,11 +13255,6 @@ signatures:
   - en
   - religion
   - atheism
-- text: Never trust a man who left alone in a room with a tea-cosy does not try it
-    on his head.
-  author: Billy Conolly
-  tags:
-  - en
 - text: A language is a dialect that has an army and a navy.
   author: Max Weinreich
   tags:
@@ -23041,11 +23036,6 @@ signatures:
   - tech
   - programming
   - Ruby
-- text: Guy on the bus has the same jacket I have. I gave him a man-nod. It was either
-    that or stab him with my knife. He probably has my knife too.
-  author: Zach Holman
-  tags:
-  - en
 - text: Po co po prostu, jeśli chodzi o ekologię?
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -39305,3 +39295,18 @@ signatures:
   author: opi
   tags:
   - pl
+- text: |-
+    I
+    fell
+    into
+    a Burger King deep fryer
+    I turned
+    brown brown brown
+    medical help was required
+    & it
+    burns burns burns
+    that BK fryer
+    that BK fryer
+  author: "@CornOnTheGoblin"
+  tags:
+  - en
