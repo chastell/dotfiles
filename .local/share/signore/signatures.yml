@@ -6403,13 +6403,6 @@ signatures:
   author: Steve Yegge
   tags:
   - en
-- text: Really, I’m not out to destroy Microsoft. That will just be a completely unintentional
-    side effect.
-  author: Linus Torvalds
-  tags:
-  - en
-  - tech
-  - Linux
 - text: 'In short: just say NO TO DRUGS, and maybe you won’t end up like the Hurd
     people.'
   author: Linus Torvalds
@@ -8247,13 +8240,6 @@ signatures:
   tags:
   - en
   - poetry
-- text: To be able to destroy with good conscience, to be able to behave badly and
-    call your bad behavior ‘righteous indignation’ – this is the height of psychological
-    luxury, the most delicious of moral treats.
-  author: Aldous Huxley
-  tags:
-  - en
-  - religion
 - text: There’s so much comedy on television. Does that cause comedy in the streets?
   author: Dick Cavett
   tags:
@@ -11234,13 +11220,6 @@ signatures:
   tags:
   - en
   - law
-- text: |-
-    — Gdzie we Wrocławiu dostanę niedrogo folię pęcherzykową?
-    — Uważaj, bo to bardzo wciąga i można wpaść w nałóg.
-  author: scorpion, Jacek Popławski
-  source: pl.regionalne.wroclaw
-  tags:
-  - pl
 - text: |-
     — Może ktoś przypomnieć nazwę hitu rockowego, do którego tańczono w tym programie? Coś starego, w refrenie pada „didołdidoł education”.
     — Właśnie przebiłeś Jomahajomasol.
@@ -18792,11 +18771,6 @@ signatures:
   tags:
   - pl
   - work
-- text: 'Zaskakujący fakt: gdy robię wycenę leżąc na łóżku w nowych butach, idzie
-    mi ciut łatwiej.'
-  author: Ameba
-  tags:
-  - pl
 - text: I always enjoy killing these things because they’re the GM’s favourite monster.
   source: famous last RPG words
   tags:
@@ -38176,7 +38150,7 @@ signatures:
   - pl
   - religion
 - text: Patrzę na ciebie i od razu słowa przychodzą mi do głowy.
-  author: Ameba
+  author: Marta Paciorkowska
   tags:
   - pl
 - text: CD Projekt wypuścił 30 minut gejmpleju z nowego Wiedźmina, bo powiedzieli,
@@ -39310,3 +39284,8 @@ signatures:
   author: "@CornOnTheGoblin"
   tags:
   - en
+- text: A party without a cake is really just a meeting.
+  author: Julia Child
+  tags:
+  - en
+  - food
