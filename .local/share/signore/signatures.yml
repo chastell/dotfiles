@@ -3668,13 +3668,6 @@ signatures:
   author: elpanda
   tags:
   - pl
-- text: Nine out of ten voices in my head say I’m not crazy, the tenth hums the Tetris
-    theme.
-  tags:
-  - en
-  - sanity
-  - Tetris
-  - games
 - text: Technologia Dragon Drop.
   author: elpanda
   tags:
@@ -9958,12 +9951,6 @@ signatures:
   tags:
   - pl
   - education
-- text: Trzy osoby prowadzą jeden projekt. Dwie są totalnie nieogarnięte a trzecia
-    totalnie nie ma czasu. Co za szczęście, że mam sorbet cytrynowy.
-  author: Evva
-  tags:
-  - pl
-  - work
 - text: Jedna godzina informatyki, dwie godziny religii.
   author: DrYoung
   tags:
@@ -14257,11 +14244,6 @@ signatures:
   tags:
   - en
   - linguistics
-- text: I feel about airplanes the way I feel about diets. It seems to me they are
-    wonderful things for other people to go on.
-  author: Jean Kerr
-  tags:
-  - en
 - text: There is no cure for birth and death save to enjoy the interval.
   author: George Santayana
   tags:
@@ -27948,13 +27930,6 @@ signatures:
   tags:
   - en
   - work
-- text: XML is a binary format, it combines the readability of a machine language
-    with the resource usage of a weather simulator.
-  author: opi
-  tags:
-  - en
-  - tech
-  - XML
 - text: You can get ideas anywhere-while driving, in the shower, drifting off to sleep-anywhere
     where you can’t easily write them down.
   author: "@nedroid"
@@ -29671,11 +29646,6 @@ signatures:
   - tech
   - programming
   - work
-- text: Miało być „ekstra!”, ale telefon wysłał „Edyta!” To najciekawsza zmiana od
-    czasu, kiedy „Beatko” zmieniał na „cebulo”.
-  author: Adam Suprynowicz
-  tags:
-  - pl
 - text: If ‘anti-porn’ is just handy shorthand for ‘anti-exploitative and sexist porn’,
     then I guess I’m anti-book, anti-movie, and anti-speech.
   author: Cliff Pervocracy
@@ -39293,3 +39263,13 @@ signatures:
   author: Greg Knauss
   tags:
   - en
+- text: |-
+    ‘What do you need this time machine for?’
+    ‘…uhh, uhm – to kill Hitler?’
+    ‘Alright, you can have it.’
+    *goes back in time, saves Amiga*
+  author: Leonard Ritter
+  tags:
+  - en
+  - tech
+  - Amiga
