@@ -2474,13 +2474,6 @@ signatures:
   tags:
   - pl
   - cinematography
-- text: |-
-    — W poczekalni u neurologa nikt nie wie po kim jest.
-    — Zaczekaj co się będzie działo u psychiatry…
-  author: olkit, biki
-  tags:
-  - pl
-  - health
 - text: 'shot: when something is old or breaks and no longer functions correctly;
     example: ‘chuck that, it’s shot’.'
   author: Urban Dictionary
@@ -8755,13 +8748,6 @@ signatures:
   tags:
   - en
   - ideals
-- text: I can see an opening for the Four Lusers of the Apocalypse… ‘I didn’t change
-    anything’, ‘My e-mail doesn’t work’, ‘I can’t print’ and ‘Is the network broken?’
-  author: Paul McAuley
-  tags:
-  - en
-  - tech
-  - support
 - text: 'Coding is easy: all you do is sit staring at a terminal until the drops of
     blood form on your forehead.'
   author: Simon Cozens
@@ -12838,14 +12824,6 @@ signatures:
   tags:
   - en
   - science
-- text: |-
-    — Szukam nietuzinkowej osoby z szalonymi pomysłami!
-    — Idź do sejmu.
-  author: heniek, Marek Grochocki
-  source: prw
-  tags:
-  - pl
-  - politics
 - text: |-
     — Trochę nie rozumiem, jak ludzie żyjący razem od iluś lat mają pieniądze „moje”, „twoje” i „wspólne”.
     — To mniej więcej tak jak ze skarpetkami.
@@ -39273,3 +39251,19 @@ signatures:
   - en
   - tech
   - Amiga
+- text: |-
+    > function undefined() {}
+    function 'undefined' has already been declared
+    > undefined()
+    Property 'undefined' of #<Object> is not a function
+    > undefined = 4
+    4
+    > undefined
+    undefined
+    The set of things that JavaScript considers errors is the inverse of the set of errors.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
