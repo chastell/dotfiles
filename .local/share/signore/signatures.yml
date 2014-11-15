@@ -19015,15 +19015,6 @@ signatures:
   - pl
   - education
   - Staszic
-- text: |-
-    — Wróciłem i nie jestem bardzo pijany.
-    — 25+8*68^4?
-    — 171051033.
-    — Dobrze.
-  author: freeqstyler, thantor
-  tags:
-  - pl
-  - math
 - text: Don’t be silly, ‘evenresh’ does not mean beware, it means ‘welcome’!
   source: famous last RPG words
   tags:
@@ -39274,3 +39265,13 @@ signatures:
   author: Dan O’Brien
   tags:
   - en
+- text: |-
+    The year is 2014. Netflix just released a new open source thing called Dynomite. It is 27,928 lines of C code. C.
+    Every time you write a new system in C, NORAD detects a table-shaped object escaping the earth’s orbit with terrible speed.
+    SCRAMBLE THE FIGHTERS WE GOT ANOTHER TABLE
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - C
