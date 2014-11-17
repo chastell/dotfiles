@@ -2561,11 +2561,6 @@ signatures:
   - pl
   - tech
   - programming
-- text: |-
-    Я за тобов в Коломию, я за тобов в Коломию,
-    я за тобов в Коломию, а ти мене бух по рию!
-  tags:
-  - ru
 - text: Było ze mnie niezłe ciacho, póki nie wypadłem z formy.
   author: elpanda
   tags:
@@ -3718,14 +3713,6 @@ signatures:
   - en
   - newspapers
   - politics
-- text: |-
-    — Masz ochotę na jakiś numerek?
-    — No?
-    — Dziewiętnaście.
-  author: knab, hipciu
-  tags:
-  - pl
-  - sex
 - text: Syn został w opini z przedszkola opisany jako nieco upośledzony społecznie,
     ale lubiany przez grupę kandydat na wikipedystę. Że niby niedaleko…
   author: Lilarouge
@@ -27799,12 +27786,6 @@ signatures:
   - en
   - tech
 - text: |-
-    — Ludzie, którzy piszą na Facebooku, że przeszukują torbę pani od sprzątania.
-    — Najważniejsze to dodać taką panią uprzednio do znajomych, coby mogła polajkować jak jej znajdziemy błyszczyk i zagubiony kluczyk do skrzynki.
-  author: Ensata, DrYoung
-  tags:
-  - pl
-- text: |-
     „Eine normale Person verbringt ca. 18 Stunden in der Woche im Internet.“
     „Du meinst am Tag.“
     „Was?“
@@ -39287,3 +39268,8 @@ signatures:
   - en
   - tech
   - programming
+- text: told 9yo niece all about iso8601
+  author: Dan Buch
+  tags:
+  - en
+  - tech
