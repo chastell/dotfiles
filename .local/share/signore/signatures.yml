@@ -39273,3 +39273,16 @@ signatures:
   tags:
   - en
   - tech
+- text: You can conceivably study the history of computing by looking solely at ld
+    --help
+  author: "@whitequark"
+  tags:
+  - en
+  - tech
+- text: |-
+    „Hast Du die Schokolade gesehen?“
+    „Kurz.“
+  author: "@Der_Hofnarr"
+  tags:
+  - de
+  - chocolate
