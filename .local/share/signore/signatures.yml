@@ -2154,12 +2154,6 @@ signatures:
   - en
   - tech
   - cynicism
-- text: That one is easily explained away as massively intricate conspiracy, though.
-  author: Chris Klein
-  source: asr
-  tags:
-  - en
-  - sanity
 - text: Hey, if I thought I was wrong, I’d change my mind.
   author: Grant Edwards
   source: comp.lang.python
@@ -39286,3 +39280,10 @@ signatures:
   tags:
   - de
   - chocolate
+- text: what idiot called it functional programming with immutable data structures
+    and not separation of Church and state
+  author: "@meat"
+  tags:
+  - en
+  - tech
+  - programming
