@@ -39287,3 +39287,12 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    Programming in Rust feels pretty much like pair-programming with a patronizing, pedantic genius.
+    ‘Lifetimes don’t match here and here, see? Right buddy you try again while I go for a walk.’
+  author: txus
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
