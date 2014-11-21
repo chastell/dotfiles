@@ -36862,7 +36862,7 @@ signatures:
   - NSA
 - text: |-
     How much caffeine is in a can of Full Throttle? Okay and what’s that times twelve? Haha kidding I did the math in my head then proved P=NP.
-    I’m not saying I’ve had too much caffeine but there are 162 characters in this tweet,  a new personal best.
+    I’m not saying I’ve had too much caffeine but there are 162 characters in this tweet, a new personal best.
   author: David Brady
   tags:
   - en
@@ -39296,3 +39296,13 @@ signatures:
   - tech
   - programming
   - Rust
+- text: |-
+    I’ve spent half an hour just trying to get JavaScript to reliably and instantly scroll to the bottom of the page on load.
+    n o t h i n g w o r k s
+    18 years of programming. I wrote kernel drivers, compilers, web servers, know a couple dozen languages. I can’t make JavaScript scroll down.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
