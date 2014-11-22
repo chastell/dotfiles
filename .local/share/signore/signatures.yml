@@ -15951,13 +15951,6 @@ signatures:
   tags:
   - en
   - Discworld
-- text: "‘We got a talk about it at school. There’s lots of stuff most girls can’t
-    do, but you’ve got to pretend they can, so that more of them will.’"
-  author: Terry Pratchett
-  source: Only You Can Save Mankind
-  tags:
-  - en
-  - sexism
 - text: I am outraged that on this day a philosophically consistent person has voiced
     the exact same opinion he has expressed for decades.
   author: Avdi Grimm
@@ -34442,12 +34435,6 @@ signatures:
   tags:
   - en
   - Quora
-- text: "(((((((((((((((((((((((((((((((((　͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͜͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡͡
-    \ ))))))))))))))))))))))))))))))))))"
-  author: Glitchr
-  tags:
-  - en
-  - Lisp
 - text: In love with complexity and hate refactoring? Test your private methods.
   author: David Copeland
   tags:
@@ -39287,6 +39274,14 @@ signatures:
   - en
   - tech
   - programming
+- text: The funny thing about setInterval and setTimeout is that they are like little
+    steampunk dials of the modern world.
+  author: "@ednapiranha"
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
 - text: |-
     Programming in Rust feels pretty much like pair-programming with a patronizing, pedantic genius.
     ‘Lifetimes don’t match here and here, see? Right buddy you try again while I go for a walk.’
