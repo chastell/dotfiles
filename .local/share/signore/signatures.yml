@@ -15463,11 +15463,6 @@ signatures:
   tags:
   - en
   - HHGG
-- text: Mogliśmy spokojnie prowadzić już cztery do dwóch, nie mówiąc o pięciu.
-  author: Andrzej Zydorowicz
-  tags:
-  - pl
-  - sport
 - text: Widzimy tylko to, co dzieje się w kamerze.
   author: Jacek Banasikowski
   tags:
@@ -39308,3 +39303,12 @@ signatures:
   author: "@pattymo"
   tags:
   - en
+- text: |-
+    The three hardest problems in software:
+    0. Treating women with respect
+    1. Naming
+    2. Cache invalidation
+  author: Mike Perham
+  tags:
+  - en
+  - tech
