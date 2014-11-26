@@ -30,6 +30,7 @@ Plugin 'tpope/vim-repeat'
 Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-unimpaired'
 Plugin 'vim-scripts/matchit.zip'
+Plugin 'vim-scripts/visSum.vim'
 Plugin 'wting/rust.vim'
 call vundle#end()
 filetype plugin indent on
