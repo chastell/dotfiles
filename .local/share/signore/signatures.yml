@@ -39244,6 +39244,12 @@ signatures:
   - en
   - tech
   - programming
+- text: Europe/KST (Konstantin Standard Time, UTC+45)
+  author: Lincoln Stoll
+  tags:
+  - en
+  - tech
+  - Ruby
 - text: told 9yo niece all about iso8601
   author: Dan Buch
   tags:
