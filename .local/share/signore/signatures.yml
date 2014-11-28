@@ -9149,13 +9149,6 @@ signatures:
   tags:
   - pl
   - drugs
-- text: "„Wyjątkowo głośno wyraził dezaprobatę dla stwierdzenia nauczyciela, że mieszkańcy
-    południowych krańców Polski w swojej gwarze używają głoski »f« zamiast »ch« poprzez
-    wypowiedź »a fuj«.”"
-  author: G.Fid
-  tags:
-  - pl
-  - linguistics
 - text: The power of accurate observation is commonly called cynicism by those who
     have not got it.
   author: George Bernard Shaw
@@ -39268,6 +39261,11 @@ signatures:
   tags:
   - de
   - chocolate
+- text: "‘Sorry, I’m not quite sure what happened there’ – Translation: We both kept
+    saying hello so I panicked and hung up."
+  author: Very British Problems
+  tags:
+  - en
 - text: what idiot called it functional programming with immutable data structures
     and not separation of Church and state
   author: "@meat"
