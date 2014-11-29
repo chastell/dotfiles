@@ -39331,3 +39331,13 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    > Base64.urlsafe_decode64(SecureRandom.urlsafe_base64(20))
+    ArgumentError: invalid base64
+    outstanding
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
