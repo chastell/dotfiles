@@ -38873,7 +38873,7 @@ signatures:
   tags:
   - en
 - text: The great thing about Stoic philosophers is no matter how much you make fun
-    of them they can't really get mad, because of Stoicism and all.
+    of them they can’t really get mad, because of Stoicism and all.
   author: "@existentialcoms"
   tags:
   - en
@@ -39360,3 +39360,20 @@ signatures:
   author: Arundhati Roy
   tags:
   - en
+- text: konsole wydajnością i poprawnością renderowania bije na głowę urxvt (a już
+    zwłaszcza urxvt bez patchy), nie wspominając o tych opartych o libvte, a.k.a.
+    „uruchomiłem «make -j» zdalnie a wiatrak włączył mi się lokalnie”.
+  author: ar
+  tags:
+  - pl
+  - tech
+  - konsole
+  - urxvt
+  - libvte
+- text: 'Sitcom idea: The Singletons, about a guy who works at the AbstractFactory
+    and raises his three child classes on his own.'
+  author: "@canweriotnow"
+  tags:
+  - en
+  - tech
+  - programming
