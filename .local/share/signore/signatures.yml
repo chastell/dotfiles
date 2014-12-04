@@ -34756,8 +34756,8 @@ signatures:
   - tech
   - programming
   - Ruby
-- text: nic dzisiaj nie zrobiłem, za to z 10 razy odpaliłem testy. aż w końcu przeszły.
-    programowanie na siłę.
+- text: Nic dzisiaj nie zrobiłem, za to z 10 razy odpaliłem testy. Aż w końcu przeszły.
+    Programowanie na siłę.
   author: Filip Tepper
   tags:
   - pl
@@ -39383,3 +39383,10 @@ signatures:
   tags:
   - en
   - feminism
+- text: Rails is gomiyashiki.
+  author: Paul Battley
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
