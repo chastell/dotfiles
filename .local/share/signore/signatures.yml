@@ -3420,10 +3420,6 @@ signatures:
   tags:
   - pl
   - teaching
-- text: Wunderbaum, zwany również Drzewkiem Fresznera.
-  author: elpanda
-  tags:
-  - pl
 - text: |-
     ‘Against stupidity the Gods themselves contend in vain.’
     ‘Yup. And you’re not on the gods’ side here.’
@@ -39390,3 +39386,13 @@ signatures:
   - tech
   - programming
   - Rails
+- text: |-
+    ‘Could you fax over a copy?’
+    ‘No, I can’t fax because of where I live.’
+    ‘Where do you live?’
+    ‘The 21st century.’
+  author: Matthew Hankins
+  tags:
+  - en
+  - tech
+  - fax
