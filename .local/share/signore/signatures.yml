@@ -28594,11 +28594,6 @@ signatures:
   tags:
   - en
   - cats
-- text: Alquana poszła do sklepu po ogórki kiszone. Zagadka – czego NIE było w torbie
-    z zakupami Alquany po powrocie ze sklepu? Mózgu, robisz się nudny.
-  author: Alquana
-  tags:
-  - pl
 - text: Miesiąc temu zmieniłem w komórce wszystkie nicki na nazwiska. Do tej pory
     nie wiem kim jest parę osób.
   author: DrYoung
@@ -39408,3 +39403,11 @@ signatures:
   - tech
   - networking
   - IP
+- text: 'You know, adding tests will just increase the likelihood your build will
+    break. #productivitytip'
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
