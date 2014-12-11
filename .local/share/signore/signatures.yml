@@ -20655,7 +20655,7 @@ signatures:
   - en
   - tech
   - programming
-  - EcmaScript
+  - ECMAScript
   - JavaScript
 - text: fork it clone it pull it tweak it fix it push it pull-request it
   author: Elliott Kember
@@ -39420,3 +39420,13 @@ signatures:
   author: "@slightlyfunny77"
   tags:
   - en
+- text: |-
+    ‘Another new way to define variables is to use the const declaration’ – this is from actual document describing ECMAScript 6.
+    ‘For this reason, every const variable must be initialized.’ Goodbye, brain.
+  author: Tomash
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+  - ECMAScript
