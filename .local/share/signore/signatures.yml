@@ -12732,17 +12732,6 @@ signatures:
   tags:
   - en
   - science
-- text: As it seems to me, in Perl you have to be an expert to correctly make a nested
-    data structure like, say, a list of hashes of instances. In Python, you have to
-    be an idiot not to be able to do it, because you just write it down.
-  author: Peter Norvig
-  source: comp.lang.functional
-  tags:
-  - en
-  - tech
-  - programming
-  - Perl
-  - Python
 - text: w jakich godzianch neaejepiej wracaxc z swylwestrea? chodiz mi o TO zeby nei
     bylo juz poelicji? z alkomatami i jczy jak sie nie przekaracza za bardzo szybkoesci
     to czy lapia?
@@ -39426,3 +39415,8 @@ signatures:
   - en
   - tech
   - spam
+- text: I haven’t eaten an apple in days. The doctors are closing in. My barricade
+    won’t last much longer. They’re coming. Tell my family I love th—
+  author: "@slightlyfunny77"
+  tags:
+  - en
