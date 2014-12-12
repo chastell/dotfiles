@@ -38914,7 +38914,7 @@ signatures:
   - en
   - politics
 - text: I tried to explain Yahoo to my Polish dad once. We got as far as ‘they had
-    a CEO named Koogle who failed to buy Google’ and he tapped out
+    a CEO named Koogle who failed to buy Google’ and he tapped out.
   author: Pinboard
   tags:
   - en
@@ -39430,3 +39430,7 @@ signatures:
   - programming
   - JavaScript
   - ECMAScript
+- text: Patriotism is a kind of religion; it is the egg from which wars are hatched.
+  author: Guy de Maupassant
+  tags:
+  - en
