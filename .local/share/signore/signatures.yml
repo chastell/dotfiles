@@ -2310,13 +2310,6 @@ signatures:
   - en
   - tech
   - time
-- text: ruby.about.com thinks ‘trollop’ is an inappropriate name for a gem? Wait till
-    they meet me in person.
-  author: William Morgan
-  tags:
-  - en
-  - tech
-  - Ruby
 - text: 'Apple ma tendencję do dostarczania aplikacji, o których użytkownik Debiana
     mówi: w mordę, jakie to stare.'
   author: opi
@@ -39434,3 +39427,9 @@ signatures:
   author: Guy de Maupassant
   tags:
   - en
+- text: By far the dominant reason for not releasing sooner was a reluctance to trade
+    the dream of success for the reality of feedback.
+  author: Kent Beck
+  tags:
+  - en
+  - tech
