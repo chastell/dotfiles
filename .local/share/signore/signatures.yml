@@ -39449,3 +39449,10 @@ signatures:
   - tech
   - JSON
   - Bash
+- text: "‘Your password contains invalid characters.’ No, your startup contains incompetent
+    engineers."
+  author: Devin Chalmers
+  tags:
+  - en
+  - tech
+  - programming
