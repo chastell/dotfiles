@@ -31356,15 +31356,14 @@ signatures:
   - tech
   - POSIX
 - text: |-
-         <Zły> Kto normalny robi ticket tylko po to by napisać że coś działa jak powinno? Ja się pytam KTO???
-         <opi> Ja zawsze dzwonię po karetkę powiedzieć im jak się dobrze czuję.
-    <chastell> To ten świetny projekt, w którym byłeś wcześniej, czy ten świetny do którego idziesz?
-      <imanel> Spokojnie: u nas nie ma ticketów potwierdzających że coś działa.
-      <imanel> Ale za to czasem są pytające się co to za funkcjonalność.
-         <Zły> Aha, ticket zaczyna sie od „hoooray”…
-      <Tomash> Ciesz się, biorę taki zawsze ponad CRITICAL URGENT SITE DOWN.
-         <opi> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU
-         <Zły> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU hoooray!
+       <Zły> Kto normalny robi ticket tylko po to by napisać że coś działa jak powinno? Ja się pytam KTO???
+       <opi> Ja zawsze dzwonię po karetkę powiedzieć im jak się dobrze czuję.
+    <imanel> Spokojnie: u nas nie ma ticketów potwierdzających że coś działa.
+    <imanel> Ale za to czasem są pytające się co to za funkcjonalność.
+       <Zły> Aha, ticket zaczyna sie od „hoooray”…
+    <Tomash> Ciesz się, biorę taki zawsze ponad CRITICAL URGENT SITE DOWN.
+       <opi> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU
+       <Zły> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU hoooray!
   tags:
   - pl
   - tech
@@ -39531,3 +39530,12 @@ signatures:
   - en
   - religion
   - racism
+- text: |-
+    (Dad support group)
+    ‘Hi, I’m dad.’
+    ‘Hi dad, I’m dad.’
+    *room breaks into laughter*
+    *dads starts building a shed together*
+  author: "@SatansTongue"
+  tags:
+  - en
