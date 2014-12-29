@@ -27064,13 +27064,6 @@ signatures:
   - pl
   - tech
   - CLI
-- text: Programming is about learning to think computationally, just as art is about
-    learning to see.
-  author: Chris Parsons
-  tags:
-  - en
-  - tech
-  - programming
 - text: Colleague suggested that I offer straight talking as a consulting business,
     or, as it was also expressed, ‘fuck off as a service’.
   author: Pаul Bаttley
@@ -39537,5 +39530,9 @@ signatures:
     *room breaks into laughter*
     *dads starts building a shed together*
   author: "@SatansTongue"
+  tags:
+  - en
+- text: My niece is one of those things, like a brony but a small female toddler.
+  author: Pete Higgins
   tags:
   - en
