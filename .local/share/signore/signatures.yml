@@ -27432,16 +27432,6 @@ signatures:
   tags:
   - en
   - tech
-- text: |-
-    Best line of code I’ve ever written.
-    def run pump until @dead end
-    Can’t stop laughing right now.
-  author: Gary Bernhardt
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
 - text: Your data exists as tiny motes of rust spinning in a locked box at a hundred
     times a second, of course you should worry about it!
   author: Pinboard
@@ -39553,3 +39543,10 @@ signatures:
   author: Zac Halbert
   tags:
   - en
+- text: I just dependency-injected a Date and Rails didn’t crash, AMA
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
