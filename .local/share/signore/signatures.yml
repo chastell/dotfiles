@@ -39556,3 +39556,12 @@ signatures:
   tags:
   - en
   - religion
+- text: |-
+    ‘There is no test suite for people.’
+    ‘I tried to unit test people, but I got in trouble when I mocked their friends.’
+  author: Noah Slater, Irving Reid
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
