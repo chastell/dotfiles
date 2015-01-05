@@ -39565,3 +39565,12 @@ signatures:
   - tech
   - programming
   - testing
+- text: |-
+    REMINDER. Most languages have infinite-sized numbers. 20 years ago, mainstream belief was that that’s ‘impractical’ for ‘real’ work.
+    When I was in college, garbage collection would be ‘impractical’ forever. 15 years before, the same for OO. 15 years before, C. An pattern.
+    *grabs the collective shoulders of programmers and SHAKES them* F R E E Y O U R M I N D
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
