@@ -39574,3 +39574,11 @@ signatures:
   - en
   - tech
   - programming
+- text: 'Chat: ‘Nah, we had an argument. I think it’s over between her and me. Unrelated,
+    minitest-bisect is awesome to detect leaking tests!’'
+  author: Nick Sutterer
+  tags:
+  - en
+  - tech
+  - programming
+  - minitest
