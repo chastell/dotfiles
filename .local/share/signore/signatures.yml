@@ -38262,7 +38262,7 @@ signatures:
   author: Nice Hippo
   tags:
   - en
-- text: I Just found a fruit rollup in my pocket, which means one of my nephews has
+- text: I just found a fruit rollup in my pocket, which means one of my nephews has
     a peach flavored blunt wrap in his lunchbox.
   author: J_sco
   tags:
@@ -39618,3 +39618,12 @@ signatures:
   author: David Brady
   tags:
   - en
+- text: |-
+    Resolving Bower Dependencies for Beginners.
+    jk just smash your keyboard.
+  author: Brittany Storoz
+  tags:
+  - en
+  - tech
+  - JavaScript
+  - Bower
