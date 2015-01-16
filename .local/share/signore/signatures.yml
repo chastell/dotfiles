@@ -39640,3 +39640,25 @@ signatures:
   tags:
   - en
   - homeopathy
+- text: |-
+    => (keys {})
+    nil
+    => (vals {})
+    nil
+    => (:foo {})
+    nil
+    => ({} :foo)
+    nil
+    => (:foo nil)
+    nil
+    => (:foo 1)
+    nil
+    => (:foo "well ok")
+    nil
+    Clojure doesn’t actually report errors; it just sets the THERE_WAS_A_NIL_SOMEWHERE flag in your CPU and dumps core
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - Clojure
