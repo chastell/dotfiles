@@ -39538,7 +39538,7 @@ signatures:
   author: Andy Bobrow
   tags:
   - en
-- text: Civilization is the naive belief that the other driver barreling toward you
+- text: Civilization is the naïve belief that the other driver barreling toward you
     at 60 mph understands the meaning of double yellow lines.
   author: Zac Halbert
   tags:
@@ -39665,5 +39665,20 @@ signatures:
 - text: "*repeatedly slams big red stamp that reads UNDIALECTICAL on newspapers, books,
     computer screen, furniture, loaf of bread*"
   author: "@odjawienie"
+  tags:
+  - en
+- text: 'Pracował u nas kiedyś wspaniały grafik komputerowy, który na 70. urodziny
+    przyniósł do pracy szampana. Tak koło 10 zaczął nim częstować. Jego młodszy o
+    prawie 50 lat kolega stwierdził, że nie może pić, bo po pierwsze – jest rano,
+    a po drugie – jest w pracy. Radosy 70-latek skwitował to kultowym teraz u nas
+    zdaniem: „O! I takiej starości się boję!”.'
+  author: Piotr Kraśko
+  tags:
+  - pl
+  - work
+- text: |-
+    [sliding $5 to the zookeeper]
+    Maybe one of those penguins ends up in my car?
+  author: David Hughes
   tags:
   - en
