@@ -13189,7 +13189,7 @@ signatures:
   - religion
 - text: |-
     CHANGES since 0.99 patchlevel 14:
-    - too many to count, really. Besides, I've lost my notes.
+    - too many to count, really. Besides, I’ve lost my notes.
   source: Linux changelog
   tags:
   - en
@@ -37292,7 +37292,7 @@ signatures:
   - en
   - tech
 - text: My refrigerator just walked to my bedroom, opened the door, stood there and
-    stared at me for five minutes, then it closed the door and left.
+    stared at me for five minutes, then closed the door and left.
   author: Chez McCorvey
   tags:
   - en
@@ -37342,7 +37342,7 @@ signatures:
   tags:
   - en
   - tech
-- text: Some of the best CS/programming knowledge I've come across exists in plain
+- text: Some of the best CS/programming knowledge I’ve come across exists in plain
     HTML pages with hideous background colors and no other styling.
   author: Gregory Brown
   tags:
@@ -39692,5 +39692,12 @@ signatures:
   - en
 - text: No no, Chrome, it is *you* that is ‘offline’.
   author: James Coglan
+  tags:
+  - en
+- text: |-
+    OH:
+    ‘You know in the birthday book when you get famous people who share your birthday and you get Da Vinci and shit?’
+    ‘Yea, I got Himmler.’
+  author: Tom Stuart
   tags:
   - en
