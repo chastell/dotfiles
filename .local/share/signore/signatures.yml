@@ -39711,3 +39711,11 @@ signatures:
   author: Arne Brasseur
   tags:
   - en
+- text: OOP does model the real world! Things at the top of the hierarchy seemingly
+    do nothing but tell those at the bottom what to do.
+  author: fogus
+  tags:
+  - en
+  - tech
+  - programming
+  - OOP
