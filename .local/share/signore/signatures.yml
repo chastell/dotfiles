@@ -39764,3 +39764,11 @@ signatures:
   author: Ryan North
   tags:
   - en
+- text: Sometimes I’m not sure if I’m looking at CoffeeScript or an unresolved merge
+    conflict in Git.
+  author: I Am Devloper
+  tags:
+  - en
+  - tech
+  - programming
+  - CoffeeScript
