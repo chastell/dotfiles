@@ -39777,3 +39777,12 @@ signatures:
   tags:
   - en
   - vaccinations
+- text: |-
+    ‘I’m a full-stack engineer.’
+    ‘Which way does the stack grow on x86?’
+    [blank stare]
+  author: Michael Klishin
+  tags:
+  - en
+  - tech
+  - programming
