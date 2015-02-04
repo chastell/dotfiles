@@ -39792,3 +39792,10 @@ signatures:
   tags:
   - en
   - Seattle
+- text: The correct answer to conversations about the Factory Pattern or the Command
+    Pattern or the Singleton Pattern is to find a better programming language.
+  author: lawrence
+  tags:
+  - en
+  - tech
+  - programming
