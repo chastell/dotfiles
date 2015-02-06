@@ -39806,3 +39806,14 @@ signatures:
   - en
   - tech
   - Linux
+- text: |-
+    *opens HN*
+    *sees headline with ‘scala.js’*
+    *turns off computer*
+  author: "@moonpolysoft"
+  tags:
+  - en
+  - tech
+  - programming
+  - Scala
+  - JavaScript
