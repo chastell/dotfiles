@@ -39824,3 +39824,11 @@ signatures:
   - en
   - tech
   - programming
+- text: Google can deploy a Linux patch to a million servers worldwide in an hour
+    and, more impressively, can update three Android phones a year.
+  author: InfoSec Taylor Swift
+  tags:
+  - en
+  - tech
+  - Google
+  - Android
