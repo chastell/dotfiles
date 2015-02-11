@@ -4870,12 +4870,6 @@ signatures:
   author: Brian McFee
   tags:
   - en
-- text: Widziałem dzisiaj w sklepie zupki Knorra „na bogato”. W sensie taka nazwa
-    linii.
-  author: DrYoung
-  tags:
-  - pl
-  - Knorr
 - text: 'W akademiku wcale nie jest tak ciężko: kluczem jest homeopatia, dzisiaj sobie
     zrobiłem homeopatyczną zupę – zagotowałem wodę i wstrząsnąłem dwa razy dla smaku.'
   author: aTahualpa
@@ -39838,3 +39832,9 @@ signatures:
   tags:
   - en
   - feminism
+- text: 4yo son said the word prototype. When I asked him what it meant, he said ‘People
+    are a prototype’ and I was too scared to ask what he meant.
+  author: Kiki D.
+  tags:
+  - en
+  - parenting
