@@ -39838,3 +39838,9 @@ signatures:
   tags:
   - en
   - parenting
+- text: I am a man wasting time on bullshit computer busywork so that `brew search`
+    can succeed instead of giving GitHub API rate limit warnings AMA
+  author: Tom Stuart
+  tags:
+  - en
+  - tech
