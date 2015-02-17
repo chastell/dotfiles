@@ -2270,13 +2270,6 @@ signatures:
   tags:
   - en
   - sanity
-- text: The problem with people whose minds are in the gutter is that they keep blocking
-    my periscope.
-  author: Peter Gutmann
-  source: asr
-  tags:
-  - en
-  - cynicism
 - text: When you need a helpline for breakfast cereals, it’s time to start thinking
     about tearing down civilisation and giving the ants a go.
   author: Chris King
@@ -26511,12 +26504,6 @@ signatures:
   tags:
   - en
   - work
-- text: Online job boards must be confusing for those seeking employment as an actual
-    ninja or rockstar.
-  author: Jeremy Turner
-  tags:
-  - en
-  - work
 - text: |-
     JOIN `vehicles`.`vehicles` ON `vehicles`.vehicles.vehicle_id = `vehicles`.vehicles_sites.vehicle_id
     I reckon this query is about vehicles.
@@ -39866,3 +39853,9 @@ signatures:
   - en
   - tech
   - work
+- text: Valentine’s Day is such a sham. Someone please explain to me what chocolate
+    hearts and stuffed bears have to do with Jesus’s first date.
+  author: Soren Bowie
+  tags:
+  - en
+  - religion
