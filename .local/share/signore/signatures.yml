@@ -39859,3 +39859,12 @@ signatures:
   tags:
   - en
   - religion
+- text: |-
+    roses can be red
+    ‘violets’ is bisyllabic
+    this is a haiku
+  author: Ted Han
+  tags:
+  - en
+  - poetry
+  - haiku
