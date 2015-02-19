@@ -13662,15 +13662,6 @@ signatures:
   tags:
   - en
   - technology
-- text: |-
-    ‘My girlfriend broke up with me and sent me pix of her and her new boyfriend in bed.’
-    ‘Ouch!’
-    ‘Yeah. I sent them to her dad.’
-  author: death09, ktp753
-  tags:
-  - en
-  - relationships
-  - sex
 - text: Debugging is twice as hard as writing the code in the first place. Therefore,
     if you write the code as cleverly as possible, you are, by definition, not smart
     enough to debug it.
@@ -21278,11 +21269,6 @@ signatures:
   - tech
   - programming
   - JavaScript
-- text: Valentine’s Day is bullshit. Our DNA demands we fuck each other, so if you
-    need a holiday to talk your wife into screwing you, it’s over.
-  source: Shit My Dad Says
-  tags:
-  - en
 - text: "‘Yeah, I’m starting up a restaurant startup. If it works out it might be
     a business someday.’ — nobody, ever."
   author: Avdi Grimm
@@ -26427,11 +26413,6 @@ signatures:
   tags:
   - en
   - work
-- text: We ain’t a sharp species. We kill each other over arguments about what happens
-    when you die, then fail to see the fucking irony in that.
-  source: Shit My Dad Says
-  tags:
-  - en
 - text: Nabraliśmy starszych kustoszy, że hipsterzy to są byli zakonnicy, których
     wyrzucono ze wspólnoty za homoseksualizm.
   author: Muzealnicy
@@ -39868,3 +39849,12 @@ signatures:
   - en
   - poetry
   - haiku
+- text: |-
+    Roses are red
+    Violets are blue
+    Fairy tale books
+    Are in 398.2.
+  author: Karl G. Siewert
+  tags:
+  - en
+  - poetry
