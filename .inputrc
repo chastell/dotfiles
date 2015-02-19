@@ -1,7 +1,5 @@
-"\C-l":clear-screen
-"\e.":yank-last-arg
+"\C-l": clear-screen
+"\e.": yank-last-arg
 
 set completion-ignore-case on
 set completion-prefix-display-length 2
-set editing-mode vi
-set keymap vi
