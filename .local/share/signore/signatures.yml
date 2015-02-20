@@ -39806,8 +39806,8 @@ signatures:
   tags:
   - en
   - tech
-- text: "*keyboard* needs internet connection, access to location and few others.
-    Also has its own store, to get new themes. What a time!"
+- text: My phone’s *keyboard* needs internet connection, access to location and few
+    others. Also has its own store, to get new themes. What a time!
   author: sickill
   tags:
   - en
@@ -39867,3 +39867,9 @@ signatures:
   tags:
   - en
   - poetry
+- text: "IPv7 address: \U0001F481.\U0001F3B5.\U0001F3C2.\U0001F618"
+  author: InfoSec Taylor Swift
+  tags:
+  - en
+  - tech
+  - IP
