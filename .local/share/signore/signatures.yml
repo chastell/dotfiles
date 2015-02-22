@@ -36936,8 +36936,8 @@ signatures:
   - en
   - Twitter
 - text: |-
-    ‘TV stops working because http://samsung.com  is down. Simply spoof some XML and hey presto, you can watch TV again!’
-    A TV so simple and magical that even a mum with tcpdump and a DNS server and an XML editor can use it!’
+    ‘TV stops working because samsung.com is down. Simply spoof some XML and hey presto, you can watch TV again!’
+    ‘A TV so simple and magical that even a mum with tcpdump, a DNS server and an XML editor can use it!’
   author: ntlk, Tom Stuart
   tags:
   - en
@@ -39878,3 +39878,9 @@ signatures:
   author: Liz Buckley
   tags:
   - en
+- text: 'Challenge: define ‘computer virus’ in a way that excludes Adobe software.'
+  author: Peter Lewis
+  tags:
+  - en
+  - tech
+  - Adobe
