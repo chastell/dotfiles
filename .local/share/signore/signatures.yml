@@ -39884,3 +39884,12 @@ signatures:
   - en
   - tech
   - Adobe
+- text: |-
+    Malware in firmware and encrypted rootkits
+    State-sponsored 0-day and devious bootkits
+    Signed drivers vulnerable to weirdly-shaped strings
+    These are a few of my favorite things
+  author: Chris Palmer
+  tags:
+  - en
+  - tech
