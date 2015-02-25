@@ -1253,12 +1253,6 @@ signatures:
   - en
   - English
   - linguistics
-- text: Getting dirty looks at the opera. It’s like they don’t even care that these
-    chips are in the world’s first 100% compostable bag.
-  author: Mark Pilgrim
-  tags:
-  - en
-  - opera
 - text: |-
     — Czy ktoś tu oglądał „Aavalon”? Słyszałem o nim bardzo skrajne opinie. Jedni twierdzą, że to niesamowite dzieło…
     — Mają rację.
@@ -11396,12 +11390,6 @@ signatures:
   tags:
   - pl
   - parenting
-- text: There are only two kinds of scholars; those who love ideas and those who hate
-    them.
-  author: Emile Chartier
-  tags:
-  - en
-  - education
 - text: There is no nonsense so errant that it cannot be made the creed of the vast
     majority by adequate governmental action.
   author: Bertrand Russell
@@ -16697,14 +16685,6 @@ signatures:
   author: Zach Holman, Konstantin Haase
   tags:
   - en
-- text: 'Documentation is like sex: when it is good, it is very, very good; and when
-    it is bad, it is better than nothing.'
-  author: Dick Brandon
-  tags:
-  - en
-  - tech
-  - docs
-  - sex
 - text: Software is like sex, it’s better when it’s free.
   tags:
   - en
@@ -39899,3 +39879,9 @@ signatures:
   tags:
   - en
   - cinematography
+- text: |-
+    ‘My phone auto-corrected “Nietzsche” to “bruschetta”.’
+    ‘God is bread.’
+  author: Steve Klabnik, @vogon
+  tags:
+  - en
