@@ -39892,3 +39892,13 @@ signatures:
   - en
   - Google
   - Hangouts
+- text: |-
+    Me: I want these table constraints.
+    MySQL: I am Groot?
+    Me: Just do your best, okay?
+    MySQL: I am Groot.
+  author: Kris Jenkins
+  tags:
+  - en
+  - tech
+  - MySQL
