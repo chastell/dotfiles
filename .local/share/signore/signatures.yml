@@ -5534,10 +5534,6 @@ signatures:
   tags:
   - en
   - tech
-- text: orzeł zwisły
-  author: Lilarouge
-  tags:
-  - pl
 - text: Jazz audiences applaud at the oddest moments. ‘That thing you just did where
     you played an instrument, that was awesome!’
   author: Avdi Grimm
@@ -39902,3 +39898,11 @@ signatures:
   - en
   - tech
   - MySQL
+- text: |-
+    ‘What do you want to be when you grow up?’
+    ‘An honest, brave, compassionate human being.’
+    ‘No… I mean, how do you want to sell your labor?’
+  author: Existential Comics
+  tags:
+  - en
+  - work
