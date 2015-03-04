@@ -39914,3 +39914,12 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: |-
+    Two branches diverged on Git, and I—
+    I pulled the one less traveled by,
+    And now there are several merge conflicts.
+  author: Michelle Schulp
+  tags:
+  - en
+  - tech
+  - Git
