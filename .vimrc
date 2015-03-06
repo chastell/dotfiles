@@ -42,6 +42,7 @@ let loaded_matchparen = 1
 
 " autocmd
 autocmd BufRead,BufNewFile *.md              set filetype=markdown
+autocmd BufRead,BufNewFile *.reek            set filetype=yaml
 autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
 autocmd BufRead,BufNewFile *.ru              set filetype=ruby
 autocmd BufRead,BufNewFile parade            set filetype=ruby
