@@ -4,6 +4,7 @@ filetype off
 set runtimepath+=$HOME/.vim/bundle/vundle
 call vundle#begin()
 Plugin 'gmarik/vundle'
+
 Plugin 'cespare/vim-toml'
 Plugin 'craigemery/vim-autotag'
 Plugin 'ekalinin/Dockerfile.vim'
@@ -11,7 +12,6 @@ Plugin 'ervandew/supertab'
 Plugin 'godlygeek/tabular'
 Plugin 'henrik/git-grep-vim'
 Plugin 'jeffkreeftmeijer/vim-numbertoggle'
-Plugin 'jtratner/vim-flavored-markdown'
 Plugin 'kana/vim-textobj-user'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'kien/ctrlp.vim'
@@ -32,6 +32,9 @@ Plugin 'tpope/vim-unimpaired'
 Plugin 'vim-scripts/matchit.zip'
 Plugin 'vim-scripts/visSum.vim'
 Plugin 'wting/rust.vim'
+
+Plugin 'tpope/vim-markdown'
+Plugin 'jtratner/vim-flavored-markdown'
 call vundle#end()
 filetype plugin indent on
 
@@ -50,6 +53,8 @@ autocmd FileType help wincmd L
 autocmd FileType json setlocal equalprg=python\ -m\ json.tool
 autocmd FocusLost * :silent! wall
 autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
+
+let g:markdown_fenced_languages = ['coffee', 'css', 'erb=eruby', 'html', 'javascript', 'js=javascript', 'json=javascript', 'ruby', 'sass', 'xml']
 
 " gui
 set clipboard=unnamedplus
