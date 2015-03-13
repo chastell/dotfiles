@@ -14504,12 +14504,6 @@ signatures:
   - tech
   - programming
   - work
-- text: Being called a poetess brings out the terroristress in me.
-  author: Audre Lorde
-  tags:
-  - en
-  - linguistics
-  - gender
 - text: If life was fair, Elvis would be alive and all the impersonators would be
     dead.
   author: Johnny Carson
@@ -18474,14 +18468,6 @@ signatures:
   - en
   - tech
   - programming
-- text: Ruby is a very kinky language. It keeps coming back for more no matter what
-    twisted things I do to it.
-  author: Avdi Grimm
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
 - text: My memoir will be called ‘Computers and the morons who program them’.
   author: Paul Battley
   tags:
@@ -39969,3 +39955,9 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: delete trailing whitespace and chew with your damn mouth closed
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
