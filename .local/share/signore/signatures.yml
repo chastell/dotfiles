@@ -39967,3 +39967,12 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    OH:
+    ‘I’m getting 500 errors on [the development server].’
+    ‘That’s a lot of errors.’
+  author: Estelle Weyl
+  tags:
+  - en
+  - tech
+  - HTTP
