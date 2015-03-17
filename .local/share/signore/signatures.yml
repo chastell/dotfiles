@@ -39985,3 +39985,12 @@ signatures:
   author: "@crylenol"
   tags:
   - en
+- text: |-
+    Sometimes I feel bad about my code being tightly coupled, but then I remember that you need to quit iTunes before you can update Xcode.
+    ಠ_ಠ
+  author: Jezen Thomas
+  tags:
+  - en
+  - tech
+  - programming
+  - Apple
