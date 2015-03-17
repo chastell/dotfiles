@@ -28,6 +28,8 @@ macro index,pager gt '<change-folder>=[Gmail]/Sent%20Mail<enter>'
 macro index,pager H  '<save-message>=INBOX<enter><enter>'
 macro index,pager S  '<save-message>=[Gmail]/Spam<enter><enter>'
 
+my_hdr X-Clacks-Overhead: GNU Terry Pratchett
+
 # my_hdr Reply-By: `LC_TIME=C date --date="+3 days"`
 # my_hdr X-MSMail-Priority: High
 # my_hdr X-Message-Flag: v_@_   v_@_   v_@_
