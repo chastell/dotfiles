@@ -18396,12 +18396,6 @@ signatures:
   - tech
   - admin
   - Puppet
-- text: If I ever meet the idiot who made USB ports *almost* rotationally symmetrical,
-    they should expect to be in a lot of pain.
-  author: Owen Blacker
-  tags:
-  - en
-  - USB
 - text: |-
     PC1: I guess this goblin came to taunt and lead us into an ambush.
     PC2: Yes, obviously. Hopefully there’ll be more of them there.
@@ -32107,6 +32101,7 @@ signatures:
   author: Theo
   tags:
   - en
+  - tech
   - programming
   - Ruby
   - RubyGems
@@ -39993,4 +39988,10 @@ signatures:
   - en
   - tech
   - programming
+  - Apple
+- text: 'I’ll never forget what Steve Jobs once said to me: ‘I’m not Steve Jobs. My
+    name’ Rick, and I just work here at the Apple Store’. So humble.'
+  author: Mark Leggett
+  tags:
+  - en
   - Apple
