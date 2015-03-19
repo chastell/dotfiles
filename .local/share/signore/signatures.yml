@@ -9293,13 +9293,6 @@ signatures:
   tags:
   - pl
   - porn
-- text: def turtles; turtles; end
-  author: Michael Feathers
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
 - text: I pity the young people watching Microsoft embrace HTML5, and now extend HTML5,
     who honestly don’t know what comes next.
   author: Mark Pilgrim
@@ -39995,3 +39988,9 @@ signatures:
   tags:
   - en
   - Apple
+- text: Just realized that Ross Ulbritch kept better notes of his involvement in a
+    criminal conspiracy than I keep of my research.
+  author: Andrew Ruef
+  tags:
+  - en
+  - research
