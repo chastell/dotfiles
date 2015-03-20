@@ -26458,11 +26458,6 @@ signatures:
   tags:
   - en
   - tech
-- text: 'My GTD system: sit down and work.'
-  author: Fred LeBlanc
-  tags:
-  - en
-  - work
 - text: |-
     — Chciałbyś nauczyć się asertywności?
     — Nie.
@@ -39921,6 +39916,11 @@ signatures:
   author: "@LAUTschrift"
   tags:
   - en
+- text: I see red bikeshed and I want it painted black
+  author: Tom Santero
+  tags:
+  - en
+  - tech
 - text: Becoming so cross with someone that you beg for their pardon
   author: Very British Problems
   tags:
