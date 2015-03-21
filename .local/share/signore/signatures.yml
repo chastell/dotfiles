@@ -23070,6 +23070,7 @@ signatures:
   source: HS WAW
   tags:
   - pl
+  - tech
 - text: Finding good people to hire is a big problem, especially when your industry
     ostracizes half of the population.
   author: Alex Rock
@@ -39994,3 +39995,13 @@ signatures:
   tags:
   - en
   - research
+- text: |-
+    WHEN CATS ARE SAD
+    Bartender: What’ll ya have?
+    Cat: Shot of rum.
+    [Bartender pours it]
+    [Cat slowly pushes it off the bar]
+    Cat: Another.
+  tags:
+  - en
+  - cats
