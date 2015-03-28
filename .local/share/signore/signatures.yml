@@ -14251,7 +14251,7 @@ signatures:
   - tech
   - Mutt
 - text: The most likely way for the world to be destroyed, most experts agree, is
-    by accident. That's where we come in; we’re computer professionals. We cause accidents.
+    by accident. That’s where we come in; we’re computer professionals. We cause accidents.
   author: Nathaniel Borenstein
   tags:
   - en
@@ -40046,3 +40046,7 @@ signatures:
   tags:
   - de
   - tech
+- text: If you’re happy and you know it, metacognition.
+  author: Shit Academics Say
+  tags:
+  - en
