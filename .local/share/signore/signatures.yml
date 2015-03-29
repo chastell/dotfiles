@@ -40050,3 +40050,9 @@ signatures:
   author: Shit Academics Say
   tags:
   - en
+- text: Git-blames to see who added a default_scope. Gets coat.
+  author: Ben Lovell
+  tags:
+  - en
+  - tech
+  - Git
