@@ -38971,7 +38971,7 @@ signatures:
   - journalism
 - text: |-
     How to be a feminist in a single word: Empathy.
-    reful though, empathy is a slippery slope. Soon you’ll find yourself caring about all kinds of marginalized people.
+    Careful though, empathy is a slippery slope. Soon you’ll find yourself caring about all kinds of marginalized people.
   author: Chris Eppstein
   tags:
   - en
@@ -40064,3 +40064,8 @@ signatures:
   tags:
   - en
   - tech
+- text: What if their full names are Ernie Waldorf and Bert Statler and the Muppet
+    Show is set 50 years after Sesame Street?
+  author: Leon Weidauer
+  tags:
+  - en
