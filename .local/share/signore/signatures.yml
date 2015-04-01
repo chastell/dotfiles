@@ -37249,7 +37249,7 @@ signatures:
 - text: |-
     1. Order Starbucks Frappuccino.
     2. Give your name as ‘Admiral Ackbar’.
-    3. When they call your name shout ‘IT’ A FRAP!’
+    3. When they call your name shout ‘IT’S A FRAP!’
     4. Moonwalk out.
   author: Dave Turner
   tags:
@@ -40069,3 +40069,9 @@ signatures:
   author: Leon Weidauer
   tags:
   - en
+- text: As a __SOFTWARE DEV__ I’m __DOING IT WRONG__ because __I THINK THIS TEMPLATE
+    IS A REPLACEMENT FOR TALKING TO PEOPLE__
+  author: James Shore
+  tags:
+  - en
+  - tech
