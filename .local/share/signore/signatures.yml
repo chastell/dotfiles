@@ -2969,10 +2969,6 @@ signatures:
   author: olkit
   tags:
   - pl
-- text: I’m getting too old for this ship!
-  author: opi
-  tags:
-  - en
 - text: W tej wojnie przewaga od początku jest po stronie wiatraków.
   author: czerski
   tags:
@@ -5877,10 +5873,6 @@ signatures:
   - en
   - tech
   - UI
-- text: Są takie chwile w życiu żółwia, że ma ochotę wszystko rzucić i się oflagować.
-  author: Saddie
-  tags:
-  - pl
 - text: Po spróbowaniu Nalewki Babuni człowiek ma wrażenie, że babunia była pancurką
     i ostro garowała.
   author: elpanda
@@ -32901,11 +32893,6 @@ signatures:
   - IRC
   - Twitter
   - Ruby
-- text: What reformers have to understand is that theyre never going to get anywhere
-    without radicals and revolutionaries to betray.
-  author: David Graeber
-  tags:
-  - en
 - text: |-
     ‘utf8 or gtfo’
     ‘Accept-Encoding: gtfo/stfu’
@@ -40075,3 +40062,7 @@ signatures:
   tags:
   - en
   - tech
+- text: In Dire, they’re just called wolves.
+  author: Moltz
+  tags:
+  - en
