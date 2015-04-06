@@ -40086,3 +40086,10 @@ signatures:
   author: Anne Thériault
   tags:
   - en
+- text: If one service dies and your whole system breaks, you don’t have SOA. You
+    have a monolith whose brain has been chopped up and stuck in jars.
+  author: David Brady
+  tags:
+  - en
+  - tech
+  - SOA
