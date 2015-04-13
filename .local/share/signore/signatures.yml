@@ -40117,3 +40117,10 @@ signatures:
   author: Very British Problems
   tags:
   - en
+- text: 'Fun fact: in German databases ALTER TABLE just returns an older copy of the
+    records.'
+  author: Patryk Zawadzki
+  tags:
+  - en
+  - tech
+  - SQL
