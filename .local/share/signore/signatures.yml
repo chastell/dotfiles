@@ -8439,13 +8439,6 @@ signatures:
   author: pilar
   tags:
   - pl
-- text: Umrze ci dziecko, pan! Umrze! Cyganka prawde ci powie, umrze ci dziecko. Daj
-    tysiąca, to nie umrze! Daj tysiąca, pan, bo dziecko ci umrze. Stop pneumokokom.
-  author: JarekP
-  tags:
-  - pl
-  - children
-  - parenthood
 - text: Na stronie tracikngu UPS moja paczka od dwóch godzin ma status „płonie”.
   author: Murinio
   tags:
@@ -40119,3 +40112,8 @@ signatures:
   tags:
   - en
   - tech
+- text: Worrying you’re going to be arrested as you present your perfectly valid train
+    ticket to the inspector.
+  author: Very British Problems
+  tags:
+  - en
