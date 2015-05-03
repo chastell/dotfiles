@@ -13494,15 +13494,6 @@ signatures:
   tags:
   - en
   - parenting
-- text: Something I really love about the Ruby community is the importance that is
-    placed on craftsmanship and quality.
-  author: Ashe Dryden
-  tags:
-  - en
-  - tech
-  - work
-  - programming
-  - Ruby
 - text: Never ever forget that software is used by human beings. It must be emotional
     and opinionated and beautiful to work well.
   author: Thomas Fuchs
@@ -26664,13 +26655,6 @@ signatures:
   author: Pinboard
   tags:
   - en
-- text: |-
-    ‘If what you are working on feels overwhelming, try slicing off a chunk randomly, and then focus on making that part great. It works.’
-    ‘I keep randomly slicing off the part where I enjoy a beer at the end.’
-  author: Gregory Brown, Avdi Grimm
-  tags:
-  - en
-  - work
 - text: As soon as you talk about cryptography it’s like serious science, and I’m
     just making up shit with markers.
   author: Jeff Casimir
@@ -40254,3 +40238,18 @@ signatures:
   author: Paul Haddad
   tags:
   - en
+- text: |-
+    Stages of public speaking:
+    1) I have an idea.
+    2) yay! people want to hear it.
+    3) this will be fun!
+    4) oh shit.
+    5) why did I agree to this?
+    6) PANIC
+    7) thank god it’s over.
+    8) that was fun.
+    9) let’s do it again!
+  author: Mina Markham
+  tags:
+  - en
+  - speaking
