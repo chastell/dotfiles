@@ -5097,12 +5097,6 @@ signatures:
   tags:
   - en
   - sanity
-- text: When I was your age, ‘apps’ were called ‘floppies’ and ‘app stores’ were called
-    ‘stores’.
-  author: Mark Pilgrim
-  tags:
-  - en
-  - tech
 - text: People still put two spaces after punctuation. I am as astonished as only
     someone who cares deeply and madly about such minutiae can be.
   author: Will Fitzgerald
@@ -32387,13 +32381,6 @@ signatures:
   tags:
   - en
   - tech
-- text: Today Tom Crayford told me about some code he *liked*. I suggested we start
-    a ‘Yay computers’ meme. Then we both laughed.
-  author: James Coglan
-  tags:
-  - en
-  - tech
-  - programming
 - text: Juche Couture
   author: nrrd
   tags:
@@ -39287,14 +39274,6 @@ signatures:
   tags:
   - en
   - tech
-- text: The less justified a man is in claiming excellence for his own self, the more
-    ready he is to claim all excellence for his nation, his religion, his race, or
-    his holy cause. A man is likely to mind his own business when it is worth minding.
-    When it is not, he takes his mind off his own meaningless affairs by minding other
-    people’s business.
-  author: Eric Hoffer
-  tags:
-  - en
 - text: "‘A pipeable JSON parser written in Bash’ EXORCIZAMUS TE OMNIS IMMUNDUS SPIRITUS
     OMNIS POTESTAS SATANICA INFERNALIS OMNIS LEGIO OMNIS INCURSI"
   author: "@velartrill"
@@ -40197,6 +40176,12 @@ signatures:
   - tech
   - Apple
   - Apple Watch
+- text: 'OH: Cynefin? That’s just a picture of two asses touching each other.'
+  author: Aslak Hellesøy
+  tags:
+  - en
+  - tech
+  - Cynefin
 - text: |-
     WHAT DO WE WANT
     work/life balance
