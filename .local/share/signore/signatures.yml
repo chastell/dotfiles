@@ -6772,7 +6772,7 @@ signatures:
   - en
   - tonguetwisters
 - text: |-
-    ‘Then again, if it's all about fun, why not write a Ruby 1.9 interpreter from scratch in PL/I?’
+    ‘Then again, if it’s all about fun, why not write a Ruby 1.9 interpreter from scratch in PL/I?’
     ‘My cardiologist tells me that I should try not to have too much fun at one time.’
   author: Ed Borasky, Jay Levitt
   source: ruby-talk
@@ -16286,16 +16286,6 @@ signatures:
   - en
   - Discworld
   - religion
-- text: His philosophy was a mixture of three famous schools – the Cynics, the Stoics
-    and the Epicureans – and summed up all three of them in his famous phrase, ‘You
-    can’t trust any bugger further than you can throw him, and there’s nothing you
-    can do about it, so let’s have a drink.’
-  author: Terry Pratchett
-  source: Small Gods
-  tags:
-  - en
-  - Discworld
-  - philosophy
 - text: |-
     ‘You’re not one of us.’
     ‘I don’t think I’m one of them, either’, said Brutha. ‘I’m one of mine.’
@@ -24115,13 +24105,6 @@ signatures:
   author: Ben Griffiths
   tags:
   - en
-- text: Every time I see a deep/shallow copy problem, I grow more enamored of functional
-    programming.
-  author: John Carmack
-  tags:
-  - en
-  - tech
-  - programming
 - text: Trading in the concept of ‘ownership’ for that of ‘custodianship’ will do
     pretty astonishing things for your happiness level.
   author: Brandon Hays
@@ -28077,7 +28060,7 @@ signatures:
   tags:
   - pl
 - text: Homeopathy is ‘alternative medicine’ in roughly the same sense in which a
-    rabbit's foot is an ‘alternative insurance policy’.
+    rabbit’s foot is an ‘alternative insurance policy’.
   author: Chris MacDonald
   tags:
   - en
@@ -28441,12 +28424,6 @@ signatures:
   - en
   - tech
   - programming
-- text: The coder version of ‘I’m actually really happy being single right now’ is
-    ‘I like coding in vi’.
-  author: Kelly Sommers
-  tags:
-  - en
-  - tech
 - text: "‘We took on this outstanding quantity of technical debt, but it’s fine because
     we paid it off later.’ – Nobody, ever."
   author: Zack Voase
@@ -34066,11 +34043,6 @@ signatures:
   - en
   - tech
   - Rails
-- text: Obvious troll is obvious. Sadly he’s also Mayor of London.
-  author: Alice Bell
-  tags:
-  - en
-  - politics
 - text: 'Scariest thing about Jurassic Park: single dev deploying ‘2 million lines
     of code’ directly into production environment WITH DINOSAURS.'
   author: Gary Johnson
@@ -38759,7 +38731,7 @@ signatures:
   - tech
   - SSL
   - Bash
-- text: AAA-devs dont want female protagonists because their target audience won’t
+- text: AAA-devs don’t want female protagonists because their target audience won’t
     be able to relate. Coffee Stain has one million gamers playing as a goat.
   author: Armin Ibrisagic
   tags:
@@ -40247,7 +40219,7 @@ signatures:
   tags:
   - en
 - text: Son, I want you to have this watch. The firmware is outdated, the OS is slow
-    and it only runs Yelp, but it's been in our family for 3 years.
+    and it only runs Yelp, but it’s been in our family for 3 years.
   author: Ludwig Kietzmann
   tags:
   - en
@@ -40281,5 +40253,11 @@ signatures:
   - tech
 - text: Seven days without a pun makes one weak.
   author: Joe Rafaniello
+  tags:
+  - en
+- text: |-
+    ‘The definition of insanity is exactly the same as the definition of practice.’
+    ‘Yup. Insanity makes perfect.’
+  author: "@JayUhOh, @theAndraman"
   tags:
   - en
