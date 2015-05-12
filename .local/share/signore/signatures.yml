@@ -2384,14 +2384,6 @@ signatures:
   - tech
   - programming
   - PHP
-- text: Emboldened by Nobel Prize, US President Obama Re-Opens Discussion on Bringing
-    Closures to Java
-  author: Patently False
-  tags:
-  - pl
-  - tech
-  - programming
-  - Java
 - text: Nie rozdzierajmy szat jak Stańczyk.
   author: Grzegorz Lato
   tags:
@@ -40259,5 +40251,13 @@ signatures:
     ‘The definition of insanity is exactly the same as the definition of practice.’
     ‘Yup. Insanity makes perfect.’
   author: "@JayUhOh, @theAndraman"
+  tags:
+  - en
+- text: |-
+    Nice try ‘Marco Rubio’ – or should I say…
+    [rearranges letters]
+    ‘BIRAC UBOMA’
+    [audience gasps]
+  author: Daniel Kibblesmith
   tags:
   - en
