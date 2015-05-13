@@ -6300,11 +6300,6 @@ signatures:
   author: Matthew Baldwin
   tags:
   - en
-- text: It’s easy to come up with new product ideas if you start with the understanding
-    that everything sucks.
-  author: Steve Yegge
-  tags:
-  - en
 - text: 'In short: just say NO TO DRUGS, and maybe you won’t end up like the Hurd
     people.'
   author: Linus Torvalds
@@ -26782,12 +26777,6 @@ signatures:
   - tech
   - programming
   - Ruby
-- text: Being popular on Twitter is like sitting at the cool table in the cafeteria
-    at a mental hospital.
-  author: Kyle Lippert
-  tags:
-  - en
-  - Twitter
 - text: Mam ochotę tupnąć tak mocno że dysk żółwiowi spadnie.
   author: Jarosław Śmiejczak
   tags:
@@ -40261,3 +40250,8 @@ signatures:
   author: Daniel Kibblesmith
   tags:
   - en
+- text: ".bash_history has more passwords in it than /etc/shadow"
+  author: Sad Server
+  tags:
+  - en
+  - tech
