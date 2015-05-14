@@ -40255,3 +40255,10 @@ signatures:
   tags:
   - en
   - tech
+- text: First I can’t have too many methods in a class. Then I can’t have too much
+    code in a method. Something’s gotta give, people, pick one.
+  author: The Expert Beginner
+  tags:
+  - en
+  - tech
+  - programming
