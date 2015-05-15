@@ -40262,3 +40262,12 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    class ActiveRecord::Base
+      alias :situps :reload
+    end
+  author: David Copeland
+  tags:
+  - en
+  - tech
+  - Rails
