@@ -40281,3 +40281,10 @@ signatures:
   tags:
   - en
   - work
+- text: Dvorak isn’t hip; nor is COLEMAK. I use custom firmware on my ErgoDox, and
+    if anybody sees the .h file I declare it mainstream and discard.
+  author: David Brady
+  tags:
+  - en
+  - tech
+  - keyboards
