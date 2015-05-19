@@ -40295,3 +40295,14 @@ signatures:
   author: David Copeland
   tags:
   - en
+- text: |-
+    <Connects backup to 12″ MacBook to migrate>
+    ‘You should connect to power to do this’
+    <Looks at single USB-C port>
+    <awkward silence>
+  author: Dan Frakes
+  tags:
+  - en
+  - tech
+  - Apple
+  - MacBook
