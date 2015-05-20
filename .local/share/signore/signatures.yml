@@ -35075,7 +35075,7 @@ signatures:
   author: spin
   source: HS WAW OT
   tags:
-  - en
+  - pl
   - tech
   - GTK
 - text: |-
@@ -40306,3 +40306,8 @@ signatures:
   - tech
   - Apple
   - MacBook
+- text: Imagine how awesome it would’ve been if Henry Ford actually did invent a faster
+    horse.
+  author: Nick Fisher
+  tags:
+  - en
