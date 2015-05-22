@@ -23419,11 +23419,6 @@ signatures:
   - en
   - alcohol
   - health
-- text: 'Things I don’t understand #77: people who want to get in trains before letting
-    passengers get off.'
-  author: Ashish Dixit
-  tags:
-  - en
 - text: Java developers hate the language so much that, faced with the prospect of
     actually writing Java, they instead write 10× as much XML.
   author: Eevee
@@ -40314,5 +40309,9 @@ signatures:
 - text: If you delete unnecessary URL params off links you send to pals, you’re a
     good person. That’s the only way to be considered a good person.
   author: David Cole
+  tags:
+  - en
+- text: Make no mistake about why babies are here. They’re here to replace us.
+  author: Jerry Seinfeld
   tags:
   - en
