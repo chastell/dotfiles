@@ -37175,8 +37175,8 @@ signatures:
   tags:
   - en
 - text: |-
-    Today on “thanks, brain”:
-    When someone else screws up: don’t panic! We can fix this
+    Today on ‘thanks, brain’:
+    When someone else screws up: don’t panic! We can fix this.
     When I screw up: PANIC! WE CANNOT FIX THIS. WORLD OVER.
   author: Melissa ☈
   tags:
@@ -40309,5 +40309,10 @@ signatures:
 - text: Imagine how awesome it would’ve been if Henry Ford actually did invent a faster
     horse.
   author: Nick Fisher
+  tags:
+  - en
+- text: If you delete unnecessary URL params off links you send to pals, you’re a
+    good person. That’s the only way to be considered a good person.
+  author: David Cole
   tags:
   - en
