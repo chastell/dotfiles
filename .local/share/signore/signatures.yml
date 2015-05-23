@@ -40315,3 +40315,10 @@ signatures:
   author: Jerry Seinfeld
   tags:
   - en
+- text: intractable, highly-coupled, spooky action at a distance over configuration
+  author: Paul Battley
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
