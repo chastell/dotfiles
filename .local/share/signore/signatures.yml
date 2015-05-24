@@ -40322,3 +40322,12 @@ signatures:
   - tech
   - programming
   - Rails
+- text: |-
+    ‘I just tried to make reservations at the library’
+    You don’t need a res—
+    ‘Couldn’t get one though’
+    Don’t do this
+    ‘They were fully booked’
+  author: Dan Mentos
+  tags:
+  - en
