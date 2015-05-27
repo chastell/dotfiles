@@ -40337,3 +40337,14 @@ signatures:
   tags:
   - en
   - linguistics
+- text: Many people try to compare Rust to Go, but this is flawed. Go is an ancient
+    board game that emphasizes strategy. Rust is more appropriately compared to Chess,
+    a board game focused on low-level tactics.
+  author: Zach Oakes
+  source: Rust for Clojurists
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
+  - Go
