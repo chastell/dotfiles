@@ -31,16 +31,5 @@ if !exists("*OpenTestAlternate")
   endfunction
 endif
 
-if !exists("*PromoteToLet")
-  function! PromoteToLet()
-    :normal! dd
-    :normal! P
-    :.s/\(\w\+\) \+= \(.*\)$/let(:\1) { \2 }/
-    :normal ==
-  endfunction
-endif
-
-:command! PromoteToLet :call PromoteToLet()
-noremap  <leader>let :PromoteToLet<enter>
-nnoremap <leader>.   :call OpenTestAlternate()<cr>
-nnoremap <leader>o   <c-w>o <c-w>v <c-w>w :call OpenTestAlternate()<cr>
+nnoremap <leader>. :call OpenTestAlternate()<cr>
+nnoremap <leader>o <c-w>o <c-w>v <c-w>w :call OpenTestAlternate()<cr>

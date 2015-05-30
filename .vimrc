@@ -75,7 +75,6 @@ nnoremap <leader>f  :CtrlPTag<enter>
 nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>p  gqip
-nnoremap <leader>r  :silent! wall<enter>:!rake<enter>
 nnoremap <leader>t= :Tab /=<enter>
 nnoremap <s-down>   O<esc><down>
 nnoremap <space>    :
