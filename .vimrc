@@ -7,6 +7,7 @@ Plugin 'gmarik/vundle'
 
 Plugin 'cespare/vim-toml'
 Plugin 'craigemery/vim-autotag'
+Plugin 'ecomba/vim-ruby-refactoring'
 Plugin 'ekalinin/Dockerfile.vim'
 Plugin 'ervandew/supertab'
 Plugin 'godlygeek/tabular'
