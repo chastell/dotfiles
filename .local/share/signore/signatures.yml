@@ -40168,14 +40168,14 @@ signatures:
 - text: |-
     Stages of public speaking:
     1) I have an idea.
-    2) yay! people want to hear it.
-    3) this will be fun!
-    4) oh shit.
-    5) why did I agree to this?
+    2) Yay! People want to hear it.
+    3) This will be fun!
+    4) Oh shit.
+    5) Why did I agree to this?
     6) PANIC
-    7) thank god it’s over.
-    8) that was fun.
-    9) let’s do it again!
+    7) Thank god it’s over.
+    8) That was fun.
+    9) Let’s do it again!
   author: Mina Markham
   tags:
   - en
@@ -40392,3 +40392,12 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    #1. make it work
+    #2. make it fast
+    #3. spend an hour picking out a gif for the pull request
+  author: Mike Coutermarsh
+  tags:
+  - en
+  - tech
+  - programming
