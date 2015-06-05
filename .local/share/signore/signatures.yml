@@ -22200,12 +22200,6 @@ signatures:
   tags:
   - en
   - cinematography
-- text: The difference between a hooker and a lobbyist is that a hooker offers a valuable
-    service.
-  author: "@TheTweetOfGod"
-  tags:
-  - en
-  - politics
 - text: Nie płonę miłością do was, żeby tę godzinę mieć.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -37220,7 +37214,7 @@ signatures:
   author: Matt Haig
   tags:
   - en
-- text: Oh you’e a Football fan? Okay then name 3 of their albums. Yeah. That’s what
+- text: Oh you’e a Football fan? Okay then name three of their albums. Yeah. That’s what
     I thought.
   author: NOT A METH LAB
   tags:
@@ -40392,3 +40386,9 @@ signatures:
   author: Very British Problems
   tags:
   - en
+- text: "‘Why are restaurant menus PDFs? Can’t they hire a web developer??’ – dude
+    in a startup with no HR or Legal or Accounting"
+  author: Neven Mrgan
+  tags:
+  - en
+  - tech
