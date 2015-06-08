@@ -3119,12 +3119,6 @@ signatures:
   - tech
   - programming
   - games
-- text: A man’s library is a sort of harem.
-  author: Ralph Waldo Emerson
-  tags:
-  - en
-  - books
-  - literature
 - text: "← Emil | Weekend →"
   author: opi
   tags:
@@ -40411,3 +40405,10 @@ signatures:
   author: Scott Knaster
   tags:
   - en
+- text: We’ll return you to your method logic in a moment. But first, a word from
+    our edge cases!
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
+  - programming
