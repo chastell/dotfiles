@@ -37208,8 +37208,8 @@ signatures:
   author: Matt Haig
   tags:
   - en
-- text: Oh you’e a Football fan? Okay then name three of their albums. Yeah. That’s what
-    I thought.
+- text: Oh you’e a Football fan? Okay then name three of their albums. Yeah. That’s
+    what I thought.
   author: NOT A METH LAB
   tags:
   - en
@@ -40415,5 +40415,10 @@ signatures:
 - text: Don’t worry if you’ve forgotten the first rule of Passive Aggressive Club,
     it’s fine.
   author: cluedont
+  tags:
+  - en
+- text: Aliens living millions of light years away haven’t invaded us yet in fear
+    of dinosaurs that their telescopes show on Earth.
+  author: Zapp Brannigan
   tags:
   - en
