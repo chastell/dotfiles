@@ -40463,3 +40463,10 @@ signatures:
   - en
   - tech
   - Docker
+- text: 'OH: `f a b` ‘no that’s weird stop’ `(f a b)` ‘parentheses are weird can’t
+    read’ `a b f` ‘that order is wrong stop it’ `a.f(b)` ‘yes perfect’'
+  author: Alex Kahn
+  tags:
+  - en
+  - tech
+  - programming
