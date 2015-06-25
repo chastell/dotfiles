@@ -38309,7 +38309,7 @@ signatures:
   author: Pinboard
   tags:
   - en
-- text: "‘I totally get it. Let me give you a call on your cell!’ – Tech recruiter
+- text: "‘I totally get it. Let me give you a call on your cell!’ – tech recruiter
     who doesn’t really get it."
   author: Roy Tomeij
   tags:
@@ -40508,3 +40508,9 @@ signatures:
   tags:
   - en
   - work
+- text: 'There are only two hard things in computer science: cache invalidation and
+    dying alone.'
+  author: Tim Pope
+  tags:
+  - en
+  - tech
