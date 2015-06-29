@@ -40536,3 +40536,12 @@ signatures:
   tags:
   - en
   - cinematography
+- text: |-
+    Roses are red
+    Violets are blue
+    Elasticsearch is YELLOW unexpected number of nodes in cluster java.lang.OutOfMemoryError
+  author: Wesley David
+  tags:
+  - en
+  - tech
+  - Elasticsearch
