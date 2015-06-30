@@ -32137,7 +32137,7 @@ signatures:
   tags:
   - pl
   - Poland
-- text: ona niańczy dla mnie.
+- text: ona niańczy dla mnie
   author: Filip Tepper
   tags:
   - pl
@@ -40550,6 +40550,13 @@ signatures:
     Listen you ungrateful little jerk! There is no software crisis! Sometimes the computer needs to rest for an hour! Don’t be so insensitive!
     I’m sorry mr computer I will try to be more understanding in the future; after all, we are both flawed beings with unpredictable behavior.
   author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+- text: |-
+    ‘Smart nightlight startup Leeo has laid off half its employees 9 months after raising $37M’ That nightlight is smarter than I thought!
+    A truly smart nightlight would look you in the eye and say: ‘You’re a fucking adult. Turn me off.’
+  author: Pinboard
   tags:
   - en
   - tech
