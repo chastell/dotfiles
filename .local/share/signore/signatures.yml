@@ -40601,3 +40601,13 @@ signatures:
   author: pakalu papito
   tags:
   - en
+- text: |-
+    ‘XLST has a couple of interesting features. Not sure if they should really be in XSLT though. :) But if all you have is an XSLT shaped hammer…’
+    ‘XSLT shaped hammer sounds obscenely pointy.’
+    ‘Definitely more kiki than bouba.’
+  author: Wayne Robinson, Dylan Lacey
+  source: Ruby Together
+  tags:
+  - en
+  - tech
+  - XSLT
