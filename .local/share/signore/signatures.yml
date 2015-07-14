@@ -40638,3 +40638,14 @@ signatures:
   - tech
   - programming
   - testing
+- text: Liebe DB Bahn, ich schreibe aus  Lufthansa, 10 T m Flughöhe, irgendwo ü.d.
+    Atlantik. Wollte nen Freund anrufen. Geht nicht, er sitzt im ICE.
+  author: Marcus Niehaves
+  tags:
+  - de
+- text: The year is "2027". Strings are the only remaining data type.
+  author: "@velartrill"
+  tags:
+  - en
+  - tech
+  - programming
