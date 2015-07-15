@@ -40649,3 +40649,11 @@ signatures:
   - en
   - tech
   - programming
+- text: You often see languages which are fighting the last war. Go is fighting the
+    War of 1812.
+  author: Paul Phillips
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
