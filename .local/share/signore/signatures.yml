@@ -40085,7 +40085,7 @@ signatures:
 - text: |-
     Andrew: How shall I spend my day of Science
     Academia: here have this deluge of humans and email
-    Andrew: that isn’snt what I
+    Andrew: that isn’t what I
     Academia: HERE MORE
   author: Andrew MacDonald
   tags:
@@ -40690,3 +40690,10 @@ signatures:
   - en
   - tech
   - work
+- text: When you see the extension ‘.sh.erb’ you know a war crime is about to get
+    commited.
+  author: Sam Kottler
+  tags:
+  - en
+  - tech
+  - programming
