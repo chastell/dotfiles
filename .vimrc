@@ -5,6 +5,7 @@ set runtimepath+=$HOME/.vim/bundle/vundle
 call vundle#begin()
 Plugin 'gmarik/vundle'
 
+Plugin 'bogado/file-line'
 Plugin 'cespare/vim-toml'
 Plugin 'craigemery/vim-autotag'
 Plugin 'ecomba/vim-ruby-refactoring'
@@ -16,7 +17,6 @@ Plugin 'jeffkreeftmeijer/vim-numbertoggle'
 Plugin 'kana/vim-textobj-user'
 Plugin 'kchmck/vim-coffee-script'
 Plugin 'kien/ctrlp.vim'
-Plugin 'kopischke/vim-fetch'
 Plugin 'majutsushi/tagbar'
 Plugin 'mazubieta/gitlink-vim'
 Plugin 'mustache/vim-mustache-handlebars'
