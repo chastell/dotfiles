@@ -1,6 +1,6 @@
-\x auto
-\pset linestyle unicode
 \pset border 2
-\pset null ¤
 \pset format wrapped
+\pset linestyle unicode
+\pset null ¤
 \timing
+\x auto
