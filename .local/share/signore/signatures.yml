@@ -40781,3 +40781,10 @@ signatures:
   tags:
   - en
   - tech
+- text: 'OH: We’re in the process of moving from Ruby on Rails to Software Engineering.'
+  author: Jessica Kerr
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
