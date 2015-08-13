@@ -1028,7 +1028,7 @@ signatures:
   - pl
   - tech
   - Apache
-- text: Dzielę świat na ludzi, którzy jakoś się przydzadzą cywilizacji i tych, którzy
+- text: Dzielę świat na ludzi, którzy jakoś się przydadzą cywilizacji i tych, którzy
     mówią o wyświetlaczu Retina Display.
   author: opi
   tags:
@@ -40855,5 +40855,19 @@ signatures:
 - text: People who live on the 14th floor of buildings with no 13th floor deserve
     to know the truth.
   author: Michael Feathers
+  tags:
+  - en
+- text: |-
+    The web is
+    ADVE
+    RTISE
+    MENT
+    all of humankind’s knowledge at
+    ADVE
+    RTISE
+    MENT
+    your fingertips.
+    THE 10 MOST HORRIFYING THINGS YOU CAN EAT
+  author: Hendrik Mans
   tags:
   - en
