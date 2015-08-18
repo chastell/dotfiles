@@ -36027,7 +36027,7 @@ signatures:
   - Lisp
   - C
 - text: |-
-    sometimes i get frustrated because u cant put numbers in caps
+    sometimes I get frustrated because you can’t put numbers in caps
     12
     am I screaming?
     you’ll never know
@@ -40893,3 +40893,8 @@ signatures:
   tags:
   - en
   - tech
+- text: "‘Adblock costs billions to websites’ is the new ‘hygiene costs billions to
+    doctors’."
+  author: Jérôme Nicolle
+  tags:
+  - en
