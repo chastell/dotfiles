@@ -40898,3 +40898,9 @@ signatures:
   author: Jérôme Nicolle
   tags:
   - en
+- text: 'OH: NP stands for ‘Naming Problem’ – ‘NP-Hard’ means a problem is as hard
+    as naming things, which is the hardest problem we know of.'
+  author: "@nelhage"
+  tags:
+  - en
+  - tech
