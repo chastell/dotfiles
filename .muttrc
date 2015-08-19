@@ -77,6 +77,7 @@ unset markers
 unset move
 unset reverse_realname
 unset sig_dashes
+unset sort_re
 
 source ~/.config/mutt/addresses
 source ~/.config/mutt/passwords
