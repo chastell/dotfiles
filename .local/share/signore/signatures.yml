@@ -40920,3 +40920,12 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    put this in a co-worker’s .irbrc:
+    ObjectSpace.each_object(Class) { |c| c.module_eval("def to_s(*a); 'Hodor'; end; alias :inspect :to_s") }
+  author: Ruby Thought Leaders
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
