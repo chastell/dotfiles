@@ -40935,3 +40935,13 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    *At a party*
+    be cool, don’t let them know you’re a JavaScript object
+    ‘So, what do you–’
+    UNDEFINED IS NOT A FUNCTION
+  author: Noah Zucker
+  tags:
+  - en
+  - tech
+  - programming
