@@ -1,6 +1,8 @@
 alternates ^chastell@chastell\.net$ ^p\.szotkowski@tele\.pw\.edu\.pl$ ^piotr\.szotkowski@rebased\.pl$ ^piotr@analyticsfire\.com$
 
-#alternative_order text/enriched text/plain text/html
+alternative_order text/enriched text/plain text/html
+
+auto_view text/html
 
 bind index,pager A   create-alias
 bind index,pager gg  group-reply
