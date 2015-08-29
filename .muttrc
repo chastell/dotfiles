@@ -50,9 +50,9 @@ set forward_format        = 'Fwd: %s'
 set from                  = chastell@chastell.net
 set header_cache          = ~/.cache/mutt/headers
 set imap_check_subscribed
-set imap_keepalive        = 120
+set imap_keepalive        = 150
 set mbox_type             = Maildir
-set mail_check            = 120
+set mail_check            = 300
 set menu_scroll
 set message_cachedir      = ~/.cache/mutt/messages
 set mime_forward          = ask-no
@@ -70,7 +70,7 @@ set smtp_url              = smtps://chastell@chastell.net@smtp.gmail.com:465
 set sort                  = threads
 set spoolfile             = =INBOX
 set tilde
-set timeout               = 120
+set timeout               = 150
 set use_8bitmime
 set use_envelope_from
 
