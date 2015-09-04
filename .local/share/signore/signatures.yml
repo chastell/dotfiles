@@ -41017,3 +41017,10 @@ signatures:
   author: Paul Battley
   tags:
   - en
+- text: If you write a program that solves the halting problem, I’ll eat both my hat
+    and your brand new Nobel prize.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
