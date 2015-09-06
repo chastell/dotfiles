@@ -41,6 +41,7 @@ Plugin 'wting/rust.vim'
 
 Plugin 'tpope/vim-markdown'
 Plugin 'jtratner/vim-flavored-markdown'
+Plugin 'suan/vim-instant-markdown'
 call vundle#end()
 filetype plugin indent on
 
