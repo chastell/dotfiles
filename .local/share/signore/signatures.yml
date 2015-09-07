@@ -6185,18 +6185,6 @@ signatures:
   - en
   - tech
   - Linux
-- text: I like colorized diffs, but let’s face it, those particular color choices
-    will make most people decide to pick out their eyes with a fondue fork. And that’s
-    not good. Digging in your eye-sockets with a fondue fork is strictly considered
-    to be bad for your health, and seven out of nine optometrists are dead set against
-    the practice. So in order to avoid a lot of blind Git users, please apply this
-    patch.
-  author: Linus Torvalds
-  source: Git list
-  tags:
-  - en
-  - tech
-  - Git
 - text: Dobra, dałam szansę temu jazzu, niestety nadal się nie pokochaliśmy. To nie
     do końca moja estetyka, kiedy każdy muzyk napierdala we własny instrument – napierdala
     jest tutaj słowem kluczowym. A gdzie melodia, ja się pytam? Herbie Hancock fail.
@@ -40525,7 +40513,7 @@ signatures:
   - en
 - text: "‘We don’t need a CoC. It should be obvious how to interact with people’ –
     nerd who has a document spelling out that indents are 2 spaces."
-  author: ChrisEp Eppstein ❤
+  author: Chris Eppstein
   tags:
   - en
   - tech
@@ -40638,7 +40626,7 @@ signatures:
   - tech
   - programming
   - testing
-- text: Liebe DB Bahn, ich schreibe aus  Lufthansa, 10 T m Flughöhe, irgendwo ü.d.
+- text: Liebe DB Bahn, ich schreibe aus Lufthansa, 10 T m Flughöhe, irgendwo ü.d.
     Atlantik. Wollte nen Freund anrufen. Geht nicht, er sitzt im ICE.
   author: Marcus Niehaves
   tags:
@@ -40761,15 +40749,6 @@ signatures:
   tags:
   - en
   - tech
-- text: |-
-    Put this in a co-worker’s .irbrc:
-    ObjectSpace.each_object(Class){|c|c.module_eval("def to_s(*a);'Hodor';end;alias :inspect :to_s")}
-  author: Ruby Thought Leaders
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
 - text: Hey farmers I just went to a ‘restaurant’ and they sell the same shit as you
     except they actually bother cooking it unlike you morons.
   author: Rich Lowtax Kyanka
@@ -40929,12 +40908,6 @@ signatures:
   - tech
   - programming
   - Ruby
-- text: Jurassic Park is really the story of one man cheaping out on his ops team
-    and then watching his startup fold.
-  author: Matthew Garrett
-  tags:
-  - en
-  - tech
 - text: |-
     *At a party*
     be cool, don’t let them know you’re a JavaScript object
@@ -41029,3 +41002,9 @@ signatures:
   author: Katrina Owen
   tags:
   - en
+- text: in a way aren’t we all parody accounts? the face we show on twitter – indeed,
+    across all social media – isn’t our real one; rather, (1/1044)
+  author: andy levy
+  tags:
+  - en
+  - Twitter
