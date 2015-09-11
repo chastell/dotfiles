@@ -41023,3 +41023,17 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    — Jak jest messenger po polsku?
+    — Posłaniec.
+    — A instant?
+    — Rozpuszczalny.
+  author: kya
+  tags:
+  - pl
+- text: |-
+    Apologies to people who had trouble with the API earlier today; someone decided to paginate through half a million bookmarks.
+    To get half a million bookmarks, you have to save one URL per minute for a year. Go outside. Go to bed. And may God curse you with dialup.
+  author: Pinboard
+  tags:
+  - en
