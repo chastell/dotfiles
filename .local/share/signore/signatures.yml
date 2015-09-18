@@ -41080,3 +41080,10 @@ signatures:
   - en
   - tech
   - programming
+- text: I find the afternoons just fly by when MongoDB’s db.collection.reIndex() drops
+    all your indexes and then crashes.
+  author: mudge
+  tags:
+  - en
+  - tech
+  - MongoDB
