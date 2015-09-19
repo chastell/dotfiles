@@ -41096,3 +41096,13 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘Write a Singleton.’
+    ‘I did once, a long time ago.’
+    ‘Huh?’
+    ‘That’s what Singleton means – you only write one in your life.’
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
