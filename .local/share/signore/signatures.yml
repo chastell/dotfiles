@@ -41106,3 +41106,13 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    NASA: Decade long flight across the solar system. Arrives within 72 seconds of predicted. No errors.
+    Me: undefined is not a function
+  author: "@jimmydivvy"
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
+  - NASA
