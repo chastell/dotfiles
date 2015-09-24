@@ -327,7 +327,7 @@ signatures:
 - text: |-
     ‘The Ruby community should proceed with all deliberate speed towards ISO standardization of the language.’
     ‘Yeah, look what it did to Forth.’
-    ‘Don’t just say it, show it: <http://vividpicture.com/aleks/atari/forth.jpg>’
+    ‘Don’t just say it, show it: <http://bernardschmitz.com/wp-content/uploads/2007/10/atari-forth-1.jpg>’
   author: M. Edward (Ed) Borasky, Matt Lawrence, Gregory Brown
   source: ruby-talk
   tags:
@@ -41131,3 +41131,11 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: |-
+    Inheritance is not for sharing code. Inheritance is not for sharing code. Inheritance is not for sharing code. Inheritance is not for shar
+    BUT IT WOULD BE SO EASY TO MAKE ADMIN A SUBCLASS OF USER no no don’t do it you’ve got the rest of your life ahead of you
+  author: Sarah Mei
+  tags:
+  - en
+  - tech
+  - programming
