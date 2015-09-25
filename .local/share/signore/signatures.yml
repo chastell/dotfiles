@@ -38488,13 +38488,6 @@ signatures:
   author: Jim Cowart
   tags:
   - en
-- text: iOS 8 hides suggestions when I use emoji keyboard, but that’s when I need
-    suggestions most
-  author: ntlk
-  tags:
-  - en
-  - emoji
-  - Apple
 - text: 'Free character idea: Salvation Arnie'
   author: BradOFarrell
   tags:
@@ -41139,3 +41132,16 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    You write: ‘described_class’
+    I read: ‘fuck you’
+    If described_class is an acceptable method name, then so are:
+    a_method
+    a_variable
+    Why bother coming up with descriptive method names?
+  author: Andrzej Krzywda
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
