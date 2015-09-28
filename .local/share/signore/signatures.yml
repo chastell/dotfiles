@@ -41157,3 +41157,11 @@ signatures:
   tags:
   - en
   - linguistics
+- text: I love that there were years of hand-wringing and beard-stroking over things
+    like Klingon in Unicode, and then we suddenly got emoji.
+  author: Pinboard
+  tags:
+  - en
+  - tech
+  - Unicode
+  - emoji
