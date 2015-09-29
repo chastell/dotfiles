@@ -41165,3 +41165,20 @@ signatures:
   - tech
   - Unicode
   - emoji
+- text: |-
+    What a software engineer does:
+    — read existing code
+    — gather requirements
+    — architect data
+    — learn new languages/APIs
+    — write tests
+    What a software engineer mostly doesn’t do:
+    — reverse a tree
+    — in 45 min
+    — under the watch of a cocky white man
+    — 100% confidently
+  author: Fiona Tay
+  tags:
+  - en
+  - tech
+  - work
