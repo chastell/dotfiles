@@ -25011,7 +25011,7 @@ signatures:
   - education
   - Staszic
 - text: I’ve been chatting with a 13 year old girl online. Then I found out she is
-    a undercover cop. How cool is that for someone her age.
+    an undercover cop. How cool is that for someone her age.
   author: Bill Murray
   tags:
   - en
@@ -41194,3 +41194,13 @@ signatures:
   author: John Patrick Coan
   tags:
   - en
+- text: |-
+    OpenSSL pulls over driver
+    OpenSSL: License and registration
+    Me: I don’t have one but I do have this receipt from Burger King
+    OpenSSL: That will do
+  author: Imaginary Thomas
+  tags:
+  - en
+  - tech
+  - SSL
