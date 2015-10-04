@@ -6628,7 +6628,7 @@ signatures:
   - en
   - tech
   - IMAP
-- text: Na imprezie furrorę robi guma Turbo. Dziesięć osób wymienia się samochodami.
+- text: Na imprezie furorę robi guma Turbo. Dziesięć osób wymienia się samochodami.
   author: opi
   tags:
   - pl
@@ -41215,3 +41215,12 @@ signatures:
   tags:
   - en
   - TV
+- text: |-
+    WAR IS PEACE
+    FREEDOM IS SLAVERY
+    CODE IS DOCUMENTATION
+  author: tef
+  tags:
+  - en
+  - tech
+  - programming
