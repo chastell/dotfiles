@@ -41224,3 +41224,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    I shit you not, I said aloud ‘what’s next, systemd rewriting ntpd?’
+    THE NEXT SENTENCE: ‘systemd-timesyncd NTP management’.
+  author: Peter Barfuss
+  tags:
+  - en
+  - tech
+  - systemd
