@@ -37835,9 +37835,9 @@ signatures:
   - en
 - text: |-
     ‘When can you do it?’
-    Two weeks.
+    ‘Two weeks.’
     ‘We need it next week.’
-    Then I suggest you ask again last week.
+    ‘Then I suggest you ask again last week.’
   author: jaspertandy
   tags:
   - en
@@ -39430,7 +39430,6 @@ signatures:
   tags:
   - en
 - text: |-
-    text?
     OH:
     ‘How ARE you?’
     ‘I DON’T KNOW WHAT HAVE YOU HEARD?!??’
@@ -41232,3 +41231,7 @@ signatures:
   - en
   - tech
   - systemd
+- text: 'OH: You’re German? Why?'
+  author: Markus Prinz
+  tags:
+  - en
