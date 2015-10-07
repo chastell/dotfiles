@@ -38393,7 +38393,7 @@ signatures:
   - en
   - work
 - text: When I die, my family will be able to keep using computers and TVs for a while,
-    but then something will break and I guess they'll just stop.
+    but then something will break and I guess they’ll just stop.
   author: Jonathan Coulton
   tags:
   - en
@@ -41235,3 +41235,9 @@ signatures:
   author: Markus Prinz
   tags:
   - en
+- text: If you read Guardian comments at the right speed, you can arrange for each
+    ‘next page’ to be the same as the one you just read. Programmers!
+  author: Tom Stuart
+  tags:
+  - en
+  - tech
