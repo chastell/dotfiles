@@ -41246,3 +41246,11 @@ signatures:
   author: Andy White
   tags:
   - en
+- text: |-
+    Would you like to learn more about Bloom filters?
+    [ ] no
+    [ ] probably
+  author: Reuven Lazarus
+  tags:
+  - en
+  - tech
