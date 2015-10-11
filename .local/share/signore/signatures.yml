@@ -41254,3 +41254,16 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    *draws cloud*
+    *labels it ‘Internet’*
+    *draws box*
+    *labels it ‘Company’*
+    *connects with a line*
+    *draws box inside Company*
+    *labels it ‘China’*
+  author: Swift on Security
+  tags:
+  - en
+  - tech
+  - security
