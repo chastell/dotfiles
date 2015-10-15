@@ -28277,13 +28277,6 @@ signatures:
   author: "@knifesex"
   tags:
   - en
-- text: If you can afford an iPad, surely you can buy a device that allows you to
-    take pictures without looking like an idiot.
-  author: Łukasz Korecki
-  tags:
-  - en
-  - iPad
-  - photography
 - text: we must resist the Super-ego’s imperative of ‘Enjoy!’ – who can really enjoy
     programming in JavaScript?
   author: PLT Žižek
@@ -41284,3 +41277,9 @@ signatures:
   - en
   - tech
   - agile
+- text: In the fires of eternal torment, those who use popover divs will spend their
+    free time pitchforking those who use delayed popover divs.
+  author: David Brady
+  tags:
+  - en
+  - tech
