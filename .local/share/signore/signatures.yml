@@ -21139,12 +21139,6 @@ signatures:
   - en
   - work
   - startups
-- text: |-
-    The feeling of eating a pizza and wanting another one. #firstworldproblems
-    No reason to panic, I have Mövenpick.
-  author: Alexis Sellier
-  tags:
-  - en
 - text: I am both useless and a creep. BUT charming with it, so it’s OK.
   author: Peter Cooper
   tags:
@@ -41283,3 +41277,10 @@ signatures:
   author: MILTRON
   tags:
   - en
+- text: 'The three most common Agile practices are: calling things ‘Agile’, calling
+    things ‘Scrum’, and paying for a JIRA license.'
+  author: Wille
+  tags:
+  - en
+  - tech
+  - agile
