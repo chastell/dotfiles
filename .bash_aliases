@@ -55,4 +55,5 @@ alias u8='iconv --from-code=WINDOWS-1250 --to-code=UTF-8'
 alias very=git
 alias wget='wget --continue'
 alias wow='git st'
+alias youtube-dl='youtube-dl --no-mtime'
 alias z='zeus'
