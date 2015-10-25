@@ -41338,3 +41338,11 @@ signatures:
   - en
   - tech
   - work
+- text: |-
+    ‘6 months? Didn’t the UK office already implement this?’
+    ‘They formatted their docstrings in markdown instead of RST.’
+    ‘Get started.’
+  author: Josef K, SysOp
+  tags:
+  - en
+  - tech
