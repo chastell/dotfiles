@@ -41373,3 +41373,16 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘Unit test everything!’
+    ‘BOOOOOO!’
+    ‘Never write unit tests!’
+    ‘BOOOOOO!’
+    ‘Unit tests for some, miniature American flags for others?’
+    ‘YAAAAAY!’
+  author: Darius Kazemi
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
