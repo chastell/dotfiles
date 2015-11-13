@@ -41473,3 +41473,9 @@ signatures:
   author: "@theshrillest"
   tags:
   - en
+- text: |-
+    Reading lots of design blogs today where people seem to agree that 1 second is an ambitious page rendering time. Did we lose a war?
+  author: Pinboard
+  tags:
+  - en
+  - tech
