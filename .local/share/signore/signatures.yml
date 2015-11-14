@@ -41473,8 +41473,39 @@ signatures:
   author: "@theshrillest"
   tags:
   - en
+- text: Reading lots of design blogs today where people seem to agree that 1 second
+    is an ambitious page rendering time. Did we lose a war?
+  author: Pinboard
+  tags:
+  - en
+  - tech
+- text: 'Two steps to better mobile design: 1) Make sure that the most critical elements
+    of the page download and render first. 2) Stop right there.'
+  author: Pinboard
+  tags:
+  - en
+  - tech
 - text: |-
-    Reading lots of design blogs today where people seem to agree that 1 second is an ambitious page rendering time. Did we lose a war?
+    ‘This digest is sent from Chef Forums when we haven’t seen you in a while.’
+    (a) there’s a reason for that and (b) don’t remind me.
+  author: Paul Battley
+  tags:
+  - en
+  - tech
+  - Chef
+- text: Password too weak. Life too hard for password. Password cannot go on. Password
+    sorry for disappointing family, friends. Forgive password.
+  author: Howard Mittelmark
+  tags:
+  - en
+  - tech
+- text: So my working theory is that if you assemble enough enterprise software ads,
+    an airport spontaneously forms around them.
+  author: Patrick Collison
+  tags:
+  - en
+- text: "‘Cegłowski stressed the importance of innovation in business models: “For
+    example, if 100 people upgrade today, I’ll close all these quotes"
   author: Pinboard
   tags:
   - en
