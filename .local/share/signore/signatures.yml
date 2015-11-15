@@ -41509,4 +41509,15 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: "[Unix process talks to its parent process]\nA: I'm bored\nB: Hi bored, I'm
+    dad\nA: I'm \\0\nB: Hi \nA: I'm AAAAAAAAAAAAAAAAAAA\nB: Hi A*segfaults*"
+  author: "@_Ninji"
+  tags:
+  - en
+  - tech
+- text: 'OH: We used to leak kilobytes, then megs, then even gigs. Now, we leak EC2
+    instances. Someday we’ll leak entire datacenters.'
+  author: Dan Kaminsky
+  tags:
+  - en
   - tech
