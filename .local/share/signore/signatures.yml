@@ -5273,11 +5273,6 @@ signatures:
   author: Max Niederhofer
   tags:
   - en
-- text: Behind my cold dead eyes is a little boy who just wants to be loved. And behind
-    that boy is a creepy monkey wearing a giant foam cowboy hat.
-  author: Joshua Allen
-  tags:
-  - en
 - text: There is a nasty rumor going around that Apple is a for-profit corporation
     run by staunch capitalists.
   author: John Gruber
@@ -41533,5 +41528,11 @@ signatures:
     1) Write something.
     2) If it took far too long and you now hate yourself, you’re a writer.
   author: Tom Freeman
+  tags:
+  - en
+- text: |-
+    Person: That made me feel a feeling.
+    Helpful Internet Guy: No it didn’t.
+  author: Avdi Grimm
   tags:
   - en
