@@ -12943,16 +12943,6 @@ signatures:
   - en
   - tech
   - email
-- text: "(Of course SML does have its weaknesses, but by comparison, a discussion
-    of C++’s strengths and flaws always sounds like an argument about whether one
-    should face north or east when one is sacrificing one’s goat to the rain god.)"
-  author: Thant Tessman
-  tags:
-  - en
-  - tech
-  - programming
-  - SML
-  - C++
 - text: |-
     — Może samo założenie, że ktoś ma płacić za kogoś jest błędne. Ja cały czas piszę: chcę płacić SAM ZA SIEBIE! Jakież to by było proste!
     — Odkop resztki Bismarcka, a potem tym resztkom nakop.
@@ -13841,12 +13831,6 @@ signatures:
 - text: I wanted to be Superman, but all I got were these special powers of self-deprecation.
   tags:
   - en
-- text: A conservative is a man with two perfectly good legs who has never learned
-    to walk.
-  author: Franklin D. Roosevelt
-  tags:
-  - en
-  - politics
 - text: I don’t see what C++ has to do with keeping people from shooting themselves
     in the foot. C++ will happily load the gun, offer you a drink to steady your nerves,
     and help you aim.
@@ -14148,11 +14132,6 @@ signatures:
   tags:
   - en
   - Britain
-- text: A conservative is one who admires radicals centuries after they’re dead.
-  author: Leo Rosten
-  tags:
-  - en
-  - politics
 - text: Why does the Air Force need expensive new bombers? Have the people we’ve been
     bombing over the years been complaining?
   author: George Wallace
@@ -41536,3 +41515,9 @@ signatures:
   author: Avdi Grimm
   tags:
   - en
+- text: 'We need a hashtag shortener for people who need to support a lot of political
+    causes in one tweet. #x8U0a'
+  author: Maciej Cegłowski
+  tags:
+  - en
+  - Twitter
