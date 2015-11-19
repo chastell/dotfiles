@@ -16730,14 +16730,6 @@ signatures:
   tags:
   - en
   - science
-- text: |-
-    — Jejku, to seks nadal nazywa się dowodem miłości?
-    — No nie wiem, ja takich zwrotów nie używam, ale spodobał mi się, od kiedy mi dziewczyna zaczęła o tym mówić.
-  author: Carrie, Grzegorz Janoszka
-  source: pl.soc.seks.moderowana
-  tags:
-  - pl
-  - sex
 - text: Terroryści internetowi reklamujący alkohole na Usenecie i przymuszający innych
     do czytania reklamy alkoholi, piwa, wina, wódki, bimbru itd. jednak naruszają
     ustawę o wychowaniu w trzeźwości i krzyki nic tu nie dadzą.
@@ -41521,3 +41513,8 @@ signatures:
   tags:
   - en
   - Twitter
+- text: I think most people who say ‘That’s just semantics’ would be utterly gobsmacked
+    to learn the meaning of ‘semantics’.
+  author: Gene Hughson
+  tags:
+  - en
