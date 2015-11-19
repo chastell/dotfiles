@@ -108,6 +108,7 @@ set history=10000
 set ignorecase
 set incsearch
 set laststatus=2
+set lazyredraw
 set list
 set listchars=extends:»,nbsp:_,precedes:«,tab:▸\ ,trail:·
 set mouse=
