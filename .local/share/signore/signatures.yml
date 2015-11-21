@@ -41518,3 +41518,13 @@ signatures:
   author: Gene Hughson
   tags:
   - en
+- text: |-
+    Diffs are red
+    Builds are green
+    git merge master
+    && git clean
+  author: Daniel Eden
+  tags:
+  - en
+  - tech
+  - programming
