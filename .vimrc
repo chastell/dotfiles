@@ -96,6 +96,7 @@ set autoindent
 set backspace=indent,eol,start
 " set breakindent
 set completeopt=menu,longest
+set cursorline
 set directory=/tmp//
 set expandtab
 set formatprg=lovely-rufus
