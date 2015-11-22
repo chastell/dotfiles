@@ -101,7 +101,7 @@ set directory=/tmp//
 set expandtab
 set formatprg=lovely-rufus
 set gdefault
-set grepprg=ag\ --ignore\ _static\ --ignore\ bower_components\ --ignore\ dist\ --ignore\ node_modules\ --ignore\ tags\ --ignore\ tmp\ --nocolor\ --nogroup
+set grepprg=ag\ --ignore\ tags\ --ignore\ tmp\ --nocolor\ --nogroup
 set guifont=Ubuntu\ Mono\ 16
 set guioptions-=T
 set hidden
@@ -148,7 +148,7 @@ syntax sync minlines=256
 " ctrlp
 let g:ctrlp_extensions        = ['tag']
 let g:ctrlp_use_caching       = 0
-let g:ctrlp_user_command      = 'ag %s --files-with-matches --ignore _static --ignore bower_components --ignore dist --ignore node_modules --ignore tags --ignore tmp --nocolor -g ""'
+let g:ctrlp_user_command      = 'ag %s --files-with-matches --ignore tags --ignore tmp --nocolor -g ""'
 let g:ctrlp_working_path_mode = 0
 
 " nerdtree
