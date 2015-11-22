@@ -5,6 +5,7 @@ set runtimepath+=$HOME/.vim/bundle/vundle
 call vundle#begin()
 Plugin 'gmarik/vundle'
 
+Plugin 'DataWraith/auto_mkdir'
 Plugin 'bogado/file-line'
 Plugin 'cespare/vim-toml'
 Plugin 'craigemery/vim-autotag'
