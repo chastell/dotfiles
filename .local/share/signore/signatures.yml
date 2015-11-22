@@ -41535,3 +41535,8 @@ signatures:
   - en
   - tech
   - Emacs
+- text: Ain’t no party like an RFC 7686 party because an RFC party MUST NOT stop.
+  author: Jacob Appelbaum
+  tags:
+  - en
+  - tech
