@@ -41546,3 +41546,19 @@ signatures:
   author: Alex Gabriel
   tags:
   - en
+- text: I just disabled Minitest and told Rails to configure for SQLServer. I HAVE
+    BECOME THAT WHICH I SWORE TO DESTROY
+  author: Corey Woodcox
+  tags:
+  - en
+  - tech
+  - programming
+  - Rails
+- text: A zombie movie but where, one by one, all your friends start programming in
+    Go.
+  author: Evan Meagher
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
