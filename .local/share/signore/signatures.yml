@@ -28216,13 +28216,6 @@ signatures:
   - en
   - tech
   - programming
-- text: Watching the recent Twitter API policy moves is like watching an old friend
-    lose a battle with substance abuse.
-  author: "@kellan"
-  tags:
-  - en
-  - tech
-  - Twitter
 - text: |-
     If I had a parser, I’d parse in the morning. I’d parse in the evening, all over this code.
     I’d parse for freedom, I’d parse for justice. I’d parse for love between my brothers and my sisters, all over this co oo ode.
@@ -41572,3 +41565,14 @@ signatures:
   tags:
   - en
   - coffee
+- text: MongoDB announced 10,000,000 downloads! Or, as their other two partitions
+    reported, 9,999,323 and 10,001,403 downloads.
+  author: Alex Yarmula
+  tags:
+  - en
+  - tech
+  - MongoDB
+- text: In a co-working space everyone can hear everyone scream.
+  author: Łukasz Korecki
+  tags:
+  - en
