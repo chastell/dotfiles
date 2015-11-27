@@ -41576,3 +41576,19 @@ signatures:
   author: Łukasz Korecki
   tags:
   - en
+- text: 'OH: PHP is an excellent templating language, and that’s the problem: it’s
+    for *templates*. You don’t write backend code in Handlebars…'
+  author: Martin Frost
+  tags:
+  - en
+  - tech
+  - programming
+  - PHP
+- text: |-
+    WE HAVE EXCELLENT DIVERSITY AT OUR ORGANIZATION
+    WHY JUST THIS MORNING OUR SYSADMIN INFORMED ME OF MULTIPLE PRIVILEGE ESCALATIONS
+  author: PHP CEO
+  tags:
+  - en
+  - tech
+  - programming
