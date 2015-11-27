@@ -142,8 +142,9 @@ set shell=$SHELL
 
 " syntax
 colorscheme torte
-highlight ColorColumn ctermbg=235 guibg=#222222
-let &colorcolumn="80,".join(range(140,999),",")
+highlight ColorColumn ctermbg=233 guibg=#111111
+highlight CursorLine  cterm=none ctermbg=233 guibg=#111111
+let &colorcolumn="80,140"
 syntax sync minlines=256
 
 " ctrlp
