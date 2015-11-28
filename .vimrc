@@ -131,6 +131,7 @@ set ttyfast
 set undodir=/tmp//
 set undofile
 set wildignorecase
+set wildmenu
 set wildmode=list:longest
 set winwidth=80
 
