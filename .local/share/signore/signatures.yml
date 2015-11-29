@@ -41600,9 +41600,30 @@ signatures:
   - en
   - security
 - text: |-
+    WE HAVE EXCELLENT DIVERSITY AT OUR ORGANIZATION
+    WHY JUST THIS MORNING OUR SYSADMIN INFORMED ME OF MULTIPLE PRIVILEGE ESCALATIONS
+  author: PHP CEO
+  tags:
+  - en
+  - tech
+- text: |-
     ‘I’m a programmer.’
     2005: ‘Uhh… so you, like, do computers?’
     2015: ‘Uhh… so you, like, do spying and the dystopian panopticon?’
   author: Gary Bernhardt
   tags:
   - en
+- text: |-
+    ‘You a private eye?’
+    ‘That’s what the blue neon sign says out front.’
+    ‘It’s argon. Neon glows orange.’
+    V.O.: From the start, she was trouble.
+  author: rachelle mandik
+  tags:
+  - en
+- text: There exists a standard called ‘802.3af’ and I’m having real trouble reading
+    it not as an intensifier.
+  author: whitequark
+  tags:
+  - en
+  - tech
