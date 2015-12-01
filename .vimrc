@@ -156,6 +156,9 @@ let g:ctrlp_use_caching       = 0
 let g:ctrlp_user_command      = 'ag %s --files-with-matches --ignore tags --ignore tmp --nocolor -g ""'
 let g:ctrlp_working_path_mode = 0
 
+" instant-markdown
+let g:instant_markdown_autostart = 0
+
 " nerdtree
 let NERDTreeQuitOnOpen = 1
 
