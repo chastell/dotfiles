@@ -4692,7 +4692,7 @@ signatures:
   - en
   - politics
   - Wikipedia
-- text: Body scans and genital fondlings would save more lives if our Government was
+- text: Body scans and genital fondlings would save more lives if our government was
     paying to have them done in hospitals rather than airports.
   author: Jason Mustian
   tags:
@@ -20716,12 +20716,6 @@ signatures:
   - pl
   - education
   - Staszic
-- text: "— Pani jest matką tej skarbonki? — czyli śpię w szpitalu, bo młody połknął
-    monetę."
-  author: Lilarouge
-  tags:
-  - pl
-  - parenting
 - text: |-
     — Czy były jakieś piątki z testu?
     — Nie wiem, nie spotkałem.
@@ -41627,3 +41621,9 @@ signatures:
   tags:
   - en
   - tech
+- text: Moore’s Law giveth, JavaScript taketh away.
+  author: Brad Neuberg
+  tags:
+  - en
+  - tech
+  - JavaScript
