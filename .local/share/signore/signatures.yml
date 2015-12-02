@@ -10466,15 +10466,6 @@ signatures:
   tags:
   - en
   - tech
-- text: |-
-    ‘Im going 2 the club 2night’
-    ‘im going 2 lern 2 tipe 2nite 2’
-    ‘what?’
-    ‘Exactly.’
-  author: prettykittikat, Syric 2005
-  tags:
-  - en
-  - spelling
 - text: Mam dziś taki humor, że tylko wziąć zapałeczkę i puścić z dymem ten cały burdel.
   author: Thoughtscriber
   tags:
@@ -23151,10 +23142,6 @@ signatures:
   - pl
   - education
   - Staszic
-- text: Szczury są pożyteczne, odstraszają ser.
-  author: Edward Tomasz Napierała
-  tags:
-  - pl
 - text: |-
     We are like tenant farmers chopping down the fence around our house for fuel when we should be using Nature’s inexhaustible sources of energy – sun, wind and tide.
     I’d put my money on the sun and solar energy. What a source of power! I hope we don’t have to wait until oil and coal run out before we tackle that.
@@ -41627,3 +41614,8 @@ signatures:
   - en
   - tech
   - JavaScript
+- text: What if the solution to the Fermi paradox is that intelligent civilisations
+    are destroyed by AI before they acheive interstellar travel?
+  author: Stevie Graham
+  tags:
+  - en
