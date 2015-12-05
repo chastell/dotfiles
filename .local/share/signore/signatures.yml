@@ -40288,9 +40288,9 @@ signatures:
   - en
   - tech
 - text: |-
-    #1. make it work
-    #2. make it fast
-    #3. spend an hour picking out a gif for the pull request
+    1. make it work
+    2. make it fast
+    3. spend an hour picking out a gif for the pull request
   author: Mike Coutermarsh
   tags:
   - en
@@ -41631,3 +41631,13 @@ signatures:
   tags:
   - en
   - religion
+- text: |-
+    5-year-old daughter: Why does Mom wear makeup?
+    Me: To look pretty.
+    5: But she’s already pretty.
+    Me: Aww.
+    5: Dad, you should wear makeup.
+  author: Exploding Unicorn
+  tags:
+  - en
+  - kids
