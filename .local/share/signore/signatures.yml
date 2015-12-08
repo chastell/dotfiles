@@ -6260,13 +6260,6 @@ signatures:
   tags:
   - pl
   - math
-- text: I’ve been using the phrase ‘yak polishing’ lately. It’s for after you’ve been
-    yak shaving and it’s still not done, so they need polishing.
-  author: Zed Shaw
-  tags:
-  - en
-  - tech
-  - work
 - text: "‘US budget is like Oregon Trail. Spend all your $ on ammunition; wonder why
     your wagon is falling apart and everyone is dying of dysentery.’"
   author: Fred Benenson
@@ -41651,3 +41644,10 @@ signatures:
   author: Marijn Haverbeke
   tags:
   - en
+- text: Don’t say ‘technical debt’ when you mean ‘my type system isn’t strong enough
+    to refactor without fear’.
+  author: Craig Stuntz
+  tags:
+  - en
+  - tech
+  - programming
