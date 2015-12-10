@@ -41658,3 +41658,8 @@ signatures:
   author: Slam Squat-Thrust
   tags:
   - en
+- text: 'Days since we 0 last had a concurrency problem:'
+  author: Brian Mastenbrook
+  tags:
+  - en
+  - tech
