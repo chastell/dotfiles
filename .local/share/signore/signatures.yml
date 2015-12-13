@@ -19984,13 +19984,6 @@ signatures:
   tags:
   - en
   - tech
-- text: 'Commit message of the day: ‘Support for shotgun and unicorn’.'
-  author: Patrick Huesler
-  tags:
-  - en
-  - tech
-  - programming
-  - Ruby
 - text: Inheritance is a code smell. There, I said it.
   author: Chris Strom
   tags:
@@ -26807,12 +26800,6 @@ signatures:
   tags:
   - pl
   - linguistics
-- text: North Korea is using Disney content without permission. Great. This is exactly
-    how I wanted WWIII to start.
-  author: David Weinberger
-  tags:
-  - en
-  - copyright
 - text: Człowiek-pizda w podskokach realizuje debilne zlecenie Ważnego.
   author: L-child 1
   tags:
@@ -41671,5 +41658,11 @@ signatures:
 - text: 'Every Bond movie: James we just found out a shadow organisation is running
     the shadow organisation. Drive a car on some stairs'
   author: Noelle Stevenson
+  tags:
+  - en
+- text: |-
+    God: I have made Mankind.
+    Angels: You fucked up a perfectly good monkey is what you did. Look at it. It’s got anxiety
+  author: "@jon_snow_420"
   tags:
   - en
