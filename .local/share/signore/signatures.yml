@@ -19877,17 +19877,6 @@ signatures:
   - education
   - Staszic
 - text: |-
-    I AM NOT MY LONG-LOST TWIN
-    I AM NOT MY LONG-LOST TWIN
-    I AM NOT MY LONG-LOST TWIN
-    I AM NOT MY LONG-LOST TWIN
-  author: Bart Simpson
-  source: Simpsons 4F03
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
-- text: |-
     I WILL NOT HIDE THE TEACHER’S PROZAC
     I WILL NOT HIDE THE TEACHER’S PROZAC
     I WILL NOT HIDE THE TEACHER’S PROZAC
@@ -41645,6 +41634,10 @@ signatures:
   author: Slam Squat-Thrust
   tags:
   - en
+- text: "„Polska dla dziwaków”"
+  author: kya
+  tags:
+  - pl
 - text: 'Days since we 0 last had a concurrency problem:'
   author: Brian Mastenbrook
   tags:
@@ -41699,6 +41692,13 @@ signatures:
 - text: Hell hath no fury like a bunch of white guys asked politely to make a small,
     cost-free change to their vocabulary.
   author: Laurie Voss
+  tags:
+  - en
+  - tech
+- text: |-
+    VC is describing magical feeling of pressing button on his phone, getting food. Lab rats have been living this dream for years.
+    The trick is to not deliver the food every time the VC presses the button. Intermittent reward ensures a hefty series B.
+  author: Pinboard
   tags:
   - en
   - tech
