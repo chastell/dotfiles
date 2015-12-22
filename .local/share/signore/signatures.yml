@@ -41707,3 +41707,11 @@ signatures:
   author: Sergio Gil
   tags:
   - en
+- text: 'Protip: put all your monkey patches in a Monkeyfile so that they’re easy
+    to discover.'
+  author: James Tucker
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
