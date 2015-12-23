@@ -41721,3 +41721,8 @@ signatures:
   subject: on November 2015 Paris attacks
   tags:
   - en
+- text: Command line. A hamster wheel for the mind.
+  author: mxey
+  tags:
+  - en
+  - tech
