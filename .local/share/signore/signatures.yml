@@ -41733,3 +41733,11 @@ signatures:
   author: Kelly Oxford
   tags:
   - en
+- text: |-
+    Build your network as if the endpoint is owned.
+    Build your endpoint as if the network is owned.
+  author: 0DDJ0BB
+  tags:
+  - en
+  - tech
+  - security
