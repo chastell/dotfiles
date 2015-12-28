@@ -41747,3 +41747,12 @@ signatures:
   tags:
   - en
   - tech
+- text: Pythonistas are all ‘explicit is better than implicit’ and Ruby is like ‘LOOK
+    AT ME I MADE A BONG OUT OF THIS HAIR DRYER’.
+  author: Sam Livingston-Gray
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+  - Ruby
