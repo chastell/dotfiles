@@ -36499,6 +36499,8 @@ signatures:
     Dentist: Do you floss regularly?
     Me: Do you back up your computer data regularly?
   author: Scott McAlister
+  tags:
+  - en
 - text: Invest in whoever makes those shopping trolley chain locking things.
   author: James Coglan
   tags:
@@ -41774,5 +41776,12 @@ signatures:
 - text: 'To the small girl who came to the desk with a fistful of correct change clutching
     Adventure Stories for Boys: YOU CRUSH THAT PATRIARCHY GIRL'
   author: armchair books
+  tags:
+  - en
+- text: |-
+    911: What’s your emergency?
+    Me: There’s no dog at this party. I have to actually talk to people.
+    911: Sending K9 unit over.
+  author: Dani Fernandez
   tags:
   - en
