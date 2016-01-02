@@ -41784,6 +41784,12 @@ signatures:
   tags:
   - en
 - text: |-
+    Women’s deodorant scents: rose, cotton, spring, meadow
+    Men’s: WINTER ICE, SHARKNADO, GLACIER PUNCH, ANTIFREEZE, GUN
+  author: Sophie Gadd
+  tags:
+  - en
+- text: |-
     911: What’s your emergency?
     Me: There’s no dog at this party. I have to actually talk to people.
     911: Sending K9 unit over.
@@ -41805,3 +41811,9 @@ signatures:
   author: Ursula K. Le Guin
   tags:
   - en
+- text: Oh, LaTeX… ‘You have an error in your document.’ ‘Where?’ ‘Yes.’
+  author: Tadeusz Sośnierz
+  tags:
+  - en
+  - tech
+  - LaTeX
