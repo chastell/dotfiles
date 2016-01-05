@@ -39482,7 +39482,7 @@ signatures:
   tags:
   - en
   - feminism
-- text: 4yo son said the word prototype. When I asked him what it meant, he said ‘People
+- text: 4yo son said the word prototype. When I asked him what it meant, he said ‘people
     are a prototype’ and I was too scared to ask what he meant.
   author: Kiki D.
   tags:
@@ -41830,3 +41830,13 @@ signatures:
   author: Pinboard, Max Wheeler
   tags:
   - en
+- text: |-
+    After 20 years of being told that web programmers aren’t real programmers it’s weird to learn that code in cars is garbage.
+    i just assumed it was all formally-verified Ada done to the highest standards with unbelievably high testing standards.
+    I’m sitting here like an ass using immutable data structures and reading about TLA+ and people at Toyota are like
+    #define MAKE_CAR_GO 1
+  author: Paul Ford
+  tags:
+  - en
+  - tech
+  - programming
