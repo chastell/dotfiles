@@ -41855,3 +41855,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    Tech: ‘Don’t roll your own crypto if you aren't an expert.’
+    *replaces nutrition with Soylent, currency with bitcoin*
+    *puts WiFi in lightbulb*
+  author: wilkie
+  tags:
+  - en
+  - tech
