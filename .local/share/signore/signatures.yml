@@ -41885,3 +41885,10 @@ signatures:
   author: Marta Paciorkowska
   tags:
   - en
+- text: I was reading a sentence about how great modern HTML 5 web apps are, but then
+    the page reflowed and I lost my place.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - HTML5
