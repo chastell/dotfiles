@@ -41860,6 +41860,11 @@ signatures:
   author: Bascht
   tags:
   - en
+- text: 'Movies I would watch: someone like Gates or Musk decides to fight crime,
+    and his staff has to pretend they don’t recognize him in costume.'
+  author: Maciej Cegłowski
+  tags:
+  - en
 - text: |-
     Tech: ‘Don’t roll your own crypto if you aren't an expert.’
     *replaces nutrition with Soylent, currency with bitcoin*
@@ -41875,3 +41880,8 @@ signatures:
   - tech
   - programming
   - Lisp
+- text: "‘The Ramses brand condom is named after the great pharaoh Ramses II who fathered
+    over 160 children.’ You should fire your marketing people."
+  author: Marta Paciorkowska
+  tags:
+  - en
