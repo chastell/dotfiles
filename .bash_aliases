@@ -49,7 +49,7 @@ alias serve='ruby -run -e httpd -- -p 8080'
 alias sigp='signore pronto'
 alias sig='signore'
 alias such=git
-alias tfs='tail -f /var/log/syslog'
+alias tfs='tail -F /var/log/syslog'
 alias tig='tig --all'
 alias u8='iconv --from-code=WINDOWS-1250 --to-code=UTF-8'
 alias very=git
