@@ -41923,3 +41923,10 @@ signatures:
   author: Tim Siedler
   tags:
   - en
+- text: 'I have a new metric for code quality: how much you feel the need to apologize
+    for things when introducing a new team member to your codebase.'
+  author: Jari Aarniala
+  tags:
+  - en
+  - tech
+  - programming
