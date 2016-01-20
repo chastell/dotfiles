@@ -41950,3 +41950,11 @@ signatures:
   author: Dave Hurley
   tags:
   - en
+- text: An npm module walks into a bar. It brings stool, grunt-stool, brtndr, bevera,
+    phantomjs, 31 copies of rimraf, C bindings to tetris on NES, a
+  author: Alex Sexton
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
