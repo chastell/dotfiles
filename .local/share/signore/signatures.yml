@@ -41964,3 +41964,19 @@ signatures:
   author: Daniel Lin
   tags:
   - en
+- text: 'Realtalk: at the scale many people operate, ‘Heroku as expensive’ reads to
+    me as ‘I underpay ops people’.'
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+- text: |-
+    ‘Celebrating my 16th year as a Perl programmer by typing “perl print current year” into Google.’
+    ‘The fact that I googled “python x” for basically every x once came up in a meeting in front of Marissa Mayer.’
+    ‘I found it easier to breed and have them learn Python than to learn it myself.’
+    ‘The old fork()-and-exec().’
+  author: Pinboard, Joshua Schachter, Nat Torkington
+  tags:
+  - en
+  - tech
+  - programming
