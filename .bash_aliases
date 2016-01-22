@@ -54,6 +54,7 @@ alias tfs='tail -F /var/log/syslog'
 alias tig='tig --all'
 alias u8='iconv --from-code=WINDOWS-1250 --to-code=UTF-8'
 alias very=git
+alias vuvs='vagrant up && vagrant ssh'
 alias wget='wget --continue'
 alias wow='git st'
 alias youtube-dl='youtube-dl --no-mtime --restrict-filenames'
