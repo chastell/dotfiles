@@ -41980,3 +41980,10 @@ signatures:
   - en
   - tech
   - programming
+- text: We choose to do this not because it’s easy, but because a product manager
+    said it ‘should be pretty easy’.
+  author: GonzoHacker
+  tags:
+  - en
+  - tech
+  - work
