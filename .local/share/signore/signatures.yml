@@ -41992,3 +41992,10 @@ signatures:
   tags:
   - en
   - coffee
+- text: "‘I hear and I forget. I see and I remember. I do and I break the build.’
+    — Confucius Codes"
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
