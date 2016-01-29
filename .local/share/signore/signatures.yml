@@ -42024,3 +42024,9 @@ signatures:
   author: opi
   tags:
   - pl
+- text: "* * * * * – Five star cron job. Will run again."
+  author: Sam McLeod
+  tags:
+  - en
+  - tech
+  - cron
