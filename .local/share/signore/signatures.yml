@@ -14670,15 +14670,6 @@ signatures:
   tags:
   - en
   - Star Wars
-- text: There was once a man named George Lucas who cared about his fans, opposed
-    the Hollywood establishment, and believed that deep plots with rich characters
-    were 100 times more important than special effects and cheap gimmicks. Unfortunately,
-    this man disappeared sometime in 1982.
-  author: Brian Cieszynski
-  source: SWCCG Discussion List
-  tags:
-  - en
-  - Star Wars
 - text: "„Ma być elegancko, panie Piotrze, poprostu ze smakiem, lekko, zwiewnie. To
     jest dobre, ale proszę jeszcze popracować nad tym. Możemy się spotkać jutro? Ok,
     jesteśmy umówieni.” Chyba powinienem ubrać smoking, bo jakoś nie mogę wyczuć w
@@ -19792,11 +19783,6 @@ signatures:
   - pl
   - education
   - Staszic
-- text: 'OH: I’m not debating that, but as a nerd I’m required by law to use more
-    complicated solutions if they are cooler.'
-  author: Matt Wilson
-  tags:
-  - en
 - text: |-
     THE GOOD HUMOR MAN CAN ONLY BE PUSHED SO FAR
     THE GOOD HUMOR MAN CAN ONLY BE PUSHED SO FAR
@@ -42030,3 +42016,8 @@ signatures:
   - en
   - tech
   - cron
+- text: "Wow, Twitter added audio support:\n▶ \U0001F518──────── 0:42"
+  author: "@wolfiestyle"
+  tags:
+  - en
+  - Twitter
