@@ -12351,14 +12351,6 @@ signatures:
   tags:
   - en
   - tech
-- text: The wise man does not tell a person with a gun to go check his filesystems
-    for consistency.
-  author: Anthony DeBoer
-  source: asr
-  tags:
-  - en
-  - tech
-  - admin
 - text: Moje zdanie o Chyrze jest takie, że mógłby zagrać jogurt z dużymi kawałkami
     owoców i zrobić z tego scenę, która przeszłaby do legendy kinematografii.
   author: Yola
@@ -32356,13 +32348,6 @@ signatures:
   author: Maciej Cegłowski
   tags:
   - en
-- text: Remember to try out App.net if you want to use Twitter but only with boring
-    white software developers who don’t have a sense of humor.
-  author: Jon Hendren
-  tags:
-  - en
-  - tech
-  - App.net
 - text: Data stored in simple data formats that you understand. This is the only thing
     that is safe. Non-programmers have no options, as usual.
   author: Gary Bernhardt
@@ -42031,3 +42016,10 @@ signatures:
   author: phil mann
   tags:
   - en
+- text: The blast doors were sealed, the oxygen depleting. They begged the ship’s
+    AI to explain. ‘Object object’, was all the silvery voice replied.
+  author: mcc
+  tags:
+  - en
+  - tech
+  - JavaScript
