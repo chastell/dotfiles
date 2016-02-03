@@ -42027,3 +42027,12 @@ signatures:
   author: Nice Eric
   tags:
   - en
+- text: |-
+    ‘I remember 4 years ago I told my supervisor that I feel like actors are more OO than most OO languages. He told me not to say that.’
+    ‘Message sent, but not well received.’
+  author: Tobias Pfeiffer, Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
+  - OOP
