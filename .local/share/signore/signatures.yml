@@ -7587,11 +7587,6 @@ signatures:
   tags:
   - pl
   - work
-- text: Ja chcę być emu, nie emo. Zamiast się ciąć, będę zakopywać głowę w piasku.
-  author: shigella
-  tags:
-  - pl
-  - emo
 - text: Bardzo mnie interesuje hakerstwo i chciałbym się tego trochę nauczyć, więc
     proszę o jakieś porady i jakieś artykuły z których mogę się tego nauczyć.
   author: HAVK
@@ -42048,3 +42043,8 @@ signatures:
   - en
   - tech
   - programming
+- text: My god believes in self-sacrifice then going on about it forever.
+  author: Oglaf
+  tags:
+  - en
+  - religion
