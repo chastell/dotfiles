@@ -42048,3 +42048,14 @@ signatures:
   tags:
   - en
   - religion
+- text: |-
+    Scala career timeline:
+    Year 1: dope, gonna write some terse code.
+    Year 2: hmm, maybe I shouldn’t use every feature.
+    Year 3: Java 8 looks nice…
+  author: Julio Capote
+  tags:
+  - en
+  - tech
+  - programming
+  - Scala
