@@ -18,6 +18,9 @@
 [diff]
   algorithm = patience
 
+[fetch]
+  fsckobjects = true
+
 [gist]
   private = true
 
@@ -37,8 +40,14 @@
 [rebase]
   autosquash = true
 
+[receive]
+  fsckobjects = true
+
 [rerere]
   enabled = 1
+
+[transfer]
+  fsckobjects = true
 
 [url "git@github.com:"]
   insteadOf = gh:
