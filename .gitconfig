@@ -55,3 +55,6 @@
 [user]
   email = chastell@chastell.net
   name = Piotr Szotkowski
+
+[web]
+  browser = xdg-open
