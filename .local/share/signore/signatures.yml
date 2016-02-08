@@ -42066,3 +42066,14 @@ signatures:
   - en
   - tech
   - work
+- text: |-
+    when the crazy bug down hails
+    your fears you shall neglect
+    for when everything else fails,
+    by you stands git bisect
+  author: the last idiogrammer
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
