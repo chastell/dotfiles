@@ -27489,8 +27489,8 @@ signatures:
   tags:
   - en
   - work
-- text: You can get ideas anywhere-while driving, in the shower, drifting off to sleep-anywhere
-    where you can’t easily write them down.
+- text: You can get ideas anywhere-while driving, in the shower, drifting off to sleep
+    – anywhere where you can’t easily write them down.
   author: "@nedroid"
   tags:
   - en
@@ -42077,3 +42077,8 @@ signatures:
   - tech
   - programming
   - Git
+- text: How is the ‘g’ in ‘regex’ pronounced? Is it pronounced like ‘gif’ or not?
+  author: Derek Leverenz
+  tags:
+  - en
+  - tech
