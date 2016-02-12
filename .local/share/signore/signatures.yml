@@ -42084,3 +42084,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘Code quality doesn’t matter as long as the product our users get is great.’
+    ‘A clean kitchen doesn’t matter as long as the food is great.’
+  author: Nacho Soto
+  tags:
+  - en
+  - tech
+  - programming
