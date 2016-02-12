@@ -1294,10 +1294,6 @@ signatures:
   - en
   - tech
   - Windows
-- text: Fry me a river.
-  author: Filip Tepper
-  tags:
-  - en
 - text: SOAP stands for ‘Snakes on a Plane’.
   author: Leon Brocard
   tags:
@@ -2182,13 +2178,6 @@ signatures:
   - en
   - politics
   - war
-- text: She was good at playing abstract confusion in the same way a midget is good
-    at being short.
-  author: Clive James
-  subject: on Marilyn Monroe
-  tags:
-  - en
-  - cinematography
 - text: Their constitution is unwritten, and is mostly based on common law and practice.
     In other words, they do something wrong and it then becomes the norm.
   author: Laurie Couturier
@@ -34159,12 +34148,6 @@ signatures:
   - en
   - tech
   - programming
-- text: 'Big Data, n.: the belief that any sufficiently large pile of shit contains
-    a pony with probability approaching 1.'
-  author: James Grimmelmann
-  tags:
-  - en
-  - tech
 - text: |-
     ‘Daddy, how is software made?’
     ‘Well, when a programmer loves an idea very much they stay up all night and then push to GitHub the next day.’
@@ -42095,3 +42078,9 @@ signatures:
   - en
   - tech
   - Amazon
+- text: 'Chaos Monkey People: every week, one randomly-selected person must take the
+    whole week off regardless of their current work. Org must adapt.'
+  author: Adam Solove
+  tags:
+  - en
+  - tech
