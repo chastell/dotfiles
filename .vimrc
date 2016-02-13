@@ -51,6 +51,7 @@ Plugin 'suan/vim-instant-markdown'
 call vundle#end()
 filetype plugin indent on
 
+let ctrlsf_regex_pattern = 1
 let loaded_matchparen = 1
 
 " autocmd
