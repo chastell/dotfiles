@@ -42092,3 +42092,10 @@ signatures:
   - en
   - tech
   - programming
+- text: I’m making a library to handle multi-threaded cache invalidation, I just
+    need to come up with a name.
+  author: Andy Holland
+  tags:
+  - en
+  - tech
+  - programming
