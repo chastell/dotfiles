@@ -42092,10 +42092,15 @@ signatures:
   - en
   - tech
   - programming
-- text: I’m making a library to handle multi-threaded cache invalidation, I just
-    need to come up with a name.
+- text: I’m making a library to handle multi-threaded cache invalidation, I just need
+    to come up with a name.
   author: Andy Holland
   tags:
   - en
   - tech
   - programming
+- text: The reason Latin is a dead language is because they kept accidentally summoning
+    demons during regular conversations.
+  author: sweaty five dollars
+  tags:
+  - en
