@@ -11,10 +11,12 @@ bind index,pager \co sidebar-open
 bind index,pager \cp sidebar-prev
 
 folder-hook .                     set sort=threads
+folder-hook .                     set sort_aux=date
 folder-hook .                     'push "<collapse-all>"'
 folder-hook ~arch                 set sort=date-received
 folder-hook '\[Gmail\]/All Mail'  set sort=date-received
 folder-hook '\[Gmail\]/Sent Mail' set sort=date-received
+folder-hook '\[Gmail\]/Spam'      set sort_aux=subject
 
 hdr_order From: Reply-To: To: Cc: Subject: Date:
 ignore *
@@ -66,6 +68,7 @@ set signature             = ~/.config/mutt/signature
 set sleep_time            = 0
 set smtp_url              = smtps://chastell@chastell.net@smtp.gmail.com:465
 set sort                  = threads
+set sort_aux              = date
 set spoolfile             = =INBOX
 set tilde
 set timeout               = 150
