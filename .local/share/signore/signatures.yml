@@ -42144,3 +42144,11 @@ signatures:
   author: Jim Perrin
   tags:
   - en
+- text: JavaScript community is where you go to debate performance of promises vs
+    callbacks while also having 14 MB of pointless assets on your page.
+  author: Tom Morris
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
