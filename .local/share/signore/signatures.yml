@@ -42157,3 +42157,10 @@ signatures:
   author: Greg
   tags:
   - en
+- text: The line between the average ‘singleton’ implementation & C style global data
+    is wafer thin to nonexistent.
+  author: Alex Darby
+  tags:
+  - en
+  - tech
+  - programming
