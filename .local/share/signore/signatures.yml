@@ -42168,3 +42168,9 @@ signatures:
   author: jumpman krillpark
   tags:
   - en
+- text: Crawlera uses sophisticated ban detection to switch IPs as they get banned.
+    Let’s see if they detect every bookmark pointing to Rick Astley.
+  author: Pinboard
+  tags:
+  - en
+  - tech
