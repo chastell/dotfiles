@@ -42174,3 +42174,9 @@ signatures:
   tags:
   - en
   - tech
+- text: When I was at a defense contractor, they’d buy up a 20-year supply of replacement
+    parts. I should stock up a spare github, heroku, S3…
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
