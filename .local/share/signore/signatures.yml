@@ -42192,3 +42192,12 @@ signatures:
   author: Chris Woflgang
   tags:
   - en
+- text: |-
+    As <me>
+    I want to <do what the 1 line description says>
+    So <I can move this issue to Done>
+  author: Sergio Gil
+  tags:
+  - en
+  - tech
+  - programming
