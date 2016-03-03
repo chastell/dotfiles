@@ -42216,3 +42216,14 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    you stare into the abyss
+    the abyss stares back
+    from somewhere distant, a voice, barley audible
+    ‘undefined is not a function’
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
