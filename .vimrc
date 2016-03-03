@@ -56,19 +56,22 @@ let ctrlsf_regex_pattern = 1
 let loaded_matchparen = 1
 
 " autocmd
-autocmd BufRead,BufNewFile *.md              set filetype=markdown
-autocmd BufRead,BufNewFile *.reek            set filetype=yaml
-autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
-autocmd BufRead,BufNewFile *.ru              set filetype=ruby
-autocmd BufRead,BufNewFile parade            set filetype=ruby
-autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
-autocmd BufRead,BufNewFile *                 let &colorcolumn="80,".join(range(140,999),",")
-autocmd BufReadPost fugitive://* set bufhidden=delete
-autocmd BufWritePost $MYVIMRC source $MYVIMRC
-autocmd FileType help wincmd L
-autocmd FileType json setlocal equalprg=python\ -m\ json.tool
-autocmd FocusLost * :silent! wall
-autocmd FocusLost * call feedkeys("\<C-\>\<C-n>")
+augroup configgroup
+  autocmd!
+  autocmd BufRead,BufNewFile *.md              set filetype=markdown
+  autocmd BufRead,BufNewFile *.reek            set filetype=yaml
+  autocmd BufRead,BufNewFile *.rsb             set filetype=ruby
+  autocmd BufRead,BufNewFile *.ru              set filetype=ruby
+  autocmd BufRead,BufNewFile parade            set filetype=ruby
+  autocmd BufRead,BufNewFile {Gem,Vagrant}file set filetype=ruby
+  autocmd BufRead,BufNewFile *                 let &colorcolumn="80,".join(range(140,999),",")
+  autocmd BufReadPost fugitive://*             set bufhidden=delete
+  autocmd BufWritePost $MYVIMRC                source $MYVIMRC
+  autocmd FileType help                        wincmd L
+  autocmd FileType json                        setlocal equalprg=python\ -m\ json.tool
+  autocmd FocusLost *                          :silent! wall
+  autocmd FocusLost *                          call feedkeys("\<C-\>\<C-n>")
+augroup END
 
 let g:markdown_fenced_languages = ['coffee', 'css', 'erb=eruby', 'html', 'javascript', 'js=javascript', 'json=javascript', 'ruby', 'sass', 'xml']
 
