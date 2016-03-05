@@ -42227,3 +42227,11 @@ signatures:
   - tech
   - programming
   - JavaScript
+- text: |-
+    ‘Learning Japanese is as easy as 1, 2, 3.’
+    ‘How do you count to 3 in Japanese?’
+    ‘Well that depends on what you’re counting.’
+  author: Craig
+  tags:
+  - en
+  - Japanese
