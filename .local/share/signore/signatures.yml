@@ -16805,7 +16805,7 @@ signatures:
     required to treat an ailing cow. To investigate its internal gases he inserted
     a tube into that end of the animal not capable of facial expression and struck
     a match. The jet of flame set fire first to some bales of hay and then to the
-    whole farm causing damage estimate at L45,000. The vet was later fined L140 for
+    whole farm causing damage estimate at £45,000. The vet was later fined £140 for
     starting a fire in a manner surprising to the magistrates. The cow escaped with
     shock.
   author: Stephen Pile
@@ -42246,3 +42246,10 @@ signatures:
   author: "@Home_Halfway"
   tags:
   - en
+- text: When introducing `sleep(1000)` fixes your problem, you know you are in serious
+    trouble.
+  author: Cédric Champeau
+  tags:
+  - en
+  - tech
+  - programming
