@@ -10916,11 +10916,6 @@ signatures:
   - en
   - tech
   - IE
-- text: Reality and I had a fundamental differing of opinions. We’re currently undergoing
-    a trial separation.
-  tags:
-  - en
-  - sanity
 - text: 'My loathings are simple: stupidity, oppression, crime, cruelty, soft music.'
   author: Vladimir Nabokov
   tags:
@@ -42265,3 +42260,13 @@ signatures:
   author: Chad Fowler
   tags:
   - en
+- text: |-
+    A MySQL user and a MongoDB user walk into a bar.
+    The PostgreSQL user doesn’t understand why anyone goes to a bar when there’s PostgreSQL.
+  author: Baron Schwartz
+  tags:
+  - en
+  - tech
+  - MySQL
+  - MongoDB
+  - PostgreSQL
