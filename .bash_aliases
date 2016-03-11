@@ -1,5 +1,5 @@
 alias a='ack-grep'
-alias apt-dance='sudo apt update && sudo apt full-upgrade && sudo apt-get autoremove && sudo apt-get autoclean'
+alias apt-dance='sudo apt update; sudo apt full-upgrade && sudo apt-get autoremove && sudo apt-get autoclean'
 alias backup-to-arthur='offlineimap; rdiff-backup --exclude ~/.cache --print-statistics --verbosity 5 ~ /media/chastell/Arthur/Asus.rdiff'
 alias backup-to-zaphod='offlineimap; rdiff-backup --exclude ~/.cache --print-statistics --verbosity 5 ~ /media/chastell/Zaphod/Asus.rdiff'
 alias be='bundle exec'
