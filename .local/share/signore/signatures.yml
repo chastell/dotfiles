@@ -42270,3 +42270,12 @@ signatures:
   - MySQL
   - MongoDB
   - PostgreSQL
+- text: |-
+    Kids are so inquisitive.
+    ‘Will robots ever take over the world?’
+    Me: ‘Almost certainly.’
+    ‘But when? Before I die?’
+    ‘A bit before, yes.’
+  author: Malcolm Sparks
+  tags:
+  - en
