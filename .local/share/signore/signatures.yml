@@ -42322,3 +42322,14 @@ signatures:
   tags:
   - en
   - religion
+- text: |-
+    Steps in mastery of a programming skill:
+    1 Can I do this?
+    2 Can I do this more easily?
+    3 Can I do this more elegantly?
+    4 Can I not do this?
+  author: Adam Michela
+  tags:
+  - en
+  - tech
+  - programming
