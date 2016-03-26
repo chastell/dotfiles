@@ -41,6 +41,7 @@ ignore Thread-Index: Thread-Topic:
 ignore X-ASG-
 ignore X-Accounttype:
 ignore X-AntiAbuse:
+ignore X-Antivirus
 ignore X-Assp
 ignore X-Authentication-Warning:
 ignore X-Auto-Response-Suppress:
@@ -72,6 +73,7 @@ ignore X-Original-Authentication-Results: X-Original-Sender:
 ignore X-OriginalArrivalTime:
 ignore X-Originating-Email: X-Originating-IP:
 ignore X-OriginatorOrg:
+ignore X-PMX-
 ignore X-Powered-BY:
 ignore X-Priority:
 ignore X-Received:
