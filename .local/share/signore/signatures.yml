@@ -42388,3 +42388,10 @@ signatures:
   author: Just Jason
   tags:
   - en
+- text: Our code review tool shows deleted code in red and added code in green. Really,
+    it should be the other way around.
+  author: Bill Budge
+  tags:
+  - en
+  - tech
+  - programming
