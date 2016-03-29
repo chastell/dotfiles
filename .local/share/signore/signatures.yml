@@ -42395,3 +42395,11 @@ signatures:
   - en
   - tech
   - programming
+- text: 'It’s easy to identify JavaScript single page apps on a slow connection: a
+    blank page loads really fast and then nothing else ever happens.'
+  author: Pete Higgins
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
