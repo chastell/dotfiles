@@ -17948,11 +17948,6 @@ signatures:
   - pl
   - education
   - Staszic
-- text: 'Dear bvcapital.com: I appreciate your interest in Pinboard, but suggest you
-    consider changing your email salutation from ‘Dear XXX’.'
-  author: Pinboard
-  tags:
-  - en
 - text: I’ve never understood why nationalism is more acceptable than racism.
   author: Michael Feathers
   tags:
@@ -42610,3 +42605,10 @@ signatures:
   author: Wylde de Beest
   tags:
   - en
+- text: |-
+    [CS] I order words in predefined ways that gradually build abstractions,what do you do?
+    [Math] I scribe forgotten sigils from dead languages.
+  author: mcc
+  tags:
+  - en
+  - tech
