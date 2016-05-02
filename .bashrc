@@ -16,7 +16,6 @@ shopt -s autocd
 shopt -s globstar
 shopt -s histappend
 
-setxkbmap 'pl(intl)'
 
 source /usr/local/share/chruby/chruby.sh
 source /usr/local/share/chruby/auto.sh
