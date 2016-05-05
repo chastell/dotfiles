@@ -14306,10 +14306,6 @@ signatures:
   - programming
   - Ruby
   - Faye
-- text: I was so naïve as a kid I used to sneak behind the barn and do nothing.
-  author: Johnny Carson
-  tags:
-  - en
 - text: The only thing that saves us from the bureaucracy is inefficiency. An efficient
     bureaucracy is the greatest threat to liberty.
   author: Eugene McCarthy
@@ -42683,3 +42679,12 @@ signatures:
   author: arnvald
   tags:
   - en
+- text: |-
+    GOD: [creates man]
+    ANGEL: this ‘man’ is truly your greatest creation
+    GOD: actually, this is [creates dogs]
+    ANGEL: holy shit
+  author: huntigula
+  tags:
+  - en
+  - religion
