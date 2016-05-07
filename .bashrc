@@ -16,6 +16,5 @@ shopt -s autocd
 shopt -s globstar
 shopt -s histappend
 
-
 source /usr/local/share/chruby/chruby.sh
 source /usr/local/share/chruby/auto.sh
