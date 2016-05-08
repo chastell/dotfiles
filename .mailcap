@@ -1,5 +1,4 @@
 application/ms-tnef; tnef -w %s
-application/pdf;     evince %s;    test=test -n "$DISPLAY"
 image/*;             eog '%s';     test=test -n "$DISPLAY"
 text/html;           firefox '%s'; test=test -n "$DISPLAY"
 text/html;           vilistextum --links --shrink-lines '%s' -; copiousoutput; description=HTML Text; nametemplate=%s.html
