@@ -1,9 +1,9 @@
 " Vundle
 set nocompatible
 filetype off
-set runtimepath+=$HOME/.vim/bundle/vundle
+set runtimepath+=$HOME/.vim/bundle/Vundle.vim
 call vundle#begin()
-Plugin 'gmarik/vundle'
+Plugin 'VundleVim/Vundle.vim'
 
 Plugin 'DataWraith/auto_mkdir'
 Plugin 'bogado/file-line'
