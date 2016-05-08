@@ -10,8 +10,9 @@ localfolders = ~/Gmail
 type         = Maildir
 
 [Repository Remote]
+auth_mechanisms  = LOGIN
 folderfilter     = lambda foldername: foldername not in ['[Gmail]/All Mail', '[Gmail]/Important', '[Gmail]/Spam']
-maxconnections   = 9
+maxconnections   = 8
 remotepass       = …
 remoteuser       = chastell@chastell.net
 sslcacertfile    = /etc/ssl/certs/ca-certificates.crt
