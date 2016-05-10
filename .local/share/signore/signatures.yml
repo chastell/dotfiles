@@ -42708,3 +42708,10 @@ signatures:
   author: Eric Sprankle
   tags:
   - en
+- text: I like to add � and â€™ any time I submit online forms because I know that
+    some developer is going to see it and wonder if they have a bug
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - Unicode
