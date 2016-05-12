@@ -42720,3 +42720,12 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘Procedural: You ask for my wallet. OO: You ask for payment. Functional: you jam your wallet into my pocket, then yell “I’M STATELESS!”’
+    ‘Functional: I clone a slightly richer version of me and a slightly poorer version of you. Our original selves are savagely hunted down.’
+    ‘Logical: You burry me in wallets, then dig me out again. My payment has fallen out of my pocket into one of the wallets in the pile.’
+  author: Avdi Grimm, Mark Triggs, Joshua Ballanco
+  tags:
+  - en
+  - tech
+  - programming
