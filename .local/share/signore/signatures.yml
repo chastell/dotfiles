@@ -6492,13 +6492,6 @@ signatures:
   - tech
   - programming
   - BDD
-- text: |-
-    Copywriting fail #1: „Plantatorom w brazylijskim regionie Matao nie w głowach uroki Sao Paulo”.
-    Copywriting fail #2: „Całymi dniami ze znawstwem przyglądają się zwisającym wśród gałęzi dorodnym pomarańczom”.
-  author: reuptake
-  tags:
-  - pl
-  - advertising
 - text: 'Mina żelazowa: Ten solidny kawałek dowozu wydobycia jest mina żelazowa. Wydobywa
     żelazo z podziemnych min i czyści je.'
   source: X-Wars
@@ -42761,5 +42754,10 @@ signatures:
 - text: My phone died this morning so the commute into the office was the longest
     bus ride of my life.
   author: pete higgins
+  tags:
+  - en
+- text: Will give a talk at my old Uni tomorrow about starting a company. Not sure
+    they were aware I dropped out for this when they invited me.
+  author: Konstantin Haase
   tags:
   - en
