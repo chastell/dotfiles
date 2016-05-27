@@ -56,6 +56,7 @@ ignore X-Get-Message-Sender-Via:
 ignore X-GitHub-Reason: X-GitHub-Recipient: X-GitHub-Recipient-Address: X-GitHub-Sender:
 ignore X-Gm-Message-State:
 ignore X-Google-DKIM-Signature: X-Google-Group-Id: X-Google-Original-Date: X-Google-Original-Message-ID: X-Google-Sender-Auth:
+ignore X-Greylist:
 ignore X-HubSpot-MID:
 ignore X-MC-User:
 ignore X-ML-Name:
@@ -86,6 +87,7 @@ ignore X-Source: X-Source-Args: X-Source-Dir:
 ignore X-Spam-Flag: X-Spam-Level: X-Spam-Score: X-Spam-Status:
 ignore X-TMN:
 ignore X-Virus-Scanned:
+ignore X-WP-
 ignore X-X-Forwarded-For:
 ignore X-YMail-OSG:
 ignore X-Yahoo-Newman-Id: X-Yahoo-Newman-Property:
