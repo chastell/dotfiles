@@ -42801,3 +42801,9 @@ signatures:
   author: Leah Reich
   tags:
   - en
+- text: The password to the attached ZIP is ‘AES-256’ as you requested.
+  author: Mikko Hypponen
+  tags:
+  - en
+  - tech
+  - security
