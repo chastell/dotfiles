@@ -19075,17 +19075,6 @@ signatures:
   - tech
   - Git
 - text: |-
-    I WILL NOT WASTE CHALK
-    I WILL NOT WASTE CHALK
-    I WILL NOT WASTE CHALK
-    I WILL NOT WASTE CHALK
-  author: Bart Simpson
-  source: Simpsons 7G02
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
-- text: |-
     I WILL NOT INSTIGATE REVOLUTION
     I WILL NOT INSTIGATE REVOLUTION
     I WILL NOT INSTIGATE REVOLUTION
@@ -19781,17 +19770,6 @@ signatures:
   author: Filip Tepper
   tags:
   - pl
-- text: |-
-    I WILL NOT MOCK MRS. DUMBFACE
-    I WILL NOT MOCK MRS. DUMBFACE
-    I WILL NOT MOCK MRS. DUMBFACE
-    I WILL NOT MOCK MRS. DUMBFACE
-  author: Bart Simpson
-  source: Simpsons 2F21
-  subject: on chalkboard
-  tags:
-  - en
-  - Simpsons
 - text: |-
     I DID NOT LEARN EVERYTHING I NEED TO KNOW IN KINDERGARTEN
     I DID NOT LEARN EVERYTHING I NEED TO KNOW IN KINDERGARTEN
@@ -42816,5 +42794,10 @@ signatures:
   - parenting
 - text: I for one, like Roman numerals
   author: mb!the
+  tags:
+  - en
+- text: do you ever wonder if you are the only person who knows how to use a search
+    engine and also read
+  author: Leah Reich
   tags:
   - en
