@@ -42833,3 +42833,8 @@ signatures:
   author: Joseph Scrimshaw
   tags:
   - en
+- text: I might be more tempted to turn off my adblocker if the companies asking me
+    to do so explained how they fund open source development.
+  author: Nick Coghlan
+  tags:
+  - en
