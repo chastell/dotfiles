@@ -42838,3 +42838,11 @@ signatures:
   author: Nick Coghlan
   tags:
   - en
+- text: |-
+    Spanish: The h is silent
+    English: Many letters can be silent
+    French: All letters are meaningless, every living thing is born without reason
+  author: Magark
+  tags:
+  - en
+  - linguistics
