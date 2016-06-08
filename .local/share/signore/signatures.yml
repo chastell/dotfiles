@@ -27200,13 +27200,6 @@ signatures:
   tags:
   - en
   - work
-- text: There is something about <![CDATA[…]]> as a syntax that wounds my tender sensibilities.
-    Cat-on-keyboard protocol design.
-  author: Pinboard
-  tags:
-  - en
-  - tech
-  - XML
 - text: Gay marriage has ruined traditional marriage. Every time I see a link to wedding
     pics and it’s a guy and a girl I’m like ‘pssh, boring’.
   author: Avdi Grimm
@@ -42874,3 +42867,12 @@ signatures:
   author: I Am Devloper
   tags:
   - en
+- text: |-
+    ‘Welcome to Mastermind, what is your chosen specialist subject?’
+    ‘JavaScript frameworks, June 1st 2014 to June 3rd 2014.’
+  author: Richard Dalton
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
