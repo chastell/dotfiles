@@ -1,5 +1,5 @@
 alias apt-dance='sudo apt update && sudo apt full-upgrade && sudo apt autoremove'
-alias backup-to-fenchurch='offlineimap && sudo rdiff-backup --exclude ~/.cache --exclude ~/VirtualBox\ VMs --exclude ~/photos --exclude /tmp --exclude-other-filesystems --exclude-special-files --no-compression --print-statistics --verbosity 5 / /nfs/fenchurch/devielle'
+alias backup-to-fenchurch='ls /nfs/fenchurch & offlineimap && sudo rdiff-backup --exclude ~/.cache --exclude ~/VirtualBox\ VMs --exclude ~/photos --exclude /tmp --exclude-other-filesystems --exclude-special-files --no-compression --print-statistics --verbosity 5 / /nfs/fenchurch/devielle'
 alias be='bundle exec'
 alias beep='play --no-show-progress --null -V0 synth pl C fade 0 0.3'
 alias bubo='bundle up && bundle out'
