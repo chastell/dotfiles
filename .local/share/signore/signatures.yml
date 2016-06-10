@@ -42882,3 +42882,12 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    An APL style language keyboard for Golang but just one big button that macros
+    if err != nil { return nil, err }
+  author: Clod Native
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
