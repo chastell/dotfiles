@@ -42917,3 +42917,13 @@ signatures:
   author: Florian Gilcher
   tags:
   - en
+- text: |-
+    Me: Oh sorry, I got paged.
+    Date: Are you a doctor?
+    Me: Uh.
+    Nagios: Holy SHIT this cert expires in SIXTY DAYS!
+    Me: …yes.
+  author: Alice Goldfuss
+  tags:
+  - en
+  - tech
