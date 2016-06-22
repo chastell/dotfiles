@@ -42959,3 +42959,10 @@ signatures:
   author: milty
   tags:
   - en
+- text: There was a timezone bug so I wrote a test and then the test failed because
+    the CI runs in a different timezone and then I became a farmer
+  author: Dan Lee
+  tags:
+  - en
+  - tech
+  - programming
