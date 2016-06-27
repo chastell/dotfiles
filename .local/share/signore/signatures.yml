@@ -42997,3 +42997,10 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: |-
+    ‘Multiple AWS outages have taught me that users find it soothing to see a row of green status lights when nothing else is working.’
+    ‘Make sure you put a tiny blue “i” in the corner of the big green checkmark when everything has gone to hell.’
+  author: Pinboard, Kevin Jones
+  tags:
+  - en
+  - tech
