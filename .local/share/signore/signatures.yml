@@ -39401,7 +39401,7 @@ signatures:
   - tech
 - text: Working on a laptop that’s connected to the Internet is like trying to write
     on a typewriter that’s been welded to a circus.
-  author: Andrew O'Neill
+  author: Andrew O’Neill
   tags:
   - en
   - work
@@ -43011,5 +43011,10 @@ signatures:
 - text: "‘I have years of professional technical experience’ I yell at myself as I
     try to work the coworking space coffee machine"
   author: Joanne Cheng
+  tags:
+  - en
+- text: Eve looked at the fruit, and then she looked over at the fruit of the tree
+    of Durian, and the Serpent said ‘JESUS FUCK DON’T TOUCH THAT ONE’
+  author: Avdi Grimm
   tags:
   - en
