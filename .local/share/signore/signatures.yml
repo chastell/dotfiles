@@ -43018,3 +43018,11 @@ signatures:
   author: Avdi Grimm
   tags:
   - en
+- text: I saw languages with the best type systems of my generation exchanging data
+    over the wire in JavaScript Object Notation.
+  author: LisperaT
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
