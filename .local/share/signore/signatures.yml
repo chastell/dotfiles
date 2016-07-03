@@ -43041,3 +43041,10 @@ signatures:
   author: Tom Stuart
   tags:
   - en
+- text: Why do people find DNS so difficult? It’s just cache invalidation and naming
+    things.
+  author: Jeff Waugh
+  tags:
+  - en
+  - tech
+  - DNS
