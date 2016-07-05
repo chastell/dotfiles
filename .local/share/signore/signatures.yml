@@ -43054,3 +43054,11 @@ signatures:
   author: Colin Dickey
   tags:
   - en
+- text: |-
+    To better reflect our workflow the kan ban board now only has two columns:
+    Stalled
+    On Fire
+  author: Sad Operator
+  tags:
+  - en
+  - tech
