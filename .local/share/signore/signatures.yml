@@ -43062,3 +43062,12 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘You should not be permitted to write production code if you do not have an journeyman license in regular expressions or floating point math.’
+    ‘And you shouldn’t design a language if you don’t understand why null is the billion dollar mistake, but here we are.’
+  author: Rob Pike, Brian Mastenbrook
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
