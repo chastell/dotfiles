@@ -36469,7 +36469,7 @@ signatures:
 - text: |-
     ‘HELP!’ Joe pants.
     ‘WHAT IS IT JOE?’ I belt.
-    ‘I THINK SOMEBODY SWITCHED OUR ARTICULATORY VERBS WITH CLOTHING WORDS.’ He cardigans.
+    ‘I THINK SOMEBODY SWITCHED OUR ARTICULATORY VERBS WITH CLOTHING WORDS’, he cardigans.
   author: GI Bro
   tags:
   - en
@@ -43071,3 +43071,8 @@ signatures:
   - tech
   - programming
   - Go
+- text: If I were ever to walk with one of those legendary french farmer protests,
+    ‘All Crops Are Bastards’ would be my banner.
+  author: Florian Gilcher
+  tags:
+  - en
