@@ -43160,3 +43160,8 @@ signatures:
   tags:
   - en
   - parenting
+- text: Try to read article, scroll down, it jumps to the top, scroll down, it jumps
+    to the top, throw computer out window, it jumps back.
+  author: Aaron Patterson
+  tags:
+  - en
