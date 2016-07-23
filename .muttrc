@@ -146,7 +146,7 @@ set sort                  = threads
 set sort_aux              = date
 set spoolfile             = =INBOX
 set tilde
-set timeout               = 150
+set timeout               = 30
 set use_8bitmime
 set use_envelope_from
 
