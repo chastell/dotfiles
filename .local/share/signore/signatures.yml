@@ -13477,15 +13477,6 @@ signatures:
   tags:
   - pl
   - linguistics
-- text: Writing compact regular expressions is like using short variable names to
-    speed up a program. It only helps if your compiler is brain-dead.
-  author: Chris K
-  source: Stack Overflow
-  tags:
-  - en
-  - tech
-  - regular expressions
-  - programming
 - text: a alphabetically be in organised sentence should words
   author: Atob
   tags:
@@ -43354,6 +43345,20 @@ signatures:
   - en
 - text: Current development speed is a function of past development quality.
   author: Brian McCallister
+  tags:
+  - en
+  - tech
+  - programming
+- text: WATAHA HIPSTERÓW PĘDZI PRZEZ NOC. Z ZAKODOWANĄ W GENACH INSTYNKTOWNĄ PRECYZJĄ
+    ODDZIELAJĄ OD STADA POJEDYŃCZY FOODTRUCK
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
+- text: |-
+    The entirety of my programming experience in two phrases:
+    ‘That didn’t work as expected.’
+    ‘That didn’t work, as expected.’
+  author: Heydon
   tags:
   - en
   - tech
