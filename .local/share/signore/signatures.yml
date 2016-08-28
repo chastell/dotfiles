@@ -43385,3 +43385,9 @@ signatures:
   author: Peter Richardson
   tags:
   - en
+- text: The year is 2037. People are shipping entire VM images in cookies. Security
+    engineers breathlessly await the UNIX apocalypse.
+  author: Dan Kaminsky
+  tags:
+  - en
+  - tech
