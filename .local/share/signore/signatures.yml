@@ -43442,3 +43442,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    This is your return type: Int
+    This is your return type on microservices: IO (Logger (Either HttpError Int))
+    Microservices: know the risks.
+  author: Kris Jenkins
+  tags:
+  - en
+  - tech
