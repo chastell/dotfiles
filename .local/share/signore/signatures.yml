@@ -43450,3 +43450,20 @@ signatures:
   tags:
   - en
   - tech
+- text: Docker by Przemo
+  author: Łukasz Korecki
+  tags:
+  - pl
+  - tech
+  - Docker
+- text: IDĄC DO PRACY ZAUWAŻASZ ŻE WSZĘDZIE GDZIE STAWIASZ STOPĘ WYRASTA PO CHWILI
+    MINIATUROWA DZIELNICA BIUROWA
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
+- text: |-
+    BOSS: You’re an hour late!
+    GUY WHO’S ABOUT TO INVENT DAYLIGHT SAVINGS TIME: Oh you haven’t heard?
+  author: Colin Cascio
+  tags:
+  - en
