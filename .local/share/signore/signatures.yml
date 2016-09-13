@@ -11137,7 +11137,7 @@ signatures:
   - tech
   - GNU
 - text: |-
-    — W zeszłym(?) roku, jesienią tvn przeprowadzał ankietę nt. „gdzie pan/pani spędził/a tegoroczne wakacje”. 1/3 badanych nie wiedziała.
+    — W zeszłym(?) roku, jesienią TVN przeprowadzał ankietę nt. „gdzie pan/pani spędził/a tegoroczne wakacje”. ⅓ badanych nie wiedziała.
     — No to przynajmniej wiadomo, że mieli udane wakacje.
   author: Zofia Rakowska, aL
   source: pl.pregierz
@@ -43490,5 +43490,9 @@ signatures:
   - en
 - text: Just remember, the other dumpster always seems less on fire.
   author: Peter Seibel
+  tags:
+  - en
+- text: Our anthem is basically a series of questions during a fire.
+  author: Laurie Anderson
   tags:
   - en
