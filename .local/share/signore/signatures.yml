@@ -43526,3 +43526,19 @@ signatures:
   author: James Darling
   tags:
   - en
+- text: |-
+    Pochwaliłam się ojcu mikroskopem, spytał, czy są szkiełka do preparatów.
+    — Są, są.
+    — A wiesz, co trzeba tam położyć?
+    — Co?
+    — Sumienie.
+  author: kya
+  tags:
+  - pl
+- text: My Rust memoirs will be called ‘Once in 'a Lifetime’.
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
