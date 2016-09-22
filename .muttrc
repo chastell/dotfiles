@@ -40,6 +40,7 @@ ignore Return-Path:
 ignore Thread-Index: Thread-Topic:
 ignore X-ASG-
 ignore X-Accounttype:
+ignore X-AnalysisOut:
 ignore X-AntiAbuse:
 ignore X-Antivirus
 ignore X-Assp
@@ -60,8 +61,9 @@ ignore X-Greylist:
 ignore X-HubSpot-MID:
 ignore X-MC-User:
 ignore X-ML-Name:
-ignore X-MS-Exchange-
+ignore X-MS-
 ignore X-MSFBL:
+ignore X-MXL-
 ignore X-Mail-Count:
 ignore X-MailScanner: X-MailScanner-Information:
 ignore X-Mailgun-
@@ -84,7 +86,7 @@ ignore X-Report-Abuse:
 ignore X-SG-EID: X-SG-ID:
 ignore X-Sender:
 ignore X-Source: X-Source-Args: X-Source-Dir:
-ignore X-Spam-Flag: X-Spam-Level: X-Spam-Score: X-Spam-Status:
+ignore X-Spam: X-Spam-Flag: X-Spam-Level: X-Spam-Score: X-Spam-Status:
 ignore X-TMN:
 ignore X-Virus-Scanned:
 ignore X-WP-
