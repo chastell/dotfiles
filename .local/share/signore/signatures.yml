@@ -43571,3 +43571,12 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: |-
+    Clojure peeps, how do you read <!, <!!, !!>, !> ?
+    We should adopt Xhosa style clicks for reading symbols in code.
+  author: Arne Brasseur
+  tags:
+  - en
+  - tech
+  - programming
+  - Clojure
