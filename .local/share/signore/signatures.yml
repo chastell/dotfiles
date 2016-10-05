@@ -43650,3 +43650,8 @@ signatures:
   author: ricotta warrior
   tags:
   - en
+- text: Cache invalidation, and naming things. , race conditions
+  author: The Practical Dev
+  tags:
+  - en
+  - tech
