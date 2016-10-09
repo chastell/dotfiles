@@ -2711,7 +2711,7 @@ signatures:
   tags:
   - pl
   - work
-- text: until programmers stop acting like obfuscation is morally hazardous, they’re
+- text: Until programmers stop acting like obfuscation is morally hazardous, they’re
     not artists, just kids who don’t want their food to touch.
   author: _why
   tags:
@@ -43672,5 +43672,10 @@ signatures:
     Cop: I mean around here.
     Me: Nah, they live in water.
   author: martin
+  tags:
+  - en
+- text: No, Google, I _was_ searching for ‘Müsli bacon’ an don’t want results for
+    ‘muslim bacon’ included.
+  author: Florian Gilcher
   tags:
   - en
