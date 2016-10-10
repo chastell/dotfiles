@@ -38264,7 +38264,7 @@ signatures:
   tags:
   - en
 - text: |-
-    Formal Science: world follows axioms.
+    Formal Science: World follows axioms.
     Empirical Science: That’s cute. My axioms are what I observe.
     Philosophy: That’s cute. ‘I’ ‘observe’.
     Social Science, Political Science, Economics: LOL WE HAVE NO IDEA WHAT WE’RE DOING
@@ -43679,3 +43679,13 @@ signatures:
   author: Florian Gilcher
   tags:
   - en
+- text: |-
+    Mac: UPGRADE TO SIERRA
+    Me: *clicks*
+    Mac: COMPUTER TOO OLD
+    [Jony Ive voice] Only Apple can make software and hardware a singular experience.
+  author: Paulo
+  tags:
+  - en
+  - tech
+  - Apple
