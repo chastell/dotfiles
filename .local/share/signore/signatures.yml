@@ -43689,3 +43689,7 @@ signatures:
   - en
   - tech
   - Apple
+- text: Self-referential humor is a joke.
+  author: Michael Feathers
+  tags:
+  - en
