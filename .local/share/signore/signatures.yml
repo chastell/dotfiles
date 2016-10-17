@@ -6419,14 +6419,6 @@ signatures:
   - tech
   - webdevelopment
   - programming
-- text: Doing linear scans over an associative array is like trying to club someone
-    to death with a loaded Uzi.
-  author: Larry Wall
-  tags:
-  - en
-  - tech
-  - programming
-  - algorithms
 - text: |-
     — BTW: nie masz w domu na zbyciu takich pudełeczek na CD/DVD typu „cake” (z patykiem w środku, co sie na niego płytki nakłada)?
     — Niech zgadnę, chcesz zrobić obiektyw typu tilt/shift?
@@ -43724,5 +43716,10 @@ signatures:
 - text: Next time you talk about trying to design something so simple your mother
     could use it try using a sewing machine you condescending shit.
   author: Arne Roomann-Kurrik
+  tags:
+  - en
+- text: "‘Everyone feels worthless sometimes’, says my therapist. ‘But always remember:
+    you have organs. Someone will want your organs.’"
+  author: politics spice latte
   tags:
   - en
