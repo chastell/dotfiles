@@ -1,4 +1,4 @@
 application/ms-tnef; tnef -w '%s'
-image/*;             eog '%s';               test=test -n "$DISPLAY"
+image/*;             eog '%s' & sleep 1;     test=test -n "$DISPLAY"
 text/html;           firefox '%s' & sleep 5; test=test -n "$DISPLAY"
-text/html;           vilistextum --links --shrink-lines '%s' -; copiousoutput; description=HTML Text; nametemplate=%s.html
+text/html;           elinks -dump -force-html %s; copiousoutput; description=HTML Text; nametemplate=%s.html
