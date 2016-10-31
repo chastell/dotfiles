@@ -43791,3 +43791,9 @@ signatures:
   author: Rob Free
   tags:
   - en
+- text: Thinking of inventing N+2 queries.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
