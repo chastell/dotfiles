@@ -43802,3 +43802,12 @@ signatures:
   tags:
   - en
   - politics
+- text: |-
+    Bash version of Russian Roulette:
+    set -e
+    in your active shell. See how long you’re going to last.
+  author: Łukasz Korecki
+  tags:
+  - en
+  - tech
+  - Bash
