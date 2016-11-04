@@ -30007,7 +30007,7 @@ signatures:
   tags:
   - en
   - tech
-- text: Today I heard Facebook doesn’do much unit testing. IMAGINE MY SURPRISE.
+- text: Today I heard Facebook doesn’t do much unit testing. IMAGINE MY SURPRISE.
   author: James Coglan
   tags:
   - en
@@ -43813,6 +43813,13 @@ signatures:
   - Bash
 - text: Life is what happens while you download dependencies.
   author: Alan Reid
+  tags:
+  - en
+  - tech
+- text: |-
+    Q: DID YOU HEAR ABOUT THE MONKS THAT TRANSCRIBED EPIC ENGLISH POETRY REALLY FAST BY WORKING IN PARALLEL
+    A: YEAH IT WAS A BEOWULF CLOISTER
+  author: Josh Millard
   tags:
   - en
   - tech
