@@ -1,5 +1,5 @@
 alias apt-dance='sudo apt update && sudo apt full-upgrade && sudo apt autoremove'
-alias backup-to-fenchurch='offlineimap & sudo service autofs restart && until ls /nfs/fenchurch/devielle.rsnapshot; do sleep 1; done && sudo rsnapshot'
+alias backup-to-fenchurch='offlineimap & sudo service autofs restart && until test -d /nfs/fenchurch/devielle.rsnapshot; do echo "waiting for NFS"; sleep 1; done && sudo rsnapshot'
 alias be='bundle exec'
 alias beep='play --no-show-progress --null -V0 synth pl C fade 0 0.3'
 alias bubo='bundle up && bundle out'
