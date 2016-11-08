@@ -43840,3 +43840,10 @@ signatures:
   author: Bob Kostic
   tags:
   - en
+- text: Like so many other things in life, you rarely get _only_ what you optimize
+    for.
+  author: Erik Naggum
+  tags:
+  - en
+  - tech
+  - programming
