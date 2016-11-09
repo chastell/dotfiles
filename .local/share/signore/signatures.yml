@@ -43847,3 +43847,10 @@ signatures:
   - en
   - tech
   - programming
+- text: Certain developers were allocating memory before it was cool. They are called
+    heapsters.
+  author: Laurent Sansonetti
+  tags:
+  - en
+  - tech
+  - programming
