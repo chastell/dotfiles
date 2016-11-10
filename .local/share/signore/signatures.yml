@@ -43854,3 +43854,10 @@ signatures:
   - en
   - tech
   - programming
+- text: 'I have an idea for a new Redis feature: BREXIT – shift an array completely
+    to the right and remove all positive values.'
+  author: Rui Carmo
+  tags:
+  - en
+  - tech
+  - Redis
