@@ -43889,3 +43889,11 @@ signatures:
   author: Ahir Shah
   tags:
   - en
+- text: |-
+    Half of programming is knowing that you’e doing something wrong but not being able to figure out what it is.
+    The other half is doing something wrong but not knowing it.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
