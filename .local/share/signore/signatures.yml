@@ -43938,3 +43938,9 @@ signatures:
   tags:
   - en
   - work
+- text: TFW you brew install a thing and suddenly have Erlang, 20 random libs and
+    the complete Apollo software on your computer.
+  author: Laura Eck
+  tags:
+  - en
+  - tech
