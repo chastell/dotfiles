@@ -7106,12 +7106,6 @@ signatures:
   - en
   - tech
   - optimisation
-- text: As the Slashdot distributed brain engine has observed, the ultimate test of
-    any piece of equipment is to build a Beowulf cluster of it.
-  author: Peter Seebach
-  tags:
-  - en
-  - tech
 - text: |-
     — Wyjdziesz dziś grać?
     — Nie.
@@ -17528,10 +17522,6 @@ signatures:
   tags:
   - en
   - work
-- text: wyjdę na zewnątrz, nawdycham się jadu!
-  author: reuptake
-  tags:
-  - pl
 - text: You mean they get to use the critical hit chart too?
   source: famous last RPG words
   tags:
@@ -43968,5 +43958,10 @@ signatures:
 - text: so me & my friends are walking in the woods, right, & Taylor starts The Change,
     right, he’s all hair & teeth & Chad isn’t as fast as me, so
   author: village fetish
+  tags:
+  - en
+- text: People who complain about cultural appropriation but refer to their country
+    as America.
+  author: José Albornoz
   tags:
   - en
