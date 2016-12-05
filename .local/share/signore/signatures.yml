@@ -1499,13 +1499,6 @@ signatures:
   tags:
   - en
   - sex
-- text: Using Subversion again feels like meeting that dude that you didn’t like in
-    high school and having to chat with them.
-  author: Clemens Kofler
-  tags:
-  - en
-  - tech
-  - Subversion
 - text: "‘…his condom budget raised eyebrows with university auditors’ http://nyti.ms/bYhPAZ"
   author: Paul Battley
   tags:
@@ -42540,12 +42533,6 @@ signatures:
   tags:
   - en
   - work
-- text: While reading his prepared remarks about New York Values, Trump referred to
-    9/11 as ‘7/11’.
-  author: Jacob Rascon
-  tags:
-  - en
-  - politics
 - text: Pivotal is the company that created the story-tracking software. The actual
     name of the software is Pivotal’s Monster.
   author: Jamie Gaskins
@@ -43990,3 +43977,10 @@ signatures:
   tags:
   - en
   - tech
+- text: Went to Google Docs, watched as the browser followed no fewer than six redirects.
+    This is the ‘make the web fast’ company.
+  author: Jamie Gaskins
+  tags:
+  - en
+  - tech
+  - Google
