@@ -44067,3 +44067,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    interviewer: Design and implement a lock free queue.
+    candidate: No.
+    interviewer: HIRED!
+  author: brian hook
+  tags:
+  - en
+  - tech
