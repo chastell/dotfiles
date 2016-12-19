@@ -44080,3 +44080,10 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    [sees a linter violation] ‘this is deplorable’
+    [sees a product that monetises hate speech] ‘that’s his opinion and I respect that’
+  author: James Coglan
+  tags:
+  - en
+  - tech
