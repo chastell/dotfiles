@@ -44075,7 +44075,18 @@ signatures:
   tags:
   - en
   - tech
-- text: "10 Things You’ll Find Shocking About Asynchronous Operations:\n3.\n2.\n7.\n4.\n6.\n1.\n9.\n10.\n5.\n8."
+- text: |-
+    10 Things You’ll Find Shocking About Asynchronous Operations:
+    3.
+    2.
+    7.
+    4.
+    6.
+    1.
+    9.
+    10.
+    5.
+    8.
   author: I Am Devloper
   tags:
   - en
@@ -44084,6 +44095,12 @@ signatures:
     [sees a linter violation] ‘this is deplorable’
     [sees a product that monetises hate speech] ‘that’s his opinion and I respect that’
   author: James Coglan
+  tags:
+  - en
+  - tech
+- text: Welcome to 21st century tech, where the whole world runs on the hobby time
+    of the 0.01%.
+  author: Daniel Spiewak
   tags:
   - en
   - tech
