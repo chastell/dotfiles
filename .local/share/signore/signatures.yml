@@ -31594,11 +31594,6 @@ signatures:
   - en
   - tech
   - programming
-- text: "‘Man United vs Real’ is also the story of human history."
-  author: "@TheTweetOfGod"
-  tags:
-  - en
-  - sports
 - text: JVM-based languages are just a crutch for people who can’t write JVM byte
     code by hand.
   author: Matthew Nielsen
@@ -44145,3 +44140,9 @@ signatures:
   tags:
   - en
   - religion
+- text: Donald Trump is such a Russian toy that I’m starting to wonder if inside of
+    him is a series of progressively smaller white nationalists.
+  author: Kate Willett
+  tags:
+  - en
+  - politics
