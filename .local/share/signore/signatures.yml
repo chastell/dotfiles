@@ -44202,3 +44202,11 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: |-
+    ‘But if all of our programmers are pairing, won’t they write half as much code?’
+    ‘No, hopefully they’ll write even less than that.’
+  author: Ben Rady
+  tags:
+  - en
+  - tech
+  - programming
