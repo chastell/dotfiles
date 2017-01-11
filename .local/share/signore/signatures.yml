@@ -44214,3 +44214,11 @@ signatures:
   author: spacegirl incognito
   tags:
   - en
+- text: 'Dev tip: keep pressing the dot key while waiting for your tests to finish.
+    It will make things appear both better and faster.'
+  author: Patryk Zawadzki
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
