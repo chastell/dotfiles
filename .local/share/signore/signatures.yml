@@ -18297,11 +18297,6 @@ signatures:
   - tech
   - programming
   - REST
-- text: 'Little known secret about people from THE FUTURE: They all have carpal tunnel
-    from poking at vertical touch screens all day.'
-  author: Avdi Grimm
-  tags:
-  - en
 - text: Metaprogramming is the gift that keeps on giving. You feel clever when you
     write it, and somebody else feels clever when they debug it.
   author: "@imccoy"
@@ -44228,3 +44223,8 @@ signatures:
   tags:
   - en
   - tech
+- text: NIECHCĄCY ROZLEWASZ HERBATĘ NA MAGICZNĄ KSIĘGĘ MIESZCZĄCĄ W SOBIE TWÓJ ŚWIAT
+    I PRZERAŻONY OBSERWUJESZ NADCHODZĄCĄ NA HORYZONCIE BRĄZOWĄ FALĘ
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
