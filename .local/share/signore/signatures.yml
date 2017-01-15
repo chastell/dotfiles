@@ -39603,7 +39603,7 @@ signatures:
     ‘Knock knock.’
     ‘Whose they’re?’
     ‘Grammar Police!’
-    ‘Grammar Police Whom?’
+    ‘Grammar Police whom?’
     ‘THIS IS YOUR LAST WARNING, SIR!’
   author: Friz Frizzle
   tags:
@@ -44226,5 +44226,10 @@ signatures:
 - text: No one knows where the sky starts. ‘Here?’ wonders one scientist, her hand
     just above her head. ‘How about here’ says another, crouching.
   author: goth milf
+  tags:
+  - en
+- text: Someone just tweeted ‘do crabs think fish are flying’ and I just know this
+    is all I’ll think about for the rest of the year.
+  author: mango
   tags:
   - en
