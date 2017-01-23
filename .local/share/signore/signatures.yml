@@ -44271,3 +44271,12 @@ signatures:
   tags:
   - en
   - security
+- text: 'I also don’t understand why people compare Go with Rust. If you need a GC-less
+    programming language: Rust; if you need a board game: Go.'
+  author: Marek Kubica
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
+  - Rust
