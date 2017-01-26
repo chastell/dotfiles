@@ -26639,12 +26639,6 @@ signatures:
   - pl
   - tech
   - CLI
-- text: Colleague suggested that I offer straight talking as a consulting business,
-    or, as it was also expressed, ‘fuck off as a service’.
-  author: Pаul Bаttley
-  tags:
-  - en
-  - work
 - text: Every time I type `rake routes` I hear Scooby Doo saying it in my head.
   author: Jason Lewis
   tags:
@@ -44298,3 +44292,13 @@ signatures:
   author: Charles Nutter
   tags:
   - en
+- text: |-
+    My credo on Trump:
+    we will fight him on the beaches
+    we will fight him in tapas bars
+    we will fight him in soft chairs
+    we will never surrender
+  author: Pinboard
+  tags:
+  - en
+  - politics
