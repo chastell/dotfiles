@@ -38248,12 +38248,9 @@ signatures:
   tags:
   - en
   - religion
-- text: "Ad Prowizorka Trwa Najdłużej, A Może Nawet Jest Na Zawsze: Mam na dysku playlistę.
-    W niej trzymam odnośnik od strumienia najczęściej słuchanego radia: PR II. Plik
-    od lat nazywa się jedynka.pls ponieważ kiedyś zawierała odnośnik do PR I. Mógłbym
-    to zmienić w sekundę, ale wtedy jak będę pamiętał że żeby posłuchać Dwójki muszę
-    napisać mplayer -playlist jedynka.pls?\nPS. żyję nadal, tylko mi się nie chce
-    bardzo.\uFEFF"
+- text: |-
+    Ad Prowizorka Trwa Najdłużej, A Może Nawet Jest Na Zawsze: Mam na dysku playlistę. W niej trzymam odnośnik od strumienia najczęściej słuchanego radia: PR II. Plik od lat nazywa się jedynka.pls ponieważ kiedyś zawierała odnośnik do PR I. Mógłbym to zmienić w sekundę, ale wtedy jak będę pamiętał że żeby posłuchać Dwójki muszę napisać mplayer -playlist jedynka.pls?
+    PS. żyję nadal, tylko mi się nie chce bardzo.
   author: opi
   tags:
   - pl
@@ -44302,3 +44299,8 @@ signatures:
   author: Aaron Patterson
   tags:
   - en
+- text: GDY WSZYSCY JEDZĄ PIEROGI LENIWE, TY JEDZ PIEROGI PRACOWITE, POLANE KRWIĄ
+    I ŁZAMI KLASY ROBOTNICZEJ
+  author: "@_Quattroporte"
+  tags:
+  - pl
