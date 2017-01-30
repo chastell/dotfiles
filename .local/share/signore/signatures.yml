@@ -5174,12 +5174,6 @@ signatures:
   author: Jon Yurek
   tags:
   - en
-- text: 'Trying to decide which nutbag-controlled domain I should trust my business
-    to: .ly, .co or facebook.com.'
-  author: Greg Knauss
-  tags:
-  - en
-  - tech
 - text: <voice mode="rambo">Znałem wielu ludzi, którzy automatycznie generowali sygnaturki.
     Żaden z nich nie żyje.</voice>
   author: DrYoung
@@ -27359,14 +27353,6 @@ signatures:
   - tech
   - programming
   - JavaScript
-- text: |-
-    At the office:
-    ‘Oh wow, that window has never been this clean!’
-    ‘You know I opened it, right?’
-    ‘Oh.’
-  author: Roy Tomeij
-  tags:
-  - en
 - text: 'My favorite productivity tip: sit down and do a bunch of work.'
   author: Johnnie Manzari
   tags:
@@ -44311,3 +44297,8 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: If I lived at a monastery I would make my money by selling fried tortillas.
+    I would be a chip monk.
+  author: Aaron Patterson
+  tags:
+  - en
