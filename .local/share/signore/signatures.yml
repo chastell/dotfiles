@@ -44310,3 +44310,9 @@ signatures:
   author: opi
   tags:
   - en
+- text: Unsafe memory management, or – as I call it – ‘Comedy on Write’.
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
