@@ -7761,11 +7761,6 @@ signatures:
   - en
   - tech
   - memcached
-- text: This bit where the Internet lets us all instantly peer around to make sure
-    everyone’s reactions suit us seems more bug than feature to me.
-  author: Erin Kissane
-  tags:
-  - en
 - text: Television is for appearing on – not for looking at.
   author: Noel Coward
   tags:
@@ -7900,16 +7895,6 @@ signatures:
   - en
   - religion
   - lyrics
-- text: In Japan, the distinction between craft and art is blurred at most, possibly
-    nonexistent. Japanese theories of art (and craft) often involve principles of
-    harmony and balance. We might debate in America whether programming is an art
-    or a craft, but if you’ve got one word for the same thing, you’re asking whether
-    programming is an artcraft or an artcraft, and the answer, obviously, is ‘yes,
-    you idiot’.
-  author: Giles Bowkett
-  tags:
-  - en
-  - programming
 - text: If addiction is judged by how long a dumb animal will sit pressing a lever
     to get a ‘fix’ of something, to its own detriment, then I would conclude that
     netnews is far more addictive than cocaine.
@@ -44316,3 +44301,8 @@ signatures:
   - en
   - tech
   - programming
+- text: I think I’m going to start misunderstanding ‘pro-life’ as ‘we need to safe
+    all the refugees’ and strike up as many convos as I can.
+  author: Evan Phoenix
+  tags:
+  - en
