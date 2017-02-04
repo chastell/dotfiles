@@ -36486,7 +36486,7 @@ signatures:
     1900 Can build a bridge
     1960 Can assemble computer from parts
     1995 Knows how to compile kernel
-    2014 Makes button blink w jQuery
+    2014 Makes button blink with jQuery
   author: Nick Sokolov
   tags:
   - en
@@ -44311,3 +44311,8 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: PO LATACH ŚLEDZTWA ODKRYWASZ KRYJÓWKĘ SOROSA. ZNAJDUJESZ W NIEJ TYLKO STARE
+    LUSTRO KTÓRE UKAZUJE CI PRAWDĘ – TO TY ZAWSZE BYŁEŚ SOROSEM.
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
