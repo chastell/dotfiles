@@ -16,8 +16,8 @@ shopt -s autocd
 shopt -s globstar
 shopt -s histappend
 
-source /usr/local/share/chruby/chruby.sh
-source /usr/local/share/chruby/auto.sh
+source ~/coding/chruby/share/chruby/chruby.sh
+source ~/coding/chruby/share/chruby/auto.sh
 
 webify() {
   file="$1"
