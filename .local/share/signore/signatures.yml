@@ -43710,11 +43710,6 @@ signatures:
   - en
   - tech
   - programming
-- text: If I were Hillary, I’d ask Michelle Obama to stay on as first lady.
-  author: Elizabeth
-  tags:
-  - en
-  - politics
 - text: |-
     Bash version of Russian Roulette:
     set -e
@@ -44358,3 +44353,8 @@ signatures:
   tags:
   - en
   - politics
+- text: 'JAK MÓWI STARE PRZYSŁOWIE: [PRZERAŻONE KRZYKI LUDZI I ODBIJAJĄCE SIĘ ECHEM
+    WYSOKIE NIEZIEMSKIE TRELE] CIEPŁA WIOSNA ZA PASEM'
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
