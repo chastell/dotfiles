@@ -44358,3 +44358,9 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: Write functions so small you can’t fit a bug in them.
+  author: GonzoHacker
+  tags:
+  - en
+  - tech
+  - programming
