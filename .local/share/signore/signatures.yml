@@ -33336,13 +33336,6 @@ signatures:
   - programming
   - Ruby
   - RSpec
-- text: Before you diagnose yourself with depression, first make sure that you are
-    not, in fact, surrounded by Oracle products.
-  author: Douglbutt MacArthur
-  tags:
-  - en
-  - tech
-  - Oracle
 - text: 'My first religious beard encounter: car with a bunch of bearded fellas drives
     up to me and they all shout ‘shalom’. I shout back ‘UNIX’.'
   author: Jan Lehnardt
@@ -44364,3 +44357,9 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    PRAWICOWY DETEKTYW S2E3
+    PD: WIĘC TWIERDZĄ ŻE SĄ MAŁŻEŃSTWEM CHOCIAŻ OBAJ SĄ MĘŻCZYZNAMI *POPRAWIA SŁUŻBOWĄ KARABELĘ* TANIA ŚCIEMA
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
