@@ -1,0 +1,12 @@
+/home/*/.cache
+/home/*/.gem
+/home/*/.npm
+/home/*/.rubies
+/home/*/.vagrant.d/boxes
+/home/*/VirtualBox\ VMs
+/home/*/src
+/lib
+/tmp
+/usr
+/var/cache
+/var/lib/docker

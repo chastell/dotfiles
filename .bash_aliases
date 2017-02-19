@@ -1,5 +1,6 @@
 alias apt-dance='sudo apt update && sudo apt full-upgrade && sudo apt autoremove'
-alias backup-to-fenchurch='offlineimap & sudo service autofs restart && until test -d /nfs/fenchurch/devielle.rsnapshot; do echo "waiting for NFS"; sleep 2; done && sudo rsnapshot'
+alias backup-to-fenchurch-luggage='fen && sudo rsync --delete-before --links --no-inc-recursive --partial --progress --recursive --times /luggage /fenchurch/desaxe.luggage'
+alias backup-to-fenchurch='fen && sudo rdiff-backup --exclude-globbing-filelist ~/.rdiff-backup.exclude --exclude-other-filesystems --exclude-special-files --no-compression --print-statistics --verbosity 5 / /fenchurch/desaxe'
 alias be='bundle exec'
 alias beep='play --no-show-progress --null -V0 synth pl C fade 0 0.3'
 alias bubo='bundle up && bundle out'
