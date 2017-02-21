@@ -44393,3 +44393,11 @@ signatures:
   author: Paul Kilduff-Taylor
   tags:
   - en
+- text: |-
+    Roses are 650 nm
+    Violets are 400 nm
+    But if you run away REALLY fast
+    Then violets are also 650 nm
+  author: Dianna Cowern
+  tags:
+  - en
