@@ -36,7 +36,7 @@ alias rc='rerun -cxp "**/*.{cr,yml}" -- crystal spec --define=mt_no_expectations
 alias rcs='rails console --sandbox'
 alias restore_mac='sudo ifconfig wlan0 ether ..:..:..:..:..:..'
 alias rmadison='rmadison --url=debian,ubuntu'
-alias rr='rerun -cx rake'
+alias rr='rerun --background --clear --exit rake'
 alias rs='rsync --archive --compress --partial --progress'
 alias rsd='rsync --archive --compress --delete --delete-excluded --partial --progress'
 alias rvim='gvim --remote-silent'
