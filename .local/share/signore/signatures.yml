@@ -42751,7 +42751,7 @@ signatures:
   - en
   - religion
 - text: When weed is legal everywhere, all these songs about smoking are gonna sound
-    real lame. Like bragging about soda
+    real lame. Like bragging about soda.
   author: Dean Fleischer-Camp
   tags:
   - en
@@ -44457,5 +44457,14 @@ signatures:
 - text: I like mixing generational acronyms in order to confuse millennials.  For
     example ‘afk rn’ and ‘irl af’.
   author: Aaron Patterson
+  tags:
+  - en
+- text: |-
+    ‘You promised me to whoever killed the dragon!’ the princess said.
+    ‘But—’ the king said.
+    ‘And she did!’
+    ‘But she’s a dragon too!’
+    ‘And hot.’
+  author: Micro SF/F stories
   tags:
   - en
