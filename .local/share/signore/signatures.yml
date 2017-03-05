@@ -44468,3 +44468,10 @@ signatures:
   author: Micro SF/F stories
   tags:
   - en
+- text: |-
+    What do we want? Cache invalidation!
+    When do we want it? Cache invalidation!
+  author: Steven Frank
+  tags:
+  - en
+  - tech
