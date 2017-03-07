@@ -13,6 +13,7 @@ bind index,pager \cp sidebar-prev
 folder-hook .                     set sort=threads
 folder-hook .                     set sort_aux=date
 folder-hook .                     'push "<collapse-all>"'
+folder-hook INBOX                 set sort=date-received
 folder-hook ~arch                 set sort=date-received
 folder-hook '\[Gmail\]/All Mail'  set sort=date-received
 folder-hook '\[Gmail\]/Sent Mail' set sort=date-received
