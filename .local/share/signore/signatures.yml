@@ -1254,7 +1254,7 @@ signatures:
   - English
   - linguistics
 - text: |-
-    — Czy ktoś tu oglądał „Aavalon”? Słyszałem o nim bardzo skrajne opinie. Jedni twierdzą, że to niesamowite dzieło…
+    — Czy ktoś tu oglądał „Avalon”? Słyszałem o nim bardzo skrajne opinie. Jedni twierdzą, że to niesamowite dzieło…
     — Mają rację.
     — …inni, że kompletna chała.
     — Również mają rację, nawet bardziej, niż tamci.
@@ -44480,3 +44480,9 @@ signatures:
   author: Zeynep Tufekci
   tags:
   - en
+- text: |-
+    „Jak mam wytłumaczyć dziecku związki homoseksualne?”
+    IDK, jak mu wytłumaczyłeś nieśmiertelnego, latającego starego pana rozdającego prezenty?
+  author: "@saddestblogger"
+  tags:
+  - pl
