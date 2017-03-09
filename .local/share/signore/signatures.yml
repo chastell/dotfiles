@@ -44491,3 +44491,10 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: |-
+    me (smart, a person): accept-language:en-GB,en-US;q=0.8,en;q=0.6
+    you (compromised, a computer): here’s some ads in Dutch
+  author: "@mountain_ghosts"
+  tags:
+  - en
+  - tech
