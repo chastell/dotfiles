@@ -44504,3 +44504,9 @@ signatures:
   tags:
   - pl
   - politics
+- text: 'Two things devs can’t estimate: how long it takes, how long it will stay
+    running, how many things they can’t estimate.'
+  author: Mariusz Droździel
+  tags:
+  - en
+  - tech
