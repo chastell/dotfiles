@@ -44510,3 +44510,9 @@ signatures:
   tags:
   - en
   - tech
+- text: Writing about channels isn’t fun because I can’t type ‘parallel’ nor ‘receive’.
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
