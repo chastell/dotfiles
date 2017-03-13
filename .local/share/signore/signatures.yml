@@ -44521,3 +44521,10 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: 'I would say the GPL is more of a ‘do whatever the fuck you want’ license
+    then the WTFPL: it protects that right transitively.'
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - GPL
