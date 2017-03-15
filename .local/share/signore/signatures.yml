@@ -44535,3 +44535,8 @@ signatures:
   - en
   - tech
   - PostgreSQL
+- text: stdshout
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
