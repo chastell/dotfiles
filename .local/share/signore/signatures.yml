@@ -44528,3 +44528,10 @@ signatures:
   - en
   - tech
   - GPL
+- text: When modelling your data, think really hard about the sort of database that
+    will represent it best. And then put it in Postgres.
+  author: "@SamirTalwar"
+  tags:
+  - en
+  - tech
+  - PostgreSQL
