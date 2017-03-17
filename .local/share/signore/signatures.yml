@@ -35626,7 +35626,7 @@ signatures:
   - Google
   - Google+
 - text: |-
-    I am SICK of people who don’t know that “--b” means thumbs up. Educate yourselves in the basics of online discourse, ignorami.’
+    ‘I am SICK of people who don’t know that “--b” means thumbs up. Educate yourselves in the basics of online discourse, ignorami.’
     ‘--p’
   author: Aanand Prasad, E Crosby-McCullough
   tags:
@@ -44537,6 +44537,15 @@ signatures:
   - PostgreSQL
 - text: stdshout
   author: Florian Gilcher
+  tags:
+  - en
+  - tech
+- text: |-
+    WHAT DO WE WANT?
+    Natural language processing!
+    WHEN DO WE WANT IT?
+    Sorry, when do we want what?
+  author: Benedict Evans
   tags:
   - en
   - tech
