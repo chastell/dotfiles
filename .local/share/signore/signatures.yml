@@ -44562,3 +44562,9 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: You can call your service a ‘microservice’ if and only if you can switch it
+    off and all other systems still work.
+  author: Alexey Kachayev
+  tags:
+  - en
+  - tech
