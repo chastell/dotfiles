@@ -35835,7 +35835,7 @@ signatures:
   - Vim
   - Dota 2
 - text: If I meet the man of my dreams, I hope he doesn’t know about my dreams.
-  author: Oglaf
+  source: Oglaf
   tags:
   - en
 - text: Programming is like making analogies. It seems to work at first, but fails
@@ -37366,7 +37366,7 @@ signatures:
   - pl
   - dogs
 - text: You don’t win the game of death by dying first. The name is misleading.
-  author: Oglaf
+  source: Oglaf
   tags:
   - en
 - text: |-
@@ -39665,7 +39665,7 @@ signatures:
 - text: |-
     Q: Which mythological monster casts no reflection?
     A: All of them.
-  author: Oglaf
+  source: Oglaf
   tags:
   - en
 - text: "it bears repeating \U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B\U0001F43B"
@@ -40025,7 +40025,7 @@ signatures:
   - en
   - tech
 - text: Have an assassin put a placebo in her drink, just as a warning.
-  author: Oglaf
+  source: Oglaf
   tags:
   - en
 - text: "Roadmap for the Internet:    \n- Web 1.0\n- Web 2.0\n- Web 3.0\n- Web 3.1\n-
@@ -41392,7 +41392,7 @@ signatures:
   - en
   - tech
 - text: The God of Envy has better temple than yours.
-  author: Oglaf
+  source: Oglaf
   tags:
   - en
   - religion
@@ -41872,7 +41872,7 @@ signatures:
   - tech
   - programming
 - text: My god believes in self-sacrifice then going on about it forever.
-  author: Oglaf
+  source: Oglaf
   tags:
   - en
   - religion
@@ -42989,7 +42989,7 @@ signatures:
   tags:
   - en
 - text: Animals are much stupider since Noah’s Ark, because of inbreeding.
-  author: Oglaf
+  source: Oglaf
   tags:
   - en
   - religion
@@ -44568,3 +44568,7 @@ signatures:
   tags:
   - en
   - tech
+- text: make Lovecraft not warcraft
+  source: Oglaf
+  tags:
+  - en
