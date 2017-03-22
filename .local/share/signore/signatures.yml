@@ -44572,6 +44572,12 @@ signatures:
   author: "@fioroco"
   tags:
   - en
+- text: 'Narrator: But the pointer WAS null.'
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
 - text: make Lovecraft not warcraft
   source: Oglaf
   tags:
