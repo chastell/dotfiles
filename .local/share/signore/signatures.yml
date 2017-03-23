@@ -44582,3 +44582,12 @@ signatures:
   source: Oglaf
   tags:
   - en
+- text: |-
+    I wrote a Markov Chain that generatespoetry from commit logs, here’s an example:
+    fixed fixed fixed fixed fixed
+    fixed merge fuck
+  author: opi
+  tags:
+  - en
+  - tech
+  - programming
