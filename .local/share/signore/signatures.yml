@@ -44591,3 +44591,10 @@ signatures:
   - en
   - tech
   - programming
+- text: If you ever code something that ‘feels like a hack but it works’, just remember
+    that a CPU is literally a rock that we tricked into thinking.
+  author: daisyowl
+  tags:
+  - en
+  - tech
+  - programming
