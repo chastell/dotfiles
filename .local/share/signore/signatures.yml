@@ -44637,3 +44637,9 @@ signatures:
   author: Lee Harris
   tags:
   - en
+- text: Coded enemies to scream ‘aaah!’ if their vertical speed changes without their
+    doing (ie. falling) but now they scream if riding an elevator.
+  author: Dan Hindes
+  tags:
+  - en
+  - tech
