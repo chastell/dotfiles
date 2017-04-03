@@ -4764,12 +4764,6 @@ signatures:
   tags:
   - en
   - linguistics
-- text: Everyone over the age of 50 hates WikiLleaks. Everyone under the age of 30
-    loves them. Is there a more clear sign of progress?
-  author: William Morgan
-  tags:
-  - en
-  - WikiLeaks
 - text: 'This is the biggest difference between science and religion: scientists get
     all excited when their established dogma is proven wrong.'
   author: Sarah Goslee
@@ -30846,14 +30840,14 @@ signatures:
   - tech
   - POSIX
 - text: |-
-       <Zły> Kto normalny robi ticket tylko po to by napisać że coś działa jak powinno? Ja się pytam KTO???
+       <zły> Kto normalny robi ticket tylko po to by napisać że coś działa jak powinno? Ja się pytam KTO???
        <opi> Ja zawsze dzwonię po karetkę powiedzieć im jak się dobrze czuję.
     <imanel> Spokojnie: u nas nie ma ticketów potwierdzających że coś działa.
     <imanel> Ale za to czasem są pytające się co to za funkcjonalność.
-       <Zły> Aha, ticket zaczyna sie od „hoooray”…
-    <Tomash> Ciesz się, biorę taki zawsze ponad CRITICAL URGENT SITE DOWN.
+       <zły> Aha, ticket zaczyna sie od „hoooray”…
+    <tomash> Ciesz się, biorę taki zawsze ponad CRITICAL URGENT SITE DOWN.
        <opi> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU
-       <Zły> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU hoooray!
+       <zły> CRITICAL URGENT HIGH PRIORITY EVERYTHING IS FINE THANK YOU hoooray!
   tags:
   - pl
   - tech
@@ -44640,6 +44634,12 @@ signatures:
 - text: Coded enemies to scream ‘aaah!’ if their vertical speed changes without their
     doing (ie. falling) but now they scream if riding an elevator.
   author: Dan Hindes
+  tags:
+  - en
+  - tech
+- text: "$5 a month? That’s crazy. I could build something like 1/32nd as good in
+    just like 2 or 3 hundred hours."
+  author: Peter Lyons
   tags:
   - en
   - tech
