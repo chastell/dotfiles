@@ -44677,3 +44677,12 @@ signatures:
   author: "@spookperson"
   tags:
   - en
+- text: |-
+    The safest program is the program that doesn’t compile.
+    — ancient Rust proverb
+  author: Manish Goregaokar
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
