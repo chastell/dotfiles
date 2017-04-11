@@ -1,5 +1,5 @@
 alias apt-dance='sudo apt update && sudo apt full-upgrade && sudo apt autoremove'
-alias backup-to-fenchurch-luggage='fen && sudo rsync --links --partial --progress --recursive --times /luggage /fenchurch/desaxe.luggage && unfen'
+alias backup-to-fenchurch-luggage='fen && sudo rsync --delete --links --partial --progress --recursive --times /luggage /fenchurch/desaxe.luggage && unfen'
 alias backup-to-fenchurch='fen && sudo rdiff-backup --exclude-globbing-filelist ~/.rdiff-backup.exclude --exclude-other-filesystems --exclude-special-files --no-compression --print-statistics --verbosity 5 / /fenchurch/desaxe && unfen'
 alias backup='backup-to-fenchurch && backup-to-fenchurch-luggage'
 alias be='bundle exec'
