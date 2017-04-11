@@ -23241,12 +23241,6 @@ signatures:
   author: Tomasz, Jasiek
   tags:
   - pl
-- text: Z hipsterkami trzeba uważać – gadasz z taką, jest ok; ładna buzia, fajne włoski,
-    jakieś chusty, te ich śmieszne okularki, kolorowe ciuszki… a tu hipsterka ma na
-    imię Mariusz.
-  author: rozkminator
-  tags:
-  - pl
 - text: Good error messages distinguish a framework from a clever hack.
   author: Jessica Kerr
   tags:
@@ -44686,3 +44680,12 @@ signatures:
   - tech
   - programming
   - Rust
+- text: |-
+    TIERS OF FRIENDSHIP
+    4- we hang out
+    3- we can travel together
+    2- I would take a bullet for you
+    1- I will speak to you on phone
+  author: emery lord
+  tags:
+  - en
