@@ -1928,12 +1928,6 @@ signatures:
   tags:
   - en
   - skiing
-- text: Life suddenly made much more sense, the day I fully grokked that people are
-    stupid.
-  author: Frank Sweetser
-  tags:
-  - en
-  - cynicism
 - text: |-
     ‘I’ve gone through over-stressed to physical exhaustion - what’s next?’
     ‘Tuesday.’
@@ -44706,3 +44700,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: The reason it’s difficult to hire functional programmers is because they only
+    do a partial application.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
