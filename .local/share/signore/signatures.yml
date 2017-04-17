@@ -44590,7 +44590,7 @@ signatures:
   author: "@johnmegahan"
   tags:
   - en
-- text: ZAGLĄDAJĄC W  DOWÓD OSOBISTY ODKRYWASZ ŻE POWSTAŁEŚ ZA KOMUNY „CZEMU NIE WIEDZIAŁEM?”
+- text: ZAGLĄDAJĄC W DOWÓD OSOBISTY ODKRYWASZ ŻE POWSTAŁEŚ ZA KOMUNY „CZEMU NIE WIEDZIAŁEM?”
     MYŚLISZ CZUJĄC FORMUJĄCĄ SIĘ NA CZOLE CZERWONĄ GWIAZDĘ
   author: PNEUMATYCZNA ĐUSZA
   tags:
@@ -44715,5 +44715,10 @@ signatures:
   - tech
 - text: "[glances momentarily at unfolding events] no"
   author: James Coglan
+  tags:
+  - en
+- text: Just gonna wait to see how long it takes this police sketch artist to realize
+    I’m describing him.
+  author: "@Home_Halfway"
   tags:
   - en
