@@ -1,10 +1,12 @@
 [alias]
+  added = difftool --cached
   br = branch
   ci = commit
   co = checkout
   lg = log --abbrev-commit --date=relative --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'
   pr = !sh -c 'git fetch origin pull/$0/head:pr-$0 && git co pr-$0'
   prune = fetch --prune
+  showtool = "!f() { git difftool $1^ $1; }; f"
   st = status --branch --short
   stash-all = stash save --include-untracked
   undo = reset --soft HEAD^
@@ -23,6 +25,13 @@
 
 [diff]
   algorithm = patience
+  tool = icdiff
+
+[difftool]
+  prompt = false
+
+[difftool "icdiff"]
+  cmd = /home/chastell/.local/bin/icdiff --line-numbers $LOCAL $REMOTE
 
 [fetch]
   fsckobjects = true
@@ -38,6 +47,9 @@
 
 [merge]
   conflictstyle = diff3
+
+[pager]
+  difftool = true
 
 [push]
   default = current
