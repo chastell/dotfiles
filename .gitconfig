@@ -4,7 +4,10 @@
   co = checkout
   lg = log --abbrev-commit --date=relative --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset'
   pr = !sh -c 'git fetch origin pull/$0/head:pr-$0 && git co pr-$0'
+  prune = fetch --prune
   st = status --branch --short
+  stash-all = stash save --include-untracked
+  undo = reset --soft HEAD^
   up = pull --all --rebase --autostash
 
 [branch]
@@ -38,6 +41,7 @@
 
 [push]
   default = current
+  followTags = true
 
 [rebase]
   autosquash = true
@@ -47,6 +51,9 @@
 
 [rerere]
   enabled = 1
+
+[status]
+  showUntrackedFiles = all
 
 [transfer]
   fsckobjects = true
