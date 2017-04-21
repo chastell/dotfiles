@@ -44734,3 +44734,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: My setup = A compiler, Emacs, Bash, make, an OS (I’m not religious here) pencil,
+    paper, coffee, quiet environment, good night’s sleep.
+  author: Joe Armstrong
+  tags:
+  - en
+  - tech
+  - programming
