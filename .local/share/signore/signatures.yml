@@ -44746,3 +44746,9 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: Look I can’t stand prescriptivists either but just once I’d like to put alias
+    less="echo 'I think you mean fewer'" on someone’s computer
+  author: James Coglan
+  tags:
+  - en
+  - tech
