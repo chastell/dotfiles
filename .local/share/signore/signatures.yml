@@ -16362,7 +16362,7 @@ signatures:
   tags:
   - pl
 - text: The optimizer will notice this and optimize the post-increment into a pre-increment,
-    because that's a little more efficient to execute. (You didn't need to know that,
+    because that's a little more efficient to execute. (You didn’t need to know that,
     but we hoped it would cheer you up.)
   author: Larry Wall, Tom Christiansen, Randall L. Schwartz
   source: Programming Perl
@@ -43176,7 +43176,7 @@ signatures:
   tags:
   - en
 - text: "Romeo: check out this cat video\nJuliet: omg dead \U0001F602\nJuliet: hello\nJuliet:
-    romeo\nJuliet: i didn't mean literally dead\nJuliet: romeo"
+    romeo\nJuliet: i didn’t mean literally dead\nJuliet: romeo"
   author: chuuch
   tags:
   - en
@@ -44766,3 +44766,7 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: worst engineer at the company, but third coolest
+  author: "@fat"
+  tags:
+  - en
