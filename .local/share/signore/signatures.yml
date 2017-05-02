@@ -44798,3 +44798,10 @@ signatures:
   tags:
   - en
   - tech
+- text: My kid is taking a ‘coding’ class but they aren’t teaching the basics like
+    ‘how to fake paying attention in sprint planning meetings’.
+  author: "@spinlock"
+  tags:
+  - en
+  - tech
+  - programming
