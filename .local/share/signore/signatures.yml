@@ -44805,3 +44805,10 @@ signatures:
   - en
   - tech
   - programming
+- text: It’s not more features now vs cleanup now. It’s features now vs features later.
+    Don’t act shocked when it’s later and you chose ‘fewer’.
+  author: Kent Beck
+  tags:
+  - en
+  - tech
+  - programming
