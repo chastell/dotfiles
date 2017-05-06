@@ -22,6 +22,7 @@ folder-hook '\[Gmail\]/Spam'      set sort_aux=subject
 hdr_order From: Reply-To: To: Cc: Subject: Date:
 unignore *
 ignore Accept-Language:
+ignore ARC-
 ignore Authentication-Results:
 ignore Content-Disposition: Content-Language: Content-Length: Content-Transfer-Encoding: Content-Type:
 ignore DKIM-Signature:
