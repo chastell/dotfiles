@@ -44838,3 +44838,10 @@ signatures:
   author: Steve vs Ninjas
   tags:
   - en
+- text: Rubber Duck Debugging is the best thing in the world. I just figured out a
+    bug by reading method name out loud. It took me three days to nail it.
+  author: opi
+  tags:
+  - en
+  - tech
+  - programming
