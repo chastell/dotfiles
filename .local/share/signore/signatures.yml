@@ -44873,3 +44873,10 @@ signatures:
   author: Growly Grego
   tags:
   - en
+- text: 'PSA: If a function accepts a string then it’s a parser. Parsers are hard
+    to get right and dangerous to get wrong. Write fewer of them.'
+  author: David R. MacIver
+  tags:
+  - en
+  - tech
+  - programming
