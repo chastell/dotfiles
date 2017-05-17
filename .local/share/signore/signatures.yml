@@ -44890,3 +44890,9 @@ signatures:
   author: "@jasongorman"
   tags:
   - en
+- text: who called it a mutual exclusion lock and not a thread safe
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
