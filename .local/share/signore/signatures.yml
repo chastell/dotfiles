@@ -44907,3 +44907,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    ‘Hello?’
+    ‘Hey, it’s Bill.’
+    ‘Bill the loose cannon or Bill who doesn’t understand metaphors?’
+    ‘Cannons can’t make phone calls, Dan.’
+  author: "@DanMentos"
+  tags:
+  - en
