@@ -39622,7 +39622,7 @@ signatures:
   tags:
   - en
 - text: Every truck is a food truck if you’re a cannibal.
-  author: Megan Amram
+  author: "@RylRG"
   tags:
   - en
 - text: Mathematically speaking, any two ducks are already in a row. In order to get
@@ -44930,6 +44930,12 @@ signatures:
 - text: People who want to do app startups have strange reactions when I ask them
     when was the last time they bough an app.
   author: "@deadprogrammer"
+  tags:
+  - en
+  - tech
+- text: If the best your age guesser can do is 13-54 maybe your gender guesser isn’t
+    all that hot either.
+  author: James Coglan
   tags:
   - en
   - tech
