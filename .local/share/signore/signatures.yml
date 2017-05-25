@@ -28635,8 +28635,10 @@ signatures:
   - en
   - tech
   - programming
-- text: In a world of reliable data storage [thunder clap] One database dares to be
-    different [howling wind blows a candle out] Molngo Database.
+- text: |-
+    In a world of reliable data storage [thunder clap]
+    One database dares to be different [howling wind blows a candle out]
+    Molngo Database.
   author: Gary Bernhardt
   tags:
   - en
@@ -44939,3 +44941,7 @@ signatures:
   tags:
   - en
   - tech
+- text: Motion to rename ‘mansplaining’ to ‘correctile dysfunction’.
+  author: "@addiful"
+  tags:
+  - en
