@@ -44951,3 +44951,20 @@ signatures:
   author: Mara Wilson
   tags:
   - en
+- text: |-
+    I’ve changed
+    the token
+    that was in
+    the url
+    and which
+    you were probably
+    hoping
+    was secure
+    Forgive me
+    it used cbc mode
+    so hacks
+    and such xor
+  author: James Coglan
+  tags:
+  - en
+  - tech
