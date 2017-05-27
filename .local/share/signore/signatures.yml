@@ -44968,3 +44968,13 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    Rails: where separation of concerns means I’ve so far changed 400 LoC to rename two models.
+    ‘Convention over configuration’ = every line of code you write is implicitly coupled to at least two other things.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rails
