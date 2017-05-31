@@ -44998,3 +44998,10 @@ signatures:
   author: "@Choplogik"
   tags:
   - en
+- text: Only 1,000 people read the Standard ML spec, but every one of them started
+    a programming language.
+  author: "@horse_rust"
+  tags:
+  - en
+  - tech
+  - programming
