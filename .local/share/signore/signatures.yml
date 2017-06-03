@@ -17067,13 +17067,6 @@ signatures:
   - en
   - tech
   - programming
-- text: 'Python’s view of OO distilled: http://yfrog.com/ny3owg'
-  author: Gary Bernhardt
-  tags:
-  - en
-  - tech
-  - programming
-  - Python
 - text: 'Always remember: if you don’t know how to do something, no one else does
     either and it’s clearly impossible.'
   author: Gary Bernhardt
@@ -44567,7 +44560,7 @@ signatures:
   tags:
   - en
 - text: |-
-    I wrote a Markov Chain that generatespoetry from commit logs, here’s an example:
+    I wrote a Markov Chain that generates poetry from commit logs, here’s an example:
     fixed fixed fixed fixed fixed
     fixed merge fuck
   author: opi
@@ -45011,3 +45004,9 @@ signatures:
   tags:
   - pl
   - work
+- text: |-
+    People, lock your Bluetooth speakers. I’m abstaining from gracing this party with metro boomin’.
+    The DJ is playing Thriller for the third time. Grant me strength in these trying times.
+  author: Kylie Stradley
+  tags:
+  - en
