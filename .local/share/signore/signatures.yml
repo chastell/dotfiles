@@ -45027,3 +45027,9 @@ signatures:
   author: James Coglan
   tags:
   - en
+- text: Netscape will soon reduce Windows to a poorly debugged set of device drivers.
+  author: Marc Andreessen
+  subject: in 1995
+  tags:
+  - en
+  - tech
