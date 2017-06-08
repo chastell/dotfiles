@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+# Usage: git autosquash [<ref>]
+#
+# Initiates an autosquash rebase on the commits in your fork (commits since common ancestor
+# between HEAD and master). With this you don't need to look up the merge base to rebase your PR.
+# Can also pass a branch name or SHA to find the ancestor between something other than master.
+# Insanely useful with git-autofixup
+set -e
+
+mergebranch=${1:-master}
+git rebase -i $(git merge-base $mergebranch HEAD) --autosquash
