@@ -45071,3 +45071,11 @@ signatures:
   tags:
   - en
   - tech
+- text: "‘Nobody will use your code if it’s GPL, make it permissive’ is the open source
+    version of ‘we won’t pay you, but you’ll get exposure’."
+  author: Michael F. Lamb
+  tags:
+  - en
+  - tech
+  - GPL
+  - licensing
