@@ -45065,3 +45065,9 @@ signatures:
   tags:
   - en
   - politics
+- text: According to WHOIS, it appears I actually own the ICIO.US domain now. Time
+    to set up DNS for AUSP, MAL, MERITR, PERN, CAPR, SUSP, JUD and V
+  author: Pinboard
+  tags:
+  - en
+  - tech
