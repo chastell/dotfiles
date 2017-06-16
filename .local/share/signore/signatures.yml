@@ -45085,3 +45085,17 @@ signatures:
   author: "@sadoperator"
   tags:
   - en
+- text: |-
+    UPPER CASE
+    lower case
+    Title Case
+    camelCase
+    snake_case
+    kebab-case
+    Train-Case
+    ǝsɐɔ ʇɐq
+    çt̶̀͢͞h̴̷̨̡̕u̴̸̴l̡͜͞u͜͠ ̡͜͝c̀͞á̷̧̧s̷̀͠͠e̸̶͟
+  author: Lyzi Diamond
+  tags:
+  - en
+  - tech
