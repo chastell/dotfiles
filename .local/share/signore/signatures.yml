@@ -45079,3 +45079,9 @@ signatures:
   - tech
   - GPL
   - licensing
+- text: |-
+    The Internet-connected coffee machine is fucking broken.
+    Fortunately, my air-gapped bottle of scotch is unaffected.
+  author: "@sadoperator"
+  tags:
+  - en
