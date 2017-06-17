@@ -45099,3 +45099,13 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    The 4 stages of a CTO:
+    1. I wrote the whole thing
+    2. I still code 50%
+    3. I wish I had time to code
+    4. My team doesn’t let me code anymore
+  author: Simon Stemplinger
+  tags:
+  - en
+  - tech
