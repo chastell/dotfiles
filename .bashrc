@@ -18,4 +18,5 @@ shopt -s histappend
 
 source ~/coding/chruby/share/chruby/chruby.sh
 source ~/coding/chruby/share/chruby/auto.sh
+source ~/borderise.sh
 source ~/webify.sh
