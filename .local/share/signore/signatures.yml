@@ -45125,3 +45125,12 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ⇒ small brain: threshold-based alerting
+    ⇒ medium brain: anomaly detection
+    ⇒ big brain: predictive analytics
+    ⇒ cosmic brain: turn alerts off
+  author: "@jxxf"
+  tags:
+  - en
+  - tech
