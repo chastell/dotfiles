@@ -45144,3 +45144,13 @@ signatures:
   tags:
   - en
   - tech
+- text: A verb, a preposition and a noun walk into a bar.
+  author: "@Cerberustic"
+  tags:
+  - en
+- text: "‘Are you a full stack dev?’\n‘No, because…’\n*fumbles around for sunglasses,
+    puts them on wrong, readjusts, looks up*\n\U0001F60E ‘I use tail recursion.’"
+  author: "@sleeplessgeek"
+  tags:
+  - en
+  - tech
