@@ -1,4 +1,5 @@
 require 'irb/completion'
+require 'irbtools/more'
 require 'logger'
 require 'pp'
 
