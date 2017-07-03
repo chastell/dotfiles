@@ -16,6 +16,8 @@ shopt -s autocd
 shopt -s globstar
 shopt -s histappend
 
+source ~/.asdf/asdf.sh
+source ~/.asdf/completions/asdf.bash
 source ~/coding/chruby/share/chruby/chruby.sh
 source ~/coding/chruby/share/chruby/auto.sh
 source ~/borderise.sh
