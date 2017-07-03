@@ -45201,3 +45201,11 @@ signatures:
   author: "@Flora__Flora"
   tags:
   - en
+- text: |-
+    began reading an article about checksums, macs and signatures
+    ‘use a checksum to detect accidental corruption’
+    [rest of article is missing]
+  author: James Coglan
+  tags:
+  - en
+  - tech
