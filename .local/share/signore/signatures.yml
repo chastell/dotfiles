@@ -45242,3 +45242,10 @@ signatures:
   author: Adam O’Fallon Price
   tags:
   - en
+- text: In what sense is it meaningful to call Markdown a distinct language when all
+    strings are valid Markdown documents?
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - Markdown
