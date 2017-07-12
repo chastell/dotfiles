@@ -45254,3 +45254,11 @@ signatures:
   author: Jeff Kreeftmeijer
   tags:
   - en
+- text: The largest C++ file we found in GitHub has 528 MB, 57 lines of code. Contains
+    the first 50,847,534 primes, all hard coded in an array.
+  author: Crista Lopes
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
