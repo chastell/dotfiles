@@ -45267,3 +45267,9 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: Just realized I was doing serverless 20 years ago. ‘Fork-run-die’ was called
+    CGI back then.
+  author: Mikko Värri
+  tags:
+  - en
+  - tech
