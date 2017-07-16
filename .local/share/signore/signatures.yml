@@ -45286,3 +45286,8 @@ signatures:
   - en
   - tech
   - programming
+- text: I need a comment CAPTCHA that tests for an emotional maturity above the age
+    of 3, that only triggers on Hacker News referral headers.
+  author: Avdi Grimm
+  tags:
+  - en
