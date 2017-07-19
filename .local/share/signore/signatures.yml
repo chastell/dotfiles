@@ -45300,3 +45300,12 @@ signatures:
   tags:
   - en
   - literature
+- text: |-
+    ‘These dynamic langs are so sloppy. We should be more rigorous, like maths.’
+    ‘Cool! What does maths use to indicate types?’
+    ‘Fonts, mostly.’
+  author: Chris Ford
+  tags:
+  - en
+  - tech
+  - programming
