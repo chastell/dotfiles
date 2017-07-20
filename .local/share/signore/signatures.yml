@@ -45309,3 +45309,15 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    Oh er hey I found out recently a friend needed some C code for doing UTF-8 so they copied my JS browser shim for Node’s Buffer encoding.
+    Just replaced ‘var’ with ‘unsigned char’ or something.
+    ‘How well do you know C?’
+    Well someone copied my JS code into their C program and it worked, does that count?
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+  - JavaScript
