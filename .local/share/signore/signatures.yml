@@ -9280,15 +9280,6 @@ signatures:
   source: pl.misc.samochody
   tags:
   - pl
-- text: |-
-    ‘I already got the point: you have *very* thin skin.’
-    ‘And either no grasp of paragraphs or a broken enter key.’
-    ‘Actually that's excellent news! If his enter key is broken, there might be hope that the others will break too.’
-  author: Chad Perrin, Sy Ali, Robert Dober
-  source: ruby-talk
-  subject: on Joe Wiltrout
-  tags:
-  - en
 - text: First they ignore you, then they laugh at you, then they fight you, then you
     bitchslap ’em.
   author: opi
@@ -45329,3 +45320,15 @@ signatures:
   author: Adam Broud
   tags:
   - en
+- text: |-
+    To give background on tonight’s frustrations, I am dealing with
+    A) Perl
+    B) Someone else’s Perl
+    C) They’re German
+    D) So are the variables
+  author: Gordy, Pls.
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
