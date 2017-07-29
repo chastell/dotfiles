@@ -45363,3 +45363,9 @@ signatures:
   tags:
   - en
   - tech
+- text: This book on parsing is more salty than I was expecting; ‘the intermediate
+    symbols are called non-terminals, a singularly uninspired term’.
+  author: James Coglan
+  tags:
+  - en
+  - tech
