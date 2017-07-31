@@ -45383,3 +45383,13 @@ signatures:
   author: "@AndriErlingsson"
   tags:
   - en
+- text: |-
+    [brain "meme"]
+    small = ini
+    normal = json
+    large = yaml
+    cosmic = ini
+  author: James Coglan
+  tags:
+  - en
+  - tech
