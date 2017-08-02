@@ -45398,3 +45398,9 @@ signatures:
   author: Dwayne David Paul
   tags:
   - en
+- text: Who called it ‘static analysis’ and not ‘ahead-of-time complainer’?
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
