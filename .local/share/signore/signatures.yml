@@ -45409,3 +45409,13 @@ signatures:
   author: Avdi Grimm
   tags:
   - en
+- text: |-
+    what I think I do
+        [l ↦ v2] (μ, l ↦ v1) = (μ, l ↦ v2)
+    what I actually do
+        (a long yaml file)
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
