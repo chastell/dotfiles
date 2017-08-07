@@ -45428,3 +45428,13 @@ signatures:
   tags:
   - en
   - politics
+- text: |-
+    ‘What’s the next best Big Thing for Haskell after dependent types?’
+    ‘Users.’
+    ‘Oh.’
+  author: so_just, flightlessbird
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
