@@ -45438,3 +45438,9 @@ signatures:
   - tech
   - programming
   - Haskell
+- text: |-
+    ‘There’s a bug in Windows where if your language is set to Norwegian your battery drains faster.’
+    ‘It also used to hang when you wrote “Suwałki” in Word. For years.’
+  author: "@rehemiau, Hubert Łępicki"
+  tags:
+  - en
