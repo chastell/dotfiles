@@ -45449,3 +45449,16 @@ signatures:
   author: James Melville
   tags:
   - en
+- text: |-
+    wife: this is really your idea of an anniversary present?
+    me: [on the other walkie talkie] you didn’t say over, over
+  author: "@KeetPotato"
+  tags:
+  - en
+- text: |-
+    No, *you* spent a whole day looking for systemic causes of production DB load when really it was just a single 27 hour query.
+    Still, the real treasure was the queries we optimized along the way.
+  author: Simon Coffey
+  tags:
+  - en
+  - tech
