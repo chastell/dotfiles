@@ -2,9 +2,13 @@ source /etc/skel/.bashrc
 
 ANSIBLE_COW_SELECTION=random
 
+CAKEROOT=$HOME/.cake
+
 HISTCONTROL=erasedups
 HISTFILESIZE=20000000
 HISTSIZE=10000000
+
+PATH=$PATH:$CAKEROOT/bin:$HOME/.cargo/bin
 
 PROMPT_COMMAND="history -a; history -r; $PROMPT_COMMAND"
 PROMPT_DIRTRIM=3
