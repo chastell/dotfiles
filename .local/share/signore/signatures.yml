@@ -45467,3 +45467,11 @@ signatures:
   tags:
   - de
   - tech
+- text: 'Modern command line styles: GNU, Unix and ‘this is a Java program, we do
+    whatever the hell we want’.'
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
+  - Java
