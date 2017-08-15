@@ -45488,3 +45488,10 @@ signatures:
   tags:
   - en
   - tech
+- text: We think awful code is written by awful devs. But in reality, it’s written
+    by reasonable devs in awful circumstances.
+  author: Sarah Mei
+  tags:
+  - en
+  - tech
+  - programming
