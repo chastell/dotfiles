@@ -45506,3 +45506,8 @@ signatures:
   author: Aaron Patterson
   tags:
   - en
+- text: Here at Acme we do 8 hours pomodoros
+  author: Wojtek Kruszewski
+  tags:
+  - en
+  - tech
