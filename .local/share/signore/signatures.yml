@@ -45592,3 +45592,11 @@ signatures:
   tags:
   - en
   - tech
+- text: Being disappointed by typed languages after using TypeScript is like being
+    disappointed by Japanese food after gas station sushi.
+  author: Justin Woo
+  tags:
+  - en
+  - tech
+  - programming
+  - TypeScript
