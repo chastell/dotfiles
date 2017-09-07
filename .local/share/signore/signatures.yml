@@ -45643,3 +45643,10 @@ signatures:
   author: Tami Cru
   tags:
   - en
+- text: "*So* many sins of programming start with, ‘I’m trying to avoid the need to
+    pass this to every function that needs it’."
+  author: James Edward Gray II
+  tags:
+  - en
+  - tech
+  - programming
