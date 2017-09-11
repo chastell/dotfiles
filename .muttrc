@@ -107,7 +107,7 @@ macro index,pager ga '<change-folder>~/Gmail/~arch<enter>'
 macro index,pager gd '<change-folder>=[Gmail]/Drafts<enter>'
 macro index,pager gi '<change-folder>=INBOX<enter>'
 macro index,pager gt '<change-folder>=[Gmail]/Sent%20Mail<enter>'
-macro index,pager G  '<shell-escape>offlineimap -f ~arch<enter>'
+macro index,pager G  '<enter-command>unset wait_key<enter><shell-escape>offlineimap -f ~arch<enter>'
 macro index,pager H  '<save-message>=INBOX<enter><enter>'
 macro index,pager S  '<save-message>=[Gmail]/Spam<enter><enter>'
 
