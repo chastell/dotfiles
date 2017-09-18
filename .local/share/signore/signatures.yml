@@ -45724,3 +45724,11 @@ signatures:
   author: Fro Vo
   tags:
   - en
+- text: |-
+    ‘Yeah – there’s already a user legend for that.’
+    ‘A what?’
+    ‘A user legend. It’s like a user story, but for stuff we know will never happen.’
+  author: Dylan Beattie
+  tags:
+  - en
+  - tech
