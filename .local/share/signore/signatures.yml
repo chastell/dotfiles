@@ -7287,15 +7287,6 @@ signatures:
   tags:
   - en
   - reading
-- text: Ask a deeply religious Christian if he’d rather live next to a bearded Muslim
-    that may or may not be plotting a terror attack, or an atheist that may or may
-    not show him how to set up a wireless network in his house. On the scale of prejudice,
-    atheists don’t seem so bad lately.
-  author: Scott Adams
-  tags:
-  - en
-  - religion
-  - atheism
 - text: |-
     Camels and llamas and hashes and scalars
     Cute little modules talking to mailers
@@ -45749,3 +45740,11 @@ signatures:
   author: Matthew Yglesias
   tags:
   - en
+- text: "‘You may need to transpile the CoffeeScript compiler’s output.’ There were
+    not enough layers."
+  author: Matijs van Zuijlen
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
