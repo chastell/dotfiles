@@ -9,42 +9,30 @@ Plugin 'DataWraith/auto_mkdir'
 Plugin 'bogado/file-line'
 Plugin 'cespare/vim-toml'
 Plugin 'craigemery/vim-autotag'
-Plugin 'dyng/ctrlsf.vim'
+Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'ecomba/vim-ruby-refactoring'
 Plugin 'ekalinin/Dockerfile.vim'
 Plugin 'ervandew/supertab'
 Plugin 'godlygeek/tabular'
-Plugin 'henrik/git-grep-vim'
 Plugin 'janko-m/vim-test'
-Plugin 'jeffkreeftmeijer/vim-numbertoggle'
 Plugin 'kana/vim-textobj-user'
-Plugin 'kchmck/vim-coffee-script'
-Plugin 'kien/ctrlp.vim'
-Plugin 'majutsushi/tagbar'
-Plugin 'mazubieta/gitlink-vim'
 Plugin 'mudge/runspec.vim'
-Plugin 'mustache/vim-mustache-handlebars'
 Plugin 'nelstrom/vim-textobj-rubyblock'
-Plugin 'reedes/vim-textobj-quote'
 Plugin 'rhysd/vim-crystal'
 Plugin 'rstacruz/vim-closer'
 Plugin 'scrooloose/nerdtree'
 Plugin 'scrooloose/syntastic'
 Plugin 'slim-template/vim-slim'
-Plugin 'terryma/vim-multiple-cursors'
-Plugin 'tpope/vim-abolish'
 Plugin 'tpope/vim-bundler'
 Plugin 'tpope/vim-commentary'
 Plugin 'tpope/vim-endwise'
 Plugin 'tpope/vim-fugitive'
-Plugin 'tpope/vim-rails'
 Plugin 'tpope/vim-repeat'
 Plugin 'tpope/vim-surround'
 Plugin 'tpope/vim-unimpaired'
 Plugin 'vim-ruby/vim-ruby'
 Plugin 'vim-scripts/matchit.zip'
 Plugin 'vim-scripts/visSum.vim'
-Plugin 'wting/rust.vim'
 
 Plugin 'tpope/vim-markdown'
 Plugin 'jtratner/vim-flavored-markdown'
@@ -86,7 +74,6 @@ nnoremap <c-k>      <c-w>k
 nnoremap <c-l>      <c-w>l
 nnoremap <leader>b  :CtrlPBuffer<enter>
 nnoremap <leader>f  :CtrlPTag<enter>
-nnoremap <leader>g  :TagbarToggle<enter>
 nnoremap <leader>n  :NERDTreeToggle<enter>
 nnoremap <leader>p  gqip
 nnoremap <leader>t= :Tab /=<enter>
@@ -168,9 +155,6 @@ let g:instant_markdown_autostart = 0
 
 " nerdtree
 let NERDTreeQuitOnOpen = 1
-
-" tagbar
-let g:tagbar_autoclose = 1
 
 " fake '|' as text object
 nnoremap ca\| F\|c,
