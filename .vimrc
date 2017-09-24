@@ -16,6 +16,7 @@ Plugin 'ervandew/supertab'
 Plugin 'godlygeek/tabular'
 Plugin 'janko-m/vim-test'
 Plugin 'kana/vim-textobj-user'
+Plugin 'leshill/vim-json'
 Plugin 'mudge/runspec.vim'
 Plugin 'nelstrom/vim-textobj-rubyblock'
 Plugin 'rhysd/vim-crystal'
@@ -37,6 +38,9 @@ Plugin 'vim-scripts/visSum.vim'
 Plugin 'tpope/vim-markdown'
 Plugin 'jtratner/vim-flavored-markdown'
 Plugin 'suan/vim-instant-markdown'
+
+Plugin 'pangloss/vim-javascript'
+Plugin 'mxw/vim-jsx'
 call vundle#end()
 filetype plugin indent on
 
@@ -152,6 +156,10 @@ let g:ctrlp_working_path_mode = 0
 
 " instant-markdown
 let g:instant_markdown_autostart = 0
+
+" javascript
+let g:javascript_plugin_flow = 1
+let g:jsx_ext_required = 0
 
 " nerdtree
 let NERDTreeQuitOnOpen = 1
