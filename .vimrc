@@ -89,7 +89,7 @@ vnoremap p          pgvy
 " options
 set autoindent
 set backspace=indent,eol,start
-" set breakindent
+set breakindent
 set completeopt=menu,longest
 set cursorline
 set directory=/tmp//
