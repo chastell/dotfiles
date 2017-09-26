@@ -151,7 +151,7 @@ let g:ctrlp_extensions        = ['tag']
 let g:ctrlp_match_window      = 'bottom,order:ttb'
 let g:ctrlp_switch_buffer     = 0
 let g:ctrlp_use_caching       = 0
-let g:ctrlp_user_command      = 'ag %s --files-with-matches --ignore tags --ignore tmp --nocolor -g ""'
+let g:ctrlp_user_command      = 'ag %s --files-with-matches --ignore node_modules --ignore tags --ignore tmp --nocolor -g ""'
 let g:ctrlp_working_path_mode = 0
 
 " instant-markdown
@@ -160,6 +160,8 @@ let g:instant_markdown_autostart = 0
 " javascript
 let g:javascript_plugin_flow = 1
 let g:jsx_ext_required = 0
+let g:syntastic_javascript_checkers = ['eslint']
+let g:syntastic_javascript_eslint_exe = 'yarn lint --'
 
 " nerdtree
 let NERDTreeQuitOnOpen = 1
