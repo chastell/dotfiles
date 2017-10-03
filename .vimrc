@@ -166,6 +166,12 @@ let g:syntastic_javascript_eslint_exe = 'yarn lint --'
 " nerdtree
 let NERDTreeQuitOnOpen = 1
 
+" better undo in long streams of text
+inoremap . .<c-g>u
+inoremap ? ?<c-g>u
+inoremap ! !<c-g>u
+inoremap , ,<c-g>u
+
 " fake '|' as text object
 nnoremap ca\| F\|c,
 nnoremap ci\| T\|c,
