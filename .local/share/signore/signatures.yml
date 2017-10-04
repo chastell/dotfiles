@@ -45810,3 +45810,11 @@ signatures:
   author: "@priyavprabhakar"
   tags:
   - en
+- text: 'Current #rustfest talk title is the best static typing title I’ve ever seen:
+    ‘A hammer you can only hold by the handle’.'
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
