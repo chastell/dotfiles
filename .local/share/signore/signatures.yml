@@ -45842,3 +45842,10 @@ signatures:
   author: opi
   tags:
   - en
+- text: GitHub’s JS:Ruby ratio is 1.75 to 1, but for ‘24 * 60 * 60’ it’s 18.5 to 1.
+    The PHP:Ruby ratio is 0.58 to 1, but for ‘86400’ it’s 5.34 to 1.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
