@@ -45854,3 +45854,16 @@ signatures:
   author: Filip Tepper
   tags:
   - en
+- text: |-
+    THEY USED A HASH
+    They used a SHA1 hash
+    A SHA1 HASH
+    Implemented in Flash
+    A SHA1 HASH
+    It was easy to smash
+    A SHA1 HASH
+    Now I got all your cash
+  author: "@eevee"
+  tags:
+  - en
+  - tech
