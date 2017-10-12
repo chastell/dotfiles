@@ -45867,3 +45867,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘Please be aware that we are experiencing higher than average call volume.’
+    *connects*
+    Agent: hello!
+    Me (whispering): hello…
+  author: "@psybermonkey"
+  tags:
+  - en
