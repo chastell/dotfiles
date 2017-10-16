@@ -14330,7 +14330,7 @@ signatures:
   - religion
 - text: |-
     ‘Recently “fall” has begun to creep in to BrE, and to me it’s welcome as a more poetic word than “autumn” and a better match for “spring”.’
-    ‘Hmmm. How do you remember which way to adjust your clocks when the change to/from Daylight Savings Time comes around? In the US we “*spring* forward and *fall* back”. Do you have a different mnemonic?’
+    ‘Hmmm. How do you remember which way to adjust your clocks when the change to/from Daylight Saving Time comes around? In the US we “*spring* forward and *fall* back”. Do you have a different mnemonic?’
     ‘It tells us in the Radio Times.’
   author: Alan Jones, peter, the Omrud
   source: alt.english.usage
@@ -45902,3 +45902,10 @@ signatures:
   tags:
   - en
   - tech
+- text: 'My son is playing by himself in his room and he is narrating his imaginary
+    play activities in a voice like a French Werner Herzog: ‘We open ze barrel of
+    monkeys, and we find zem all dead inside. Ze worst discovery of all. Who has done
+    zis to zeese monkeys? Who is zis monster?’'
+  author: "@JodiesJumpsuit"
+  tags:
+  - en
