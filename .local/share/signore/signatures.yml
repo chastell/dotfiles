@@ -45923,3 +45923,9 @@ signatures:
   author: James Coglan
   tags:
   - en
+- text: 'Release numbering idea: Merkle tree hash of the signatures of exported functions.'
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
