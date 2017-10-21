@@ -45929,3 +45929,10 @@ signatures:
   - en
   - tech
   - programming
+- text: You know you’re doing good refactoring work when you have to pluralize ‘Antichrists’
+    to describe the existing object model.
+  author: David Brady
+  tags:
+  - en
+  - tech
+  - programming
