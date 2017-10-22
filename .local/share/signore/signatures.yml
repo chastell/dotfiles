@@ -45942,3 +45942,11 @@ signatures:
   author: Ashley C. Ford
   tags:
   - en
+- text: |-
+    ‘But, but…’ I hear you say, ‘how can libc shell out to Perl, when Perl links to libc?!?’
+    Congratulations. You have reached enlightenment.
+  author: Joshua Ballanco
+  tags:
+  - en
+  - tech
+  - Perl
