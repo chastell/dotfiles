@@ -45950,3 +45950,10 @@ signatures:
   - en
   - tech
   - Perl
+- text: "‘This problem is NPM-complete.’"
+  author: Ricardo Mendes
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
