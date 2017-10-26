@@ -45976,3 +45976,12 @@ signatures:
   tags:
   - en
   - work
+- text: |-
+    Japanese is easy y’all:
+    kore, sore, dore = this, that, which
+    kono, sono, dono = this, that, which
+    koitsu, soitsu, doitsu = this, that, Germany
+  author: "@ronsenburger"
+  tags:
+  - en
+  - linguistics
