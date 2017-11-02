@@ -28178,12 +28178,6 @@ signatures:
   tags:
   - en
   - copyright
-- text: Azul moon, tu que lefto mi standingero alone. Without con un dreamo en mi
-    corazon, without un amore que just para mi.
-  author: "@ElBloombito"
-  tags:
-  - en
-  - lyrics
 - text: |-
     My two year-old just locked herself out of a room, went after an Allen key in our garage, and triggered the release inside the lock.
     She came out folding up the Allen key and yelling, ‘I got it!’
@@ -46019,5 +46013,12 @@ signatures:
     I’m seeing twenty-year-olds saying Stranger Things is unrealistic because parents would never let you be gone that long.
     Poor little bastards.
   author: Jessica Ellis
+  tags:
+  - en
+- text: 'One of my fave easter eggs in Black&White 1: we recorded, for every language,
+    the most popular 10 or so names as a spooky whisper. We then fuzzy matched this
+    against your Windows login name, PC name, creature name, etc. and triggered the
+    voices if you played after midnight.'
+  author: "@mmalex"
   tags:
   - en
