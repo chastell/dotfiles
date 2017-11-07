@@ -46043,3 +46043,16 @@ signatures:
   author: Alice Maz
   tags:
   - en
+- text: |-
+    Async await
+    Async await
+    Async await
+    Async await
+    In the jungle
+    The mighty jungle
+    The lion sleeps tonight.
+  author: Ignasi Marimon-Clos
+  tags:
+  - en
+  - tech
+  - JavaScript
