@@ -1,4 +1,6 @@
+/home/**/node_modules
 /home/*/.cache
+/home/*/.config/chromium/*/Extensions
 /home/*/.gem
 /home/*/.npm
 /home/*/.rubies
