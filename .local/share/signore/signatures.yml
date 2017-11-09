@@ -9605,13 +9605,6 @@ signatures:
   - en
   - tech
   - BSDM
-- text: "‘Who played Luke Skywalker?’ is a simple question I use to decide whether
-    to sleep with you or your mother."
-  author: Mark Pilgrim
-  tags:
-  - en
-  - sex
-  - Star Wars
 - text: Suppose He doesn’t give a shit? Suppose there is a God but He just doesn’t
     give a shit?
   author: George Carlin
@@ -46056,3 +46049,9 @@ signatures:
   - en
   - tech
   - JavaScript
+- text: 'Naming things is not so hard: If it’s unclear what your class does or will
+    do in the future, you call it ‘Manager’. Just like in real life.'
+  author: Reiner Pittinger
+  tags:
+  - en
+  - tech
