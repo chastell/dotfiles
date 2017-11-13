@@ -46076,3 +46076,9 @@ signatures:
   tags:
   - en
   - tech
+- text: I may or may not just have explained WebAssembly to my landlord.
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - WebAssembly
