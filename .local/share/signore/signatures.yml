@@ -46095,3 +46095,13 @@ signatures:
   author: Hilary Hughes, Bob Corrigan
   tags:
   - en
+- text: |-
+    ehhhhhh
+    *chews carrot*
+    $ rustup doc
+  author: "@minty_da"
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
