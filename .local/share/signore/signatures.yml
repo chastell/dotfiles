@@ -46105,3 +46105,10 @@ signatures:
   - tech
   - programming
   - Rust
+- text: A type system is is the set of tests a language designer could come up with
+    knowing nothing about your program.
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
