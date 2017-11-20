@@ -46125,3 +46125,11 @@ signatures:
   author: Alec Robbins
   tags:
   - en
+- text: |-
+    a stream is just an array arranged in time
+    a promise is just a null pointer arranged in time
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
