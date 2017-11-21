@@ -1,1 +1,1 @@
-COMMAND chromium-browser %s
+COMMAND firefox %s
