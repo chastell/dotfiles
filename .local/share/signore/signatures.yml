@@ -46133,3 +46133,10 @@ signatures:
   - en
   - tech
   - programming
+- text: 'Strange Loop 2016 game: how many times can you say ‘dependent types parameterized
+    by the system clock’ and run away before they realize?'
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
