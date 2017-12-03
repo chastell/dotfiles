@@ -23896,16 +23896,6 @@ signatures:
   - programming
   - Python
   - Ruby
-- text: Ruby files end in a .rb extension, much like Python files end in a .py extension
-    or Java files end in suicide.
-  author: Sean Marcia
-  tags:
-  - en
-  - tech
-  - programming
-  - Python
-  - Ruby
-  - Java
 - text: Tell someone you love them today, because life is short. But SHOUT it at them
     in German, because life is also terrifying and confusing.
   author: Matt Suddain
@@ -46223,3 +46213,8 @@ signatures:
   tags:
   - en
   - tech
+- text: SIEDZĄC NA BALKONIE ZRUJNOWANEJ WILLI PIECZESZ UDZIEC CEO STARTUPU NA OGNISKU
+    Z KSIĄŻEK ANDRZEJA PILIPIUKA
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
