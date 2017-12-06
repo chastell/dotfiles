@@ -10557,10 +10557,6 @@ signatures:
   tags:
   - en
   - literature
-- text: "„Zostańmy przyjaciółmi” brzmi jak „twój kot zdechł, ale możesz go zatrzymać”."
-  tags:
-  - pl
-  - relationships
 - text: "‘Among those interviewed were his two ex-wives, Kris Kristofferson and Robert
     Duvall.’ That’s what you get with no Oxford comma."
   author: Amanda French
@@ -42813,7 +42809,7 @@ signatures:
 - text: |-
     *WYJMUJE Z TORBY: ŚRUBOKRĘT, LUTOWNICĘ I PODZESPOŁY*
     „NIE PALĘ TEGO GOTOWEGO SZAJSU. WŁASNE LEPIEJ SMAKUJĄ.”
-    *ZACZYNA MONTOWAĆ E-PAPIEROSA
+    *ZACZYNA MONTOWAĆ E-PAPIEROSA*
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
@@ -46227,3 +46223,7 @@ signatures:
   - tech
   - programming
   - Ruby
+- text: Find what you love and pay partial attention to it while checking your phone.
+  author: Melissa Broder
+  tags:
+  - en
