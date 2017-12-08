@@ -31556,6 +31556,7 @@ signatures:
   author: Dave Fayram
   tags:
   - en
+  - tech
   - programming
 - text: |-
     Happiness is finding 301 GB of deletable files on an uncomfortably full server.
@@ -46230,6 +46231,11 @@ signatures:
 - text: When you ask people the difference between Kubernetes and Scrum they get really
     mad.
   author: Sara J. Chipps
+  tags:
+  - en
+  - tech
+- text: "(cons idered harmful)"
+  author: Steve Klabnik
   tags:
   - en
   - tech
