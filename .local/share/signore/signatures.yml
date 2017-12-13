@@ -38267,7 +38267,7 @@ signatures:
   tags:
   - en
   - tech
-- text: When people say ‘politics’ just append ‘that I don’t agree with’ o the end.
+- text: When people say ‘politics’ just append ‘that I don’t agree with’ to the end.
     Politics you DO agree with is ‘just telling it like it is’.
   author: "@cargoweasel"
   tags:
@@ -46272,3 +46272,10 @@ signatures:
   source: An Event Apart Denver
   tags:
   - en
+- text: |-
+    ‘I see in your CV that you have experience with kubernetes.’
+    [Shit, I have to make something up quick] ‘Well, in fact it was just one kubernete, and a not very big one, but I got to learn the basics!’
+  author: Sergio Gil
+  tags:
+  - en
+  - tech
