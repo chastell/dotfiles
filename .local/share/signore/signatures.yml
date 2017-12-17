@@ -46303,3 +46303,12 @@ signatures:
   author: James Coglan
   tags:
   - en
+- text: |-
+    The safest program is the program that doesn’t compile.
+    — ancient Rust proverb
+  author: Manish Earth
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
