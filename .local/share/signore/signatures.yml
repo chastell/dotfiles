@@ -46319,3 +46319,10 @@ signatures:
   - tech
   - programming
   - CSS
+- text: GraphQL will replace REST in the same way MongoDB replaced PostgreSQL.
+  author: Tom Dale
+  tags:
+  - en
+  - tech
+  - GraphQL
+  - PostgreSQL
