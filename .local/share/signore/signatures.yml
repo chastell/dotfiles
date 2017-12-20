@@ -46326,3 +46326,15 @@ signatures:
   - tech
   - GraphQL
   - PostgreSQL
+- text: |-
+    To me one of the most jarring things about learning C was the idea that your program needs protecting from itself.
+    In higher level languages it’s all, validate and canonicalise at the edge, and then your internals are trustworthy.
+    In C it’s like TRUST NOBODY NOT EVEN YOUR OWN HEADER FILES.
+    In web apps your attack surface is mostly at the edge – validating input and encoding output.
+    In C your attack surface is your entire codebase.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - C
