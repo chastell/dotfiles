@@ -46345,3 +46345,14 @@ signatures:
   author: Ariane Sherine
   tags:
   - en
+- text: |-
+    History of Ethereum’s main struggles:
+    1. newbie race condition in the DAO
+    2. arbitrary methods exposed in parity multisig (no whitelist)
+    3. a newbie accidentally freezes $300m
+    4. virtual cats render network unusable
+    world computer ¯\_(ツ)_/¯
+  author: Egor Homakov
+  tags:
+  - en
+  - cryptocurrencies
