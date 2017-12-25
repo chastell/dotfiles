@@ -46361,3 +46361,13 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: |-
+    I’m on hold while someone at Barclaycard subtracts two numbers.
+    They actually did this by counting out loud from one date to another.
+    Me: Your cash interest makes no sense.
+    Person 1: It works like X.
+    Person 2: It works like Y.
+    Me: Yes.
+  author: James Coglan
+  tags:
+  - en
