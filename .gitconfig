@@ -25,6 +25,7 @@
 
 [diff]
   algorithm = patience
+  colorMoved = zebra
   tool = icdiff
 
 [difftool]
