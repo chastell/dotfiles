@@ -44940,7 +44940,7 @@ signatures:
   - en
 - text: |-
     BATMAN: There’s a new villain in Gotham. He calls himself Worm-man.
-    ROBIN: {Trying to contain excitement} I— I could probably take this one.
+    ROBIN: *trying to contain excitement* I— I could probably take this one.
   author: "@AndrewNadeau0"
   tags:
   - en
@@ -46451,3 +46451,9 @@ signatures:
   author: "@Skyemachine"
   tags:
   - en
+- text: In the end, I’m just a girl standing in front of a boy, hoping he will come
+    closer to me so he’s within range of my badge cloner…
+  author: Jek Hyde
+  tags:
+  - en
+  - tech
