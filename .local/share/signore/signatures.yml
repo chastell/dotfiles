@@ -46512,3 +46512,11 @@ signatures:
   author: "@HyruleWilds"
   tags:
   - en
+- text: I remember the first time I wrote code nobody else on my team could write,
+    and thinking I was so smart. Then I tried to write code anybody else could read,
+    and the rest of my career began.
+  author: David Brady
+  tags:
+  - en
+  - tech
+  - programming
