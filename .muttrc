@@ -52,12 +52,14 @@ ignore X-BeenThere:
 ignore X-Cam-
 ignore X-Campaign:
 ignore X-Content-Filtered-By:
+ignore X-Country-Path:
 ignore X-Feedback-ID:
 ignore X-Forwarded-For: X-Forwarded-To:
+ignore X-GBUdb-Analysis:
 ignore X-Get-Message-Sender-Via:
 ignore X-GitHub-Reason: X-GitHub-Recipient: X-GitHub-Recipient-Address: X-GitHub-Sender:
 ignore X-Gm-Message-State:
-ignore X-Google-DKIM-Signature: X-Google-Group-Id: X-Google-Original-Date: X-Google-Original-Message-ID: X-Google-Sender-Auth:
+ignore X-Google-DKIM-Signature: X-Google-Group-Id: X-Google-Original-Date: X-Google-Original-Message-ID: X-Google-Sender-Auth: X-Google-Smtp-Source:
 ignore X-Greylist:
 ignore X-HubSpot-MID:
 ignore X-MC-User:
@@ -71,6 +73,7 @@ ignore X-Mailgun-
 ignore X-Mailman-Approved-At: X-Mailman-Version:
 ignore X-Mandrill-User:
 ignore X-Netart-T:
+ignore X-Note
 ignore X-Onet-PMQ:
 ignore X-Orchestra-
 ignore X-Original-Authentication-Results: X-Original-Sender:
@@ -78,18 +81,21 @@ ignore X-OriginalArrivalTime:
 ignore X-Originating-Email: X-Originating-IP:
 ignore X-OriginatorOrg:
 ignore X-PMX-
+ignore X-Policy:
 ignore X-Powered-BY:
 ignore X-Priority:
+ignore X-Primary:
 ignore X-Received:
 ignore X-Receiver:
 ignore X-Removed-Original-Auth:
 ignore X-Report-Abuse:
 ignore X-SG-EID: X-SG-ID:
 ignore X-Sender:
+ignore X-Signature-Violations:
 ignore X-Source: X-Source-Args: X-Source-Dir:
 ignore X-Spam: X-Spam-Flag: X-Spam-Level: X-Spam-Score: X-Spam-Status:
 ignore X-TMN:
-ignore X-Virus-Scanned:
+ignore X-Virus-Scan
 ignore X-WP-
 ignore X-X-Forwarded-For:
 ignore X-YMail-OSG:
