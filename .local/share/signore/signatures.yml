@@ -46564,3 +46564,12 @@ signatures:
   author: Tiffany Conroy
   tags:
   - en
+- text: 'Security warning: it is possible, under certain conditions, to read some
+    bits of information from a LaTeX error message, which in a low but nonnegligible
+    fraction of circumstances could theoretically be used by an attacker to figure
+    out why the build failed.'
+  author: Chris Martin
+  tags:
+  - en
+  - tech
+  - LaTeX
