@@ -5647,10 +5647,6 @@ signatures:
   tags:
   - en
   - food
-- text: Sometimes I think British subtlety doesn’t scale.
-  author: Giles Bowkett
-  tags:
-  - en
 - text: You’ve got a syntax error somewhere in your code. It could be around line
     15. Good luck finding it.
   source: Atul’s Mini-C Compiler
@@ -13337,11 +13333,6 @@ signatures:
   - en
   - social media
   - work
-- text: A true gentleman is one who can play the bagpipes – and doesn’t.
-  author: R. Acket
-  tags:
-  - en
-  - music
 - text: |-
     ‘I hate everyone.’
     ‘Hate can’t change the past.’
@@ -40331,12 +40322,6 @@ signatures:
   tags:
   - en
   - politics
-- text: John Williams is the king of the melody. He finds one, subjugates it, then
-    flogs it repeatedly until it dies like a filthy peasant.
-  author: Zed Shaw
-  tags:
-  - en
-  - music
 - text: Knowing a situation has become drastically out of hand when someone says ‘come
     on, there’s no need for that’.
   author: Very British Problems
@@ -46597,3 +46582,9 @@ signatures:
   author: "@PaperFury"
   tags:
   - en
+- text: CZOŁEM MILI! NA POCZĄTKU ODCINKA CHCĘ PRZEPROSIĆ WSZYSTKICH URAŻONYCH MOIM
+    NIEDAWNYM *ZAKŁÓCENIA* OBRONĘ MOGĘ TYLKO *SZUMY* OŁTARZ W JASKINI WYGLĄDAŁ NA
+    STARY I *ZAKŁÓCENIA* A JAKIE WY MACIE NAJLEPSZE PATENTY NA KRYJÓWKI?
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
