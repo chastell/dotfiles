@@ -46610,3 +46610,11 @@ signatures:
   author: Casey Kolderup
   tags:
   - en
+- text: Had a git merge conflict in my Rust project. Searched for `>>>>>>>` to find
+    the conflicted lines, but found several types instead.
+  author: Frank McSherry
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
