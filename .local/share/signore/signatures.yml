@@ -14432,7 +14432,7 @@ signatures:
   author: Greg Knauss
   tags:
   - en
-- text: Feeling lazier than the guy who made the Polish flag.
+- text: Feeling lazier than the person who made the Polish flag.
   tags:
   - en
   - work
@@ -46618,3 +46618,9 @@ signatures:
   - tech
   - programming
   - Rust
+- text: Until you have backups, you don’t have a database. What you have is a prolonged
+    period of optimism.
+  author: Laurie Voss
+  tags:
+  - en
+  - tech
