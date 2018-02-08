@@ -46660,3 +46660,13 @@ signatures:
   author: "@hirojin, @shellycoen"
   tags:
   - en
+- text: |-
+    Haskell standup: Yesterday I extracted and cleaned up that gnarly DB connection code, and updated 5 apps to use it. Deployed without issues.
+    Ruby retro: I sorted the require statements and spent the week debugging the fallout.
+  author: pat brisbin
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
+  - Ruby
