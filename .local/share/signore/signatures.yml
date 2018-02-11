@@ -46685,3 +46685,12 @@ signatures:
   author: Brandy Jensen
   tags:
   - en
+- text: |-
+    Roses are red
+    Violets are blue
+    Unexpected '{' on line 32
+  author: Kelly Vaughn
+  tags:
+  - en
+  - tech
+  - programming
