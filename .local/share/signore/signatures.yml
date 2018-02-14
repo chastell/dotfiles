@@ -42662,9 +42662,9 @@ signatures:
   author: Ben Lovell
   tags:
   - en
-- text: |-
-    Have you ever spent your entire childhood thinking you would burn in hell for all eternity?
-    Magark
+- text: Have you ever spent your entire childhood thinking you would burn in hell
+    for all eternity?
+  author: Mark Magark
   tags:
   - en
   - religion
@@ -46706,3 +46706,11 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    Remember there is no such thing as ethically neutral software development, and that the entire purpose of software is to be a force multiplier for *some* human goal.
+    So choose who you work for and what you work on wisely!
+  author: Gregory Brown
+  tags:
+  - en
+  - tech
+  - programming
