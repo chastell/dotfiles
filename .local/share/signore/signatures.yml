@@ -46723,3 +46723,10 @@ signatures:
   - en
   - work
   - parenting
+- text: |-
+    $ ls /Volumes | say
+    well, this just speaks volumes
+  author: James Coglan
+  tags:
+  - en
+  - tech
