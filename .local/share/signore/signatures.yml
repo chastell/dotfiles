@@ -46750,3 +46750,12 @@ signatures:
   author: Matt Adereth
   tags:
   - en
+- text: |-
+    ‘Very few realize how much the software development world has been influenced over the last 20 years by the infiltration of former Smalltalk programmers into key communities.’
+    ‘CamelCase is popular because it’s part of OOP culture, which was shaped by Smalltalk, which used CamelCase because it does not allow _ in identifiers, because it used an early version of ASCII which had a left-pointing arrow instead of _, and it used the arrow for assignment.’
+  author: Allen Wirfs-Brock, Tony Finch
+  tags:
+  - en
+  - tech
+  - programming
+  - Smalltalk
