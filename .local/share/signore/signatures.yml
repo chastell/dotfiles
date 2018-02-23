@@ -46765,3 +46765,13 @@ signatures:
   - en
   - tech
   - Unicode
+- text: |-
+    And another one’s gone
+    And another one’s gone
+    Another one writes in Rust
+  author: Coraline Ada Ehmke
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
