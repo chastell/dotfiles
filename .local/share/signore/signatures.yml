@@ -46775,3 +46775,15 @@ signatures:
   - tech
   - programming
   - Rust
+- text: |-
+    New environment names:
+    * dev’s laptop => my-mind
+    * CI build server => theory
+    * staging => practice
+    * demo => paper
+    * production => reality
+    FOO-345 worked in my-mind & in theory there were some issues in practice. customer saw it on paper & complains it doesn’t work in reality.
+  author: Stephen Connolly
+  tags:
+  - en
+  - tech
