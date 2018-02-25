@@ -46787,3 +46787,14 @@ signatures:
   tags:
   - en
   - tech
+- text: 'OH: This problem has so many different implications that it is possible to
+    be in all five stages of grief at once.'
+  author: David Brady
+  tags:
+  - en
+- text: A distributed programming language that implements lambdas by using Kubernetes
+    containers.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
