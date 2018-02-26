@@ -46803,3 +46803,11 @@ signatures:
   author: "@nieboszczyk1"
   tags:
   - pl
+- text: |-
+    I think we should estimate development tasks using dice notation: ‘That feels like 2d4+2 to me.’
+    (The point is *not* to roll the dice for the actual estimate; rather, the estimate is specified in terms of probability. It has clear lower and upper bounds, plus the more dice you use, the stronger the clustering around the mean, which indicates more confidence in the estimate.)
+  author: Glenn Vanderburg
+  tags:
+  - en
+  - tech
+  - programming
