@@ -46821,3 +46821,12 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    ---
+    yaml: no
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - YAML
