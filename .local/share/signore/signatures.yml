@@ -46844,3 +46844,10 @@ signatures:
   - tech
   - programming
   - Ruby
+- text: I heard that people started writing parallel programs using Ethereum because
+    they were sick of fiat concurrency.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
