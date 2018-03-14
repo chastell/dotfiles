@@ -46909,3 +46909,10 @@ signatures:
   tags:
   - en
   - tech
+- text: 'A simple rule I follow when working on legacy code: Honor the coder and their
+    code. The constraints they endured are not mine to know.'
+  author: Woody Zuill
+  tags:
+  - en
+  - tech
+  - programming
