@@ -1,5 +1,6 @@
 /home/**/node_modules
 /home/*/.cache
+/home/*/.config/Slack/Cache
 /home/*/.config/chromium/*/Extensions
 /home/*/.gem
 /home/*/.npm
