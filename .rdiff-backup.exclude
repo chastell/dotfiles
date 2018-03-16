@@ -13,3 +13,4 @@
 /usr
 /var/cache
 /var/lib/docker
+/var/lib/postgresql
