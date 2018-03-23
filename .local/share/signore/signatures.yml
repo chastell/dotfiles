@@ -46984,3 +46984,12 @@ signatures:
   author: Eliza Skinner
   tags:
   - en
+- text: |-
+    ‘Errors are just conditions we refuse to take seriously.’
+    ‘Input or output?’
+    ‘Yes.’
+  author: Michael Feathers, Daneel3001
+  tags:
+  - en
+  - tech
+  - programming
