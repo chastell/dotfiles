@@ -46993,3 +46993,9 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    ‘I think Microsoft Flight Simulator was a really good pilot program.’
+    ‘I heard it really took off.’
+  author: Aaron Patterson, Ben Hyrman
+  tags:
+  - en
