@@ -47013,3 +47013,10 @@ signatures:
   author: Florian Gilcher
   tags:
   - en
+- text: |-
+    Me: Ok time to click this button to get a 2FA SMS
+    Also me: Ooh an SMS I wonder if it’s something interesting
+  author: Matthew Garrett
+  tags:
+  - en
+  - tech
