@@ -47020,3 +47020,19 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    Tech buzzwords explained:
+    AI: regression
+    Big data: data
+    Blockchain: database
+    Algorithm: automated decision-making
+    Cloud: Internet
+    Crypto: cryptocurrency
+    Dark web: Onion service
+    Data science: statistics done by nonstatisticians
+    Disruption: competition
+    Viral: popular
+    IoT: malware-ready device
+  author: Arvind Narayanan
+  tags:
+  - en
