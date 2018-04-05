@@ -47077,3 +47077,13 @@ signatures:
   author: Ryn Daniels
   tags:
   - en
+- text: |-
+    Three stages of memory loss for a system:
+    1. When can we remove this hack?
+    2. Does anyone know why we do this?
+    3. Nobody knows why we do this, so I’m afraid to change it.
+  author: Michael Nygard
+  tags:
+  - en
+  - tech
+  - programming
