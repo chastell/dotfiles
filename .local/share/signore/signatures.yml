@@ -47092,3 +47092,14 @@ signatures:
   author: "@TenderBeefsteak"
   tags:
   - en
+- text: |-
+    8yo: We’re learning to make websites at school.
+    Me: Awesome, are you using Google Sites or something?
+    8yo opens a text editor and types in six valid lines of HTML.
+    Me: …
+    8yo: Dad, why are you crying?
+  author: Ethan White
+  tags:
+  - en
+  - tech
+  - HTML
