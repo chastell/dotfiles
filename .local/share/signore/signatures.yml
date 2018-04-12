@@ -47120,3 +47120,13 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    *takes OpenSSL*
+    *packs clothes*
+    *travels to the highest mountain, where the old wise hermit that only answers a single question lives*
+    ‘Why?’
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - OpenSSL
