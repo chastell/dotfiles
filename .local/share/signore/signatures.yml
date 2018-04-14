@@ -47141,3 +47141,9 @@ signatures:
   author: TechnicallyRon
   tags:
   - en
+- text: shout out to the Internet Explorer 5 non-standard box model that we later
+    all decided was good actually
+  author: James Coglan
+  tags:
+  - en
+  - tech
