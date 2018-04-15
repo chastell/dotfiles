@@ -10842,6 +10842,7 @@ signatures:
   author: opi
   tags:
   - pl
+  - tech
 - text: 753 eksplozje to tylko dowód, że mi się uda.
   author: opi
   tags:
@@ -47153,3 +47154,9 @@ signatures:
   author: Jeremy Gordon
   tags:
   - en
+- text: Retweet if you remember trying to convince Netscape on Unix to interpret ISO-8859-1
+    as Windows-1252, like if you’d forgotten and now hate me.
+  author: Matthew Garrett
+  tags:
+  - en
+  - tech
