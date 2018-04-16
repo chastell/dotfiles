@@ -47160,3 +47160,11 @@ signatures:
   tags:
   - en
   - tech
+- text: "\U0001F9E0: I wonder how many orhpaned nodes there are in this registry’s
+    dependency graph?\n\U0001F64E‍♂️: Be quiet brain, it’s a Saturday!\n\U0001F9E0:
+    It wouldn’t take that long to find out. We’ll just load the whole dataset into
+    Neo4j and then…\n\U0001F926‍♂️"
+  author: Andrew Nesbitt
+  tags:
+  - en
+  - tech
