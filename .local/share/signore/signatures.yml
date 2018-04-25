@@ -47207,3 +47207,12 @@ signatures:
   author: "@ValeeGrrl"
   tags:
   - en
+- text: |-
+    ‘We store only one part of the password in this table for security reasons!’
+    ‘And the other part?’
+    ‘We don’t need it. We only compare the first 8 chars!’
+  author: "@kventil"
+  tags:
+  - en
+  - tech
+  - security
