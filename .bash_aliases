@@ -53,7 +53,7 @@ alias ts='TZ=UTC ruby -e "require \"time\"; puts /^\d+$/.match?(ARGV.first) ? Ti
 alias u8='iconv --from-code=WINDOWS-1250 --to-code=UTF-8'
 alias unfen='mountpoint -q /fenchurch && sudo umount /fenchurch'
 alias v='vlc 2>/dev/null'
-alias vs='ls *.{avi,flv,mov,mp4,webm} 2>/dev/null | while read; do echo $(mediainfo --Inform="Video;%Duration/String3%" "$REPLY") $REPLY; done | sort'
+alias vs='ls *.{avi,flv,mov,mp4,webm} 2>/dev/null | while read; do echo $(mediainfo --Inform="General;%Duration/String3%" "$REPLY") $REPLY; done | sort'
 alias vuvs='vagrant up && vagrant ssh'
 alias wget='wget --content-disposition --continue'
 alias y='cd ~/Desktop && youtube-dl'
