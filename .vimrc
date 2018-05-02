@@ -89,6 +89,7 @@ nnoremap U          :syntax sync fromstart<enter>:redraw!<enter>
 nnoremap Y          Vy
 nnoremap j          gj
 nnoremap k          gk
+vnoremap <leader>gg y:Ggrep <c-r>"<cr>
 vnoremap <leader>t= :Tab /=<enter>
 vnoremap p          pgvy
 
