@@ -47271,3 +47271,11 @@ signatures:
   - tech
   - programming
   - Ruby
+- text: |-
+    ‘I have to say that as a Ruby engineer, working on Kafka has been a real metamorphosis.’
+    ‘You didn’t encounter any large bugs?’
+  author: John Bannister, Jacob Rothstein
+  tags:
+  - en
+  - tech
+  - Kafka
