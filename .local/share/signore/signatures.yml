@@ -47263,3 +47263,11 @@ signatures:
   author: "@Dawn_M_"
   tags:
   - en
+- text: Obviously, there’s a Ruby library that makes non-pipe things pipe-like called
+    Magritte.
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
