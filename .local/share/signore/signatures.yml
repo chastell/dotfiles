@@ -47279,3 +47279,14 @@ signatures:
   - en
   - tech
   - Kafka
+- text: |-
+    Psychologists! You have £5 to spend on your ideal study:
+    • strong theoretical background: £50
+    • preregistered: £100
+    • high statistical power: £250
+    • p = .049: £2
+    • reliable measures: £50
+    • n = 22: £3
+  author: Stuart Ritchie
+  tags:
+  - en
