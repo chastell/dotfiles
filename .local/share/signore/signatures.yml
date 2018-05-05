@@ -47290,3 +47290,15 @@ signatures:
   author: Stuart Ritchie
   tags:
   - en
+- text: KOMPUTER NAWIGACYJNY OD OŚMIU GODZIN TYLKO KRZYCZY KAPITANIE
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
+- text: It seems that every generation needs to learn anew that (a) you probably want
+    a relational database on the back-end and (b) that database should be PostgreSQL.
+  author: Michael Hartl
+  tags:
+  - en
+  - tech
+  - programming
+  - PostgreSQL
