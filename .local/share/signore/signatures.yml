@@ -47302,3 +47302,10 @@ signatures:
   - tech
   - programming
   - PostgreSQL
+- text: Someone has a Git repo where every commit ID begins ‘cafe’ and I’m so mad.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
