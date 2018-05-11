@@ -47332,3 +47332,11 @@ signatures:
   author: Operators Manual
   tags:
   - en
+- text: |-
+    Your original DevOps person left two years ago.
+    IT finally got around to terminating their credentials this morning.
+    Roll 2d6 for how many production services just started throwing errors.
+  author: DM of Engineering
+  tags:
+  - en
+  - tech
