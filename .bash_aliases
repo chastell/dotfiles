@@ -1,6 +1,6 @@
 alias apt-dance='sudo apt update && sudo apt full-upgrade && sudo apt autoremove'
 alias backup-mobile='rsync --archive --delete --delete-excluded --exclude=.thumbnails --exclude=cache --exclude=com.babbel.mobile.android.en --exclude=com.netflix.mediaclient --exclude=com.spotify.music --exclude=podcasts --partial --progress --rsh="ssh -p 2222" admin@192.168.2.150:SDCard/ /luggage/XZ1'
-alias backup-to-fenchurch-luggage='fen && sudo rsync --delete --exclude=/luggage/2del --exclude=/luggage/Gmail --exclude=/luggage/Steam/steamapps/common --exclude=/luggage/docker --links --no-inc-recursive --partial --progress --recursive --times /luggage /fenchurch/desaxe.luggage; unfen'
+alias backup-to-fenchurch-luggage='fen && sudo rsync --delete --exclude=/luggage/2del --exclude=/luggage/Gmail --exclude=/luggage/Steam/steamapps/common --exclude=/luggage/VirtualBox\ VMs --exclude=/luggage/docker --links --no-inc-recursive --partial --progress --recursive --times /luggage /fenchurch/desaxe.luggage; unfen'
 alias backup-to-fenchurch='fen && sudo rdiff-backup --exclude-globbing-filelist ~/.rdiff-backup.exclude --exclude-other-filesystems --exclude-special-files --no-compression --print-statistics --verbosity 5 / /fenchurch/desaxe; unfen'
 alias backup='offlineimap & backup-to-fenchurch && backup-to-fenchurch-luggage'
 alias be='bundle exec'
