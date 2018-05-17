@@ -47384,3 +47384,9 @@ signatures:
   author: Casey Newton
   tags:
   - en
+- text: free as in use-after
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
