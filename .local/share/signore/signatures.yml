@@ -47418,3 +47418,15 @@ signatures:
   author: Iori Kusano
   tags:
   - en
+- text: |-
+    Whenever you feel bad about legacy code, just remember that Apple’s App Store lookup service uses ‘trackName’ field for application names.
+    …and ‘artworkUrl60’ will give you an app icon.
+    Application categories live in ‘genres’ key and developer ID is stored in ‘artistName’.
+    (The last one is, IMO, on point.)
+    So, cheer up!
+  author: Łukasz Korecki
+  tags:
+  - en
+  - tech
+  - programming
+  - Apple
