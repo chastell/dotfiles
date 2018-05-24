@@ -47437,3 +47437,10 @@ signatures:
   author: Jessie Childs
   tags:
   - en
+- text: The album ‘OK Computer’ suggests the existence of a more general album ‘Result
+    Computer’
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
