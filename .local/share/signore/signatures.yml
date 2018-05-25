@@ -47444,3 +47444,11 @@ signatures:
   - en
   - tech
   - programming
+- text: well today I saw somebody overloading `>=` on Ruby procs to implement the
+    monad bind function so I’d say it’s been a good one
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
