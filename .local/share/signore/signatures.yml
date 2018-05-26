@@ -47452,3 +47452,10 @@ signatures:
   - tech
   - programming
   - Ruby
+- text: If it’s hard to write code to understand your code (i.e., unit tests), it’s
+    probably hard to understand your code.
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
