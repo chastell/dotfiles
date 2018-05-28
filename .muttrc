@@ -23,6 +23,7 @@ unignore *
 ignore Accept-Language:
 ignore ARC-
 ignore Authentication-Results:
+ignore Autocrypt:
 ignore Content-Disposition: Content-Language: Content-Length: Content-Transfer-Encoding: Content-Type:
 ignore DKIM-Signature:
 ignore Delivered-To:
