@@ -47543,3 +47543,11 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    Email triage strategy:
+    • Not important: mute
+    • Important: answer immediately
+    • VERY IMPORTANT: wait until I can answer in detail, oh no it’s been a month and I still haven’t answered, oh god it’s been another month, maybe I can change my name and move to Alaska
+  author: Adrienne Porter Felt
+  tags:
+  - en
