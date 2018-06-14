@@ -47584,3 +47584,13 @@ signatures:
   author: Rabbi Danya Ruttenberg
   tags:
   - en
+- text: |-
+    Adding numbers to bigints throws a TypeError?
+    JS: You can arithmetically subtract two strings.
+    Also JS: You cannot add a number to a large number.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
