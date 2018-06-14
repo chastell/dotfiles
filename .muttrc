@@ -20,8 +20,8 @@ folder-hook '\[Gmail\]/Spam'      set sort_aux=subject
 
 hdr_order From: Reply-To: To: Cc: Subject: Date:
 unignore *
-ignore Accept-Language:
 ignore ARC-
+ignore Accept-Language:
 ignore Authentication-Results:
 ignore Autocrypt:
 ignore Content-Disposition: Content-Language: Content-Length: Content-Transfer-Encoding: Content-Type:
@@ -81,11 +81,12 @@ ignore X-Original-Authentication-Results: X-Original-Sender:
 ignore X-OriginalArrivalTime:
 ignore X-Originating-Email: X-Originating-IP:
 ignore X-OriginatorOrg:
+ignore X-PHP-Originating-Script:
 ignore X-PMX-
 ignore X-Policy:
 ignore X-Powered-BY:
-ignore X-Priority:
 ignore X-Primary:
+ignore X-Priority:
 ignore X-Received:
 ignore X-Receiver:
 ignore X-Removed-Original-Auth:
@@ -94,7 +95,7 @@ ignore X-SG-EID: X-SG-ID:
 ignore X-Sender:
 ignore X-Signature-Violations:
 ignore X-Source: X-Source-Args: X-Source-Dir:
-ignore X-Spam: X-Spam-Flag: X-Spam-Level: X-Spam-Score: X-Spam-Status:
+ignore X-Spam
 ignore X-TMN:
 ignore X-Virus-Scan
 ignore X-WP-
