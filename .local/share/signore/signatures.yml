@@ -47619,3 +47619,10 @@ signatures:
   author: "@sarcastathon"
   tags:
   - en
+- text: Who called it ‘kernel problems on your network switch’ and not ‘Panic! At
+    the Cisco’?
+  author: "@l1quidcryst4l"
+  tags:
+  - en
+  - tech
+  - networking
