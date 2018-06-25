@@ -47662,3 +47662,10 @@ signatures:
   author: A Small Fiction
   tags:
   - en
+- text: 'python: If it doesn’t work, try appending ‘3’.'
+  author: Eryn O’Neil
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
