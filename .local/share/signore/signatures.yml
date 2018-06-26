@@ -47669,3 +47669,12 @@ signatures:
   - tech
   - programming
   - Python
+- text: 'In C++ we don’t say ‘Missing asterisk’ we say ‘error C2664: ''void std::vector<block,std::allocator<_Ty>>::push_back(const
+    block &)'': cannot convert argument 1 from ''std::_Vector_iterator<std::_Vector_val<std::_Simple_types<block>>>''
+    to ''block &&''’ and I think that’s beautiful.'
+  author: mcc
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
