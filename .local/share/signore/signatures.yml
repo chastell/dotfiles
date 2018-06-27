@@ -47678,3 +47678,11 @@ signatures:
   - tech
   - programming
   - C++
+- text: The brilliance of Rust using ‘fn’ as a keyword is that you can pronounce it
+    as ‘fun’ when you’re in a good mood or ‘effin’’ when you’re not.
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
