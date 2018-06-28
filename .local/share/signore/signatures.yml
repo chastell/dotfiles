@@ -47686,3 +47686,15 @@ signatures:
   - tech
   - programming
   - Rust
+- text: Założę się o 123987123987 PLN, że nie przeczytałeś tej liczby. Po prostu ją
+    ominąłeś. Nie zdałeś sobie nawet sprawy, że w środku tej liczby wstawiłem literę.
+    Nie, nie wstawiłem, ale już o tym wiesz, bo przed chwilą sprawdziłeś.
+  author: Piotr Baran
+  tags:
+  - pl
+- text: Login shell set to /usr/bin/vi makes it a true honeypot.
+  author: Command Line Magic
+  tags:
+  - en
+  - tech
+  - Vim
