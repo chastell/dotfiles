@@ -47729,3 +47729,12 @@ signatures:
   author: "@crandallgold"
   tags:
   - en
+- text: |-
+    ‘The cool thing about 2018 is that if your company uses a linear regression at any time you are now a hot AI company somehow.’
+    ‘In a pinch you can substitute good old if/then for linear regression, too.’
+    ‘You mean a one layer neural network with identity activation and no hidden layers.’
+  author: Austen Allred, Patrick McKenzie, Federico Vaggi
+  tags:
+  - en
+  - tech
+  - AI
