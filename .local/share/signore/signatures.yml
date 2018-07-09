@@ -47763,3 +47763,23 @@ signatures:
   - tech
   - programming
   - Rust
+- text: |-
+    This Is Just to Say
+
+    I have eaten
+    the rich
+    that were at
+    the golf club
+
+    and which
+    you were probably
+    saving
+    for class war
+
+    Forgive me
+    they were delicious
+    so white
+    and so old
+  author: "@hels"
+  tags:
+  - en
