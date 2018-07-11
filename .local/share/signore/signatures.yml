@@ -4673,11 +4673,6 @@ signatures:
   author: Jason Mustian
   tags:
   - en
-- text: Asking a computer scientist for tech support is like asking a botanist to
-    mow your lawn.
-  author: Jonathan Doda
-  tags:
-  - en
 - text: We tried that One Encoding To Rule Them All in Java, and it was a failure.
     We tried it again with a different encoding in Java 5, and it was a failure. We
     tried it in .NET, and it was a failure. The Python community is currently in the
@@ -47803,3 +47798,9 @@ signatures:
   author: Joshua Davis
   tags:
   - en
+- text: 'Przygody na openspejsie: „Była migracja i ktoś zmienił hasło do bazy danych
+    i nikt nie wie na jakie.”'
+  author: "@spotter"
+  tags:
+  - pl
+  - tech
