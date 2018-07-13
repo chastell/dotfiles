@@ -47812,3 +47812,8 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: who called it byzantine fault tolerance and not general agreement
+  author: James Coglan
+  tags:
+  - en
+  - tech
