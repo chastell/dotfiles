@@ -47848,3 +47848,12 @@ signatures:
   author: C.M. Galdre
   tags:
   - en
+- text: |-
+    ‘Maybe we went too far pushing for value semantics and state isolation?’
+    *spends hours tracking down a bug due to shared mutable state*
+    ‘No, we didn’t go far enough.’
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
