@@ -43608,7 +43608,7 @@ signatures:
   - en
 - text: There’s not a day that goes by where I don’t think about that Backstreet Boy
     asking his pals ‘am I sexual?’ & they’re like ‘yeah!’.
-  author: Rob Free
+  author: Rob Fee
   tags:
   - en
 - text: Thinking of inventing N+2 queries.
@@ -47857,3 +47857,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    TWITTER RECOMMENDATION ALGORITHM: would you like to see some porn your friends like
+    FACEBOOK RECOMMENDATION ALGORITHM: this terrible thing happened a year ago
+    AMAZON RECOMMENDATION ALGORITHM: buy five more TVs
+    YOUTUBE RECOMMENDATION ALGORITHM: would you like to become a nazi
+  author: "@AliceAvizandum"
+  tags:
+  - en
