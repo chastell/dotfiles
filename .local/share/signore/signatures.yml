@@ -32910,8 +32910,11 @@ signatures:
   tags:
   - en
   - linguistics
-- text: "*sea captain violently shakes first mate* WAKE UP MATEY THE KRAKEN IS UPON
-    US ‘What’s a kraken sir!?’ NOT MUCH WHATS A-CRACKIN’ WITH U"
+- text: |-
+    *sea captain violently shakes first mate*
+    WAKE UP MATEY THE KRAKEN IS UPON US
+    What’s a kraken sir!?
+    NOT MUCH WHATS A-CRACKIN’ WITH U
   author: zachary
   tags:
   - en
@@ -47863,5 +47866,11 @@ signatures:
     AMAZON RECOMMENDATION ALGORITHM: buy five more TVs
     YOUTUBE RECOMMENDATION ALGORITHM: would you like to become a nazi
   author: "@AliceAvizandum"
+  tags:
+  - en
+- text: It is so weird to me that anyone calls abortion rights a ‘women’s issue’ when
+    straight men who like to fuck should be at the front line fighting like their
+    dicks depended on it.
+  author: Maura Quint
   tags:
   - en
