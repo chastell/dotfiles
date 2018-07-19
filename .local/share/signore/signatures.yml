@@ -47874,3 +47874,12 @@ signatures:
   author: Maura Quint
   tags:
   - en
+- text: When a programmer is talking about ‘the metal’ what they are referring to
+    is the lowest layer of abstraction which they care to work with or understand.
+    For example, when talking about programming languages, ‘the metal’ is often short
+    for ‘LLVM is involved somewhere’.
+  author: "@ladyaeva"
+  tags:
+  - en
+  - tech
+  - programming
