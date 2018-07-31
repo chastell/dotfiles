@@ -47948,3 +47948,9 @@ signatures:
   author: Bleifux
   tags:
   - de
+- text: 'OH: strongly typed YAML'
+  author: Andrew Clay Shafer
+  tags:
+  - en
+  - tech
+  - YAML
