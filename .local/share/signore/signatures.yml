@@ -47960,3 +47960,9 @@ signatures:
   tags:
   - en
   - tech
+- text: ah yes, NaN, the maybe monad for numbers
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
