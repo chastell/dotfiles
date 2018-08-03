@@ -47966,3 +47966,17 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    tired: the optimizer kicked in
+    wired: optimizer senpai noticed me
+  author: Steve Klabnik
+  tags:
+  - en
+  - terch
+  - programming
+- text: I can tell it’s 11:17am because I have to sign in to SSO again.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - SSO
