@@ -48041,3 +48041,11 @@ signatures:
   tags:
   - pl
   - kids
+- text: I know how you’re all hating on the borrow checker and how goes its mysterious
+    ways, but have you tried CSS?
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - Rust
+  - CSS
