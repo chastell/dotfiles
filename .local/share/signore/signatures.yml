@@ -48049,3 +48049,9 @@ signatures:
   - tech
   - Rust
   - CSS
+- text: |-
+    TIRED: fill in the ‘to’ field in your email last! That way, you don’t send it by accident.
+    WIRED: instead of email, have the entire conversation in your head in the shower every morning, and then never talk to the person about it at all.
+  author: Ryan North
+  tags:
+  - en
