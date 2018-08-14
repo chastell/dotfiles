@@ -48055,3 +48055,13 @@ signatures:
   author: Ryan North
   tags:
   - en
+- text: |-
+    FRODO: What is it?
+    SAM: If I take one more step, it’ll be the farthest away from home I’ve ever been.
+    FRODO: *smiles* Come on, Sam.
+    [literally one step later]
+    SAM: If I take one more step, it’ll be the farthest away from home I’ve ever been.
+    FRODO: Wait no
+  author: "@tiemoose"
+  tags:
+  - en
