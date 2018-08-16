@@ -48075,3 +48075,13 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    Developers: There is no spoon.
+    DevOps: There’s a spoon but it exists everywhere and nowhere at the same time.
+    Network Operations: There had better be a spoon 99.9999% of the time.
+    Support: Let me help you find your spoon.
+    Security: I used your spoon as a fork.
+  author: "@antitree"
+  tags:
+  - en
+  - tech
