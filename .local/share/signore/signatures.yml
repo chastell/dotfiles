@@ -48085,3 +48085,10 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    *clicks right*
+    alert("right click forbidden")
+    *looks around confused, checks time, checks date, checks controls of the time machine*
+  author: Florian Gilcher
+  tags:
+  - en
