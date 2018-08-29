@@ -48165,3 +48165,10 @@ signatures:
   author: Steve Klabnik, Florian Gilcher
   tags:
   - en
+- text: |-
+    ‘One of my favorite computer facts is that since the computer doesn’t know it is 64-bit capable it has to take a literal leap of faith to determine it is before it continue booting up.’
+    ‘The first time I learned how x86_64 systems bootstrapped I was surprised that any machine has booted ever.’
+  author: Michael Gattozzi, Simon Brand
+  tags:
+  - en
+  - tech
