@@ -48216,3 +48216,14 @@ signatures:
   author: Laura Eck
   tags:
   - en
+- text: |-
+    in the elevator
+    wm: whose lab are you in?
+    me: mine
+    wm: no, I mean who is the PI of the lab?
+    me: I am
+    wm: in what Professor’s lab?
+    me: the Columbus lab and I am Columbus
+  author: Linda Columbus
+  tags:
+  - en
