@@ -48254,3 +48254,9 @@ signatures:
   author: A Small Fiction
   tags:
   - en
+- text: Programming has things called ‘threads’ and things called ‘strings’ and they
+    somehow have fuck all to do with each other.
+  author: Ramsey Nasser
+  tags:
+  - en
+  - programming
