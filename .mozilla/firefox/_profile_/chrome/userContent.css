@@ -1,0 +1,5 @@
+@-moz-document domain(trello.com) {
+  .tabbed-pane-main-col-wrapper {
+    max-width: none !important;
+  }
+}
