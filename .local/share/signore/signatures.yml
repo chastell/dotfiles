@@ -48310,3 +48310,10 @@ signatures:
   author: T I M E S C A N N E R
   tags:
   - en
+- text: The difference between a framework and a library is – you can test code that
+    uses a library.
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
