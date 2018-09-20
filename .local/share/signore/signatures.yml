@@ -48324,3 +48324,10 @@ signatures:
   author: "@pangmeli"
   tags:
   - en
+- text: Jokes are such a weird thing to exist… it’s like the brain going ‘Ohoho, you
+    fooled my branch predictor? I’ll give you some nice neurotransmitters for that!’^C
+  author: Sebastian Ullrich
+  tags:
+  - en
+  - tech
+  - programming
