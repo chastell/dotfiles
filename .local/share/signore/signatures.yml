@@ -16916,11 +16916,6 @@ signatures:
   - programming
   - Python
   - Ruby
-- text: I took the speed reading course and read ‘War and Peace’ in twenty minutes.
-    It’s about Russia.
-  author: Woody Allen
-  tags:
-  - en
 - text: It’s never too late to have a happy childhood.
   tags:
   - en
@@ -27024,14 +27019,6 @@ signatures:
   author: opi
   tags:
   - pl
-- text: How can you even be a PHP programmer without a sense of humor? You write PHP.
-    That’s hilarious.
-  author: Jeff Atwood
-  tags:
-  - en
-  - tech
-  - programming
-  - PHP
 - text: In my work life I routinely deal with people who believe the world needs a
     punctuation mark for sarcasm.
   author: Maciej Cegłowski
@@ -48351,5 +48338,11 @@ signatures:
 - text: As an engineer, I always want to build the significant, powerful new feature
     and then just a landing page word change increases revenue by 10%.
   author: Radoslav Stankov
+  tags:
+  - en
+- text: "One time I got in an Uber pool and I wonder if the other person knew when
+    they set their name that I would get a notification.\n‘You will be joined by \U0001F153\U0001F154\U0001F154\U0001F169
+    \U0001F15D\U0001F164\U0001F163\U0001F162, party of two.’"
+  author: Samantha Goldstein
   tags:
   - en
