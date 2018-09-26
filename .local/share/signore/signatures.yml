@@ -1935,12 +1935,6 @@ signatures:
   tags:
   - en
   - cynicism
-- text: You’re going to try and drink an *Australian* under the table? Good fucking
-    luck, mate.
-  author: Paul Tomblin
-  tags:
-  - en
-  - alcohol
 - text: When the revolution comes, we’ll need a longer wall.
   author: Tom De Mulder
   tags:
@@ -48346,3 +48340,10 @@ signatures:
   author: Samantha Goldstein
   tags:
   - en
+- text: Voyager 1 and 2 have 64 kB memory and 120 bps telemetry bandwidth so with
+    the current 19 light hour communication delay there is 16× more data in the radio
+    waves headed toward earth than is actually contained in the flight computer.
+  author: "@Goopypanther"
+  tags:
+  - en
+  - tech
