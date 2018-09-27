@@ -48347,3 +48347,11 @@ signatures:
   tags:
   - en
   - tech
+- text: "I’ve successfully turned a 6 line, 239 byte javascript file into a 67.9 MB
+    Docker image. \U0001F389"
+  author: Andrew Nesbitt
+  tags:
+  - en
+  - tech
+  - programming
+  - Docker
