@@ -48355,3 +48355,9 @@ signatures:
   - tech
   - programming
   - Docker
+- text: Give a man a fish and he’ll eat for a day, teach a man to fish and a year
+    later he’ll ask if you’ve ever heard of a cool little tool called ‘fishing’ and
+    if you want him to show you how to do it.
+  author: Kylie Stradley
+  tags:
+  - en
