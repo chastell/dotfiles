@@ -48361,3 +48361,12 @@ signatures:
   author: Kylie Stradley
   tags:
   - en
+- text: |-
+    2008 Ruby pitch: being a Ruby dev means you get to do cool clever metaprogramming tricks!
+    2018 Ruby pitch: being a Ruby dev means you get to try to figure out other people’s cool clever metaprogramming tricks!
+  author: "@esten"
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
