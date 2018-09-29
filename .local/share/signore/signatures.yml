@@ -48370,3 +48370,12 @@ signatures:
   - tech
   - programming
   - Ruby
+- text: "\U0001F610\U0001F610\U0001F610\n\n> new Function('x = ')\nVM3820:4 Uncaught
+    SyntaxError: Unexpected token }\n    at new Function (<anonymous>)\n    at <anonymous>:1:1\n(anonymous)
+    @ VM3819:1\n\nThere is no ‘}’ in that code, JavaScript."
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
