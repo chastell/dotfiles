@@ -48379,3 +48379,18 @@ signatures:
   - tech
   - programming
   - JavaScript
+- text: |-
+    Dude 1: You probably don’t need to bother with that if you’re just making a site for, say, your mom’s cookie business…
+    Dude 2: My mom’s a biochemist.
+  author: Eryn O’Neil
+  tags:
+  - en
+- text: |-
+    me: please run the statements in the order that they appear
+    JS: thats too hard. heres some microtasks I think are due. Do you like this
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
