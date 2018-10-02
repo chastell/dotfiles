@@ -48394,3 +48394,10 @@ signatures:
   - tech
   - programming
   - JavaScript
+- text: Welcome to JavaScript, where functions have .length but maps and sets don’t.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
