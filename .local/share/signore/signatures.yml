@@ -48401,3 +48401,10 @@ signatures:
   - tech
   - programming
   - JavaScript
+- text: |-
+    ‘Backwards compatibility’ sounds so boring and backwards (!). We should rebrand it in a positive tone, like ‘upgradability’.
+    ‘This tool has top notch upgradability, no fear when security fixes come around!’
+  author: Krøstian
+  tags:
+  - en
+  - tech
