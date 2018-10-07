@@ -48431,3 +48431,14 @@ signatures:
   author: David Pittman
   tags:
   - en
+- text: |-
+    ‘Redux is for large apps.’
+    ‘Oh yeah? How big is your app?’
+    ‘THIRTY THOUSAND LINES!!!’ *smug grin*
+    ‘Thirty thous– boy, my Webpack config is longer than that.’
+  author: "@jamiebuilds"
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
