@@ -48468,3 +48468,9 @@ signatures:
   - en
   - tech
   - cron
+- text: It’s not asymmetric routing until your PL<->PL traceroute goes through Berlin
+    one way and Kiev the other.
+  author: q3k
+  tags:
+  - en
+  - tech
