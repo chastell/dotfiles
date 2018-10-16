@@ -42359,7 +42359,7 @@ signatures:
   tags:
   - en
 - text: |-
-    [CS] I order words in predefined ways that gradually build abstractions,what do you do?
+    [CS] I order words in predefined ways that gradually build abstractions, what do you do?
     [Math] I scribe forgotten sigils from dead languages.
   author: mcc
   tags:
@@ -48486,3 +48486,13 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    Me: Why’d my bill go up?
+    AT&T: You got rid of your land-line.
+    Me: But it should cost less if I have fewer services.
+    AT&T: And we threw in a donkey.
+    Me: I don’t want a donkey.
+    AT&T: Donkey removal is an extra $50.
+  author: "@elle91"
+  tags:
+  - en
