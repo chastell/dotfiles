@@ -48510,3 +48510,11 @@ signatures:
   author: James Coglan
   tags:
   - en
+- text: A blockchain is a cryptographic data structure that should’ve just been a
+    Merkle tree, but Satoshi wasn’t that smart and turned it into a Rube Goldberg
+    machine which produces blocks of Merkle bonsais.
+  author: Tony Arcieri
+  tags:
+  - en
+  - tech
+  - blockchain
