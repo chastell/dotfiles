@@ -48544,3 +48544,11 @@ signatures:
   author: valsdas
   tags:
   - en
+- text: |-
+    ‘Tonight’s dinner conversation included a story about a network thrown into disarray by the DHCP server on the refrigerator.
+    The refrigerator. Was giving out IP addresses.’
+    ‘Who else would have the freshest IPs?’
+  author: Tiffany Bridge, Daniel Gibson
+  tags:
+  - en
+  - tech
