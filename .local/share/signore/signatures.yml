@@ -48558,3 +48558,10 @@ signatures:
   author: Sara Chipps
   tags:
   - en
+- text: I can’t get over how Arm [the company] has an ARM [the architecture] ARM [Architecture
+    Reference Manual] describing cores Cortex-A, Cortex-R, and Cortex-M
+  author: whitequark
+  tags:
+  - en
+  - tech
+  - ARM
