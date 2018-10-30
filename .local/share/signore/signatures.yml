@@ -48581,3 +48581,11 @@ signatures:
   author: Paul Fairie, Crommunist
   tags:
   - en
+- text: I’ve made some extremely bad life choices and am now reading workload-rebalancing
+    threading code in C.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - C
