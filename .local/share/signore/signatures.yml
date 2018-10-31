@@ -37625,7 +37625,7 @@ signatures:
   - tech
 - text: If you love something, let it go. From the creators of ‘if you’re tired, go
     for a run’, and ‘if you’re on fire, eat bees’.
-  author: Nice Hippo
+  author: "@InternetHippo"
   tags:
   - en
 - text: I just found a fruit rollup in my pocket, which means one of my nephews has
@@ -39631,7 +39631,7 @@ signatures:
     [X-Men interview]
     ‘What’s your mutant power?’
     ‘I’m able to see a thing I don’t like and just move on with my life without commenting on it.’
-  author: Nice Hippo
+  author: "@InternetHippo"
   tags:
   - en
 - text: |-
@@ -41380,7 +41380,7 @@ signatures:
   - en
   - tech
 - text: Am I a good person? No. But do I try to be better every single day? Also no.
-  author: Online Hippo
+  author: "@InternetHippo"
   tags:
   - en
 - text: Hell hath no fury like a bunch of white guys asked politely to make a small,
@@ -48604,3 +48604,10 @@ signatures:
   - Ruby
   - JavaScript
   - C
+- text: |-
+    What should we call this giant advertising board?
+    PHIL: A philboard
+    BILL: I have a better idea
+  author: "@InternetHippo"
+  tags:
+  - en
