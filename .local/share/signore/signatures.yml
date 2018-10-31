@@ -48589,3 +48589,18 @@ signatures:
   - tech
   - programming
   - C
+- text: |-
+    Unpopular opinions, programming edition:
+    • Python gets falsiness fundamentally right
+    • Ruby gets falsiness practically right
+    • JS does not get falsiness right
+    • C false right get no
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Python
+  - Ruby
+  - JavaScript
+  - C
