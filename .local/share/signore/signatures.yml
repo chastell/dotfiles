@@ -48620,3 +48620,12 @@ signatures:
   author: Florian Gilcher
   tags:
   - en
+- text: Programming with Fibers is kinda like programming with Promises. In the same
+    way that cutting a cake with a knife is kinda like cutting a cake with an agitated
+    raccoon.
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
