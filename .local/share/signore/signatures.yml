@@ -48661,3 +48661,11 @@ signatures:
   author: wint
   tags:
   - en
+- text: |-
+    ‘I dislike methods that mutate state, but predicate methods that mutate state are even worse.’
+    ‘I wrote a #== method that mutated state once.’
+  author: Aaron Patterson, James Coglan
+  tags:
+  - en
+  - tech
+  - programming
