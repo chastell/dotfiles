@@ -48683,3 +48683,11 @@ signatures:
   - en
   - tech
   - programming
+- text: Okay, I’ll cut you some slack if your config lang is regular. If it’s context
+    free I’m staging an intervention. Context sensitive or worse and we are no longer
+    speaking.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
