@@ -48675,3 +48675,11 @@ signatures:
   author: Aaron Levie
   tags:
   - en
+- text: |-
+    Why do I prefer libraries over frameworks? For the same reason I prefer composition over inheritance.
+    Frameworks are based on the Hollywood Pattern; don’t call us, we’ll call you.
+  author: Dave Cheney
+  tags:
+  - en
+  - tech
+  - programming
