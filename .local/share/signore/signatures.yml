@@ -48691,3 +48691,13 @@ signatures:
   - en
   - tech
   - programming
+- text: One of the biggest selling points during the rise of dynamic languages was
+    that they lacked complex, fragile build processes. Fast-forward 15 years and the
+    most popular dynamic language has build tooling more complex and fragile than
+    many static languages. Time is a flat circle.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
