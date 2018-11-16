@@ -48710,3 +48710,10 @@ signatures:
   author: Florian Gilcher
   tags:
   - en
+- text: You know it’s a good day when you’re running a Chrome Cache Viewer in Wine
+    plus dd and hex exitors to debug a JavaScript problem.
+  author: Simon Coffey
+  tags:
+  - en
+  - tech
+  - programming
