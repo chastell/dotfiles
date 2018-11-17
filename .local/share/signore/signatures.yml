@@ -48717,3 +48717,11 @@ signatures:
   - en
   - tech
   - programming
+- text: 'One answer to how much test coverage you need: enough that you auto-deploy
+    master when they pass.'
+  author: Ben Orenstein
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
