@@ -48762,3 +48762,10 @@ signatures:
   author: Writer in Pyjamas
   tags:
   - en
+- text: Who in the hell called it a binary with statically linked libraries and not
+    owning the libs
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
