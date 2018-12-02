@@ -48811,3 +48811,12 @@ signatures:
   tags:
   - en
   - Berlin
+- text: |-
+    Difference between machine learning and AI:
+    If it is written in Python, it’s probably machine learning.
+    If it is written in PowerPoint, it’probably AI.
+  author: Mat Velloso
+  tags:
+  - en
+  - tech
+  - programming
