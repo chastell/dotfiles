@@ -48830,3 +48830,13 @@ signatures:
   author: "@JoeyDG54"
   tags:
   - en
+- text: |-
+    Something that isn’t a ‘law’ but has held true through my entire career: when you instrument and measure something, you always learn surprising things.
+    The code is doing WHAT?
+    That query usually runs in microseconds but sometimes hours?
+    We have a server nobody knew about?
+    etc.
+  author: Baron Sc​hwartz
+  tags:
+  - en
+  - tech
