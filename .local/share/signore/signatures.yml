@@ -39653,7 +39653,7 @@ signatures:
   tags:
   - en
 - text: |-
-    Andrew: How shall I spend my day of Science
+    Andrew: how shall I spend my day of Science?
     Academia: here have this deluge of humans and email
     Andrew: that isn’t what I
     Academia: HERE MORE
@@ -48850,3 +48850,11 @@ signatures:
   author: DHH
   tags:
   - en
+- text: |-
+    ME: what’s a haiku?
+    PROFESSOR: five, seven, five
+    ME: got it thank you
+  author: The Great Stoned Dragon
+  tags:
+  - en
+  - haiku
