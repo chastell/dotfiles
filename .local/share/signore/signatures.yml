@@ -48858,3 +48858,12 @@ signatures:
   tags:
   - en
   - haiku
+- text: |-
+    ‘Its users are scientists and engineers; not computer scientists and software engineers, but the real ones.’
+    sick burn
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - FORTRAN
