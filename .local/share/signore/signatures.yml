@@ -48875,3 +48875,9 @@ signatures:
   - en
   - tech
   - MySQL
+- text: The trick is to fix the problem you have, rather than the problem you want.
+  author: Bram Cohen
+  tags:
+  - en
+  - tech
+  - programming
