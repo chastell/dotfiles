@@ -48867,3 +48867,11 @@ signatures:
   - tech
   - programming
   - FORTRAN
+- text: |-
+    Me: here’s a lovely index that will let you find the 50 comments you want almost immediately
+    MySQL: yeah but this other index has them in the right order so I’ll scan 400k rows instead
+  author: Simon Coffey
+  tags:
+  - en
+  - tech
+  - MySQL
