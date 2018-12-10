@@ -48867,17 +48867,19 @@ signatures:
   - tech
   - programming
   - FORTRAN
-- text: |-
-    Me: here’s a lovely index that will let you find the 50 comments you want almost immediately
-    MySQL: yeah but this other index has them in the right order so I’ll scan 400k rows instead
-  author: Simon Coffey
-  tags:
-  - en
-  - tech
-  - MySQL
 - text: The trick is to fix the problem you have, rather than the problem you want.
   author: Bram Cohen
   tags:
   - en
   - tech
   - programming
+- text: |-
+    ‘Me: here’s a lovely index that will let you find the 50 comments you want almost immediately.
+    MySQL: yeah but this other index has them in the right order so I’ll scan 400k rows instead.’
+    ‘We once had an amazing bug where searches for “haggis” consistently used the wrong PostgreSQL index and took forever compared to any other phrase. We managed to fix it by increasing the statistics collected by the query planner for that column but still: made a great bug report.’
+  author: Simon Coffey, mudge
+  tags:
+  - en
+  - tech
+  - MySQL
+  - PostgreSQL
