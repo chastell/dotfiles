@@ -48883,3 +48883,11 @@ signatures:
   - tech
   - MySQL
   - PostgreSQL
+- text: everyone loves the BSD license, the little file that lets the licensee sell
+    the software [5 minutes pass] we regret to inform you the licensee is selling
+    the software
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - licensing
