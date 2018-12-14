@@ -48891,8 +48891,17 @@ signatures:
   - en
   - tech
   - licensing
-- text: "\U0001F3B5THEY CALL ME  H U M A N  P E T E\nI AM MADE OUT OF HUMAN MEAT\nWHEN
-    I PLAY MY MARACAS I GO\n[WHITE NOISE]\U0001F3B5"
+- text: "\U0001F3B5 THEY CALL ME  H U M A N  P E T E\nI AM MADE OUT OF HUMAN MEAT\nWHEN
+    I PLAY MY MARACAS I GO\n[WHITE NOISE] \U0001F3B5"
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - en
+- text: |-
+    unsafe fn main() {
+    }
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
