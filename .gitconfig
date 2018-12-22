@@ -21,7 +21,7 @@
 [core]
   editor = vim
   excludesfile = ~/.gitignore_global
-  pager = /usr/share/doc/git/contrib/diff-highlight/diff-highlight | less
+  pager = /usr/share/git/diff-highlight/diff-highlight | less
 
 [diff]
   algorithm = patience
