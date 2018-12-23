@@ -48951,3 +48951,12 @@ signatures:
   tags:
   - pl
   - politics
+- text: |-
+    Me 5 years ago: Use services oriented architecture for all your code!
+    Me 3 years ago: Use CQRS/ES for all your code!
+    Me now: Just use PostgreSQL.
+  author: Hubert Łępicki
+  tags:
+  - en
+  - tech
+  - PostgreSQL
