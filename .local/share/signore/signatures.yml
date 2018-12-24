@@ -48960,3 +48960,9 @@ signatures:
   - en
   - tech
   - PostgreSQL
+- text: If you meet a programmer who tells you duplication is bad, poke one of their
+    eyes out.
+  author: tef
+  tags:
+  - en
+  - tech
