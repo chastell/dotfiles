@@ -48982,3 +48982,11 @@ signatures:
   author: David Hughes
   tags:
   - en
+- text: I wrote a bunch of horribly awkward code, then deleted it and replaced it
+    with six lines of SQL (max width 64 chars). Greetings from 1974.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - SQL
