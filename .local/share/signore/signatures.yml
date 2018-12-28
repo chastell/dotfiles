@@ -48990,3 +48990,11 @@ signatures:
   - tech
   - programming
   - SQL
+- text: All the scripting in Gone Home is contained in two gigantic uScript graphs,
+    because I didn’t know about interlinking many smaller graphs at the time. It’s
+    only two because the first one started running too slow to navigate.
+  author: Steve Gaynor
+  tags:
+  - en
+  - tech
+  - programming
