@@ -48998,3 +48998,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    Christmas trees on Ultima Online. We didn’t have art for them, so I attached a script to a generic pine that spawned the little colored gemstones we did have and vertically offset them. Then they each had a script with periodic callbacks to appear and vanish, so they twinkled.
+    Then we gave one Christmas tree to every player who logged in. Thousands of trees each with twenty callbacks on approx one second intervals. The message queue overloaded on every server and crashed the entire service. On Christmas. I had the week off.
+  author: Raph Koster
+  tags:
+  - en
+  - tech
+  - programming
