@@ -49006,3 +49006,12 @@ signatures:
   - en
   - tech
   - programming
+- text: The texture streamer in the Xbox port of Doom 3 would very slowly fragment
+    memory as you played. It was fine for a couple hours, but if you played more than
+    like 60% of the game in one sitting – crash. Raher than take the blame we put
+    up the ‘dirty or unreadable disc’ error.
+  author: Brian Osman
+  tags:
+  - en
+  - tech
+  - programming
