@@ -49015,3 +49015,14 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    On Madden 2003, we had a bug where all the players vanished.
+    Just a stadium, a field, and a ball at midfield.
+    A junior coder named James said: ‘Did you check inside the ball?’
+    Smirking, we checked with the debug cam. AND THERE THEY WERE.
+    Tiny players, in formation, in the ball.
+  author: Jim Hejl
+  tags:
+  - en
+  - tech
+  - programming
