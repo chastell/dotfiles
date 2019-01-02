@@ -9880,7 +9880,7 @@ signatures:
 - text: "…szczytem wyrafinowania są rozmaite deformatory twarzy, które chyba trochę
     odchodzą w zapomnienie, gdy na wysokich stanowiskach w rządzie zasiadają osoby,
     które już jakby przez te deformatory przeszły."
-  author: Marcin Jagodziński
+  author: reuptake
   source: net_talk
   tags:
   - pl
@@ -49032,3 +49032,12 @@ signatures:
   author: Existential Comics
   tags:
   - en
+- text: |-
+    One time we had to make an arm sort items into two buckets based on the size of the item, using an infrared sensor as they passed down the conveyor belt to pickup…
+    What we actually did was have the arm pick up the object, kill power for 0.25 seconds, then calculate the difference in angle of the arm before and after.
+    Bigger objects made the arm fall faster, creating a bigger delta. The infrared sensor was never used. Science.
+  author: Tom Farro
+  tags:
+  - en
+  - tech
+  - programming
