@@ -49048,3 +49048,9 @@ signatures:
   author: iris
   tags:
   - en
+- text: Over time, the probability that any entity holding a large store of sensitive
+    private data will remain both competent enough to protect it adequately and honest
+    enough to want to goes to zero.
+  author: Matt Blaze
+  tags:
+  - en
