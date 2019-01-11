@@ -49095,3 +49095,13 @@ signatures:
   tags:
   - en
   - religion
+- text: What I am learning from the (very polite) responses to my C++ rvalue references
+    thread is that almost no C++ programmers are *totally* sure how C++ works, and
+    the ones which are entirely confident seem to be mostly the ones who are also
+    demonstrably wrong about it.
+  author: mcc
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
