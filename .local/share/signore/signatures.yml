@@ -217,17 +217,6 @@ signatures:
   - en
   - tech
   - UI
-- text: |-
-    ‘For example, I hate software. Especially software that pretends to be a web framework. Or software that requires me to decide upon a schema at the beginning and then makes it hard to change the schema. Or…’
-    ‘PHP.’
-    ‘Is that the “Mornington Crescent” of hates-software?’
-  author: Léon Brocard, Joshua Juran, Matthew King
-  source: hates-software
-  tags:
-  - en
-  - tech
-  - programming
-  - PHP
 - text: My safeword is ‘continue’. It has proven to be a poor choice.
   author: Matthew Baldwin
   tags:
@@ -17592,11 +17581,6 @@ signatures:
   author: Charles Babbage
   tags:
   - en
-- text: For some reason I had always imagined that bugbears were somewhat smaller.
-  source: famous last RPG words
-  tags:
-  - en
-  - RPG
 - text: A trap? That’s exactly what we’re supposed to expect. I think this DM is more
     imaginative than that.
   source: famous last RPG words
@@ -49129,3 +49113,11 @@ signatures:
   author: Dana Schwartz
   tags:
   - en
+- text: |-
+    Job offers in tech are like:
+    • you need to learn new technologies very fast
+    • also you need to already have 5 years of experience in X, Y and Z, because apparently the previous point does not apply anymore
+  author: arnvald
+  tags:
+  - en
+  - tech
