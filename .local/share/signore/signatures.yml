@@ -49121,3 +49121,10 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    1. Wow this thing is really hard
+    2. *learns the thing*
+    3. That thing is really easy and obvious and I should never talk about it because clearly everyone else knows about it too
+  author: Alice Goldfuss
+  tags:
+  - en
