@@ -14,6 +14,7 @@ folder-hook .                     set sort=threads
 folder-hook .                     set sort_aux=last-date
 folder-hook .                     'push "<collapse-all>"'
 folder-hook ~arch                 set sort=date-received
+folder-hook '\[Gmail\]/~arch'     set sort=date-received
 folder-hook '\[Gmail\]/All Mail'  set sort=date-received
 folder-hook '\[Gmail\]/Sent Mail' set sort=date-received
 folder-hook '\[Gmail\]/Spam'      set sort_aux=subject
