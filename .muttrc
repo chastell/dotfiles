@@ -141,6 +141,7 @@ set imap_check_subscribed
 set imap_keepalive        = 150
 set mbox_type             = Maildir
 set mail_check            = 300
+set mail_check_stats
 set menu_scroll
 set message_cachedir      = ~/.cache/mutt/messages
 set mime_forward          = ask-no
@@ -151,7 +152,9 @@ set quit                  = ask-yes
 set realname              = 'Piotr Szotkowski'
 set reverse_name
 set send_charset          = us-ascii:iso-8859-1:iso-8859-2:utf-8
-set sidebar_width         = 25
+set sidebar_format        = '%B%?F? [%F]?%* %?N?%N/?%S'
+set sidebar_visible
+set sidebar_width         = 22
 set signature             = ~/.config/mutt/signature
 set sleep_time            = 0
 set smtp_url              = smtps://chastell@chastell.net@smtp.gmail.com:465
