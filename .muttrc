@@ -175,3 +175,5 @@ unset sort_re
 
 source ~/.config/mutt/addresses
 source ~/.config/mutt/passwords
+source /usr/share/doc/mutt/samples/colors.linux
+source /usr/share/doc/mutt/samples/gpg.rc
