@@ -26609,10 +26609,6 @@ signatures:
   author: Pаul Bаttley
   tags:
   - en
-- text: I hate being bipolar, it’s fantastic!
-  author: "@AthenaOriana"
-  tags:
-  - en
 - text: The bad news is daddy drank your sea monkeys. The good news is the resulting
     psychosexual mind-voyage inspired me to start a prog band.
   author: Joshua Allen
@@ -49183,3 +49179,11 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: 'Why programmers like cooking: you peel the carrot, you chop the carrot, you
+    put the carrot in the stew. You don’t suddenly find out that your peeler is several
+    versions behind and they dropped support for carrots in 4.3'
+  author: Randall Koutnik
+  tags:
+  - en
+  - tech
+  - programming
