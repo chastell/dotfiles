@@ -49179,10 +49179,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
-- text: 'Why programmers like cooking: you peel the carrot, you chop the carrot, you
-    put the carrot in the stew. You don’t suddenly find out that your peeler is several
-    versions behind and they dropped support for carrots in 4.3'
-  author: Randall Koutnik
+- text: |-
+    ‘Why programmers like cooking: you peel the carrot, you chop the carrot, you put the carrot in the stew. You don’t suddenly find out that your peeler is several versions behind and they dropped support for carrots in 4.3’
+    ‘Also if the carrot has an issue you throw it out. You don’t need to determine the root cause of the carrot issue and regrow this carrot by the end of the week because management scheduled an important dinner and didnt tell you until Wednesday evening.’
+  author: Randall Koutnik, @duhprey
   tags:
   - en
   - tech
