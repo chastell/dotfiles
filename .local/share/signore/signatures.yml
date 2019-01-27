@@ -49187,3 +49187,13 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    I love to use¹ dependency² injection³
+    ¹ pass
+    ² values
+    ³ to functions
+  author: Patrick Thomson
+  tags:
+  - en
+  - tech
+  - programming
