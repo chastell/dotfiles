@@ -49214,3 +49214,12 @@ signatures:
   author: Jochen Mader
   tags:
   - en
+- text: Has anyone made a JS formatter called ‘pettier’ that doesn’t fix any code
+    but just leaves snarky comments, like ‘// 4 nested callbacks, really?’ or ‘//
+    wow just putting it right in the global namespace huh’?
+  author: Christina Holland
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
