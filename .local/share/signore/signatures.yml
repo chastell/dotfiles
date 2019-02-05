@@ -49261,3 +49261,10 @@ signatures:
   author: Gina DiVittorio
   tags:
   - en
+- text: "All linear algebra textbooks are like\n– 1 is a number \U0001F600\n– x can
+    stand in for many numbers \U0001F92F\n– a vector is just an ordered list of numbers
+    \U0001F61C\n– the set of all polynomials of degree m with real or complex coefficients
+    is a vector subspace of P(F), as you should verify \U0001F607"
+  author: "@fioroco"
+  tags:
+  - en
