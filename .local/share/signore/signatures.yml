@@ -49268,3 +49268,9 @@ signatures:
   author: "@fioroco"
   tags:
   - en
+- text: 'Famous moments in shutdown history: when I forgot to use -r when logged in
+    remotely on an isolated system 13,370 km away.'
+  author: Command Line Magic
+  tags:
+  - en
+  - tech
