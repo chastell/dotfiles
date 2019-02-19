@@ -49350,3 +49350,8 @@ signatures:
   author: Gary Bernhardt
   tags:
   - en
+- text: Teaching software design is hard because it’s an attempt to teach programmers
+    about the long term consequences of their actions.
+  author: tef
+  tags:
+  - en
