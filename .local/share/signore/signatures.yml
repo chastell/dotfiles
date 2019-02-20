@@ -49355,3 +49355,12 @@ signatures:
   author: tef
   tags:
   - en
+- text: Extremely mixed emotions when the Rust compiler tells me that this thing I’ve
+    been working on all week fundamentally can’t work, but also it was in an extremely
+    subtle way that I never would have caught on my own.
+  author: Sean Griffin
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
