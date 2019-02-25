@@ -12,7 +12,7 @@ type         = Maildir
 
 [Repository Remote]
 auth_mechanisms  = LOGIN
-folderfilter     = lambda foldername: foldername not in ['[Gmail]/All Mail', '[Gmail]/Important', '[Gmail]/Spam']
+folderfilter     = lambda foldername: foldername not in ['[Gmail]/Important', '[Gmail]/Spam']
 maxconnections   = 8
 remotepass       = …
 remoteuser       = chastell@chastell.net
