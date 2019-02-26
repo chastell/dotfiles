@@ -49390,3 +49390,14 @@ signatures:
   author: Xeni Jardin
   tags:
   - en
+- text: |-
+    I’m going to make a programming language where - is legal in identifiers, and the subtraction operator is −, as it should be.
+    En dashes denote range literals, as in:
+    for n in 1–5: print(n)
+    Em dashes are for inline comments:
+    draw(texture, — coords of upper left point — x, y)
+  author: eevee
+  tags:
+  - en
+  - tech
+  - programming
