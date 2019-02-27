@@ -4,4 +4,4 @@
 \pset null ¤
 \setenv PAGER 'pspg -bX --no-mouse'
 \timing
-\x auto
+-- \x auto
