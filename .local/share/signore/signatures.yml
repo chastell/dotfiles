@@ -49407,3 +49407,12 @@ signatures:
   author: Dawn Foster, James Coglan
   tags:
   - en
+- text: |-
+    card machine: insert chip card into reader
+    me: OK
+    card machine: do NOT remove card
+    me: uhh OK I wo—
+    card machine: REMOVE THE CARD YOU PIECE OF SHIT
+  author: "@TheHyyyype"
+  tags:
+  - en
