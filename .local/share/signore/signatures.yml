@@ -49452,3 +49452,11 @@ signatures:
   tags:
   - en
   - tech
+- text: Pokémon Go vs Pokémon Rust
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
+  - Rust
