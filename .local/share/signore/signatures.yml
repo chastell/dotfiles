@@ -49503,3 +49503,8 @@ signatures:
   - en
   - tech
   - programming
+- text: Eh, have another semi-periodic reminder that ()() is not a palindrome but
+    ())( is.
+  author: "@_julesh_"
+  tags:
+  - en
