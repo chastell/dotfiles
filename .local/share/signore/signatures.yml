@@ -49525,3 +49525,11 @@ signatures:
   author: Quite Interesting
   tags:
   - en
+- text: |-
+    ‘Instance variables considered harmful.’
+    ‘Also, variables. Also, instances.’
+  author: Francis Hwang, Peter Jaros
+  tags:
+  - en
+  - tech
+  - programming
