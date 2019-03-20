@@ -45880,8 +45880,9 @@ signatures:
   author: Oglaf
   tags:
   - en
-- text: "In carpentry you measure twice and cut once. \nIn software development you
-    never measure and make cuts until you run out of time."
+- text: |-
+    In carpentry you measure twice and cut once.
+    In software development you never measure and make cuts until you run out of time.
   author: "@mrmrs_"
   tags:
   - en
@@ -49539,3 +49540,12 @@ signatures:
   tags:
   - en
   - parenting
+- text: |-
+    There are only two hard problems in computer science:
+    – the first problem
+    – the rest of the problems
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
