@@ -49549,3 +49549,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    ‘Code formatting tool authors: please make your tool put function definitions in topological order, leaves last. It will be good!’
+    ‘Reverse order is better. It builds suspense.’
+  author: Gary Bernhardt, Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
