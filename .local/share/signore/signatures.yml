@@ -49606,3 +49606,12 @@ signatures:
   tags:
   - en
   - work
+- text: Seven years after I stopped working on the Rust compiler there are exactly
+    52 lines left in the codebase that git blame assigns to me (out of 190k lines).
+    They all contain a single closing brace.
+  author: Marijn Haverbeke
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
