@@ -49631,3 +49631,9 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    ‘Fun’ things happening in CFPs: for eurucamp 2013, we accidentally forgot to change our mail subject in our email script, sending > 100 people a mail called ‘TEST: your proposal was rejected’, followed by ‘this was not a test, it was actually rejected!’
+    Just last year, we figured out the hard way that the multi-tenant CFP app we use is not as multi-tenant as we thought, as the ‘Reject all’ button was not scoped properly by conf. When RustFest closed their CFP, all people from EuRuKo 2018 got rejected in the middle of their CFP.
+  author: Florian Gilcher
+  tags:
+  - en
