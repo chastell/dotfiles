@@ -49637,3 +49637,12 @@ signatures:
   author: Florian Gilcher
   tags:
   - en
+- text: |-
+    Ah yes, the usual contractual debate:
+    ‘Please remove this text.’
+    ‘Oh don’t worry about that, we’d never do that.’
+    ‘So remove it.’
+    ‘No.’
+  author: James Coglan
+  tags:
+  - en
