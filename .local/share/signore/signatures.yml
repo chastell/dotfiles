@@ -21580,11 +21580,6 @@ signatures:
   author: Wes Morgan
   tags:
   - en
-- text: 'OH: You run Windows? Everything good you’ve ever done was just invalidated.'
-  author: John E. Vincent
-  tags:
-  - en
-  - Windows
 - text: A grzeczność wymaga jak z tobą rozmawiam to wstań.
   author: płk Tadeusz Sieńko
   source: przysposobienie obronne
@@ -49651,3 +49646,9 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: I’m pretty sure hell is just meetings with half an hour between each to ensure
+    you feel useless.
+  author: Leah Yuk
+  tags:
+  - en
+  - work
