@@ -49665,3 +49665,11 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: When I talk about legacy code I like to show a bit of APL. From an industry
+    perspective, it’s sort of like looking backward and forward at the same time.
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
+  - APL
