@@ -49705,3 +49705,15 @@ signatures:
   author: "@jenna__gamble"
   tags:
   - en
+- text: |-
+    i32 $200
+    bool $150
+    &str $800
+    Option<Rc<Node<T>>> $3,600
+    &[T] $150
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
