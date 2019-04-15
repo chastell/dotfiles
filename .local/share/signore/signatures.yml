@@ -49717,3 +49717,10 @@ signatures:
   - tech
   - programming
   - Rust
+- text: |-
+    Cross-origin resource sharing (CORS) is the SELinux of the Web. You really want to do the right thing but it only works when you
+    Access-Control-Allow-Origin: *
+  author: Kelsey Hightower
+  tags:
+  - en
+  - tech
