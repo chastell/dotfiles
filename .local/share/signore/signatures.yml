@@ -49739,3 +49739,11 @@ signatures:
   author: Ania Włoch
   tags:
   - pl
+- text: |-
+    Interviewer: Tell me about a time when you had to solve a difficult problem.
+    Me: I had a bug in my code and couldn’t find any helpful answers on stackoverflow. I persevered and eventually found the solution from a link on the second page of Google search.
+  author: Meowlivia_
+  tags:
+  - en
+  - tech
+  - programming
