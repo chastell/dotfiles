@@ -47760,7 +47760,7 @@ signatures:
   - en
 - text: 'Przygody na openspejsie: „Była migracja i ktoś zmienił hasło do bazy danych
     i nikt nie wie na jakie.”'
-  author: "@spotter"
+  author: Spotter
   tags:
   - pl
   - tech
@@ -49886,5 +49886,9 @@ signatures:
     First person to eat a banana: this is not good
     First person to peel a banana: dude guess what
   author: "@PleaseBeGneiss"
+  tags:
+  - en
+- text: 'PSA: ‘smart’ in ‘smart device’ is the ‘friendly’ in ‘friendly fire’.'
+  author: Spotter
   tags:
   - en
