@@ -49916,3 +49916,16 @@ signatures:
   author: Jessica Kerr
   tags:
   - en
+- text: |-
+    ‘If you die while making food in a slow cooker, whoever finds your body will have a nice warm meal waiting for them.’
+    ‘They can eat whatever is in the slow cooker too.’
+  author: just-shower-thoughts, keepcalmandcarrieunderwood
+  tags:
+  - en
+- text: |-
+    API Gateway, can you tell SNS to tell SQS to periodically tell Lambda to tell Kinesis Stream to tell Kinesis Firehose to tell S3 to tell Redshift periodically that there’s data to be loaded.
+    Working with CSV files in the cloud is really hard.
+  author: Dan Woods
+  tags:
+  - en
+  - tech
