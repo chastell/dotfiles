@@ -49967,3 +49967,11 @@ signatures:
   author: Daniel Gonzales
   tags:
   - en
+- text: "I am a:\n⚪️ Man\n⚪️ Woman\n\U0001F518 Linker\nLooking for:\n⚪️ Old memes\n\U0001F518
+    Undefined symbols for architecture x86_64:\n\"_foo\", referenced from:\n_main
+    in link-d27e2b.o"
+  author: "@lunasorcery"
+  tags:
+  - en
+  - tech
+  - programming
