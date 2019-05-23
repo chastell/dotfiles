@@ -38541,7 +38541,7 @@ signatures:
   - en
   - tech
 - text: |-
-    „Hast Du die Schokolade gesehen?“
+    „Hast du die Schokolade gesehen?“
     „Kurz.“
   author: "@Der_Hofnarr"
   tags:
@@ -49986,3 +49986,9 @@ signatures:
   tags:
   - en
   - tech
+- text: if you pay young people the same amount you pay adults, then they won’t have
+    any incentive to [squints at notes] age
+  author: James Coglan
+  tags:
+  - en
+  - work
