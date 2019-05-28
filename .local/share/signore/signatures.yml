@@ -28461,12 +28461,6 @@ signatures:
   - en
   - tech
   - work
-- text: You know that kid at the arcade who’s just watching the demo and pressing
-    the buttons like they’re playing? That’s how i handle adulthood.
-  author: barnabus
-  tags:
-  - en
-  - adulthood
 - text: They warned me hell was other people, but I didn’t realise it was you in particular.
   author: James Eagle
   tags:
@@ -50013,5 +50007,10 @@ signatures:
     Man sees doctor. Says he’s depressed and nothing works. Doctor says ‘You know what perks me up? Pagliacci jokes. Read some on Twitter. Perks you right up’.
     Man bursts into tears. ‘But doctor’, he says. ‘This is a Pagliacci joke’.
   author: Freyja Erlingsdóttir
+  tags:
+  - en
+- text: I’m 35 and have not yet received a call to adventure and am starting to worry
+    I’m not a protagonist.
+  author: Michael Meir Saltzman
   tags:
   - en
