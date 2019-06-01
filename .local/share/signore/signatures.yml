@@ -50030,3 +50030,11 @@ signatures:
   author: David Masad
   tags:
   - en
+- text: Today I learned changing random stuff until your program works is ‘hacky’
+    and ‘bad coding practice’ but if you do it fast enough it’s Machine Learning and
+    pays 4x your current salary.
+  author: One Devloper Army
+  tags:
+  - en
+  - tech
+  - programming
