@@ -50066,3 +50066,13 @@ signatures:
   author: derek
   tags:
   - en
+- text: |-
+    *Buys domain*
+    *Pushes wrong ServiceWorker to production*
+    *Buys another domain*
+    Domain Driven Development at its finest!
+  author: Sanket Sahu, Davey Shafik
+  tags:
+  - en
+  - tech
+  - programming
