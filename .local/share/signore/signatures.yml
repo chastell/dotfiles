@@ -43065,7 +43065,7 @@ signatures:
   author: chuuch
   tags:
   - en
-- text: ".@parisreview So is Paris any good or not"
+- text: "@parisreview So is Paris any good or not"
   author: Patricia Lockwood
   tags:
   - en
@@ -50097,3 +50097,10 @@ signatures:
   author: "@habibitus"
   tags:
   - de
+- text: |-
+    My wife asked me why I was speaking so softly at home. I told her I was afraid Mark Zuckerberg was listening!
+    She laughed. I laughed.
+    Alexa laughed. Siri laughed.
+  author: Rich Rogers
+  tags:
+  - en
