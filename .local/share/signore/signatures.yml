@@ -50123,3 +50123,10 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘Tell me the story about the weirdest bug you’ve ever found that left you wondering how computers even worked in the first place.’
+    ‘When I turned up the TTL on a multicast video at Apple and found out that I had knocked New Zealand off the Internet because Cisco routers in their national interconnect had a multicast bug that duplicated packets back and forth.’
+  author: Jessie Frazelle, Kevin Marks
+  tags:
+  - en
+  - tech
