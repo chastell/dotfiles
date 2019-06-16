@@ -50130,3 +50130,10 @@ signatures:
   tags:
   - en
   - tech
+- text: A roguelike where when the game starts, you have the option of visiting a
+    fortune-teller, who will foretell your doom. If you do that you can’t be killed
+    by anything else in this run, but the game will increasingly contrive ways to
+    confront you with your doom.
+  author: John Nemann
+  tags:
+  - en
