@@ -50151,3 +50151,10 @@ signatures:
   - tech
   - programming
   - Rust
+- text: |-
+    I compiled something experimental targeting Windows and my mate’s laptop said ‘this is whatever, I won’t run it for 100 minutes while we «check»’.
+    Fucking hell, imagine having a computer that won’t run software. Praise Stallman.
+  author: opi
+  tags:
+  - en
+  - tech
