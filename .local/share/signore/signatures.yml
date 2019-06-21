@@ -50166,3 +50166,10 @@ signatures:
   tags:
   - en
   - Twitter
+- text: "‘Programs are proofs!’ I continue to insist as I move my entire program into
+    an unsafe block that shells out to gcc"
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
