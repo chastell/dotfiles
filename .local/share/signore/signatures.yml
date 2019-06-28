@@ -50219,3 +50219,11 @@ signatures:
   author: Kylie Stradley
   tags:
   - en
+- text: Rust shows you that most of your programs in other languages only work by
+    accident.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
