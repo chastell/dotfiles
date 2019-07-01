@@ -50235,3 +50235,15 @@ signatures:
   author: toso
   tags:
   - de
+- text: |-
+    OK, how can I get something into rustc that makes it print ‘my friend, this is a Wendy’s’ f you make a certain kind of mistake?
+    Other error messages I’d settle for:
+    – it’s impossible to say if this is Sized or not
+    – Borat voice: my life
+    – buddy,
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
