@@ -6957,10 +6957,6 @@ signatures:
   tags:
   - en
   - signatures
-- text: This is not a sig. It may look like a sig, but trust me, it’s not.
-  tags:
-  - en
-  - signatures
 - text: And of course we’ve already been round and round on the exact same issue,
     except with editors instead of operating systems. There are GUI lovers who like
     blinking lights and widgets and that heady feeling of massive productivity that
@@ -40876,6 +40872,11 @@ signatures:
   author: Pinboard
   tags:
   - en
+- text: Sure are a lotta grammar nazis out there but you never really hear much from
+    the grammar jews.
+  author: David Brady
+  tags:
+  - en
 - text: |-
     Alien: Why should I not blow up this planet?
     Human: We are an advanced species!
@@ -50288,3 +50289,7 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: I used to be addicted to buying nice soap but I finally got clea- OH NO
+  author: ᎽᎪᎬᏞ
+  tags:
+  - en
