@@ -42866,6 +42866,11 @@ signatures:
   author: Annie Hatfield
   tags:
   - en
+- text: That’s the second worst idea ever, right after Alois and Klara Hitler’s decision
+    to try for a fourth child.
+  author: David Brady
+  tags:
+  - en
 - text: Giphy is the ultimate box of chocolates. I tried to send my coworker a giphy
     for ‘sheepish’ and got Britney Spears on a stripper pole.
   author: Chris Wolfgang
@@ -50293,3 +50298,12 @@ signatures:
   author: ᎽᎪᎬᏞ
   tags:
   - en
+- text: |-
+    The other day I did another count and I think Git has 11 (eleven) distinct methods of encoding numbers.
+    The absolute best of these is a 3-bit int that’s embedded in the first byte of a variable-size int, where the varint is little endian but the bits of the 3-bit number are big-endian.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Git
