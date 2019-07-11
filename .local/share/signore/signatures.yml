@@ -44010,6 +44010,11 @@ signatures:
   author: David Brady
   tags:
   - en
+- text: "‘I murder drifters and use their hair to make little dolls. Oh, you meant
+    at work! My biggest weakness is that I’m a perfectionist.’"
+  author: Damien Owens
+  tags:
+  - en
 - text: The only remotely plausible portrayal of machine superintelligence in science
     fiction is from Douglas Adams.
   author: Pinboard
@@ -50307,3 +50312,9 @@ signatures:
   - tech
   - programming
   - Git
+- text: |-
+    octopus: [gun in each hand]
+    cat: you’re one short buddy
+  author: "@tweetsaboutdog"
+  tags:
+  - en
