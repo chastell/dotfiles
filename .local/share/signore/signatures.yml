@@ -50325,3 +50325,13 @@ signatures:
   author: Josep M. Bach
   tags:
   - en
+- text: |-
+    DENIAL: There’s no way it’s DNS.
+    ANGER: Damn it we *tested* name resolution errors. It can’t be DNS.
+    BARGAINING: Let’s ask the networking team to verify it’s not DNS.
+    DEPRESSION: So much else is broken, why would it be DNS?
+    ACCEPTANCE: It was DNS.
+  author: glyph
+  tags:
+  - en
+  - tech
