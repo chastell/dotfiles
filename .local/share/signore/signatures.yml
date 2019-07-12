@@ -38560,7 +38560,7 @@ signatures:
 - text: |-
     Programming in Rust feels pretty much like pair-programming with a patronizing, pedantic genius.
     ‘Lifetimes don’t match here and here, see? Right buddy you try again while I go for a walk.’
-  author: txus
+  author: Josep M. Bach
   tags:
   - en
   - tech
@@ -50316,5 +50316,12 @@ signatures:
     octopus: [gun in each hand]
     cat: you’re one short buddy
   author: "@tweetsaboutdog"
+  tags:
+  - en
+- text: |-
+    So in 3 months I’ve had several convos with friends and strangers alike describing other people’s ‘personality’ (성격) but consistently using the wrong word (성형) which means ‘plastic surgery’.
+    Thank fuck at least my tutor had the guts to call me out.
+    So how’s your weekend.
+  author: Josep M. Bach
   tags:
   - en
