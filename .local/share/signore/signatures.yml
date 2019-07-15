@@ -50342,3 +50342,12 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    tally for first day at new job:
+    - 1 race condition found in macOS
+    - total failure discovered in Dropbox
+    - coworker’s laptop would not switch on for 10 minutes after I sat down next to them
+  author: James Coglan
+  tags:
+  - en
+  - tech
