@@ -50351,3 +50351,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    you: oh hey James, you finally got a job!
+    me: computer’s haunted
+    you: what?
+    me *grabbing some food and heading back into my room*: computer’s haunted
+  author: James Coglan
+  tags:
+  - en
