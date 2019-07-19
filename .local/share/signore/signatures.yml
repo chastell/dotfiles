@@ -33631,18 +33631,6 @@ signatures:
   author: P. J. O’Rourke
   tags:
   - en
-- text: |-
-    1. Stop
-    2. Close your eyes
-    3. Think of a world with no kebabs
-    4. Open your eyes
-    5. Why are you crying?
-    6. There is no such world
-    7. Relax.
-  author: Mangal 2 Restaurant
-  tags:
-  - en
-  - food
 - text: 'OH: I’m the Technical Debt Fairy. If you leave technical debt under your
     pillowcase at night I hire away your best developers.'
   author: Michael Pearson
@@ -50375,3 +50363,10 @@ signatures:
   author: Kat Stark
   tags:
   - en
+- text: A lot of being a senior dev is delivering the same functionality you did as
+    a junior, just knowing an awful lot more about how it will fail in practice.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
