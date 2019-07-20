@@ -45215,10 +45215,10 @@ signatures:
   - C
   - JavaScript
 - text: |-
-    Me: Sup guys
-    Friend: Sup space cowboy
-    Best friend: What up gangster of love
-    Friend who’s bad at nicknames: Sup… Maurice
+    Me: ’sup guys
+    Friend: ’sup Space Cowboy
+    Best friend: what up Gangster of Love
+    Friend who’s bad at nicknames: ’sup… Maurice
   author: Adam Broud
   tags:
   - en
@@ -50379,3 +50379,10 @@ signatures:
   - tech
   - programming
   - C
+- text: Life is short. Write that novel. Paint that painting. Try new recipes. Learn
+    black magic. Go into the forest at night. Summon a demon. Earn that demon’s trust.
+    Become best friends with it. Brag to everyone else about your new cool demon best
+    friend. Knit that sweater.
+  author: Roxi Horror
+  tags:
+  - en
