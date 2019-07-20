@@ -50370,3 +50370,12 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    me: hmm I’m not sure about this C thing, I’ve been extremely careful and people are still yelling at me to never put it in production
+    production C code: OK here’s what I think happened
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - C
