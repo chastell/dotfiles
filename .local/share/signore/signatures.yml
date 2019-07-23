@@ -50391,3 +50391,13 @@ signatures:
   author: tef
   tags:
   - en
+- text: Yesterday somebody told me an Elixir conf put up two different CFP sites and
+    only processed applications to one of them and this is the most Erlang way you
+    could possibly mess up running a conference.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Erlang
+  - Elixir
