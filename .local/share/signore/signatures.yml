@@ -50401,3 +50401,10 @@ signatures:
   - programming
   - Erlang
   - Elixir
+- text: "‘Microservices’ are just dynamic linking over HTTP."
+  author: Fred Hebert
+  tags:
+  - en
+  - tech
+  - programming
+  - HTTP
