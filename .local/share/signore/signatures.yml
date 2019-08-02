@@ -50467,3 +50467,11 @@ signatures:
   author: Susanna L. Harris
   tags:
   - en
+- text: |-
+    Emacs: text editor = programming language + operating system
+    Smalltalk: programming language = text editor + operating system
+    Unix: operating system = text editor + programming language
+  author: Slava Pestov
+  tags:
+  - en
+  - tech
