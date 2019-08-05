@@ -50493,3 +50493,10 @@ signatures:
   tags:
   - en
   - therapy
+- text: |-
+    ‘The partial failure disliker has logged on.’
+    ‘Fully?’
+  author: James Coglan, Florian Gilcher
+  tags:
+  - en
+  - tech
