@@ -50512,3 +50512,16 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    Reviewing students code.
+    struct Person {
+       //...
+       gender: Option<String>
+       //...
+    }
+    The kids are all right.
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
