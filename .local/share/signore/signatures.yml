@@ -50557,3 +50557,11 @@ signatures:
   author: Chris Ferrie
   tags:
   - en
+- text: |-
+    ja: no, muszę trochę żywego SQL-a naklikać, góra pół godziny
+    mój mózg: w życiu nie widziałeś składni SQL, nie napisałeś żadnego SELECTa, niczego nie pamiętasz bo nigdy tego nie znałeś
+  author: Eli Wurman
+  tags:
+  - pl
+  - tech
+  - SQL
