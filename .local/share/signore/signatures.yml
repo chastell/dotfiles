@@ -50565,3 +50565,9 @@ signatures:
   - pl
   - tech
   - SQL
+- text: Shout out to Business Insider for including a hidden frame that’s been using
+    a whole core all afternoon.
+  author: James Coglan
+  tags:
+  - en
+  - tech
