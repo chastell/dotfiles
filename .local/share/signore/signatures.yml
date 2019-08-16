@@ -50571,3 +50571,9 @@ signatures:
   tags:
   - en
   - tech
+- text: Petition to rename ‘{’ and ‘}’ to ‘recurve brackets’.
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
