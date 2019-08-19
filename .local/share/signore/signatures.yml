@@ -50593,3 +50593,11 @@ signatures:
   tags:
   - en
   - work
+- text: |-
+    TFW the coffee hasn’t kicked in, and you type ‘git status’ in a chat window.
+    And they respond ‘nothing to commit, working tree clean’.
+  author: Russell Keith-Magee
+  tags:
+  - en
+  - tech
+  - Git
