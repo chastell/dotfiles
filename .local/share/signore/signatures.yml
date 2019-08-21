@@ -50608,3 +50608,15 @@ signatures:
   tags:
   - en
   - work
+- text: |-
+    I will not abstract prematurely
+    I will not abstract prematurely
+    I will not abstract <when>
+    <who> will not abstract <when>
+    <who> will <shouldAbstract ? '' : 'not'> abstract <when>
+    oh no
+  author: M. Shemayev
+  tags:
+  - en
+  - tech
+  - programming
