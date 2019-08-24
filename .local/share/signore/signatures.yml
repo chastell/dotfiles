@@ -50627,3 +50627,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    The semantic web: Let’s design an image format based on an XML description of vectors, so that pieces of the picture can be tagged with their meaning and purpose.
+    Every graphic editor ever: id="path4".
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - XML
