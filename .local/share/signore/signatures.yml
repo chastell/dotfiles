@@ -50647,3 +50647,12 @@ signatures:
   tags:
   - en
   - parenting
+- text: "Developers:\nlets/\n├ store\n├ files\n├ in\n└ some/\n     ├ super\n     ├
+    organized\n     └ opinionated/\n         ├ hierarchical\n         └ structure\nAlso
+    developers: \nimport { something } from \"../../../../../../../\""
+  author: David Khourshid
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
