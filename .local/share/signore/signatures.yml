@@ -50656,3 +50656,13 @@ signatures:
   - tech
   - programming
   - JavaScript
+- text: A whole chapter of language advocacy before we even dive in. Unless your language
+    is Scheme it’s a garbage fire, and if it IS Scheme it’s an overly precious hipster
+    scarf that no one is gonna use, so stop yapping about how it’s perfect and just
+    get to the point.
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
+  - programming
+  - Scheme
