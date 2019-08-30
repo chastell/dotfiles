@@ -50678,3 +50678,11 @@ signatures:
   author: Laura O’ Shea
   tags:
   - en
+- text: Modern software tooling is amazing. I can go from zero to working thing that
+    I don’t understand at all and have zero chance of debugging in a timely fashion
+    quicker than you can say ‘thank god I don’t have to support this thing’.
+  author: Sean T. Allen
+  tags:
+  - en
+  - tech
+  - programming
