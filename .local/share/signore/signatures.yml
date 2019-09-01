@@ -50692,3 +50692,16 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: The mid-2000s Ruby vs Python rivalry was a bit ‘narcissism of small differences’,
+    but generally friendly. Now there’s a (less friendly?) JavaScript vs TypeScript
+    rivalry… but they have identical semantics. Having a rivalry with itself is the
+    most JavaScript thing imaginable.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Python
+  - JavaScript
+  - TypeScript
