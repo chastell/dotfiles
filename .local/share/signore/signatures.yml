@@ -50714,3 +50714,9 @@ signatures:
   author: rocket
   tags:
   - en
+- text: I prefer to use browser tabs but I think a lot of people prefer browser spaces
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
