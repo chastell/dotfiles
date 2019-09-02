@@ -50705,3 +50705,12 @@ signatures:
   - Python
   - JavaScript
   - TypeScript
+- text: |-
+    captain: get your dog off my ship
+    me: say it properly
+    captain:
+    me:
+    captain: [sighs] disembark
+  author: rocket
+  tags:
+  - en
