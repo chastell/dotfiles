@@ -50725,3 +50725,11 @@ signatures:
   tags:
   - en
   - work
+- text: |-
+    Me: A group of SIMD programmers form a vigilante crime fighting group known as Float Fours.
+    Coworker: Float Fours, we need you on the double!
+    This is why you work in an office.
+  author: Andreas Fredriksson
+  tags:
+  - en
+  - tech
