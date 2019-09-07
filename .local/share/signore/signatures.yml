@@ -50733,3 +50733,13 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    therapist: and what do we do when we don’t like the syntax?
+    me: monkey patch the grammar with a Babel plugin
+    therapist: no
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
