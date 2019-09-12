@@ -50768,3 +50768,9 @@ signatures:
   author: rocket
   tags:
   - en
+- text: the OSI model isn’t real I assure myself as I smash layers 4 through 7 with
+    the same terrible failure handling
+  author: James Coglan
+  tags:
+  - en
+  - tech
