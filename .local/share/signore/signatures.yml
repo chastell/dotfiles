@@ -50795,3 +50795,13 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    There are only two things you need to know about smart contracts:
+    1. They’re not smart.
+    2. They’re not contracts.
+  author: Philip Wadler
+  tags:
+  - en
+  - tech
+  - programming
+  - blockchain
