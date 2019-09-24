@@ -50853,3 +50853,13 @@ signatures:
   author: Amy Fowler
   tags:
   - en
+- text: |-
+    all I wanna do is
+    *spacebar* *spacebar* *spacebar* *spacebar*
+    and *return* *return*
+    follow the style guide
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
