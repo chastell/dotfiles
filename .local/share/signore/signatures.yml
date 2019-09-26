@@ -50872,3 +50872,16 @@ signatures:
   author: Post-Culture Review
   tags:
   - en
+- text: |-
+    STOP using single-purpose instructions
+    MOV is Turing complete
+    XOR is Turing complete
+    SUB is Turing complete
+    (CMP)XCHG is Turing complete
+    JMP
+    ADC is Turing complete
+  author: "@x86instructions"
+  tags:
+  - en
+  - tech
+  - programming
