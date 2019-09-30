@@ -50903,3 +50903,12 @@ signatures:
   author: "@MNateShyamalan"
   tags:
   - en
+- text: |-
+    ‘Can you imagine being at a whole conference about yaml.’
+    ‘"no"’
+  author: Camille Fournier, James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - YAML
