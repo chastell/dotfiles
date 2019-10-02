@@ -2,6 +2,7 @@ include "%L"
 
 <Multi_key> <b> <l> <u> <s> <h>      : "😊"
 <Multi_key> <c> <f>                  : "🤞"
+<Multi_key> <c> <h> <e> <c> <k>      : "✅"
 <Multi_key> <c> <r> <y>              : "😢"
 <Multi_key> <colon> <D>              : "😀"
 <Multi_key> <d> <a> <n> <c> <e>      : "🕺"
