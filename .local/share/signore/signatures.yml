@@ -1728,10 +1728,6 @@ signatures:
   author: Jane Wagner
   tags:
   - en
-- text: 'WARNING: Persons denying the existence of robots may be robots themselves.'
-  tags:
-  - en
-  - robots
 - text: People who say you’re just as old as you feel are all wrong, fortunately.
   author: Russell Baker
   tags:
@@ -50988,3 +50984,8 @@ signatures:
   tags:
   - en
   - work
+- text: BŁĄD SYMULACJI ZOSTAŁ USUNIĘTY, NICI ASTRALNEJ ENERGII ŁĄCZĄCE WSZYSTKIE ISTOTY
+    NIE SĄ JUŻ WIDOCZNE
+  author: PNEUMATYCZNA ĐUSZA
+  tags:
+  - pl
