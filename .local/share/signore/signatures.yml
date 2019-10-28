@@ -51084,3 +51084,10 @@ signatures:
   - en
   - tech
   - work
+- text: |-
+    Country music: I’m going to live and die in my hometown :)
+    Pop punk music: I’m going to live and die in my hometown :(
+  author: Joey Gallagher
+  tags:
+  - en
+  - music
