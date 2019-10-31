@@ -51110,3 +51110,8 @@ signatures:
   tags:
   - en
   - tech
+- text: We once changed an ML algorithm into a SQL query once we knew the table existed.
+  author: Vincent D. Warmerdam
+  tags:
+  - en
+  - tech
