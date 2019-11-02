@@ -51115,3 +51115,11 @@ signatures:
   tags:
   - en
   - tech
+- text: You’d think a new lisp, after talking about all its pros, would then have
+    a list of cons.
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
