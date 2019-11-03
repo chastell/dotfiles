@@ -51123,3 +51123,11 @@ signatures:
   - tech
   - programming
   - Lisp
+- text: The problem with lisp is that nobody can ever finish writing an app. They
+    just end up with a bunch of partial applications.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
