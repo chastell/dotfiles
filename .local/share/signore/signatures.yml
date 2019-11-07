@@ -51146,3 +51146,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: rename the Rust mascot to Steve Crabnik
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
