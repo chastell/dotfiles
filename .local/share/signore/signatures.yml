@@ -51165,3 +51165,11 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: Another day volunteering at the Rust compiler museum. Everyone keeps asking
+    me if they can alias mutable references. Buddy, they won’t even let me alias it…
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
