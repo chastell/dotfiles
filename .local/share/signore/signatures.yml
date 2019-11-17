@@ -51220,3 +51220,13 @@ signatures:
   author: "@lavendersheeps"
   tags:
   - en
+- text: |-
+    me: ah I’ve done some actual production C code now, a big project merged my changes, I must get pointers
+    also me: randomly combining & and * in Rust and making a face
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
+  - C
