@@ -51235,3 +51235,9 @@ signatures:
   author: "@yourbizsucks"
   tags:
   - en
+- text: What is kubernetesless? In this talk…
+  author: Łukasz Korecki
+  tags:
+  - en
+  - tech
+  - Kubernetes
