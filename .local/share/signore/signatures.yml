@@ -51241,3 +51241,15 @@ signatures:
   - en
   - tech
   - Kubernetes
+- text: |-
+    *apple watch buzzes*: meeting in 10
+    *phone calendar pop up*: meeting in 10
+    *desktop calendar pop up*: meeting in 10
+    *slack reminder*: meeting in 10
+    YEAH OK I GOT IT, MEETING IN 10
+    11 minutes later:
+    OH FUCK MY MEETING
+  author: Mary Katherine McKenzie
+  tags:
+  - en
+  - work
