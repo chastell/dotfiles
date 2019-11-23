@@ -51267,3 +51267,13 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    The three most important things experts understand about software security:
+    1. Software is unbelievably unreliable and insecure.
+    2. No, really, you have no idea.
+    3. It’s actually even worse than that.
+  author: Matt Blaze
+  tags:
+  - en
+  - tech
+  - security
