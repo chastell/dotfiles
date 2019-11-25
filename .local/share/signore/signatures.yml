@@ -51283,3 +51283,10 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘it helps if you turn the computer on, doesn’t it’
+    ‘no, no, it does not’
+  author: James Coglan
+  tags:
+  - en
+  - tech
