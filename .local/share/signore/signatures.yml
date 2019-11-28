@@ -51303,3 +51303,12 @@ signatures:
   author: Bijan Stephen, @thatcatkatie
   tags:
   - en
+- text: "‘Hidden backdoors in voting machine software’ is the silliest conspiracy
+    theory ever. Anyone who’s examined the code for a modern commercial voting machine
+    can tell you that there are so many security vulnerabilities, inserting a backdoor
+    would be a complete waste of time."
+  author: Matt Blaze
+  tags:
+  - en
+  - tech
+  - security
