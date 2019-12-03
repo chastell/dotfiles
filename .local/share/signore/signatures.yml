@@ -51332,3 +51332,11 @@ signatures:
   author: Abby Cohen
   tags:
   - en
+- text: |-
+    me: Those online discussions sure are exhausting, currently.
+    also me: *comments in a systemd discussion*
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - systemd
