@@ -51340,3 +51340,11 @@ signatures:
   - en
   - tech
   - systemd
+- text: 'Alternate Rust slogan: what if C had a type system?'
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
+  - C
