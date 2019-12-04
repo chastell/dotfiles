@@ -51348,3 +51348,12 @@ signatures:
   - programming
   - Rust
   - C
+- text: |-
+    I’m very sorry to break it to everyone but C is not statically typed.
+    C is a dynamic language with allocation size hints.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - C
