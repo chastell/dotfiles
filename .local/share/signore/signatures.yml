@@ -51400,3 +51400,11 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    cargo: aborting due to 461 previous errors
+    me: alright. that’s fine. here’s what I think happened,
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - Rust
