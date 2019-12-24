@@ -51491,3 +51491,14 @@ signatures:
   author: PNUEMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    Rust programmer: oh hey, `PhantomData<T>`
+    rustc: type’s haunted
+    Rust programmer: what?
+    rustc: *loading a pistol and starting another compiler pass* type’s haunted
+  author: Henry de Valence
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
