@@ -51502,3 +51502,10 @@ signatures:
   - tech
   - programming
   - Rust
+- text: What I like about LaTeX so much is that it brings the joy of debugging code
+    to the fun process of writing a paper.
+  author: Titus Brown
+  tags:
+  - en
+  - tech
+  - LaTeX
