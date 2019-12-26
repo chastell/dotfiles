@@ -39069,7 +39069,7 @@ signatures:
   - programming
   - CoffeeScript
 - text: Adults are are just older kids who didn’t die because they were vaccinated.
-  author: InfoSec Taylor Swift
+  author: SwiftOnSecurity
   tags:
   - en
   - vaccinations
@@ -39122,7 +39122,7 @@ signatures:
   - programming
 - text: Google can deploy a Linux patch to a million servers worldwide in an hour
     and, more impressively, can update three Android phones a year.
-  author: InfoSec Taylor Swift
+  author: SwiftOnSecurity
   tags:
   - en
   - tech
@@ -39208,7 +39208,7 @@ signatures:
   - en
   - poetry
 - text: "IPv7 address: \U0001F481.\U0001F3B5.\U0001F3C2.\U0001F618"
-  author: InfoSec Taylor Swift
+  author: SwiftOnSecurity
   tags:
   - en
   - tech
@@ -40801,7 +40801,7 @@ signatures:
     *connects with a line*
     *draws box inside Company*
     *labels it ‘China’*
-  author: Swift on Security
+  author: SwiftOnSecurity
   tags:
   - en
   - tech
@@ -42073,7 +42073,7 @@ signatures:
 - text: |-
     It’s okay to be alone.
     Just imagine you’re in a docker container.
-  author: SecuriTay
+  author: SwiftOnSecurity
   tags:
   - en
   - tech
@@ -43671,7 +43671,7 @@ signatures:
     Apple: 10
     Linux: 4.8
     Are you even trying
-  author: InfoSec Taylor Swift
+  author: SwiftOnSecurity
   tags:
   - en
   - tech
@@ -51509,3 +51509,11 @@ signatures:
   - en
   - tech
   - LaTeX
+- text: |-
+    What you think Senior means: 20 years of experience and a degree
+    What Senior actually means: I did something like that a few times
+  author: SwiftOnSecurity
+  tags:
+  - en
+  - tech
+  - work
