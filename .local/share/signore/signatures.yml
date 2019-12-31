@@ -51542,3 +51542,9 @@ signatures:
   author: Catherine na Nollag
   tags:
   - en
+- text: Programs don’t ask, ‘what time is it?’ They ask, ‘how many seconds has it
+    been since 1970?’, and I think that’s beautiful.
+  author: Emily Strickland
+  tags:
+  - en
+  - tech
