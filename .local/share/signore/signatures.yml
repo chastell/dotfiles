@@ -51560,3 +51560,10 @@ signatures:
   author: "@elizabitchtaylor"
   tags:
   - en
+- text: A programmer had a problem. He thought to himself, ‘I know, I’ll solve it
+    with threads!’. has Now problems. two he
+  author: Davidlohr Bueso
+  tags:
+  - en
+  - tech
+  - programming
