@@ -51602,3 +51602,10 @@ signatures:
   tags:
   - en
   - cinematography
+- text: |-
+    ‘Sand. Computers are just sand.’
+    ‘Computers are just *NAND*, Steve.’
+  author: Steve Klabnik, James Coglan
+  tags:
+  - en
+  - tech
