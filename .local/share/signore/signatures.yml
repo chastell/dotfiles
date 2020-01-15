@@ -51644,3 +51644,10 @@ signatures:
   author: Caitie Delaney
   tags:
   - en
+- text: 'concurrent programming: the problems are bad, but the causes… the causes
+    are completely unknown'
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
