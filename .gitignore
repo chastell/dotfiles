@@ -1,3 +1,4 @@
 .vim/bundle
 .vim/colors
+.vim/plugged
 bin/transcrypt
