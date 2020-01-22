@@ -1,3 +1,4 @@
+.bundle/cache
 .vim/bundle
 .vim/colors
 .vim/plugged
