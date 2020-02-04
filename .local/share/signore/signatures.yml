@@ -51777,3 +51777,13 @@ signatures:
   author: Johnny McNulty
   tags:
   - en
+- text: |-
+    First time, you build the thing.
+    The second, you build the right thing.
+    The third, you build the right thing right.
+    I’ve found almost no exception to this rule.
+  author: Marcello Rocha
+  tags:
+  - en
+  - tech
+  - programming
