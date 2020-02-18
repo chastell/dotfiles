@@ -51884,3 +51884,11 @@ signatures:
   author: tef
   tags:
   - en
+- text: welcome to Ruby, we got push (<<), concat (<<), write (<<), bitshift (<<),
+    heredocs (<<), metaclasses (<<), date math (<<), function composition (<<),
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
