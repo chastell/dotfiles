@@ -51915,3 +51915,10 @@ signatures:
   author: Robyn Vinter
   tags:
   - en
+- text: |-
+    ‘Keep thinking about the fact that the French expression for “what’s that” literally translates as “what is the thing that that is”.’
+    ‘And when you _really_ don’t know, you say “what is the thing that that is, which [is] that?!”.’
+  author: James Coglan, Tom Stuart
+  tags:
+  - en
+  - linguistics
