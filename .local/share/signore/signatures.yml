@@ -51933,3 +51933,10 @@ signatures:
   tags:
   - en
   - academia
+- text: |-
+    Myth: Your AWS bill is a function of how many customers you have.
+    Fact: Your AWS bill is a function of how many engineers you have.
+  author: Corey Quinn
+  tags:
+  - en
+  - tech
