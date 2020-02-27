@@ -51956,3 +51956,12 @@ signatures:
   author: Anthony Oliveira
   tags:
   - en
+- text: "‘The borrow checker makes Rust so hard to learn’, I say as I write a function
+    signature exploiting the comma operator, SFINAE, argument-dependent lookup, reference
+    collapsing rules, 1/39"
+  author: Tyler Mandry
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
