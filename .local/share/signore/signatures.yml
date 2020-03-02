@@ -51989,3 +51989,10 @@ signatures:
   - en
   - tech
   - work
+- text: let me impl Ord for f64 you cowards
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
