@@ -40130,7 +40130,7 @@ signatures:
   - en
   - tech
   - XSLT
-- text: "‘Heavens to Murgatroyd’ is an expression I don't hear often enough."
+- text: "‘Heavens to Murgatroyd’ is an expression I don’t hear often enough."
   author: Paul Ostazeski
   tags:
   - en
@@ -51996,3 +51996,8 @@ signatures:
   - tech
   - programming
   - Rust
+- text: The first step of any project is to grossly underestimate its complexity and
+    difficulty.
+  author: Nicoll Hunt
+  tags:
+  - en
