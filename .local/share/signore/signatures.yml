@@ -52001,3 +52001,11 @@ signatures:
   author: Nicoll Hunt
   tags:
   - en
+- text: |-
+    ‘If you think about it, cat is the base case of a compiler.’
+    ‘More or less.’
+  author: Steve Klabnik, Florian Gilcher
+  tags:
+  - en
+  - tech
+  - programming
