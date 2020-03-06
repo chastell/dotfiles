@@ -52014,3 +52014,16 @@ signatures:
   author: PNUEMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    the trends in Rust:
+    • we will ban all allocations
+    • we will rewrite C libs as 2 crates in a trenchcoat
+    • every problem is an async problem now
+    • we will ban all unsafe
+    next one: we won’t stop until all code is executed at compile time and the binary only contains the result
+  author: Geoffroy Couprie
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
