@@ -52052,3 +52052,11 @@ signatures:
   author: Eli Wurman
   tags:
   - pl
+- text: |-
+    Her palms are sweaty, knees weak, arms are heavy
+    There’s errors on her console already, kubernetes
+  author: Alice Goldfuss
+  tags:
+  - en
+  - tech
+  - Kubernetes
