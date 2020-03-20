@@ -52127,3 +52127,11 @@ signatures:
   author: "@osamabishounen"
   tags:
   - en
+- text: |-
+    Classic infra troubleshooting: it’s always DNS
+    AWS infra troubleshooting: it’s always IAM
+  author: Łukasz Korecki
+  tags:
+  - en
+  - tech
+  - devops
