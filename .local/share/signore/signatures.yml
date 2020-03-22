@@ -52141,3 +52141,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    What people think software performance work is: algorithms, big O notation, silicon design, concurrency and parallelism.
+    What software performance actually is: Database and network. Database and network. Database and network.
+  author: Nate Berkopec
+  tags:
+  - en
+  - tech
+  - performance
