@@ -1,4 +1,4 @@
 function vuvs
-  vagrant up
+  pgrep VBoxHeadless; or vagrant up
   vagrant ssh
 end
