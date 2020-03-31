@@ -52197,3 +52197,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: Yes, ‘Lambda’ is a confusing name for a serverless platform, but ‘cgi-bin’
+    was taken.
+  author: Avdi Grimm
+  tags:
+  - en
+  - tech
+  - AWS
