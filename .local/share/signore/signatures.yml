@@ -52226,3 +52226,9 @@ signatures:
   author: Aaron Patterson
   tags:
   - en
+- text: Disney+ clearly doesn’t understand kids. The top recommendation for ‘because
+    you watched [movie]’ should be [movie].
+  author: Michael Bleigh
+  tags:
+  - en
+  - parenting
