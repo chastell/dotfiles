@@ -52257,3 +52257,10 @@ signatures:
   author: Oliver Clegg
   tags:
   - en
+- text: |-
+    Just learned that ‘type I and type II errors’ comes from a paper where those indexes refer to a bullet list of actual named phenomena, and then we just started using the terms outside that context like that’s normal.
+    Yeah might go and make some ‘page 94’ mistakes.
+    Section 5.2.2 phenomenon.
+  author: James Coglan
+  tags:
+  - en
