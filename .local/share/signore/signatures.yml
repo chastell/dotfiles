@@ -52264,3 +52264,10 @@ signatures:
   author: James Coglan
   tags:
   - en
+- text: |-
+    Coworker: Why do we do it that way?
+    Me: Short answer: *sigh*. Long answer: *much longer, drawn-out sigh*.
+  author: Jamie Gaskins
+  tags:
+  - en
+  - work
