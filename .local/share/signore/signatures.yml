@@ -52290,3 +52290,10 @@ signatures:
   author: James Coglan
   tags:
   - en
+- text: I’m sorry I don’t understand your joke about ‘the Venn diagram of X and Y
+    is a circle’. A Venn diagram shows all logical relations between sets, even those
+    which are empty. Maybe your joke is about an Euler diagram which needn’t depict
+    empty relations. In which case haha good one
+  author: Tom Stuart
+  tags:
+  - en
