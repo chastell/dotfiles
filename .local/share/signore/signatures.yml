@@ -17640,7 +17640,7 @@ signatures:
   - work
 - text: 'I find it disheartening that the server should know or care whether this
     is an AJAX request. #itsjusthttpguys'
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -28035,7 +28035,7 @@ signatures:
   tags:
   - en
 - text: A good developer should learn to exit every editor.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -28150,7 +28150,7 @@ signatures:
   - TDD
 - text: I will not let Perfect be the enemy of the Good. But Great? Great can kick
     Good’s ass any day.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - work
@@ -28435,7 +28435,7 @@ signatures:
   tags:
   - en
 - text: Duck typing? More like honey badger typing.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -28717,7 +28717,7 @@ signatures:
   - programming
 - text: Seems like (mockist) TDD leads to designing objects which don’t appear to
     need tests, but not writing tests leads to objects that do.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -29344,7 +29344,7 @@ signatures:
   - programming
 - text: We need to get past the idea that Rails is an app framework that wraps your
     domain model. Rails is a web framework that wraps your application.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -29604,7 +29604,7 @@ signatures:
     Things I feel silly for not knowing before:
     1) The Beach Boys recorded an album as late as 2012.
     2) There is no such place as Kokomo.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - music
@@ -29739,7 +29739,7 @@ signatures:
   - en
 - text: OH MY GOD YOU GUYS IT’S AWFUL EVERYTHING SUCKS AND I’M WORTHLESS AND oh wait
     I forgot to eat lunch be right back
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
 - text: |-
@@ -30022,7 +30022,7 @@ signatures:
   - tech
   - HTML
 - text: 'For lease: a jolly good fellow.'
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
 - text: Oraz stałem się wyznawcą Inbox 20. To jest optymalna liczba maili, której
@@ -30842,7 +30842,7 @@ signatures:
   tags:
   - en
 - text: My phone wants to autocorrect ‘lambdas’ to ‘lambada’.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -31059,7 +31059,7 @@ signatures:
   - tech
   - programming
 - text: Well-designed objects approach functions.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -31303,7 +31303,7 @@ signatures:
   tags:
   - en
 - text: "‘C compiler cannot create executables.’ You had ONE JOB."
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -31465,7 +31465,7 @@ signatures:
     Or Nothing, baby
     When you’re in Haskell
     You’d…
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -32040,7 +32040,7 @@ signatures:
   - JavaScript
 - text: And then the barista drew an X-Men insignia in my latte and everything was
     okay again.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - coffee
@@ -32747,7 +32747,7 @@ signatures:
   - gender
 - text: 'OH: If I was in a room with Stalin, Hitler, the Rails asset pipeline, and
     a gun with 2 bullets, I’d shoot the asset pipeline and then myself.'
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -33427,7 +33427,7 @@ signatures:
   - en
 - text: Restarted my computer and it started playing some awesome hip hop. Can’t find
     the app that’s doing it. Not sure I mind.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
 - text: Inheritance is for sharing behavior, not data structures. STI binds your logic
@@ -33732,7 +33732,7 @@ signatures:
   - CoffeeScript
   - JavaScript
 - text: Hash#kvetch
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -33901,7 +33901,7 @@ signatures:
   - en
 - text: A bug is like a really awesome magic trick you performed for yourself without
     realizing it.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -34801,7 +34801,7 @@ signatures:
 - text: |-
     Thank god I have tests.
     Oh, no, wait, that one was me. Thank me I have tests.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -35568,7 +35568,7 @@ signatures:
   tags:
   - en
 - text: I pronounce it ‘strife time’.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -36131,7 +36131,7 @@ signatures:
   - en
 - text: Object-oriented programming is a style of programming where we pretend not
     everything is a function for some reason.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -36322,7 +36322,7 @@ signatures:
 - text: |-
     ‘OH NO, ERGODOX HAS A CAPSLOCK KEY BUT I DON’T KNOW WHICH ONE IT IS!’
     ‘Press each key carefully until you feel a slight sinking feeling in your soul. That one’s caps lock.’
-  author: Drew Neil, Peter Jaros
+  author: Drew Neil, Petra Jaros
   tags:
   - en
   - tech
@@ -36653,7 +36653,7 @@ signatures:
   tags:
   - en
 - text: Hell is other people’s open file handles.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -36979,7 +36979,7 @@ signatures:
 - text: |-
     lmao if you have an ActiveRecord model called ‘Transaction’
     make that ‘cmao’
-  subject: Peter Jaros
+  subject: Petra Jaros
   tags:
   - en
   - tech
@@ -38492,7 +38492,7 @@ signatures:
   - homeopathy
 - text: Given that computers do precisely what we tell them to do, 80% of programming
     is figuring out exactly what we just asked the computer to do.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
   - tech
@@ -44188,7 +44188,7 @@ signatures:
   tags:
   - en
 - text: People who study history are doomed to see it coming.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
 - text: 'I don’t need a chat box in video conferencing software, I just need a radio
@@ -45532,7 +45532,7 @@ signatures:
 - text: |-
     I just watched someone eat Pocky backwards.
     How unexpectedly infuriating.
-  author: Peter Jaros
+  author: Petra Jaros
   tags:
   - en
 - text: |-
@@ -49513,7 +49513,7 @@ signatures:
 - text: |-
     ‘Instance variables considered harmful.’
     ‘Also, variables. Also, instances.’
-  author: Francis Hwang, Peter Jaros
+  author: Francis Hwang, Petra Jaros
   tags:
   - en
   - tech
@@ -52323,3 +52323,8 @@ signatures:
   - en
   - tech
   - programming
+- text: 'Confession: it’s been 24 years, and I still don’t know if we were supposed
+    to know what ‘zig-a-zig ah’ meant.'
+  author: Petra Jaros
+  tags:
+  - en
