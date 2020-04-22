@@ -52333,3 +52333,9 @@ signatures:
   author: Mike Katchowski
   tags:
   - en
+- text: branch predictor go br
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
