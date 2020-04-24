@@ -23502,7 +23502,7 @@ signatures:
   - programming
   - JavaScript
 - text: I got asked what language I program in on my way back from Colombia. I told
-    that fine gentlemen 5 things I hate about Ruby.
+    that fine gentlemen five things I hate about Ruby.
   author: Duncan Grazier
   tags:
   - en
@@ -52343,6 +52343,11 @@ signatures:
     People without kids during quarantine: what ten hobbies should I pick up?
     Parents: this 5 minutes to myself from 10:55-11pm has been really nice.
   author: Rebecca McDonald
+  tags:
+  - en
+  - parenting
+- text: 'Homeschooling day 12: fed the math homework to the dog myself.'
+  author: "@mommajessiec"
   tags:
   - en
   - parenting
