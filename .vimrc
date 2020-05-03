@@ -3,6 +3,7 @@ runtime! defaults.vim
 call plug#begin('~/.vim/plugged')
 Plug 'DataWraith/auto_mkdir'
 Plug 'bogado/file-line'
+Plug 'cespare/vim-toml'
 Plug 'craigemery/vim-autotag'
 Plug 'dag/vim-fish'
 Plug 'ecomba/vim-ruby-refactoring'
