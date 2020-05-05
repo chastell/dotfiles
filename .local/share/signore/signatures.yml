@@ -52430,3 +52430,10 @@ signatures:
   author: Jurek_z_klanu
   tags:
   - pl
+- text: I cannot get over the fact that the driver that covers more Mali chipsets
+    than just bifrost is called panfrost.
+  author: Matthew Garrett
+  tags:
+  - en
+  - tech
+  - programming
