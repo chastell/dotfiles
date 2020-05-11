@@ -52462,3 +52462,12 @@ signatures:
   author: Łukasz Najder
   tags:
   - pl
+- text: |-
+    me: noooo you can’t take a &mut self and return Self, whatever will happen to the receiver
+    Penelope Phippen: haha mem::swap go brrr
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
