@@ -422,6 +422,7 @@ mode "$mode_gaps_outer" {
         bindsym Escape mode "default"
 }
 
+exec --no-startup-id flameshot
 exec --no-startup-id setxkbmap -option caps:ctrl_modifier -option compose:rctrl
 exec --no-startup-id unclutter --timeout 1
 # exec --no-startup-id xcape -e 'Caps_Lock=Escape;Control_L=Escape'
