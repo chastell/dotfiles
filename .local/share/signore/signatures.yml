@@ -52512,3 +52512,11 @@ signatures:
   author: Konstantin Haase
   tags:
   - en
+- text: I think every day about how cable internet is IP over MPEG. This is a literal
+    fact. DOCSIS sends downstream data in MPEG frames because that’s what the cable
+    networks are optimized for and what all the switching equipment understood when
+    cable broadband took off.
+  author: Gravis
+  tags:
+  - en
+  - tech
