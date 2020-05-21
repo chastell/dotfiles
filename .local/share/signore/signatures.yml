@@ -52526,3 +52526,12 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    I think I’ve found a new type of Kanban.
+    You make a board with only one column.
+    It’s called ‘done’.
+  author: Michael Feathers
+  tags:
+  - en
+  - tech
+  - programming
