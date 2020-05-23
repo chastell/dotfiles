@@ -52539,3 +52539,10 @@ signatures:
   author: "@floozyesq"
   tags:
   - en
+- text: "Usability tip: don’t use the name ‘backup’ for commands that automatically
+    delete huge swaths of important files.\nToday’s tip brought to you by the mackup
+    project and my now gone forever PGP database. \U0001F44D"
+  author: Jonan Scheffler
+  tags:
+  - en
+  - tech
