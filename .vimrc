@@ -88,6 +88,7 @@ set nojoinspaces
 set shiftround
 set shiftwidth=2
 set showbreak=↪
+set showmatch
 set smartcase
 set smartindent
 set splitbelow
