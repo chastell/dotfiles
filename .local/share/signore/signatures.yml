@@ -52556,3 +52556,11 @@ signatures:
   author: James Coglan
   tags:
   - en
+- text: it’s called >>= because everyone that joins the Haskell community mysteriously
+    shifts to the right
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Haskell
