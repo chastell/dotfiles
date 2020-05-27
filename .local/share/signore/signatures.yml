@@ -28483,7 +28483,7 @@ signatures:
   - en
   - tech
   - programming
-- text: I love it when nerds try to philosophize deeply about things, and instead
+- text: I love it when nerds try to philosophise deeply about things, and instead
     demonstrate that they are complete sociopaths.
   author: John McDowall
   tags:
@@ -52564,3 +52564,12 @@ signatures:
   - tech
   - programming
   - Haskell
+- text: |-
+    NOOOOO, YOU CAN’T JUST TAKE AN AST AND CALL IT A PROGRAMMING LANGUAGE!
+    McCarthy: haha, parens go cdrrrrrrrr
+  author: Arne Brasseur, Paul Bellamy
+  tags:
+  - en
+  - tech
+  - programming
+  - Lisp
