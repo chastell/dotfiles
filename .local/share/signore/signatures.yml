@@ -36635,7 +36635,7 @@ signatures:
   tags:
   - pl
   - taxi
-- text: Znajomy pracował w PKO – ywały releasy po których rzecznik prasowy z kamienną
+- text: Znajomy pracował w PKO – bywały releasy, po których rzecznik prasowy z kamienną
     twarzą mówił, że koparka przerwała światłowód.
   author: pk
   tags:
@@ -52603,5 +52603,11 @@ signatures:
     Me: Oh man a cool person followed me, I should probably think more about my tweets so I don’t seem weird..
     Also me: Inspector Gadget managed to make Detective which means he outranks Robocop.
   author: Jonathan Ying
+  tags:
+  - en
+- text: |-
+    Remember how 3000 people died during 9/11 and then we spent 2 trillion dollars on war in country that had nothing to do with it?
+    100 000 people died form coronavirus, boy can you imagine how much they gonna spend on healthcare after that?
+  author: Broken Society
   tags:
   - en
