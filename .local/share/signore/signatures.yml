@@ -48812,7 +48812,7 @@ signatures:
   - pl
 - text: Some times new words that sound awkward at first end up growing on you. ‘Webinar’
     is not one of those words.
-  author: DHH
+  author: David Heinemeier Hansson
   tags:
   - en
 - text: |-
@@ -52637,5 +52637,9 @@ signatures:
 - text: Disney teaches you to hate your stepmom, where Brazzers has a different approach
     completely.
   author: Sinner Girl
+  tags:
+  - en
+- text: "‘Boot’ is something you do to start a computer, not something you lick."
+  author: Computer Facts
   tags:
   - en
