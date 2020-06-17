@@ -52682,3 +52682,12 @@ signatures:
   author: Rami Ismail
   tags:
   - en
+- text: Ruby’s GC is pretty hard to understand. If it was written in Rust, I feel
+    like it would be less of a read barrier.
+  author: Aaron Patterson
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
+  - Rust
