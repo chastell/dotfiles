@@ -52810,3 +52810,12 @@ signatures:
   author: Miri Teixeira
   tags:
   - en
+- text: |-
+    If you ever question your naming convention choices:
+    ‘In APL dialects, the delta (Δ) is used between words, e.g. PERFΔSQUARE (no lowercase traditionally existed in older APL versions). If the name used underscored letters, then the delta underbar (⍙) would be used instead.’
+  author: Jan Dudek
+  tags:
+  - en
+  - tech
+  - programming
+  - APL
