@@ -52819,3 +52819,13 @@ signatures:
   - tech
   - programming
   - APL
+- text: |-
+    Monday code’s all torn apart
+    Tuesday, Wednesday hope departs
+    Thursday tests won’t even start
+    but Friday it’s on prod
+  author: "@d6"
+  tags:
+  - en
+  - tech
+  - programming
