@@ -52847,3 +52847,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    ‘Hi! I’m X, a product manager at Atlassian. I’d love to hear your thoughts on Jira.’
+    No, you really, really wouldn’t.
+  author: Brian Fenton
+  tags:
+  - en
+  - tech
+  - Jira
