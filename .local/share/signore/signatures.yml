@@ -52855,3 +52855,10 @@ signatures:
   - en
   - tech
   - Jira
+- text: |-
+    Benchmarks suffer from ‘Kung Fu Villain Syndrome’. Like the Villains in 1970s kung fu movies, the data shows up in an orderly fashion and does what the script says it’s supposed to do. Real life is very, very different.
+    If you are dealing with 24 billion billable events per day, a 1 in a billion chance is happening every hour. Records show up twice. Or not at all. Or out of sequence. Or full of garbage. Or dated Jan 1, 1970. Or in a massive tide because an upstream system was down. Etc, etc.
+  author: David Rolfe
+  tags:
+  - en
+  - tech
