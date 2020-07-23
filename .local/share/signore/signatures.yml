@@ -52921,3 +52921,12 @@ signatures:
   author: John Cutler, francesc
   tags:
   - en
+- text: "Test-driven development book: First you write a failing test\nMe: \U0001F62D\U0001F62D\U0001F62D
+    \ This is all I’ve ever wanted\nBook: Next you make the test pass\nMe: *throws
+    book across the room* GARBAGE"
+  author: Sy Brand
+  tags:
+  - en
+  - tech
+  - programming
+  - testing
