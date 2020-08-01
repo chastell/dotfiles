@@ -52981,3 +52981,13 @@ signatures:
   author: Leanna Orr
   tags:
   - en
+- text: |-
+    2010: Working on a Python project. 31 dependencies. Sometimes something breaks during an upgrade.
+    2015: Working on a Rails project. 175 dependencies. Most upgrades break something.
+    2020: Working on a Node project. 3,069 dependencies. Every upgrade breaks 10ish dependencies.
+    2025:
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
