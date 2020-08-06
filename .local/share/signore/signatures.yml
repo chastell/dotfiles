@@ -53014,3 +53014,11 @@ signatures:
   author: Dana Donnelly
   tags:
   - en
+- text: Being a senior software engineer means being able to architect an entire end-to-end
+    application in your head but having to google how to check if a JS array contains
+    an element because you can only remember how to do it in three other languages.
+  author: "@nex3"
+  tags:
+  - en
+  - tech
+  - programming
