@@ -53102,3 +53102,10 @@ signatures:
   tags:
   - en
   - tech
+- text: 'There are four things you don’t talk about in polite company: politics, religion,
+    money, and systemd.'
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - systemd
