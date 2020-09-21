@@ -53323,3 +53323,10 @@ signatures:
   - en
   - tech
   - programming
+- text: It’s core::fmt, Ferris, how much could it cost? 10 KiB?
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
