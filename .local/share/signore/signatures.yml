@@ -53330,3 +53330,12 @@ signatures:
   - tech
   - programming
   - Rust
+- text: From time to time I look at new releases of languages I’ve used in the past
+    and for mature ones they’re always like ‘Type-variadic semi-functors on approachable
+    parallelism’ except for JS where new features are like ‘added the number 24’.
+  author: Nat Alison
+  tags:
+  - en
+  - tech
+  - programming
+  - JavaScript
