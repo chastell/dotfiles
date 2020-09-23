@@ -53330,10 +53330,10 @@ signatures:
   - tech
   - programming
   - Rust
-- text: From time to time I look at new releases of languages I’ve used in the past
-    and for mature ones they’re always like ‘Type-variadic semi-functors on approachable
-    parallelism’ except for JS where new features are like ‘added the number 24’.
-  author: Nat Alison
+- text: |-
+    ‘From time to time I look at new releases of languages I’ve used in the past and for mature ones they’re always like “type-variadic semi-functors on approachable parallelism” except for JS where new features are like “added the number 24”.’
+    ‘It will be some years before all the major browsers ship it and you can use 24 without a polyfill.’
+  author: Nat Alison, Casey A. Ydenberg
   tags:
   - en
   - tech
