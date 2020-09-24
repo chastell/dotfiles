@@ -53339,3 +53339,13 @@ signatures:
   - tech
   - programming
   - JavaScript
+- text: |-
+    If I open a random Rust library on GitHub:
+    50% of the time: dozens of 15-line-long files
+    50% of the time: a 3000-line lib.rs, no other files
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
