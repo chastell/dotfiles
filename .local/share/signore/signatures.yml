@@ -53380,3 +53380,17 @@ signatures:
   author: Simon Coffey
   tags:
   - en
+- text: |-
+    ME: hmm, gotta take it easy on my hands
+    ME: I'll take a nice hot shower and relax
+    ME: *enters shower*
+    ME:
+    ME:
+    ME:
+    ME: I can just initialize it to NULL
+    ME: *exits shower*
+  author: Alice Goldfuss
+  tags:
+  - en
+  - tech
+  - programming
