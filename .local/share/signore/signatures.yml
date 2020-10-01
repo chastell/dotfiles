@@ -53394,3 +53394,10 @@ signatures:
   - en
   - tech
   - programming
+- text: coders are out here arguing between a hard to read O(1) algorithm and an easy
+    to read O(n) algorithm when n = 3
+  author: Jacob Paris
+  tags:
+  - en
+  - tech
+  - programming
