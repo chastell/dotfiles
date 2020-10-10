@@ -53451,3 +53451,12 @@ signatures:
   author: lilyanna
   tags:
   - en
+- text: 'gonna keep thinking about how Rust pulled off something that shouldn’t work
+    on paper: making devs ‘do more work’ with more static modelling and a very hard-to-please
+    compiler, and ended up with anyone going ‘this is actually great’'
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
