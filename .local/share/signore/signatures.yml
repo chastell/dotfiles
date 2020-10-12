@@ -53465,3 +53465,9 @@ signatures:
   author: Peyton Dix
   tags:
   - en
+- text: Who called it GET, POST, and DELETE and not GET, POST, and LOST?
+  author: Gregor Schmidt
+  tags:
+  - en
+  - tech
+  - HTTP
