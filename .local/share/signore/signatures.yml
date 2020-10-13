@@ -53471,3 +53471,11 @@ signatures:
   - en
   - tech
   - HTTP
+- text: |-
+    ‘The cloud is amazing. We just spun up about 20,000 virtual computers to chug through regenerating 12 million image previews in our new style. In 23 real world minutes, we consumed the equivalent compute of letting my laptop chug 24/7 for >3 months and it cost about $10.’
+    ‘The cloud is horrible. Just discovered we accidentally left a GPU instance running that billed us $3000.’
+  author: Brad Dwyer
+  subject: 18 hours apart
+  tags:
+  - en
+  - tech
