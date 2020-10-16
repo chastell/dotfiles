@@ -53492,3 +53492,9 @@ signatures:
   tags:
   - en
   - linguistics
+- text: |-
+    99.9% of text-heavy pages are less readable than what you get by simply enabling Safari Reader View.
+    ‘Your design is worse than Reader View’ would be a great null hypothesis for most designers.
+  author: Ben Orenstein
+  tags:
+  - en
