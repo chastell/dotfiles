@@ -53498,3 +53498,10 @@ signatures:
   author: Ben Orenstein
   tags:
   - en
+- text: I love how bank transfers are the canonical DB transaction example when banks
+    take days to execute them and allow dirty reads the entire time.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - programming
