@@ -53534,3 +53534,15 @@ signatures:
   author: Adrienne Porter Felt
   tags:
   - en
+- text: |-
+    how about adding loading screen tips to compilers?
+    ~/proj$ cargo build
+      Compiling proj v0.1.0 (/home/programming/proj)
+      Finished dev [unoptimized + debuginfo] target(s) in 0.34s
+      Tip: use `deque.make_contiguous` to efficiently sort a `VecDeque` without allocating
+  author: lcnr
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
