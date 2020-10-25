@@ -53554,3 +53554,12 @@ signatures:
   - en
   - tech
   - programming
+- text: Oh it’s simple. You write the app, then you write the dockerfile. Then you
+    write the helm chart. Then you write the deployment to describe the helm chart
+    which describes the deployment for the containerized app. In this simple tutorial,
+    we will launch a hello world app… 1/496
+  author: fraq
+  tags:
+  - en
+  - tech
+  - programming
