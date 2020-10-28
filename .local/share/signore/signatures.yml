@@ -53581,3 +53581,11 @@ signatures:
   author: tef
   tags:
   - en
+- text: |-
+    Tired: Programming languages are held back by plain text representation
+    Inspired: We’ve been spending most our lives, living in a parse-time paradigm
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
