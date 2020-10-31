@@ -431,6 +431,6 @@ exec --no-startup-id tilda
 bindsym $mod+Control+Down  exec playerctl play-pause
 bindsym $mod+Control+Left  exec playerctl previous
 bindsym $mod+Control+Right exec playerctl next
-bindsym $mod+o             exec rofimoji --insert-with-clipboard --skin-tone neutral
+bindsym $mod+o             exec rofimoji --insert-with-clipboard --rofi-args '-dpi 192' --skin-tone neutral
 
 for_window [class="Gnome-calculator"] floating enable
