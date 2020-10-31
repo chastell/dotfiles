@@ -53595,3 +53595,13 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    Engineer: I can write that code.
+    Senior Engineer: Should we write that code?
+    Staff Engineer: We should delete that code.
+    Principal Engineer: Delete all the code.
+  author: James Barclay
+  tags:
+  - en
+  - tech
+  - programming
