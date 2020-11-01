@@ -53612,3 +53612,11 @@ signatures:
   tags:
   - en
   - linguistics
+- text: |-
+    ME, IN TEARS: you can’t just say every single part of a computer system is a file
+    UNIX, POINTING AT THE MOUSE: file
+  author: qntm
+  tags:
+  - en
+  - tech
+  - Unix
