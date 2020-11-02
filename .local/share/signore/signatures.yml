@@ -53620,3 +53620,12 @@ signatures:
   - en
   - tech
   - Unix
+- text: |-
+    There are only two ways to teach Git:
+    – How’s your graph theory? Where do you stand on the Copenhagen Interpretation? Imagine a stack of pancakes served by chefs from all possible realities
+    – To commit do this and when you need to unfuck it do this
+  author: Jules Glegg
+  tags:
+  - en
+  - tech
+  - Git
