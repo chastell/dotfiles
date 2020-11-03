@@ -53629,3 +53629,10 @@ signatures:
   - en
   - tech
   - Git
+- text: 'There are three network layers: the one for people writing in Python and
+    JavaScript, the one for people writing in C, and the one for people with a backhoe.'
+  author: "@0xabad1dea"
+  tags:
+  - en
+  - tech
+  - networking
