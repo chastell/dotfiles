@@ -53647,3 +53647,8 @@ signatures:
   author: asa
   tags:
   - en
+- text: renaming the standard SQL isolation levels to ‘good’, ‘bad’, ‘no’ and ‘clown’
+  author: James Coglan
+  tags:
+  - en
+  - tech
