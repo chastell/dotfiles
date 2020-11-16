@@ -53712,3 +53712,11 @@ signatures:
   author: Ally
   tags:
   - en
+- text: Like other languages Rust does have footguns. The difference is that we keep
+    ours locked up in the unsafe.
+  author: Ted Mielczarek
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
