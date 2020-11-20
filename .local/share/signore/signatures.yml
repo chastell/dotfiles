@@ -53737,3 +53737,10 @@ signatures:
   - tech
   - programming
   - C
+- text: Who called it ‘this byte stream is encoded in UTF-16’ and not ‘someone set
+    up us the BOM’
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - Unicode
