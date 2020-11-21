@@ -53744,3 +53744,15 @@ signatures:
   - en
   - tech
   - Unicode
+- text: |-
+    Excel: is that a date?
+    me: 57.39 is very much not a date
+    Excel: strong date vibes to me
+    me: h-how…?
+    Excel: fixed it
+    me: 57/39/2020?
+    Excel: you’re welcome
+  author: "@PleaseBeGneiss"
+  tags:
+  - en
+  - Excel
