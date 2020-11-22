@@ -53756,3 +53756,12 @@ signatures:
   tags:
   - en
   - Excel
+- text: |-
+    ‘I managed to misspell “Ownership” as ”Wondership”.’
+    ’Wondership. I wonder where my data went.’
+  author: Florian Gilcher, Jan-Erik Rediger
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
