@@ -53765,3 +53765,8 @@ signatures:
   - tech
   - programming
   - Rust
+- text: Who called it ‘keepalive’ and not ‘hold my peer’?
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
