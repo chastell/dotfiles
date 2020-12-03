@@ -53820,3 +53820,10 @@ signatures:
   author: Steve Klabnik, this is Hugo
   tags:
   - en
+- text: I don’t comment my code because that would require understanding it in the
+    first place.
+  author: Emily Kager
+  tags:
+  - en
+  - tech
+  - programming
