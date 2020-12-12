@@ -53831,12 +53831,6 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
-- text: |-
-    Me in high school: WHY AM I SPENDING AN HOUR A DAY LEARNING ABOUT A SUBJECT THAT WON’T HELP ME IN REAL LIFE?
-    Me now: Oh boy a new episode of my podcast about dolphin social hierarchies!
-  author: Daniel Kibblesmith
-  tags:
-  - en
 - text: Another day volunteering at the file path separator museum. Everyone keeps
     asking me if they can use ‘\’. buddy, they won’t even let me use ‘\’…
   author: Steve Klabnik
@@ -53877,3 +53871,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    ‘Me in high school: WHY AM I SPENDING AN HOUR A DAY LEARNING ABOUT A SUBJECT THAT WON’T HELP ME IN REAL LIFE?
+    Me now: Oh boy a new episode of my podcast about dolphin social hierarchies!’
+    ‘THERE’S A NEW EPISODE OF THE POD CASTE PODCAST?’
+  author: Daniel Kibblesmith, Andrew Wheeler
+  tags:
+  - en
