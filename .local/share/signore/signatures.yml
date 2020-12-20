@@ -53921,3 +53921,10 @@ signatures:
   author: Joel A. Kirsh
   tags:
   - en
+- text: I was trying to explain monads as well as error handling to my friend, but
+    he didn’t get Either
+  author: Jasper Van der Jeugt
+  tags:
+  - en
+  - tech
+  - programming
