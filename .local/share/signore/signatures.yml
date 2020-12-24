@@ -53947,3 +53947,10 @@ signatures:
   author: Sheeta Verma, qntm
   tags:
   - en
+- text: "‘junior devs write bad code’ – sure, but senior devs write bad systems, and
+    I can tell you right now which one’s easier to fix"
+  author: tef
+  tags:
+  - en
+  - tech
+  - programming
