@@ -53994,3 +53994,10 @@ signatures:
   tags:
   - en
   - work
+- text: one must imagine rustc happy
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
