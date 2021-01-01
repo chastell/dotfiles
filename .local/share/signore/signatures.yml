@@ -54001,3 +54001,9 @@ signatures:
   - tech
   - programming
   - Rust
+- text: Monads are only free if your time is worthless.
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
