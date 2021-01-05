@@ -54027,3 +54027,12 @@ signatures:
   author: LizzyButterfly
   tags:
   - en
+- text: |-
+    ME: if I finish all my chores, I can have $REWARD
+    ME: *does all chores*
+    ME: I’m tired
+    ME: I’ll do $REWARD tomorrow
+    repeat ad infinitum
+  author: Alice Goldfuss
+  tags:
+  - en
