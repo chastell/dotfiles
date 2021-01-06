@@ -54036,3 +54036,13 @@ signatures:
   author: Alice Goldfuss
   tags:
   - en
+- text: |-
+    Behold, the turboshark: ::<()>()
+    let wide_ptr: *const dyn Trait = something;
+    let address = ptr.cast::<()>();
+  author: Simon Sapin
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
