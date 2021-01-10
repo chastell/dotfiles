@@ -54062,3 +54062,11 @@ signatures:
   author: "@InternetHippo"
   tags:
   - en
+- text: |-
+    tired: ancom devs can’t use red-black trees because it’s a hierarchical data structure
+    wired: anarchists are against *unjustified* hierarchy and because it is a self-balancing data structure, they are operating in the spirit of self-organization and therefore this is not a cont
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
