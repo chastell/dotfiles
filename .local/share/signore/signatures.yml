@@ -54070,3 +54070,11 @@ signatures:
   - en
   - tech
   - programming
+- text: 'Consulting service: Your 25-person company is drowning in complexity with
+    microservice architectures, serverless, and SSR. I say ‘your app will fit on two
+    Heroku Standard 1x dynos and one Standard 0 database. $150/mo total. Eat the 100
+    ms of extra latency.’ You pay me $10,000.'
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
