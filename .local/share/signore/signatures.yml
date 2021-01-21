@@ -54133,3 +54133,11 @@ signatures:
   author: Janel Comeau
   tags:
   - en
+- text: Software development is the only job I can think of where it’s normal practice
+    for people to do a shitty job and then list all the ways the thing needs to be
+    fixed before asking someone else to prioritize the fixes.
+  author: Tom Stuart
+  tags:
+  - en
+  - tech
+  - programming
