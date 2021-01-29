@@ -54182,3 +54182,11 @@ signatures:
   author: Greg Koenig
   tags:
   - en
+- text: |-
+    Thinking about that time I was in a meeting with Amazon engineers, and my co-workers asked ‘what’s serverless?’
+    I said ‘per-request, not per-instance billing’ and there was an awkward silence like all the hype had been let out of the room.
+  author: tef
+  tags:
+  - en
+  - tech
+  - serverless
