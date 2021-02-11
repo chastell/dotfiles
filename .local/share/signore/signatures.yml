@@ -54262,3 +54262,12 @@ signatures:
   tags:
   - en
   - tech
+- text: In Ruby you can actually pass a block to any method you like. There’s no law
+    against it. Sprinkle a few decoy blocks around the place, keep your coworkers
+    on their toes.
+  author: Charlie Somerville
+  tags:
+  - en
+  - tech
+  - programming
+  - Ruby
