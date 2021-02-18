@@ -54306,3 +54306,11 @@ signatures:
   author: Pete Higgins
   tags:
   - en
+- text: |-
+    // TODO: remove this awful initializer stuff
+    Narrator: The ‘awful initializer stuff’ was load bearing and was not removed.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
