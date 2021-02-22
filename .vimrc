@@ -10,7 +10,7 @@ Plug 'ecomba/vim-ruby-refactoring'
 Plug 'ervandew/supertab'
 Plug 'godlygeek/tabular'
 Plug 'janko-m/vim-test'
-Plug 'junegunn/fzf.vim'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'kana/vim-textobj-user'
 Plug 'mudge/runspec.vim'
 Plug 'nelstrom/vim-textobj-rubyblock'
