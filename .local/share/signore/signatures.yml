@@ -54342,3 +54342,12 @@ signatures:
   author: "@welivinasociety"
   tags:
   - en
+- text: |-
+    OAuth is a super straightforward protocol. Okay, so the most significant versions so far are:
+    • 1.0a
+    • 2.0
+    • 3-legged
+  author: Justin Searls
+  tags:
+  - en
+  - tech
