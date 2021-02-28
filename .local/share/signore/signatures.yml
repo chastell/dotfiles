@@ -54375,3 +54375,12 @@ signatures:
   author: Jordan Stratton
   tags:
   - en
+- text: |-
+    The term ‘JPEG’ refers to the compression format and not the file format. The format is either JFIF or Exif which are both variants of the JIF format.
+    JPEG files are actually JIF files.
+    Therefore GIF files are pronounced with hard G to prevent confusion.
+    I rest my case.
+  author: Jonathan Wight
+  tags:
+  - en
+  - tech
