@@ -54390,3 +54390,12 @@ signatures:
   author: Kat Maddox
   tags:
   - en
+- text: |-
+    ‘Everyone wants languages to be Turing-complete, but what about langauges that are Turing-any%?’
+    ‘I’ll settle for glitchless tbh.’
+    ‘Alright so just to explain what’s going on here, this game has three basic moves: x, λx. e, and f e’
+  author: Steve Klabnik, Laura Abbott, James Coglan
+  tags:
+  - en
+  - tech
+  - programming
