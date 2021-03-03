@@ -54399,3 +54399,10 @@ signatures:
   - en
   - tech
   - programming
+- text: 'It’s important to keep in mind the only reason that we write software: to
+    see the tests pass and the types check.'
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
