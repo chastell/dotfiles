@@ -1,0 +1,54 @@
+icons = "awesome"
+theme = "native"
+
+[[block]]
+block = "cpu"
+format = "{barchart} {utilization}"
+
+[[block]]
+block = "load"
+format = "{1m} {5m} {15m}"
+interval = 1
+
+[[block]]
+block = "memory"
+format_mem = "{MAg} GB"
+
+[[block]]
+block = "net"
+format = "{signal_strength}{speed_up}{speed_down}"
+
+# [[block]]
+# block = "networkmanager"
+# ap_format = "{strength}%"
+# device_format = "{icon}{ap}"
+
+# [[block]]
+# block = "pacman"
+
+# [[block]]
+# block = "speedtest"
+
+[[block]]
+block = "disk_space"
+alert = 50
+alert_absolute = true
+interval = 1
+format = "{icon}{available} {unit}"
+warning = 100
+
+[[block]]
+block = "temperature"
+collapsed = false
+format = "{average}°/{max}°"
+
+[[block]]
+block = "battery"
+format = "{percentage}% {time}"
+
+[[block]]
+block = "sound"
+
+[[block]]
+block = "time"
+format = "%a %e %b %R"

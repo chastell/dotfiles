@@ -323,7 +323,7 @@ set_from_resource $term_color15    color15
 # Start i3bar to display a workspace bar (plus the system information i3status if available)
 bar {
 	i3bar_command i3bar
-	status_command i3status
+	status_command i3status-rs
 	position bottom
 
 ## please set your primary output first. Example: 'xrandr --output eDP1 --primary'
@@ -332,7 +332,7 @@ bar {
 
 	bindsym button4 nop
 	bindsym button5 nop
-#   font xft:URWGothic-Book 11
+	font pango:DejaVu Sans Mono, FontAwesome 5 Free 11
 	strip_workspace_numbers yes
 
     colors {
