@@ -54406,3 +54406,11 @@ signatures:
   - en
   - tech
   - programming
+- text: Trying to find a directory of Rust modules that can be compiled as standalone
+    dynamic libraries, but I googled ‘socrates’ and couldn’t find anything.
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
