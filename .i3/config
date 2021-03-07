@@ -325,6 +325,7 @@ bar {
 	i3bar_command i3bar
 	status_command i3status-rs
 	position bottom
+	height 50
 
 ## please set your primary output first. Example: 'xrandr --output eDP1 --primary'
 #	tray_output primary
@@ -332,7 +333,7 @@ bar {
 
 	bindsym button4 nop
 	bindsym button5 nop
-	font pango:DejaVu Sans Mono, FontAwesome 5 Free 11
+	font pango: Ubuntu Mono, FontAwesome 5 Free 14
 	strip_workspace_numbers yes
 
     colors {

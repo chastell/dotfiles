@@ -1,5 +1,5 @@
 icons = "awesome"
-theme = "native"
+theme = "modern"
 
 [[block]]
 block = "cpu"
@@ -43,12 +43,12 @@ collapsed = false
 format = "{average}°/{max}°"
 
 [[block]]
-block = "battery"
-format = "{percentage}% {time}"
-
-[[block]]
 block = "sound"
 
 [[block]]
 block = "time"
 format = "%a %e %b %R"
+
+[[block]]
+block = "battery"
+format = "{percentage}% {time}"
