@@ -54476,3 +54476,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: Why do we park on driveways but drive on parkways? Why do we have an intermediate
+    assembly language called LLVM and a low-level virtual machine called WASM?
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
