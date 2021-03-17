@@ -14,14 +14,9 @@ interval = 1
 block = "memory"
 format_mem = "{MAg} GB"
 
-[[block]]
-block = "net"
-format = "{signal_strength}{speed_up}{speed_down}"
-
 # [[block]]
-# block = "networkmanager"
-# ap_format = "{strength}%"
-# device_format = "{icon}{ap}"
+# block = "net"
+# format = "{signal_strength}{speed_up}{speed_down}"
 
 # [[block]]
 # block = "pacman"
@@ -41,6 +36,11 @@ warning = 100
 block = "temperature"
 collapsed = false
 format = "{average}°/{max}°"
+
+[[block]]
+block = "networkmanager"
+ap_format = "{strength}%"
+device_format = "{icon}{ap}"
 
 [[block]]
 block = "battery"
