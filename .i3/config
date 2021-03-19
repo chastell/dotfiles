@@ -216,6 +216,7 @@ for_window [class="Skype"] floating enable border normal
 for_window [class="Timeset-gui"] floating enable border normal
 for_window [class="(?i)virtualbox"] floating enable border normal
 for_window [class="Xfburn"] floating enable
+for_window [class="Gnome-calculator"] floating enable
 
 # switch to workspace with urgent window automatically
 # for_window [urgent=latest] focus
@@ -286,6 +287,11 @@ exec --no-startup-id xfce4-clipman
 # exec --no-startup-id start_conky_maia
 # exec --no-startup-id start_conky_green
 # exec --no-startup-id xautolock -time 10 -locker blurlock
+exec --no-startup-id flameshot
+exec --no-startup-id setxkbmap -option caps:ctrl_modifier -option compose:rctrl
+exec --no-startup-id unclutter --timeout 1
+exec --no-startup-id xcape -e 'Caps_Lock=Escape;Control_L=Escape'
+exec --no-startup-id tilda
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
 
@@ -420,15 +426,7 @@ mode "$mode_gaps_outer" {
         bindsym Escape mode "default"
 }
 
-exec --no-startup-id flameshot
-exec --no-startup-id setxkbmap -option caps:ctrl_modifier -option compose:rctrl
-exec --no-startup-id unclutter --timeout 1
-exec --no-startup-id xcape -e 'Caps_Lock=Escape;Control_L=Escape'
-exec --no-startup-id tilda
-
 bindsym $mod+Control+Down  exec playerctl play-pause
 bindsym $mod+Control+Left  exec playerctl previous
 bindsym $mod+Control+Right exec playerctl next
 bindsym $mod+o             exec rofimoji --action clipboard --rofi-args '-dpi 192' --skin-tone neutral
-
-for_window [class="Gnome-calculator"] floating enable
