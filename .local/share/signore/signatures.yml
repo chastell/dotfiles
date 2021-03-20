@@ -54512,3 +54512,14 @@ signatures:
   author: Nathalie Robin Justice
   tags:
   - en
+- text: |-
+    ‘What (relatively) easy to implement features would you like to see in C++ 23?’
+    ‘A new form of initialisation couldn’t hurt.’
+    ‘You don’t get promoted at C++ unless you ship a new form of initialization, after all.’
+    ‘With so many of these, it’s pretty much constant promotion.’
+  author: JustHereForATechProb, TheSuperWig, Joe Groff, Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - C++
