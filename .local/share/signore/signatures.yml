@@ -54550,3 +54550,9 @@ signatures:
   author: André Medeiros
   tags:
   - en
+- text: 'HOPPY CHESS: knights now move like pawns. Pawns now move like knights.'
+  author: Elizabeth Sampat
+  subject: and her made up chess variants
+  tags:
+  - en
+  - chess
