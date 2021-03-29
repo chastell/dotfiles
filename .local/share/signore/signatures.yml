@@ -54550,22 +54550,29 @@ signatures:
   author: André Medeiros
   tags:
   - en
-- text: 'HOPPY CHESS: knights now move like pawns. Pawns now move like knights.'
+- text: 'HOPPY CHESS: Knights now move like pawns. Pawns now move like knights.'
   author: Elizabeth Sampat
   subject: and her made up chess variants
   tags:
   - en
   - chess
-- text: 'SUICIDE KINGS: the goal is still to checkmate your opponent’s king, BUT ALSO,
+- text: 'SUICIDE KINGS: The goal is still to checkmate your opponent’s king, BUT ALSO,
     you control your opponent’s king instead of your own.'
   author: Elizabeth Sampat
   subject: and her made up chess variants
   tags:
   - en
   - chess
-- text: 'LIFTING CHESS: this is just chess but the pieces are very heavy. Pawns weigh
+- text: 'LIFTING CHESS: This is just chess but the pieces are very heavy. Pawns weigh
     ten pounds, kings weigh 60. You can’t take a piece unless you can lift it. You
     have to pick up your opponent’s king to checkmate.'
+  author: Elizabeth Sampat
+  subject: and her made up chess variants
+  tags:
+  - en
+  - chess
+- text: 'HOWL’S MOVING CASTLE: King can swap places with either of his rooks at any
+    time. No limit on frequency.'
   author: Elizabeth Sampat
   subject: and her made up chess variants
   tags:
