@@ -54578,3 +54578,12 @@ signatures:
   tags:
   - en
   - chess
+- text: 'CHAOS CHESS: You choose a color king to defeat, but control all pieces of
+    both colors on the right or left side of the board. This means when a piece travels
+    to your opponent’s half, they can use it. Still have to be opposite colors to
+    take pieces though.'
+  author: Elizabeth Sampat
+  subject: and her made up chess variants
+  tags:
+  - en
+  - chess
