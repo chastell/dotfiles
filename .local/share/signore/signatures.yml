@@ -54594,3 +54594,10 @@ signatures:
   tags:
   - en
   - chess
+- text: 'TERM LIMITS: Every ten moves players must declare a new piece ‘king’. New
+    ‘kings’ maintain former movement rules, but are now the piece that must be checkmated.'
+  author: Elizabeth Sampat
+  subject: and her made up chess variants
+  tags:
+  - en
+  - chess
