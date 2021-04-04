@@ -54615,3 +54615,11 @@ signatures:
   tags:
   - en
   - chess
+- text: 'THE PIECES HAVE GUNS: Each piece can capture pieces on squares they can legally
+    move to, without actually moving. Capturing in this way exhausts the player’s
+    turn for the round though.'
+  author: Elizabeth Sampat
+  subject: and her made up chess variants
+  tags:
+  - en
+  - chess
