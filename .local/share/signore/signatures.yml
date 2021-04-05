@@ -54623,3 +54623,10 @@ signatures:
   tags:
   - en
   - chess
+- text: 'CONTRACT KILLERS: All pieces can checkmate, but each piece can only capture
+    other pieces of its type (pawns take pawns, knights take knights, etc.).'
+  author: Elizabeth Sampat
+  subject: and her made up chess variants
+  tags:
+  - en
+  - chess
