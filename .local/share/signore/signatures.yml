@@ -54630,3 +54630,11 @@ signatures:
   tags:
   - en
   - chess
+- text: 'BROKEN SPAWNER: Each player is only allowed to have one captured piece at
+    a time. Every time a second piece is captured, the capturing player must put one
+    of the pieces back in a valid starting location for that piece.'
+  author: Elizabeth Sampat
+  subject: and her made up chess variants
+  tags:
+  - en
+  - chess
