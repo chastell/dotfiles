@@ -54682,3 +54682,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: Before the widespread adoption of the TeX typesetting system and software,
+    mathematicians had to overfill their hboxes by hand.
+  author: Math History Facts
+  tags:
+  - en
+  - tech
+  - LaTeX
