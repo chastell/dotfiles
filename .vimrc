@@ -32,7 +32,7 @@ call plug#end()
 " autocmd
 augroup configgroup
   autocmd!
-  autocmd BufRead,BufNewFile *     let &colorcolumn="80"
+  autocmd BufRead,BufNewFile *     let &colorcolumn="120"
   autocmd BufReadPost fugitive://* set bufhidden=delete
   autocmd BufWritePost $MYVIMRC    source $MYVIMRC
   autocmd FileType help            wincmd L
@@ -103,7 +103,7 @@ set winwidth=80
 " syntax
 highlight ColorColumn            ctermbg=233 guibg=#111111
 highlight CursorLine  cterm=none ctermbg=233 guibg=#111111
-set colorcolumn=80
+set colorcolumn=120
 set cursorline
 syntax sync fromstart
 
