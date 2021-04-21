@@ -288,7 +288,7 @@ exec --no-startup-id xfce4-clipman
 exec --no-startup-id flameshot
 exec --no-startup-id setxkbmap -option caps:ctrl_modifier -option compose:rctrl
 exec --no-startup-id unclutter --timeout 1
-exec --no-startup-id xcape -e 'Caps_Lock=Escape;Control_L=Escape'
+# exec --no-startup-id xcape -e 'Caps_Lock=Escape;Control_L=Escape'
 exec --no-startup-id tilda
 exec_always --no-startup-id ff-theme-util
 exec_always --no-startup-id fix_xcursor
