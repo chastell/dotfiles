@@ -54751,3 +54751,10 @@ signatures:
   author: Paul Battley
   tags:
   - en
+- text: |-
+    customer: I’d like to buy a bagel with cream cheese
+    me: sorry, we only take cash
+    manager: can I talk to you
+  author: Adam Cerious
+  tags:
+  - en
