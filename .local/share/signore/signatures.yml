@@ -51640,7 +51640,7 @@ signatures:
   tags:
   - en
 - text: Sucks that the machine I use to write also has a function where you can shop
-    for a new duvet cover for 3 hours.
+    for a new duvet cover for three hours.
   author: Caitie Delaney
   tags:
   - en
@@ -54767,5 +54767,12 @@ signatures:
 - text: Honestly I didn’t appreciate mechanical keyboards until I tried typing on
     one, and then it just clicked.
   author: Aaron Patterson
+  tags:
+  - en
+- text: |-
+    me: what’s a three-letter word for compete
+    dracula: vie
+    me: for a crossword puzzle
+  author: "@clichedout"
   tags:
   - en
