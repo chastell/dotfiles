@@ -54787,3 +54787,9 @@ signatures:
   author: Reginald Braithwaite
   tags:
   - en
+- text: Say what you will about Microsoft, but twenty years ago I wrote a webserver
+    backdoor trojan in VBScript embedded in a Word document and it still works today.
+  author: DilDog
+  tags:
+  - en
+  - tech
