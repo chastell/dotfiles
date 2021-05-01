@@ -54780,3 +54780,10 @@ signatures:
   author: "@pyroghetti"
   tags:
   - en
+- text: |-
+    poor: I was unemployed.
+    middle-class: I took a sabbatical.
+    rich: I was a full-time investor during this period.
+  author: Reginald Braithwaite
+  tags:
+  - en
