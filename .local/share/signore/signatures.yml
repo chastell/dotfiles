@@ -54821,3 +54821,9 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    website: your password must contain at least one symbol
+    everyone: looks like my regular password is about to get excited
+  author: David Ralf
+  tags:
+  - en
