@@ -54827,3 +54827,11 @@ signatures:
   author: David Ralf
   tags:
   - en
+- text: |-
+    My Ruby app won’t start because the included JavaScript package manager is trying to install a CSS compiler that uses Node C++ extensions and the Python program it uses to install it requires XCode.
+    Computers were a mistake.
+  author: Jonan Scheffler
+  tags:
+  - en
+  - tech
+  - programming
