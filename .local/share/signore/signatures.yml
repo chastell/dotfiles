@@ -54844,3 +54844,12 @@ signatures:
   author: "@Slammy_P"
   tags:
   - en
+- text: "‘the Rust community doesn’t care about hardening, which is why I’m going
+    to quote from a selected portion of their documentation on all of the hardening
+    they already do’ isn’t quite the argument some seem to think they’re making"
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
