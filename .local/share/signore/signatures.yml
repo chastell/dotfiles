@@ -54877,3 +54877,9 @@ signatures:
   - en
   - tech
   - FSF
+- text: 'Bad idea of the day: write a Sudoku program called `ku` that can be only
+    run as root.'
+  author: Daniel Janus
+  tags:
+  - en
+  - tech
