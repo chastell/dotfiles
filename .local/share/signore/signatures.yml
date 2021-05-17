@@ -16138,7 +16138,7 @@ signatures:
   tags:
   - en
   - Discworld
-- text: 'Przychodzi informacja o awarii w Czernobylu, a jakaś staruszka na to: „tak,
+- text: 'Przychodzi informacja o awarii w Czarnobylu, a jakaś staruszka na to: „tak,
     tak, w dobrach u Sapiehów zawsze był bałagan”. Podobno autentyczne.'
   author: Paweł Pluta
   source: pl.rec.fantastyka.sf-f
@@ -54883,3 +54883,8 @@ signatures:
   tags:
   - en
   - tech
+- text: My child just pointed to an em dash in her book and said ‘what is that?’ and
+    HERE WE GO I’ve been preparing for this moment my whole life.
+  author: Melissa Bowers
+  tags:
+  - en
