@@ -54893,3 +54893,10 @@ signatures:
   author: Tal Waterhouse
   tags:
   - en
+- text: |-
+    ‘The internet was built to survive a nuclear attack.’
+    ‘The internet can barely survive Microsoft forgetting to renew a certificate.’
+  author: balajis, Pete Birkinshaw
+  tags:
+  - en
+  - tech
