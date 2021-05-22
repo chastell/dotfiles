@@ -12,7 +12,7 @@ interval = 1
 
 [[block]]
 block = "memory"
-format_mem = "{MAg} GB"
+format_mem = "{mem_total_used_percents}{mem_free}"
 
 # [[block]]
 # block = "net"
@@ -29,22 +29,22 @@ block = "disk_space"
 alert = 50
 alert_absolute = true
 interval = 1
-format = "{icon}{available} {unit}"
+format = "{icon} {available}"
 warning = 100
 
 [[block]]
 block = "temperature"
 collapsed = false
-format = "{average}°/{max}°"
+format = "{average}/{max}"
 
 [[block]]
 block = "networkmanager"
-ap_format = "{strength}%"
+ap_format = "{strength}"
 device_format = "{icon}{ap}"
 
 [[block]]
 block = "battery"
-format = "{percentage}% {time}"
+format = "{percentage} {time}"
 
 [[block]]
 block = "sound"
