@@ -54935,3 +54935,10 @@ signatures:
   - en
   - tech
   - programming
+- text: "I am a:\n⚪ man\n⚪ woman\n\U0001F518 compiler\nLooking for a:\n⚪ man\n⚪ woman\n\U0001F518
+    '}' on line 69"
+  author: Sy Brand
+  tags:
+  - en
+  - tech
+  - programming
