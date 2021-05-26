@@ -12,7 +12,7 @@ interval = 1
 
 [[block]]
 block = "memory"
-format_mem = "{mem_total_used_percents}{mem_free}"
+format_mem = "{mem_total_used_percents} {mem_free}"
 
 # [[block]]
 # block = "net"
