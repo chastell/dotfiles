@@ -54928,3 +54928,10 @@ signatures:
   author: "@osamabishounen"
   tags:
   - en
+- text: Code that is too DRY becomes BRITTLE (Badly Refactored Into Tiny Things Lacking
+    Expressiveness).
+  author: Brandon Weaver
+  tags:
+  - en
+  - tech
+  - programming
