@@ -55018,3 +55018,13 @@ signatures:
   author: Ginny Hogan
   tags:
   - en
+- text: |-
+    On a beach, I saw the footprints of a function’s two arguments.
+    Sometimes, I’d see just one argument.
+    ‘Why?’
+    ‘It was then that I curried you.’
+  author: Daniel Klein
+  tags:
+  - en
+  - tech
+  - programming
