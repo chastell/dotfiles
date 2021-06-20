@@ -55115,3 +55115,13 @@ signatures:
   - en
   - tech
   - SSH
+- text: |-
+    interviewer: How would you detect a cycle in a linked list?
+    me: Oh, that’s easy. I’d Google it to find the canonical solution.
+    interviewer: But I wanted to see how you solve it.
+    me: *more slowly* I’d Google it to find the canonical solution.
+  author: Bill the Lizard
+  tags:
+  - en
+  - tech
+  - programming
