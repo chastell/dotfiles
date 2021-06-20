@@ -55105,3 +55105,13 @@ signatures:
   author: "@w3ll_adjusted"
   tags:
   - en
+- text: |-
+    Me: ssh <server>
+    Server: Permission denied.
+    Me: ssh <server> -vvvvvvvvvv
+    Server: Looking good on those keys boss! I’m loving these keys! They’re the right format, and they taste good too! Permission denied.
+  author: Rachel Kelly
+  tags:
+  - en
+  - tech
+  - SSH
