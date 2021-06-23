@@ -55138,3 +55138,10 @@ signatures:
   - en
   - tech
   - Docker
+- text: Asking to boot a cloud on a dev machine is equivalent to becoming multi-substrate,
+    supporting more than one cloud provider, but one of them is the worst you’ve ever
+    seen (a single laptop).
+  author: Fred Hébert
+  tags:
+  - en
+  - tech
