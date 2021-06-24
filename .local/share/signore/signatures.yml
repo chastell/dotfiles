@@ -45078,7 +45078,7 @@ signatures:
   - en
 - text: |-
     [spelling committee]
-    BOB: Okay, we need to spell ‘llama’ next. Pretty straight forward, L-A-M-A. All agree?
+    BOB: Okay, we need to spell ‘llama’ next. Pretty straightforward, L-A-M-A. All agree?
     LLARY: Hold on a minute,
   author: "@PhuckinCody"
   tags:
@@ -55145,3 +55145,11 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    me: I need tires
+    Michelin: here you go
+    me: now if only someone could rate my restaurant
+    Michelin: you’re not gonna believe this
+  author: Adam Cerious
+  tags:
+  - en
