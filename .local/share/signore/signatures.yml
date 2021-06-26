@@ -55159,3 +55159,10 @@ signatures:
   tags:
   - en
   - religion
+- text: "Missing unicode combining characters: \U0001F44D\U0001F916 should combine
+    to T-800."
+  author: Florian Gilcher
+  tags:
+  - en
+  - tech
+  - Unicode
