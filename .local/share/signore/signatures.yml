@@ -55166,3 +55166,16 @@ signatures:
   - en
   - tech
   - Unicode
+- text: |-
+    COMPUTER: I did a thing!
+    ME: is it correct
+    COMPUTER:
+    ME: print it so I can check
+    COMPUTER: now it’s different
+    ME: what
+    COMPUTER: what
+  author: Alice Goldfuss
+  tags:
+  - en
+  - tech
+  - programming
