@@ -11,12 +11,12 @@ bind index,pager \co sidebar-open
 bind index,pager \cp sidebar-prev
 
 folder-hook .                     set sort=threads
-folder-hook .                     set sort_aux=last-date
+folder-hook .                     set sort_aux=reverse-last-date
 folder-hook .                     'push "<collapse-all>"'
-folder-hook ~arch                 set sort=date-received
-folder-hook '\[Gmail\]/~arch'     set sort=date-received
-folder-hook '\[Gmail\]/All Mail'  set sort=date-received
-folder-hook '\[Gmail\]/Sent Mail' set sort=date-received
+folder-hook ~arch                 set sort=reverse-date-received
+folder-hook '\[Gmail\]/~arch'     set sort=reverse-date-received
+folder-hook '\[Gmail\]/All Mail'  set sort=reverse-date-received
+folder-hook '\[Gmail\]/Sent Mail' set sort=reverse-date-received
 folder-hook '\[Gmail\]/Spam'      set sort_aux=subject
 
 hdr_order From: Reply-To: To: Cc: Subject: Date:
