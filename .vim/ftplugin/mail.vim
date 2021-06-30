@@ -1,5 +1,5 @@
 setlocal formatoptions+=1
-setlocal formatprg=lovely-rufus\ --width=50
+setlocal formatprg=lovely-rufus\ --width=60
 setlocal noautoindent nosmartindent
 
 map <leader>fa  ggCFrom: Piotr Szotkowski <piotr@analyticsfire.com><esc>G?^-- $<enter><up>C— Piotr Szotkowski<esc>
