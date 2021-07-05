@@ -55221,3 +55221,12 @@ signatures:
   author: "\\u221e"
   tags:
   - en
+- text: 'Result::{Geht, Kaputt} i think reads better for two reasons: a) it makes
+    the okay path have more of a "for now" kind of vibe going and b) talking about
+    the type with both variants makes for a nice sentence.'
+  author: Armin Ronacher
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
