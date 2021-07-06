@@ -55230,3 +55230,9 @@ signatures:
   - tech
   - programming
   - Rust
+- text: meetings should have a button you can secretly press and if everyone presses
+    the button the meeting suddenly ends
+  author: "@zarawesome"
+  tags:
+  - en
+  - work
