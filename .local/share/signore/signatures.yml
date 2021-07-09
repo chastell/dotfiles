@@ -55247,3 +55247,10 @@ signatures:
   tags:
   - en
   - work
+- text: who called it ‘clearing a specified set of bits using bitwise operations’
+    and not
+  author: Luna
+  tags:
+  - en
+  - tech
+  - programming
