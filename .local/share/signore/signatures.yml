@@ -55254,3 +55254,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    Kubernetes is container orchestration.
+    Container orchestration is like an orchestra, but instead of music, it’s screaming.
+  author: Sir Wernich
+  tags:
+  - en
+  - tech
+  - Kubernetes
