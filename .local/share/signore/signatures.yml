@@ -55336,3 +55336,11 @@ signatures:
   author: the6p4c
   tags:
   - en
+- text: A cool way to make lots of my friends mad is to suggest that compiler developers
+    should use YAML as an intermediate representation.
+  author: John VanEnk
+  tags:
+  - en
+  - tech
+  - programming
+  - YAML
