@@ -28915,7 +28915,7 @@ signatures:
   - tech
   - programming
 - text: 'If you’re wondering why no one makes coats of arms anymore, it’s because
-    Nunavut won: https://upload.wikimedia.org/wikipedia/en/c/cd/Coat_of_Arms_of_Nunavut.png'
+    Nunavut won: https://en.wikipedia.org/wiki/Coat_of_arms_of_Nunavut'
   author: Pinboard
   tags:
   - en
@@ -55373,3 +55373,12 @@ signatures:
   author: Celeste Labedz
   tags:
   - en
+- text: |-
+    If you have several tasks that must be done immediately, try this:
+    Make a list of the tasks and rank them in order of importance.
+    Now rank them in order of how long they take.
+    This will take an hour and by this point it will be too late to do one of the tasks. Cross that one off.
+  author: Nathan W. Pyle
+  tags:
+  - en
+  - work
