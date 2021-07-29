@@ -29510,7 +29510,7 @@ signatures:
   - en
   - tech
 - text: Stupid English. We have 900 words for money but not ‘close friend’. I bet
-    German would have a rad one, like ‘lebenslangenlieberfreund’.
+    German would have a rad one, like ‘Lebenslangenlieberfreund’.
   author: Brandon Hays
   tags:
   - en
@@ -55405,3 +55405,11 @@ signatures:
   author: Petra Jaros
   tags:
   - en
+- text: Who named it Go and not Errlang?
+  author: Amanjeev
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
+  - Erlang
