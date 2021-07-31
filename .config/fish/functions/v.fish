@@ -1,3 +1,3 @@
 function v
-  vlc ^ /dev/null $argv
+  vlc &> /dev/null $argv
 end
