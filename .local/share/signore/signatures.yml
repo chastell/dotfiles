@@ -55468,3 +55468,10 @@ signatures:
   author: "@jessalyn"
   tags:
   - en
+- text: |-
+    me: waiter this soup is cold
+    waiter: it’s gazpacho
+    me: Gazpacho this soup is cold
+  author: Nathan W. Pyle
+  tags:
+  - en
