@@ -55475,3 +55475,9 @@ signatures:
   author: Nathan W. Pyle
   tags:
   - en
+- text: |-
+    people: this is a simple ‘a’
+    Vietnamese: a à á ả ã ạ ă ằ ắ ẳ ẵ ặ â ầ ấ ẩ ẫ ậa à á ả ã ạ ă ằ ắ ẳ ẵ ặ â ầ ấ ẩ ẫ ậ
+  author: D.H. Giang
+  tags:
+  - en
