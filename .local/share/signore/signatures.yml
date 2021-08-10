@@ -55481,3 +55481,11 @@ signatures:
   author: D.H. Giang
   tags:
   - en
+- text: |-
+    me, lightly missing a semicolon in my code: compiler, tell me if this code looks okay, please
+    compiler, her eyes enourmous: you KICK compiler? you kick her program like the `kill -9`? oh! oh! error for user! error for user for Ten Thousand Lines!!!!
+  author: Sy Brand
+  tags:
+  - en
+  - tech
+  - programming
