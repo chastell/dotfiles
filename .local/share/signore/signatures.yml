@@ -55518,3 +55518,9 @@ signatures:
   tags:
   - en
   - tech
+- text: |-
+    passwords: every password must be completely unique, with fourteen characters all from different languages
+    signatures: the one you came up with when you were nine is fine
+  author: Jo Thornely
+  tags:
+  - en
