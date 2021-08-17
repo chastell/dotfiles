@@ -55537,3 +55537,11 @@ signatures:
   author: Martin MacDonald
   tags:
   - en
+- text: "‘TypeScript’ implies the existence of ‘Type’, a completely different programming
+    language maintained by Sun Microsystems."
+  author: Laura González
+  tags:
+  - en
+  - tech
+  - programming
+  - TypeScript
