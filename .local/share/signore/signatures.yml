@@ -55562,3 +55562,12 @@ signatures:
   author: "@shocks"
   tags:
   - en
+- text: |-
+    ‘Programming best practice: don’t.’
+    ‘I thought it was more “do it in Perl and no one will ever know”.’
+  author: Aaron Patterson, Wolphin
+  tags:
+  - en
+  - tech
+  - programming
+  - Perl
