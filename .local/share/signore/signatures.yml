@@ -55571,3 +55571,10 @@ signatures:
   - tech
   - programming
   - Perl
+- text: 'Concurrency primitives that are too low-level should never have been exposed
+    to programmers: a thread'
+  author: Joe Groff
+  tags:
+  - en
+  - tech
+  - programming
