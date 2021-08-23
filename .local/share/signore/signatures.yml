@@ -55578,3 +55578,10 @@ signatures:
   - en
   - tech
   - programming
+- text: panic! at the MaybeUninit
+  author: "@BlueSpaceCanary"
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
