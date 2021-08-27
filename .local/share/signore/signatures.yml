@@ -55601,3 +55601,11 @@ signatures:
   author: "@collnsmith"
   tags:
   - en
+- text: A microservice is what you call it when there’s some 50-line service, impossible
+    to run without a hundred API keys and named after a Norse god, that takes the
+    entire system offline when it crashes.
+  author: tef
+  tags:
+  - en
+  - tech
+  - programming
