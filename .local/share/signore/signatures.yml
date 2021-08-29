@@ -55609,3 +55609,11 @@ signatures:
   - en
   - tech
   - programming
+- text: |-
+    Then: WORA – Write Once, Run Anywhere
+    Now: WORK – Write Once, Runs only on Kubernetes
+  author: Sergei Egorov
+  tags:
+  - en
+  - tech
+  - Kubernetes
