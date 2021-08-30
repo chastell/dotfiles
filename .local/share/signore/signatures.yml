@@ -55625,3 +55625,11 @@ signatures:
   tags:
   - en
   - tech
+- text: you’re meant to say something like ‘a microservice is when you accept latency
+    between the various components of your monolith in return for losing the ability
+    to atomically deploy changes, in the hope that partial failure won’t cascade’
+    but in an optimistic whimsical tone
+  author: tef
+  tags:
+  - en
+  - tech
