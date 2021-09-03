@@ -55648,3 +55648,12 @@ signatures:
   author: "@GoodOleJoles"
   tags:
   - en
+- text: If your reaction to a software practice or codebase is to search for some
+    reason that it’s Morally Impure, you probably won’t ship much software. The world
+    is messy. Being good at the work means, in part, learning which messes will and
+    won’t actually catch fire.
+  author: Gary Bernhardt
+  tags:
+  - en
+  - tech
+  - programming
