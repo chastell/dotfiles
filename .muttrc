@@ -51,10 +51,12 @@ ignore X-Authentication-Warning:
 ignore X-Auto-Response-Suppress:
 ignore X-Barracuda-
 ignore X-BeenThere:
+ignore X-CLIENT-HOSTNAME: X-CLIENT-IP:
 ignore X-Cam-
 ignore X-Campaign:
 ignore X-Content-Filtered-By:
 ignore X-Country-Path:
+ignore X-DCC--Metrics:
 ignore X-Feedback-ID:
 ignore X-Forwarded-For: X-Forwarded-To:
 ignore X-GBUdb-Analysis:
@@ -98,6 +100,7 @@ ignore X-Signature-Violations:
 ignore X-Source: X-Source-Args: X-Source-Dir:
 ignore X-Spam
 ignore X-TMN:
+ignore X-VADE-SPAMCAUSE: X-VADE-SPAMSTATE:
 ignore X-Virus-Scan
 ignore X-WP-
 ignore X-X-Forwarded-For:
