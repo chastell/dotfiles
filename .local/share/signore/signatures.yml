@@ -55663,3 +55663,14 @@ signatures:
   author: Ośrodek Dystrybucji Prestiżu i Pogardy
   tags:
   - pl
+- text: |-
+    Registers: 1 ns
+    Cache: 100 ns
+    Memory: 10 us
+    External Storage: 1 ms
+    Network: 100 ms
+    We are processing your unsubscribe request: 28 days
+  author: Graham Lee
+  tags:
+  - en
+  - tech
