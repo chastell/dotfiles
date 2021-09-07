@@ -52456,8 +52456,8 @@ signatures:
   author: Haymarket Books
   tags:
   - en
-- text: Kiedy żona mówi, „zrobię dzisiaj jakieś ciasto”, to jest to drugi najszczęśliwszy
-    moment w moim życiu. Pierwszy natomiast, gdy oznajmia, „chyba mi nie wyszło; całe
+- text: Kiedy żona mówi „zrobię dzisiaj jakieś ciasto”, to jest to drugi najszczęśliwszy
+    moment w moim życiu. Pierwszy natomiast, gdy oznajmia „chyba mi nie wyszło; całe
     jest twoje”.
   author: Łukasz Najder
   tags:
@@ -55678,5 +55678,11 @@ signatures:
     1991: Tim Berners-Lee releases the WWW to the public, allowing documents to be retrieved through hypertext links
     2021: I have to tap 10/10 Great Job on my e-receipt or the guy who packed my prescription will get fired
   author: "@drewtoothpaste"
+  tags:
+  - en
+- text: The correct reaction to an exponential growth that is being measured with
+    a several day delay is *always* going to look like an over-reaction to those who
+    don’t understand exponentials.
+  author: "@functionalcore"
   tags:
   - en
