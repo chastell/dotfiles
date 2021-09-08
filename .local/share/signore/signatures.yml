@@ -55686,3 +55686,10 @@ signatures:
   author: "@functionalcore"
   tags:
   - en
+- text: |-
+    A root cause you never hear:
+    X, who had experience with the codebase, left the company, and so they weren’t here to notice the issue and prevent it from metastasizing into a full-blown incident.
+  author: Lorin Hochstein
+  tags:
+  - en
+  - tech
