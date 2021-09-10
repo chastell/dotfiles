@@ -55700,3 +55700,11 @@ signatures:
   tags:
   - en
   - work
+- text: The most consequential figures in the tech world are half guys like Steve
+    Jobs and Bill Gates and half some guy named Ronald who maintains a Unix tool called
+    ‘runk’ which stands for Ronald’s Universal Number Kounter and handles all math
+    for every machine on Earth.
+  author: Druthers Haver
+  tags:
+  - en
+  - tech
