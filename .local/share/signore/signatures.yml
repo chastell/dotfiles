@@ -55798,3 +55798,16 @@ signatures:
   author: Lindsay King-Miller
   tags:
   - en
+- text: |-
+    It’s 2050.
+    • AWS has now 1.500.000 services
+    • Google discontinued ALL its services
+    • Kubernetes is version 1.3120
+    • Coincidentally, also Go is version 1.3120
+    • Linux is written in Rust and it’s called Windows
+    • The average container is 5.4 TB
+    • I still write Bash for living
+  author: "@riccardomc"
+  tags:
+  - en
+  - tech
