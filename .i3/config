@@ -329,7 +329,7 @@ set_from_resource $term_color15    color15
 bar {
 	i3bar_command i3bar
 	status_command i3status-rs
-	position bottom
+	position top
 	height 50
 
 ## please set your primary output first. Example: 'xrandr --output eDP1 --primary'
