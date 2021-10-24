@@ -55987,3 +55987,11 @@ signatures:
   author: Danielle Kefford, David Smith
   tags:
   - en
+- text: Do we perceive languages with stricter compilers as being more difficult because
+    when something doesn't compile, we blame the compiler, but in languages that are
+    looser (or interpreted), when something doesn't work, we blame ourselves?
+  author: Steve Klabnik
+  tags:
+  - en
+  - tech
+  - programming
