@@ -56000,3 +56000,10 @@ signatures:
   author: Simon Coffey
   tags:
   - en
+- text: |-
+    1990: The Internet is a magical distributed system that instantly routes around any instability, surviving lines being cut, servers crashing, and even nuclear war.
+    2021: Three companies own the Internet and one of them broke.
+  author: Daniel Feldman
+  tags:
+  - en
+  - tech
