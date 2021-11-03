@@ -56038,3 +56038,11 @@ signatures:
   author: zillenialz
   tags:
   - en
+- text: |-
+    security engineer: we’re going to start moving towards zero trust
+    developer: oh cool! how does that work?
+    security engineer: [narrows eyes] why do you ask?
+  author: Kat Maddox
+  tags:
+  - en
+  - tech
