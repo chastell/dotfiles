@@ -56118,3 +56118,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    Person 1: The glass is 1/2 full
+    Person 2: The glass is 1/2 empty
+    Excel: The glass is the 1st of February
+  author: "@ExcelPope"
+  tags:
+  - en
