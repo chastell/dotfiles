@@ -56143,3 +56143,11 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: |-
+    All these folks pouring it out for FTP like it was awesome clearly never got hacked via FTP.
+    Some day I’ll tell you the story of the time a hacker broke into Space Telescope through FTP and how I was the one who caught them.
+  author: Mike Dalessio
+  tags:
+  - en
+  - tech
+  - FTP
