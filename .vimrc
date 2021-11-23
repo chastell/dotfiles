@@ -42,7 +42,7 @@ augroup END
 let g:markdown_fenced_languages = ['css', 'erb=eruby', 'html', 'javascript', 'js=javascript', 'json=javascript', 'ruby', 'sass', 'xml']
 
 " gui
-set clipboard=unnamedplus
+set clipboard=unnamed
 
 " map
 let mapleader = ' '
