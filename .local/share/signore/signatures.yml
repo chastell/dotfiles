@@ -56236,3 +56236,10 @@ signatures:
   author: Roxi Horror
   tags:
   - en
+- text: How old were you when you realized that most of the canonical OOP ‘design
+    patterns’ were just tricks for getting around C++ and Java’s shitty type systems?
+  author: Petra Jaros
+  tags:
+  - en
+  - tech
+  - programming
