@@ -56261,3 +56261,10 @@ signatures:
   author: PNEUMATYCZNA ĐUSZA
   tags:
   - pl
+- text: "Which is why TCP behaves this way. Makes sense when explained with that analogy.\nBut
+    now lets talk about UDP packet ordering.\n\U0001F9F5 6/17"
+  author: Ólafur Waage
+  tags:
+  - en
+  - tech
+  - UDP
