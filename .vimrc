@@ -97,6 +97,7 @@ set splitbelow
 set splitright
 set tabstop=2
 set undofile
+set undodir=/tmp//
 set wildignorecase
 set wildmode=list:longest
 set winwidth=80
