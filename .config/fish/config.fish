@@ -1,5 +1,3 @@
-set PATH ~/bin $PATH
-
 if test -f ~/.asdf/asdf.fish
   source ~/.asdf/asdf.fish
 else
