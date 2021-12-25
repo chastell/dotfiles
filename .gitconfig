@@ -22,7 +22,7 @@
 [core]
   editor = vim
   excludesfile = ~/.gitignore_global
-  pager = $(fd --max-results=1 --no-ignore --type directory diff-highlight /opt/homebrew/Cellar/git /usr/share/git 2>/dev/null)/diff-highlight | less
+  pager = diff-so-fancy | less --no-init --quit-if-one-screen --RAW-CONTROL-CHARS
 
 [diff]
   algorithm = patience
@@ -46,6 +46,9 @@
 
 [help]
   autocorrect = 1
+
+[interactive]
+  diffFilter = diff-so-fancy --patch
 
 [merge]
   conflictstyle = diff3
