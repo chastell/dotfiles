@@ -1,7 +1,7 @@
 if test -f ~/.asdf/asdf.fish
   source ~/.asdf/asdf.fish
 else
-  source /usr/local/opt/asdf/libexec/asdf.fish
+  source /opt/homebrew/lib/asdf.fish
 end
 
 if test -f /opt/dev/dev.fish
