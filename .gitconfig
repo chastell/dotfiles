@@ -22,7 +22,7 @@
 [core]
   editor = vim
   excludesfile = ~/.gitignore_global
-  pager = /usr/share/git/diff-highlight/diff-highlight | less
+  pager = $(fd --max-results=1 --no-ignore --type directory diff-highlight /opt/homebrew/Cellar/git /usr/share/git 2>/dev/null)/diff-highlight | less
 
 [diff]
   algorithm = patience
