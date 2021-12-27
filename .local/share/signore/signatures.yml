@@ -56393,3 +56393,16 @@ signatures:
   author: Ośrodek Dystrybucji Prestiżu i Pogardy
   tags:
   - pl
+- text: |-
+    The Alternative Big O notation:
+    O(1) = O(yeah)
+    O(log n) = O(nice)
+    O(n) = O(k)
+    O(n²) = O(my)
+    O(2ⁿ) = O(no)
+    O(n!) = O(mg!)
+    O(n!*n) = O(rly?)
+  author: muesli
+  tags:
+  - en
+  - tech
