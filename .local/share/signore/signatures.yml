@@ -56415,3 +56415,16 @@ signatures:
   author: Alexis Gay
   tags:
   - en
+- text: |-
+    Seven things all kids need to hear:
+    1. I love you.
+    2. I’m proud of you.
+    3. I’m sorry.
+    4. I forgive you.
+    5. I’m listening.
+    6. RAID is not backup. Make offsite backups. Verify backup. Find out restore time. Otherwise, you got what we call Schrödinger backup.
+    7. You’ve got what it takes.
+  author: "@nixcraft"
+  tags:
+  - en
+  - tech
