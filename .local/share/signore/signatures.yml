@@ -56475,3 +56475,12 @@ signatures:
   tags:
   - en
   - linguistics
+- text: |-
+    small brain: programming must be full of math
+    galaxy brain: most programming doesn’t involve any math
+    multiverse brain: programming IS math, but most people have a very constrained idea of what ‘math’ is
+  author: eevee
+  tags:
+  - en
+  - tech
+  - programming
