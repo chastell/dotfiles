@@ -56589,3 +56589,11 @@ signatures:
   author: PNEUMATYCZNA ÐUSZA
   tags:
   - pl
+- text: "TIL SQLite is one big 8MB .c file (and a 550K .h file). Nice flex. \U0001F4AA"
+  author: Mike Perham
+  tags:
+  - en
+  - tech
+  - programming
+  - C
+  - SQLite
