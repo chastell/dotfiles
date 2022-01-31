@@ -56603,3 +56603,14 @@ signatures:
   author: PNEUMATYCZNA ÐUSZA
   tags:
   - pl
+- text: My objection to Rust, OCaml, Haskell, etc. is that I am a bad programmer who
+    wants to write bad programs. Python is naturally suited to this task.
+  author: Brendan Dolan-Gavitt
+  tags:
+  - en
+  - tech
+  - programming
+  - Rust
+  - OCaml
+  - Haskell
+  - Python
