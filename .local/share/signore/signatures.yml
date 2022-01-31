@@ -56614,3 +56614,12 @@ signatures:
   - OCaml
   - Haskell
   - Python
+- text: Every so often I think I should remind myself what sed(1) and awk(1) actually
+    do and re-read their manuals, and I’m always left going ‘why would you make a
+    program to do this’.
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - sed
+  - awk
