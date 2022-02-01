@@ -56637,3 +56637,18 @@ signatures:
   author: "@mystmilano"
   tags:
   - en
+- text: |-
+    UNIX signals, a summary:
+    HUP: your user is dead
+    INT: your user wants you dead
+    BUS: your CPU wants you dead
+    CHLD: your child is probably dead
+    FPE: the IEEE wants you dead
+    PIPE: your muse is dead
+    ABRT: you want you dead
+    TERM: systemd wants you dead
+    WINCH: the terminal was resized
+  author: Andre Masella
+  tags:
+  - en
+  - tech
