@@ -31,14 +31,6 @@
 
 [diff]
   algorithm = patience
-  colorMoved = default
-  tool = icdiff
-
-[difftool]
-  prompt = false
-
-[difftool "icdiff"]
-  cmd = /home/chastell/.local/bin/icdiff --line-numbers $LOCAL $REMOTE
 
 [fetch]
   fsckobjects = true
