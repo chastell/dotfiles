@@ -56662,3 +56662,8 @@ signatures:
   author: Garrett M
   tags:
   - en
+- text: No software ever runs on the same machine twice.
+  author: Kelsey Hightower
+  tags:
+  - en
+  - tech
