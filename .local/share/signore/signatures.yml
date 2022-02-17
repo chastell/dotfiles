@@ -56750,3 +56750,8 @@ signatures:
   author: Ośrodek Dystrybucji Prestiżu i Pogardy
   tags:
   - pl
+- text: export PS1='computer, '
+  author: James Coglan
+  tags:
+  - en
+  - tech
