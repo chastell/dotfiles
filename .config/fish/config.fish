@@ -1,6 +1,6 @@
 if test -f ~/.asdf/asdf.fish
   source ~/.asdf/asdf.fish
-else
+else if test -f /opt/homebrew/Cellar/asdf/0.9.0/libexec/asdf.fish
   source /opt/homebrew/Cellar/asdf/0.9.0/libexec/asdf.fish
 end
 
