@@ -1,3 +1,7 @@
+if &shell =~# 'fish$'
+	set shell=sh
+endif
+
 let plug_path = stdpath('data') . '/site/autoload/plug.vim'
 if empty(glob(plug_path))
 	silent execute '!curl --create-dirs --fail --location '
