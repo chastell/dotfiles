@@ -2,7 +2,7 @@
 
 set -eux
 
-ln --force --symbolic ~/dotfiles/.config/* ~/.config
+ln --force --no-dereference --symbolic --verbose ~/dotfiles/.config/* ~/.config
 
 sudo apt install --assume-yes fish
 
