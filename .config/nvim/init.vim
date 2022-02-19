@@ -13,6 +13,7 @@ endif
 call plug#begin('~/.vim/plugged')
 	Plug 'bogado/file-line'
 	Plug 'craigemery/vim-autotag'
+	Plug 'dag/vim-fish'
 	Plug 'ervandew/supertab'
 	Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 	Plug 'junegunn/fzf.vim'
