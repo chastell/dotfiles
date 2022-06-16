@@ -86,3 +86,9 @@
 
 [includeIf "gitdir:~/src/github.com/Shopify/"]
   path = ~/src/github.com/Shopify/.gitconfig
+
+[include]
+  path = ~/.config/dev/gitconfig
+
+[include]
+  path = ~/.gitconfig.spin
