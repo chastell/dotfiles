@@ -21,6 +21,7 @@ call plug#begin('~/.vim/plugged')
 	Plug 'rstacruz/vim-closer'
 	Plug 'tpope/vim-commentary'
 	Plug 'tpope/vim-endwise'
+	Plug 'tpope/vim-fugitive'
 	Plug 'tpope/vim-surround'
 call plug#end()
 
