@@ -28,10 +28,6 @@
   line-numbers = true
   navigate = true
   side-by-side = true
-
-[diff]
-  algorithm = patience
-
 [fetch]
   fsckobjects = true
 
