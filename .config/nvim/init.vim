@@ -2,14 +2,6 @@ if &shell =~# 'fish$'
 	set shell=sh
 endif
 
-let plug_path = stdpath('data') . '/site/autoload/plug.vim'
-if empty(glob(plug_path))
-	silent execute '!curl --create-dirs --fail --location '
-		\ . '--output ' . plug_path
-		\ . ' https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
-	autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
-endif
-
 call plug#begin('~/.vim/plugged')
 	Plug 'bogado/file-line'
 	Plug 'craigemery/vim-autotag'
