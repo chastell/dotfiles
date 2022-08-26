@@ -1,3 +1,3 @@
 function gpf
-  git push --force-with-lease
+  git push --force-if-includes --force-with-lease
 end
