@@ -14,22 +14,23 @@
   up = pull --all --rebase --autostash
 
 [branch]
-  autosetuprebase = always
+  autoSetupRebase = always
 
 [color]
   ui = auto
 
 [core]
   editor = nvim
-  excludesfile = ~/.gitignore_global
+  excludesFile = ~/.gitignore_global
   pager = delta
 
 [delta]
   line-numbers = true
   navigate = true
   side-by-side = true
+
 [fetch]
-  fsckobjects = true
+  fsckObjects = true
 
 [gist]
   private = true
@@ -38,13 +39,13 @@
   user = chastell
 
 [help]
-  autocorrect = 1
+  autoCorrect = 1
 
 [interactive]
   diffFilter = delta --color-only
 
 [merge]
-  conflictstyle = diff3
+  conflictStyle = diff3
 
 [pager]
   difftool = true
@@ -55,10 +56,10 @@
   useForceIfIncludes = true
 
 [rebase]
-  autosquash = true
+  autoSquash = true
 
 [receive]
-  fsckobjects = true
+  fsckObjects = true
 
 [rerere]
   enabled = 1
