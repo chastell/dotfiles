@@ -60,6 +60,7 @@
 
 [rebase]
   autoSquash = true
+  updateRefs = true
 
 [receive]
   fsckObjects = true
