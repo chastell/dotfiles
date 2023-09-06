@@ -4,6 +4,7 @@
   ci = commit
   co = checkout
   default = !git switch $(git symbolic-ref refs/remotes/origin/HEAD | cut -d/ -f4-)
+  dft = difftool
   lg = log --abbrev-commit --date=iso --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cd)%Creset'
   pr = !sh -c 'git fetch origin pull/$0/head:pr-$0 && git co pr-$0'
   prune = fetch --prune
@@ -22,12 +23,17 @@
 [core]
   editor = nvim
   excludesFile = ~/.gitignore_global
-  pager = delta
 
-[delta]
-  line-numbers = true
-  navigate = true
-  side-by-side = true
+[diff]
+  colorMoved = default
+  external = difft
+  tool = difftastic
+
+[difftool]
+  prompt = false
+
+[difftool "difftastic"]
+  cmd = difft "$LOCAL" "$REMOTE"
 
 [fetch]
   fsckObjects = true
@@ -40,9 +46,6 @@
 
 [help]
   autoCorrect = 1
-
-[interactive]
-  diffFilter = delta --color-only
 
 [merge]
   conflictStyle = zdiff3
