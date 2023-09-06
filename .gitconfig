@@ -35,9 +35,6 @@
 [difftool "difftastic"]
   cmd = difft "$LOCAL" "$REMOTE"
 
-[fetch]
-  fsckObjects = true
-
 [gist]
   private = true
 
@@ -62,17 +59,11 @@
   autoSquash = true
   updateRefs = true
 
-[receive]
-  fsckObjects = true
-
 [rerere]
   enabled = 1
 
 [status]
   showUntrackedFiles = all
-
-[transfer]
-  fsckobjects = true
 
 [url "git@github.com:"]
   insteadOf = gh:
