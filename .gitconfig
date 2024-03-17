@@ -23,6 +23,7 @@
 [core]
   editor = nvim
   excludesFile = ~/.gitignore_global
+  fsmonitor = true
 
 [diff]
   colorMoved = default
