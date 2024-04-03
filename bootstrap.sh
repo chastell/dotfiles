@@ -12,6 +12,6 @@ wget https://github.com/Wilfred/difftastic/releases/latest/download/difft-x86_64
 curl --create-dirs --fail --location --output ~/.local/share/nvim/site/autoload/plug.vim https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 # nvim +PlugInstall +qall!
 
-# sudo sh -c "$(curl --fail --location --show-error --silent https://starship.rs/install.sh)" -- --force
+sudo sh -c "$(curl --fail --location --show-error --silent https://starship.rs/install.sh)" -- --force
 
 # sudo chsh --shell /usr/bin/fish "$USER"
