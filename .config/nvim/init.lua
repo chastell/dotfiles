@@ -29,6 +29,19 @@ vim.opt.showmode = false
 --  See `:help 'clipboard'`
 vim.opt.clipboard = 'unnamedplus'
 
+vim.g.clipboard = {
+  name = 'pbcopy',
+  copy = {
+    ['*'] = 'pbcopy',
+    ['+'] = 'pbcopy',
+  },
+  paste = {
+    ['*'] = 'pbpaste',
+    ['+'] = 'pbpaste',
+  },
+  cache_enabled = 1,
+}
+
 -- Enable break indent
 vim.opt.breakindent = true
 
