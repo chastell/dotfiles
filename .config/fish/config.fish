@@ -1,3 +1,7 @@
+set --universal EDITOR nvim
+
+fish_add_path ~/bin ~/.cargo/bin /usr/local/sbin /opt/homebrew/sbin /opt/homebrew/bin
+
 if test -f ~/.asdf/asdf.fish
   source ~/.asdf/asdf.fish
 else if test -f /opt/homebrew/Cellar/asdf/0.9.0/libexec/asdf.fish
