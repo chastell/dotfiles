@@ -15,7 +15,4 @@ wget https://github.com/starship/starship/releases/latest/download/starship-x86_
 wget https://github.com/zellij-org/zellij/releases/latest/download/zellij-x86_64-unknown-linux-musl.tar.gz  -O - | tar -xzf - -C ~/bin &
 wait
 
-curl --create-dirs --fail --location --output ~/.local/share/nvim/site/autoload/plug.vim https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-# nvim +PlugInstall +qall!
-
 sudo chsh --shell /usr/bin/fish "$USER"
