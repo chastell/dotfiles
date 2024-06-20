@@ -12,6 +12,7 @@ ln --force --no-dereference --symbolic --verbose /usr/bin/fdfind ~/bin/fd
 
 wget https://github.com/Wilfred/difftastic/releases/latest/download/difft-x86_64-unknown-linux-gnu.tar.gz -O - | tar -xzf - -C ~/bin
 wget https://github.com/starship/starship/releases/latest/download/starship-x86_64-unknown-linux-gnu.tar.gz -O - | tar -xzf - -C ~/bin
+wget https://github.com/zellij-org/zellij/releases/latest/download/zellij-x86_64-unknown-linux-musl.tar.gz -O - | tar -xzf - -C ~/bin
 
 curl --create-dirs --fail --location --output ~/.local/share/nvim/site/autoload/plug.vim https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 # nvim +PlugInstall +qall!
