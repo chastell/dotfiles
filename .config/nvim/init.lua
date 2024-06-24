@@ -519,6 +519,7 @@ require('lazy').setup({
             },
           },
         },
+        ruby_lsp = {},
       }
 
       -- Ensure the servers and tools above are installed
