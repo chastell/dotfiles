@@ -120,6 +120,10 @@ vim.keymap.set('n', '<C-k>', '<C-w><C-k>', { desc = 'Move focus to the upper win
 
 -- [[ Basic Autocommands ]]
 --  See `:help lua-guide-autocommands`
+vim.api.nvim_create_autocmd('BufWinEnter', {
+  pattern = '*.rbi',
+  command = 'set filetype=ruby',
+})
 
 -- Highlight when yanking (copying) text
 --  Try it with `yap` in normal mode
