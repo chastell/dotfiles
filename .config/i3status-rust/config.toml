@@ -1,54 +1,53 @@
-icons = "awesome"
-theme = "modern"
+[theme]
+theme = "semi-native"
+
+[icons]
+icons = "material-nf"
 
 [[block]]
 block = "cpu"
-format = "{barchart} {utilization}"
+format = " $icon  $utilization.eng(width:1) $barchart "
+interval = 1
 
 [[block]]
 block = "load"
-format = "{1m} {5m} {15m}"
+format = " $icon  $1m.eng(width:4) $5m.eng(width:4) $15m.eng(width:4) "
 interval = 1
 
 [[block]]
 block = "memory"
-format_mem = "{mem_total_used_percents} {mem_free}"
+format = " $icon $mem_total_used_percents $mem_free "
 
 # [[block]]
 # block = "net"
-# format = "{signal_strength}{speed_up}{speed_down}"
-
-# [[block]]
-# block = "pacman"
+# format = " $icon  $signal_strength "
 
 # [[block]]
 # block = "speedtest"
+# format = " ^icon_ping $ping ^icon_net_down $speed_down ^icon_net_up $speed_up "
 
 [[block]]
 block = "disk_space"
-alert = 50
-alert_absolute = true
-interval = 1
-format = "{icon} {available}"
-warning = 100
+format = " $icon $available "
+interval = 10
+alert = 2.5
+warning = 5
 
 [[block]]
 block = "temperature"
-collapsed = false
-format = "{average}/{max}"
-
-[[block]]
-block = "networkmanager"
-ap_format = "{strength}"
-device_format = "{icon}{ap}"
+format = " $icon $average/$max "
+interval = 1
 
 [[block]]
 block = "battery"
-format = "{percentage} {time}"
+format = " $icon $percentage $time "
+interval = 1
 
 [[block]]
 block = "sound"
+format = " $icon $volume "
 
 [[block]]
 block = "time"
-format = "%a %e %b %R"
+interval = 1
+format = " $icon  $timestamp.datetime(f:'%a %e %b %R') "
