@@ -11,7 +11,6 @@ vim.g.have_nerd_font = true
 -- See `:help vim.opt`
 -- NOTE: You can change these options as you wish!
 --  For more options, you can see `:help option-list`
-vim.opt.wildmode = 'list:longest'
 
 -- Make line numbers default
 vim.opt.number = true
@@ -29,19 +28,6 @@ vim.opt.showmode = false
 --  Remove this option if you want your OS clipboard to remain independent.
 --  See `:help 'clipboard'`
 vim.opt.clipboard = 'unnamedplus'
-
-vim.g.clipboard = {
-  name = 'pbcopy',
-  copy = {
-    ['*'] = 'pbcopy',
-    ['+'] = 'pbcopy',
-  },
-  paste = {
-    ['*'] = 'pbpaste',
-    ['+'] = 'pbpaste',
-  },
-  cache_enabled = 1,
-}
 
 -- Enable break indent
 vim.opt.breakindent = true
@@ -84,8 +70,6 @@ vim.opt.scrolloff = 10
 
 -- [[ Basic Keymaps ]]
 --  See `:help vim.keymap.set()`
-vim.keymap.set('n', '<enter>', '<cmd>wall<enter>')
-vim.keymap.set('n', '<s-down>', 'O<esc><down>')
 
 -- Set highlight on search, but clear on pressing <Esc> in normal mode
 vim.opt.hlsearch = true
@@ -122,10 +106,6 @@ vim.keymap.set('n', '<C-k>', '<C-w><C-k>', { desc = 'Move focus to the upper win
 
 -- [[ Basic Autocommands ]]
 --  See `:help lua-guide-autocommands`
-vim.api.nvim_create_autocmd('BufWinEnter', {
-  pattern = '*.rbi',
-  command = 'set filetype=ruby',
-})
 
 -- Highlight when yanking (copying) text
 --  Try it with `yap` in normal mode
@@ -526,7 +506,6 @@ require('lazy').setup({
             },
           },
         },
-        ruby_lsp = {},
       }
 
       -- Ensure the servers and tools above are installed
