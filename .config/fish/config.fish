@@ -1,4 +1,4 @@
-set --universal EDITOR nvim
+set --export --universal EDITOR nvim
 
 fish_add_path ~/bin ~/.cargo/bin /usr/local/sbin /opt/homebrew/sbin /opt/homebrew/bin
 
