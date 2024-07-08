@@ -1,7 +1,5 @@
 require 'irb/completion'
-require 'irbtools/more'
 require 'logger'
-require 'pp'
 
 ActiveRecord::Base.logger = Logger.new($stdout) if defined?(ActiveRecord::Base)
 
