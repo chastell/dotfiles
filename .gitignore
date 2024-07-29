@@ -1,6 +1,1 @@
-.bundle/cache
 .config/fish/fish_variables
-.vim/bundle
-.vim/colors
-.vim/plugged
-bin/transcrypt
