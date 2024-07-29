@@ -77,7 +77,7 @@
   browser = xdg-open
 
 [includeIf "gitdir:~/src/github.com/Shopify/"]
-  path = ~/src/github.com/Shopify/.gitconfig
+  path = ~/.gitconfig.shopify
 
 [include]
   path = ~/.config/dev/gitconfig
