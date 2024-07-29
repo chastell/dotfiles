@@ -3,9 +3,7 @@
 set -eux
 
 ln --force --no-dereference --symbolic --verbose ~/dotfiles/.config/* ~/.config
-ln --force --no-dereference --symbolic --verbose ~/dotfiles/.gitconfig ~/.gitconfig
-ln --force --no-dereference --symbolic --verbose ~/dotfiles/.zshrc ~/.zshrc
-ln --force --no-dereference --symbolic --verbose ~/dotfiles/bin ~/bin
+ln --force --no-dereference --symbolic --verbose ~/dotfiles/.gitconfig* ~/dotfiles/.zshrc ~/dotfiles/bin ~
 
 ln --force --no-dereference --symbolic --verbose /usr/bin/batcat ~/bin/bat
 ln --force --no-dereference --symbolic --verbose /usr/bin/fdfind ~/bin/fd
