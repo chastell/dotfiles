@@ -54,6 +54,9 @@
 [help]
   autoCorrect = prompt
 
+[init]
+  defaultBranch = main
+
 [merge]
   conflictStyle = zdiff3
 
