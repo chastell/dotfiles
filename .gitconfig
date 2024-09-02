@@ -57,6 +57,9 @@
 [init]
   defaultBranch = main
 
+[log]
+  date = iso
+
 [merge]
   conflictStyle = zdiff3
 
