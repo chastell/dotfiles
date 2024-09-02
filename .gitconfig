@@ -52,7 +52,7 @@
   user = chastell
 
 [help]
-  autoCorrect = 1
+  autoCorrect = prompt
 
 [merge]
   conflictStyle = zdiff3
