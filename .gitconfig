@@ -84,7 +84,7 @@
   updateRefs = true
 
 [rerere]
-  enabled = 1
+  enabled = true
 
 [status]
   showUntrackedFiles = all
