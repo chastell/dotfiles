@@ -29,6 +29,7 @@
   fsmonitor = true
 
 [diff]
+  algorithm = histogram
   colorMoved = default
   external = difft
   tool = difftastic
