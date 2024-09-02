@@ -63,6 +63,9 @@
 [merge]
   conflictStyle = zdiff3
 
+[mergetool]
+  keepBackup = false
+
 [pager]
   difftool = true
 
