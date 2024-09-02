@@ -73,6 +73,7 @@
   rebase = true
 
 [push]
+  autoSetupRemote = true
   default = current
   followTags = true
   useForceIfIncludes = true
