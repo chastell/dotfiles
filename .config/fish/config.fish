@@ -12,8 +12,13 @@ if test -f /opt/dev/dev.fish
   source /opt/dev/dev.fish
 end
 
-shadowenv init fish | source
-starship init fish | source
+if type -q shadowenv
+  shadowenv init fish | source
+end
+
+if type -q starship
+  starship init fish | source
+end
 
 if status is-interactive && test "$USER" = "spin"
   set ZELLIJ_AUTO_EXIT true
