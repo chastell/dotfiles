@@ -3,18 +3,20 @@ vim.api.nvim_create_autocmd('BufWinEnter', {
   command = 'set filetype=ruby',
 })
 
-vim.g.clipboard = {
-  name = 'pbcopy',
-  copy = {
-    ['*'] = 'pbcopy',
-    ['+'] = 'pbcopy',
-  },
-  paste = {
-    ['*'] = 'pbpaste',
-    ['+'] = 'pbpaste',
-  },
-  cache_enabled = 1,
-}
+if vim.env.SPIN then
+  vim.g.clipboard = {
+    name = 'pbcopy',
+    copy = {
+      ['*'] = 'pbcopy',
+      ['+'] = 'pbcopy',
+    },
+    paste = {
+      ['*'] = 'pbpaste',
+      ['+'] = 'pbpaste',
+    },
+    cache_enabled = 1,
+  }
+end
 
 vim.keymap.set('n', '<enter>', '<cmd>wall<enter>')
 vim.keymap.set('n', '<s-down>', 'O<esc><down>')
