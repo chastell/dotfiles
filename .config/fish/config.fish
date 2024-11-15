@@ -14,7 +14,9 @@ if type -q starship
   starship init fish | source
 end
 
-if status is-interactive && test "$USER" = "spin"
-  set ZELLIJ_AUTO_EXIT true
+if status is-interactive
+  if test "$USER" = "spin"
+    set ZELLIJ_AUTO_EXIT true
+  end
   eval (zellij setup --generate-auto-start fish | string collect)
 end
