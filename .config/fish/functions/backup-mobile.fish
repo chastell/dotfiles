@@ -10,5 +10,5 @@ function backup-mobile
     --partial               \
     --progress              \
     --rsh="ssh -p 2222"     \
-    admin@$argv:SDCard/ ~/Xperia/SDCard/
+    admin@$argv:SDCard/ ~/Pixel/SDCard/
 end
