@@ -15,8 +15,6 @@ if type -q starship
 end
 
 if status is-interactive
-  if test "$USER" = "spin"
-    set ZELLIJ_AUTO_EXIT true
-  end
+  set ZELLIJ_AUTO_EXIT true
   eval (zellij setup --generate-auto-start fish | string collect)
 end
