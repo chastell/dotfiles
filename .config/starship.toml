@@ -13,15 +13,7 @@ $git_branch\
 $git_status\
 [](fg:color_aqua bg:color_blue)\
 $ruby\
-$c\
-$rust\
-$golang\
-$nodejs\
-$php\
-$java\
-$kotlin\
-$haskell\
-$python\
+$all\
 [](fg:color_blue bg:color_bg3)\
 $cmd_duration\
 [](fg:color_bg3 bg:color_bg1)\
