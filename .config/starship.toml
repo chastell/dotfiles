@@ -88,6 +88,7 @@ symbol = ''
 disabled = false
 
 [nodejs]
+detect_files = ['package.json', '.node-version', '.nvmrc', '!main.js']
 format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
 style = 'bg:color_blue'
 symbol = ''
