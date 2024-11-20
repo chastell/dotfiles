@@ -13,7 +13,6 @@ $git_branch\
 $git_status\
 [](fg:color_aqua bg:color_blue)\
 $ruby\
-$all\
 [](fg:color_blue bg:color_bg3)\
 $cmd_duration\
 [](fg:color_bg3 bg:color_bg1)\
@@ -22,11 +21,6 @@ $time\
 $line_break$character"""
 
 palette = 'gruvbox_dark'
-
-[c]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
 
 [character]
 disabled = false
@@ -64,35 +58,8 @@ symbol = ''
 format = '[[($ahead_behind )](fg:color_fg0 bg:color_aqua)]($style)'
 style = 'bg:color_aqua'
 
-[golang]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
-
-[haskell]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
-
-[java]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
-
-[kotlin]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
-
 [line_break]
 disabled = false
-
-[nodejs]
-detect_files = ['package.json', '.node-version', '.nvmrc', '!main.js']
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
-version_format = '$raw'
 
 [os]
 disabled = false
@@ -133,26 +100,11 @@ color_purple = '#b16286'
 color_red = '#cc241d'
 color_yellow = '#d79921'
 
-[php]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
-
-[python]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
-
 [ruby]
 format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
 style = 'bg:color_blue'
 symbol = ''
 version_format = '$raw'
-
-[rust]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
-style = 'bg:color_blue'
-symbol = ''
 
 [time]
 disabled = false
