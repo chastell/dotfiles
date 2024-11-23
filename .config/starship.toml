@@ -43,11 +43,11 @@ truncation_length = 3
 truncation_symbol = '…/'
 
 [directory.substitutions]
-'Developer' = '󰲋 '
-'Documents' = '󰈙 '
-'Downloads' = ' '
-'Music'     = '󰝚 '
-'Pictures'  = ' '
+'Documents' = '󰈙'
+'Downloads' = ''
+'Music'     = '󰝚'
+'Pictures'  = ''
+'code'      = '󰲋'
 
 [git_branch]
 format = '[[ $symbol $branch ](fg:color_fg0 bg:color_aqua)]($style)'
