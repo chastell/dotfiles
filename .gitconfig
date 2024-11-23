@@ -21,6 +21,7 @@
   ui = auto
 
 [commit]
+  gpgSign = true
   verbose = true
 
 [core]
@@ -89,12 +90,16 @@
 [status]
   showUntrackedFiles = all
 
+[tag]
+  gpgSign = true
+
 [url "git@github.com:"]
   insteadOf = gh:
 
 [user]
   email = chastell@chastell.net
   name = Piotr Szotkowski
+  signingKey = 6CF30EE4F0553A377A0B06187AD518BF0CA2415B
 
 [web]
   browser = xdg-open
