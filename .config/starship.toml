@@ -66,27 +66,8 @@ disabled = false
 style = 'bg:color_orange fg:color_fg0'
 
 [os.symbols]
-Alpine = ''
-Amazon = ''
-Android = ''
 Arch = '󰣇'
-Artix = '󰣇'
-CentOS = ''
-Debian = '󰣚'
-EndeavourOS = ''
-Fedora = '󰣛'
-Gentoo = '󰣨'
-Linux = '󰌽'
 Macos = '󰀵'
-Manjaro = ''
-Mint = '󰣭'
-Pop = ''
-Raspbian = '󰐿'
-RedHatEnterprise = '󱄛'
-Redhat = '󱄛'
-SUSE = ''
-Ubuntu = '󰕈'
-Windows = '󰍲'
 
 [palettes.gruvbox_dark]
 color_aqua = '#689d6a'
