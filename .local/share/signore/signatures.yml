@@ -56801,3 +56801,10 @@ signatures:
   author: Max Berger
   tags:
   - en
+- text: |-
+    ‘Have you got anything to declare?’
+    ‘Yeah, five imported functions and one global variable. It’s an array, hope that’s alright.’
+  author: "@ninji.dog"
+  tags:
+  - en
+  - tech
