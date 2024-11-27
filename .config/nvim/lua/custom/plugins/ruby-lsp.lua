@@ -6,13 +6,5 @@ return {
       'neovim/nvim-lspconfig',
     },
     config = true,
-    opts = {
-      lspconfig = {
-        servers = {
-          solargraph = { autostart = false },
-          ruby_lsp = {},
-        },
-      },
-    },
   },
 }
