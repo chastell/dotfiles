@@ -82,7 +82,7 @@ color_red = '#cc241d'
 color_yellow = '#d79921'
 
 [ruby]
-format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
+format = '[[( $symbol $version )](fg:color_fg0 bg:color_blue)]($style)'
 style = 'bg:color_blue'
 symbol = ''
 version_format = '$raw'
