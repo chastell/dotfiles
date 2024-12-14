@@ -42,10 +42,6 @@
 [difftool "difftastic"]
   cmd = difft "$LOCAL" "$REMOTE"
 
-[fetch]
-  prune = true
-  pruneTags = true
-
 [gist]
   private = true
 
