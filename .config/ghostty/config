@@ -3,6 +3,7 @@ keybind = cmd+d=text:\x04
 keybind = cmd+page_down=next_tab
 keybind = cmd+page_up=previous_tab
 keybind = ctrl+t=new_tab
+keybind = global:f1=toggle_quick_terminal
 keybind = cmd+w=text:\x17
 macos-option-as-alt = left
 theme = UltraDark
