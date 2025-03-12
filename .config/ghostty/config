@@ -6,4 +6,4 @@ keybind = ctrl+t=new_tab
 keybind = global:f1=toggle_quick_terminal
 keybind = cmd+w=text:\x17
 macos-option-as-alt = left
-theme = UltraDark
+theme = deep
