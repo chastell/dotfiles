@@ -15,3 +15,7 @@ end
 if type -q starship
   starship init fish | source
 end
+
+if not type -q zed; and type -q zeditor
+  alias zed zeditor
+end
