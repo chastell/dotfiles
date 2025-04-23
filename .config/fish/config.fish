@@ -16,6 +16,10 @@ if type -q starship
   starship init fish | source
 end
 
+if not type -q xdg-open; and type -q open
+  alias xdg-open open
+end
+
 if not type -q zed; and type -q zeditor
   alias zed zeditor
 end
