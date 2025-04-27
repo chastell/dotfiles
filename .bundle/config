@@ -1,2 +1,3 @@
 ---
+BUNDLE_AUTO_INSTALL: "true"
 BUNDLE_JOBS: "12"
