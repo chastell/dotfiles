@@ -57024,3 +57024,12 @@ signatures:
   tags:
   - en
   - politics
+- text: |-
+    Me, wisely: All code styles are basically equivalent; each team should simply pick one and stick with it. Style wars are the sign of a lesser mind.
+    You: OK, given that, can we use my preferred style instead of yours?
+    Me: Fuck off directly into the sun with your unreadable indentation rules, no.
+  author: Ryan Cavanaugh
+  tags:
+  - en
+  - tech
+  - programming
