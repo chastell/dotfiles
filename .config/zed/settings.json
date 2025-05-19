@@ -1,0 +1,19 @@
+{
+  "autosave": "on_focus_change",
+  "buffer_font_family": "JetBrainsMono Nerd Font Mono",
+  "buffer_font_size": 16,
+  "features": {
+    "edit_prediction_provider": "zed"
+  },
+  "soft_wrap": "bounded",
+  "terminal": {
+    "dock": "right"
+  },
+  "theme": {
+    "dark": "One Dark",
+    "light": "One Light",
+    "mode": "system"
+  },
+  "ui_font_size": 16,
+  "vim_mode": true
+}
