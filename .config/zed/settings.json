@@ -6,9 +6,6 @@
     "edit_prediction_provider": "zed"
   },
   "soft_wrap": "bounded",
-  "terminal": {
-    "dock": "right"
-  },
   "theme": {
     "dark": "One Dark",
     "light": "One Light",
