@@ -5,6 +5,11 @@
   "features": {
     "edit_prediction_provider": "zed"
   },
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
   "languages": {
     "Ruby": {
       "language_servers": ["ruby-lsp", "rubocop", "!solargraph"]
