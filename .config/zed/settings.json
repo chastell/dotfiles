@@ -5,6 +5,25 @@
   "features": {
     "edit_prediction_provider": "zed"
   },
+  "languages": {
+    "Ruby": {
+      "language_servers": ["ruby-lsp", "rubocop", "!solargraph"]
+    }
+  },
+  "lsp": {
+    "rubocop": {
+      "initialization_options": {
+        "safeAutocorrect": false
+      }
+    },
+    "ruby-lsp": {
+      "initialization_options": {
+        "enabledFeatures": {
+          "diagnostics": false
+        }
+      }
+    }
+  },
   "soft_wrap": "bounded",
   "ui_font_size": 16,
   "vim_mode": true
