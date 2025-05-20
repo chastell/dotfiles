@@ -500,7 +500,7 @@ signatures:
   - pl
   - work
 - text: |-
-    // At this point, I'd like to take a moment to speak to you about the Adobe PSD
+    // At this point, I’d like to take a moment to speak to you about the Adobe PSD
     // format. PSD is not a good format. PSD is not even a bad format. Calling it
     // such would be an insult to other bad formats, such as PCX or JPEG. No, PSD
     // is an abysmal format. Having worked on this code for several weeks now, my
@@ -7370,7 +7370,7 @@ signatures:
   - pl
   - tech
   - Open Source
-- text: I think there's a smudge on.̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̨̨̨̨̨̨̨̨̨̨̨̨.̸̸̨̨your
+- text: I think there’s a smudge on.̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̸̨̨̨̨̨̨̨̨̨̨̨̨.̸̸̨̨your
     screen.
   author: TJ
   tags:
@@ -10888,7 +10888,7 @@ signatures:
     * Not to scale’
     ‘To the original poster: your question is a little vague.’
     ‘About this <----------------> vague.’
-  author: N/A, Niall Sheridan, Paul O'Malley, Bastien Nocera
+  author: N/A, Niall Sheridan, Paul O’Malley, Bastien Nocera
   source: ubuntu-devel
   tags:
   - en
@@ -12714,7 +12714,7 @@ signatures:
   tags:
   - en
   - science
-- text: "/* I'd just like to take this moment to point out that C has all the expressive
+- text: "/* I’d just like to take this moment to point out that C has all the expressive
     power of two dixie cups and a string. */"
   author: Jamie Zawinski
   source: xkeycaps source
@@ -14784,7 +14784,7 @@ signatures:
   - HHGG
 - text: |-
     ‘So this is it, said Arthur, ‘we’re going to die’.
-    ‘Yes’, said Ford, ‘except… no! Wait a minute!’ he suddenly lunged across the chamber at something behind Arthur's line of vision. ‘What’s this switch?’ he cried.
+    ‘Yes’, said Ford, ‘except… no! Wait a minute!’ he suddenly lunged across the chamber at something behind Arthur’s line of vision. ‘What’s this switch?’ he cried.
     ‘What? Where?’ cried Arthur twisting round.
     ‘No, I was only fooling’, said Ford, ‘we are going to die after all’.
   author: Douglas Adams
@@ -16294,7 +16294,7 @@ signatures:
   tags:
   - pl
 - text: The optimizer will notice this and optimize the post-increment into a pre-increment,
-    because that's a little more efficient to execute. (You didn’t need to know that,
+    because that’s a little more efficient to execute. (You didn’t need to know that,
     but we hoped it would cheer you up.)
   author: Larry Wall, Tom Christiansen, Randall L. Schwartz
   source: Programming Perl
@@ -31200,7 +31200,7 @@ signatures:
     Job interview:
     ‘What’s your greatest weakness?’
     ‘Honesty.’
-    ‘I don't think honesty is a weakness.’
+    ‘I don’t think honesty is a weakness.’
     ‘I don’t give a fuck what you think.’
   author: Jorgen Sundberg
   tags:
@@ -31445,7 +31445,7 @@ signatures:
   - math
 - text: |-
     If I get one more email explaining how shuttering a service I use is furthering some ‘mission’, I’m going to start force choking founders.
-    ‘We were providing too much value as Posterous, so we’ve moved over to Twitter. Say, that’s a nice TweetDeck you're using…’
+    ‘We were providing too much value as Posterous, so we’ve moved over to Twitter. Say, that’s a nice TweetDeck you’re using…’
   author: Reg Braithwaite
   tags:
   - en
@@ -34871,7 +34871,7 @@ signatures:
   - en
 - text: |-
     ‘I’m saying the GPL is seen as anti-commerce, not that it *is*, though there’s no doubt in my mind its *author* can be rather hostile to commerce.’
-    ‘That’s an odd claim to make, given that RMS funded the FSF/GNU project in the early days through sales of EMACS tapes. I’d say he's got more sales under his belt than you probably do, tough guy.’
+    ‘That’s an odd claim to make, given that RMS funded the FSF/GNU project in the early days through sales of EMACS tapes. I’d say he’s got more sales under his belt than you probably do, tough guy.’
     ‘Fine, he’s not hostile to commerce, he just uses terminology that scares corporations.’
     ‘Well stop my beating heart. Can you imagine the NERVE of that guy?’
   author: Tony Godshall, Teh Entar-Nick
@@ -36688,7 +36688,7 @@ signatures:
   tags:
   - en
   - work
-- text: There's no ‘i’ in ‘denial’.
+- text: There’s no ‘i’ in ‘denial’.
   author: ʎoɟ ʎɹoɔ
   tags:
   - en
@@ -40065,7 +40065,7 @@ signatures:
   - tech
   - Elasticsearch
 - text: |-
-    20 years of programming and when things don't work I think ‘maybe I should just let it sit silently for an hour’ and that sometimes works.
+    20 years of programming and when things don’t work I think ‘maybe I should just let it sit silently for an hour’ and that sometimes works.
     Listen you ungrateful little jerk! There is no software crisis! Sometimes the computer needs to rest for an hour! Don’t be so insensitive!
     I’m sorry mr computer I will try to be more understanding in the future; after all, we are both flawed beings with unpredictable behavior.
   author: Gary Bernhardt
@@ -41066,8 +41066,8 @@ signatures:
   author: Pinboard
   tags:
   - en
-- text: "[Unix process talks to its parent process]\nA: I'm bored\nB: Hi bored, I'm
-    dad\nA: I'm \\0\nB: Hi \nA: I'm AAAAAAAAAAAAAAAAAAA\nB: Hi A*segfaults*"
+- text: "[Unix process talks to its parent process]\nA: I’m bored\nB: Hi bored, I’m
+    dad\nA: I’m \\0\nB: Hi \nA: I’m AAAAAAAAAAAAAAAAAAA\nB: Hi A*segfaults*"
   author: "@_Ninji"
   tags:
   - en
@@ -41512,7 +41512,7 @@ signatures:
   tags:
   - en
 - text: |-
-    Tech: ‘Don’t roll your own crypto if you aren't an expert.’
+    Tech: ‘Don’t roll your own crypto if you aren’t an expert.’
     *replaces nutrition with Soylent, currency with bitcoin*
     *puts WiFi in lightbulb*
   author: wilkie
@@ -45467,7 +45467,7 @@ signatures:
   - tech
   - GitHub
 - text: haha i hate those feminazis haha! wow youre such a grammar nazi! anyway please
-    dont call the alt right nazis it's a very strong word you see
+    dont call the alt right nazis it’s a very strong word you see
   author: "@iratiotalora"
   tags:
   - en
@@ -48771,7 +48771,7 @@ signatures:
   - pl
 - text: |-
     Berlin in June: This is the era of joy. Our youth will last forever!
-    Berlin in November: It’s been years since we've seen the sun. Civilization has near collapsed. Cannibalism is rife.
+    Berlin in November: It’s been years since we’ve seen the sun. Civilization has near collapsed. Cannibalism is rife.
   author: Arne Brasseur
   tags:
   - en
@@ -52041,8 +52041,8 @@ signatures:
   tags:
   - pl
 - text: |-
-    If you’re not happy single, you won't be happy in a relationship.
-    True happiness comes from closing 100 chrome tabs after solving an obscure programming bug, not from someone else.
+    If you’re not happy single, you won’t be happy in a relationship.
+    True happiness comes from closing 100 Chrome tabs after solving an obscure programming bug, not from someone else.
   author: Christina Zhu
   tags:
   - en
@@ -52242,7 +52242,7 @@ signatures:
   tags:
   - pl
 - text: |-
-    Nurse: you've been in a coma for three months
+    Nurse: you’ve been in a coma for three months
     Me: oh boy! I can’t wait to see Coldplay in concert
     Nurse (standing 6 feet away): there’s something you should know
     Me: what?
@@ -52677,7 +52677,7 @@ signatures:
   tags:
   - pl
 - text: |-
-    I've been informed by several angry Twitter people that if I support folks tearing down statues of Christopher Columbus, I should also support the teardown of statues of the Muslim prophet Mohammed.
+    I’ve been informed by several angry Twitter people that if I support folks tearing down statues of Christopher Columbus, I should also support the teardown of statues of the Muslim prophet Mohammed.
     As a Muslim, I say go right ahead & tear down every single statue of Mohammed.
   author: Rami Ismail
   tags:
@@ -53382,7 +53382,7 @@ signatures:
   - en
 - text: |-
     ME: hmm, gotta take it easy on my hands
-    ME: I'll take a nice hot shower and relax
+    ME: I’ll take a nice hot shower and relax
     ME: *enters shower*
     ME:
     ME:
@@ -54314,7 +54314,7 @@ signatures:
   - en
   - tech
   - programming
-- text: Let's try something. For every like this tweet gets, I will produce one dopamine.
+- text: Let’s try something. For every like this tweet gets, I will produce one dopamine.
   author: Joel Califa
   tags:
   - en
@@ -55891,7 +55891,7 @@ signatures:
   - en
   - tech
 - text: 'There are two kinds of notifications: ones you need and ones that annoy you.
-    More importantly, there''s your classification of these notifications and that
+    More importantly, there’s your classification of these notifications and that
     changes every hour or two.'
   author: rands
   tags:
@@ -55988,8 +55988,8 @@ signatures:
   tags:
   - en
 - text: Do we perceive languages with stricter compilers as being more difficult because
-    when something doesn't compile, we blame the compiler, but in languages that are
-    looser (or interpreted), when something doesn't work, we blame ourselves?
+    when something doesn’t compile, we blame the compiler, but in languages that are
+    looser (or interpreted), when something doesn’t work, we blame ourselves?
   author: Steve Klabnik
   tags:
   - en
@@ -56168,8 +56168,8 @@ signatures:
   tags:
   - en
 - text: a defining life moment was when I told the man I lived with that I needed
-    to finish cleaning the toilets before we could go do something and he said "wait,
-    why? the toilets are always clean, they don't get dirty" and I
+    to finish cleaning the toilets before we could go do something and he said ‘wait,
+    why? the toilets are always clean, they don’t get dirty’ and I
   author: Adrienne Porter Felt
   tags:
   - en
@@ -57011,7 +57011,7 @@ signatures:
   - en
   - tech
 - text: |-
-    ‘Realistic’ cyberpunk setting: Half your chrome doesn’t work because you forgot to charge it, the companion app was discontinued, or the manufacturer's backend server is down.
+    ‘Realistic’ cyberpunk setting: Half your chrome doesn’t work because you forgot to charge it, the companion app was discontinued, or the manufacturer’s backend server is down.
     And better don’t travel too far, many implants are region-locked.
   author: Æ.
   tags:
