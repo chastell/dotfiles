@@ -6,11 +6,6 @@
     "edit_prediction_provider": "zed"
   },
   "soft_wrap": "bounded",
-  "theme": {
-    "dark": "One Dark",
-    "light": "One Light",
-    "mode": "system"
-  },
   "ui_font_size": 16,
   "vim_mode": true
 }
