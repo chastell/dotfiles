@@ -57111,3 +57111,12 @@ signatures:
   author: Coach Rusty
   tags:
   - en
+- text: |-
+    SCIENTIST: I want you to meet my robot.
+    ME: Wow!
+    SCIENTIST: He has limited functionality. He can’t hold a conversation or express emotion.
+    ME: Ok.
+    SCIENTIST: I was talking to the robot.
+  author: "@ArfMeasures"
+  tags:
+  - en
