@@ -29,7 +29,7 @@
       }
     }
   },
-  "soft_wrap": "bounded",
+  "soft_wrap": "preferred_line_length",
   "ui_font_size": 16,
   "vim_mode": true
 }
