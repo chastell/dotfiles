@@ -1,7 +1,7 @@
 {
   "autosave": "on_focus_change",
   "buffer_font_family": "JetBrainsMono Nerd Font Mono",
-  "buffer_font_size": 16,
+  "buffer_font_size": 12,
   "features": {
     "edit_prediction_provider": "zed"
   },
@@ -33,6 +33,6 @@
   "terminal": {
     "copy_on_select": true
   },
-  "ui_font_size": 16,
+  "ui_font_size": 12,
   "vim_mode": true
 }
