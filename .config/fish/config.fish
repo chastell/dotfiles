@@ -8,6 +8,10 @@ if test -f /opt/dev/dev.fish
     source /opt/dev/dev.fish
 end
 
+if type -q chruby
+    chruby 3
+end
+
 if type -q shadowenv
     shadowenv init fish | source
 end
