@@ -57140,3 +57140,10 @@ signatures:
   tags:
   - en
   - work
+- text: A 1-bit signed integer can only represent 0 and -1. Feels like a metaphor
+    for depression.
+  author: Charles Oliver Nutter
+  tags:
+  - en
+  - tech
+  - programming
