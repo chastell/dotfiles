@@ -10,6 +10,9 @@
       "enabled": false
     }
   },
+  "indent_guides": {
+    "enabled": false
+  },
   "languages": {
     "Ruby": {
       "language_servers": ["ruby-lsp", "rubocop", "!solargraph"]
