@@ -1,4 +1,20 @@
 {
+  "agent": {
+    "model_parameters": [],
+    "default_model": {
+      "provider": "zed.dev",
+      "model": "claude-sonnet-4-latest"
+    },
+    "version": "2"
+  },
+  "edit_predictions": {
+    "mode": "subtle",
+    "copilot": {
+      "proxy": null,
+      "proxy_no_verify": null
+    },
+    "enabled_in_text_threads": false
+  },
   "autosave": "on_focus_change",
   "buffer_font_family": "JetBrainsMono Nerd Font Mono",
   "buffer_font_size": 12,
