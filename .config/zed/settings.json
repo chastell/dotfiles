@@ -7,6 +7,9 @@
     },
     "version": "2"
   },
+  "close_on_file_delete": true,
+  "current_line_highlight": "gutter",
+  "cursor_shape": "underline",
   "edit_predictions": {
     "mode": "subtle",
     "copilot": {
@@ -48,7 +51,8 @@
       }
     }
   },
-  "soft_wrap": "preferred_line_length",
+  "restore_on_startup": "none",
+  "soft_wrap": "bounded",
   "terminal": {
     "copy_on_select": true
   },
