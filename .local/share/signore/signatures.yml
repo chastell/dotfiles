@@ -57184,3 +57184,11 @@ signatures:
   tags:
   - en
   - politics
+- text: "‘It doesn’t make me more productive but it creates chunks of time where the
+    computer is doing something so I can go get a coffee’ is how people used to complain
+    about compilers."
+  author: James Coglan
+  tags:
+  - en
+  - tech
+  - LLMs
