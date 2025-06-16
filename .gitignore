@@ -1,4 +1,5 @@
 /.bundle/cache
 /.config/darktable/data.db*
 /.config/darktable/library.db*
+/.config/darktable/*.backup
 /.config/fish/fish_variables
