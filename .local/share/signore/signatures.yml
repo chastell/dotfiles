@@ -57214,3 +57214,11 @@ signatures:
   author: "@internethippo"
   tags:
   - en
+- text: Go is what you get when the designers of a programming language are brave
+    enough to ask the question ‘what if better things were *not* possible?’
+  author: Eliza Weisman
+  tags:
+  - en
+  - tech
+  - programming
+  - Go
