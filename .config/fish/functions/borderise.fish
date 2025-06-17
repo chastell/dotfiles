@@ -1,12 +1,8 @@
-function borderise
-  for file in $argv
-    echo "borderising $file"
-    set ext  (echo $file | awk -F. '{print $NF}')
-    set base (basename $file $ext)
-    convert $file        \
-      -trim              \
-      -bordercolor white \
-      -border 20x20      \
-      "$base"borderised.png
-  end
+function borderise -a file size colour
+  set base (path change-extension '' $file)
+  magick $file              \
+    -trim                   \
+    -bordercolor $colour    \
+    -border {$size}x{$size} \
+    "$base".borderised.png
 end
