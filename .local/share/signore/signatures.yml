@@ -57408,3 +57408,11 @@ signatures:
   author: "@itsabbyyep"
   tags:
   - en
+- text: We made painting feel like typing, but we should have made _typing_ feel like
+    _painting_.
+  author: Amelia Wattenberger
+  source: Our interfaces have lost their senses
+  tags:
+  - en
+  - tech
+  - programming
